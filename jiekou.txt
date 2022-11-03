@@ -1,7 +1,7 @@
 ﻿ 
 {   
       
-"spider":"https://github.com/lwm212/lwm212.github.io/blob/main/Yoursmile.jar;md5;CC30F5AD01 008CBFBE7CCBAB843F2F0E",   
+"spider":"https://github.com/lwm212/lwm212.github.io/raw/main/Yoursmile.jar;md5;CC30F5AD01 008CBFBE7CCBAB843F2F0E",   
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",     "lives": [{   
     "group": "redirect",   
     "channels": [{   
