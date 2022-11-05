@@ -3,7 +3,7 @@
     "sites": [ 
         {
             "key": "77",
-            "name": "qq群：866142863获取新接口",
+            "name": "默认主页1",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -12,7 +12,7 @@
         },
         {
             "key": "Kuaikan",
-            "name": "qq群：866142863获取新接口",
+            "name": "默认主页2",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -21,7 +21,7 @@
         },
         {
             "key": "Lgyy",
-            "name": "qq群：866142863获取新接口",
+            "name": "默认主页3",
             "type": 3,
             "api": "csp_Lgyy",
             "searchable": 1,
@@ -31,27 +31,26 @@
       
         {
             "key": "AppTT",
-            "name": "qq群：866142863获取新接口",
+            "name": "默认主页4",
             "type": 3,
             "api": "csp_AppTT",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "LiteApple",
-            "name": "qq群：866142863获取新接口",
+  
+             {
+            "key": "🐷",
+            "name": "乐猪",
             "type": 3,
-            "api": "csp_LiteApple",
+            "api": "csp_Lezhu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }, 
-     
-     
+        },    
         {
             "key": "农民",
-            "name": "qq群：866142863获取新接口",
+            "name": "农民",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
@@ -62,7 +61,7 @@
       
         {
             "key": "Bttoo",
-            "name": "qq群：866142863获取新接口",
+            "name": "Bttoo",
             "type": 3,
             "api": "csp_Bttoo",
             "searchable": 1,
@@ -400,5 +399,5 @@
         "cms.qdwght.com"
     ],
       
-        "spider":"https://notabug.org/lwm212/boxx/src/master/JAR/11.2cc.jar;md5;55b762505b6d97b61040d1ed4f9d4c2c"
+       "spider":"https://github.com/lwm212/lwm212.github.io/raw/main/11.2cc.jar;md5;55b762505b6d97b61040d1ed4f9d4c2c"
 }
