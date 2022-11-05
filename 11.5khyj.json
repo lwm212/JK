@@ -39,15 +39,7 @@
             "filterable": 1
         },
   
-             {
-            "key": "🐷",
-            "name": "猪猪",
-            "type": 3,
-            "api": "csp_Lezhu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },    
+         
         {
             "key": "农民",
             "name": "农民",
