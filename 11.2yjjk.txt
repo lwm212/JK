@@ -3,7 +3,7 @@
     "sites": [ 
         {
             "key": "77",
-            "name": "默认主页1",
+            "name": "qq群：866142863，新配置接口",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -12,7 +12,7 @@
         },
         {
             "key": "Kuaikan",
-            "name": "默认主页2",
+            "name": "qq群：866142863，新配置接口",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -21,7 +21,7 @@
         },
         {
             "key": "Lgyy",
-            "name": "默认主页3",
+            "name": "qq群：866142863，新配置接口",
             "type": 3,
             "api": "csp_Lgyy",
             "searchable": 1,
@@ -31,47 +31,17 @@
       
         {
             "key": "AppTT",
-            "name": "默认主页4",
+            "name": "qq群：866142863，新配置接口",
             "type": 3,
             "api": "csp_AppTT",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "Bdys01",
-            "name": "哔滴影视(爬虫)",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-     
-     
-        {
-            "key": "农民",
-            "name": "农民",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gst163.github.io/s/nongminyingshi.json"
-        },
-      
-        {
-            "key": "Bttoo",
-            "name": "两个变态",
-            "type": 3,
-            "api": "csp_Bttoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
         {
             "key": "ZJMiao",
-            "name": "追剧喵",
+            "name": "qq群：866142863，新配置接口",
             "type": 3,
             "api": "csp_ZJMiao",
             "searchable": 1,
@@ -79,20 +49,11 @@
             "filterable": 1
         },
 
-        {
-            "key": "Ysgc",
-            "name": "影视工厂",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-   
+    
   
         {
             "key": "Voflix",
-            "name": "Voflix",
+            "name": "qq群：866142863，新配置接口",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -100,27 +61,7 @@
             "filterable": 0,
             "ext": "https://dxawi.github.io/1/json/voflix.json"
         },
-        {
-            "key": "Bili",
-            "name": "Bili",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/bili.json"
-        },
- 
-        {
-            "key": "儿童",
-            "name": "儿童",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx2.json"
-        },
+
    
         {
             "key": "Yj1211",
