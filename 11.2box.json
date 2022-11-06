@@ -393,7 +393,9 @@
             "filterable":0,
             "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
         },
-  {"key":"csp_biubiu_在线之家","name":"🥒在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/在线之家.json"},
+ 
+{"key":"csp_biubiu_voflix","name":"⚓voflix","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/lwm212/XB@main/voflix.json"},
+{"key":"csp_biubiu_在线之家","name":"🥒在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/在线之家.json"},
 {"key":"csp_biubiu_COKEMV","name":"🥒COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/COKEMV.json"},
 {"key":"csp_biubiu_瓜皮TV","name":"🥒瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/瓜皮TV.json"},
 {"key":"csp_biubiu_大米星球","name":"🥒大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/大米星球.json"},
@@ -437,7 +439,7 @@
 {"key":"csp_QXBiubiu_剧白白","name":"剧白白(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/QXBiubiu.jar","ext":"https://notabug.org/lwm212/JS/raw/master/QXB/剧白白.json"},
 
 
-{"key": "csp_xpath_subb", "name": "素白白TV(XP)", "type": 3, "api": "csp_XPathMacFilter", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": "https://notabug.org/lwm212/JS/raw/master/XP/subaibai.json"},        
+{"key": "csp_xpath_subb", "name": "素白白TV(XP)", "type": 3, "api": "csp_XPathMacFilter", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": "https://cdn.jsdelivr.net/gh/lwm212/xp@main/subaibai.json"},        
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/lwm212/xp@main/huya2.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/xp@main/kuqimv.json"},
 {"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/lwm212/xp@main/zxzj2.json"},
