@@ -3,7 +3,7 @@
     "sites": [ 
         {
             "key": "77",
-            "name": "qq群：866142863，新配置接口",
+            "name": "进qq群：866142863，获取新配置接口",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -13,7 +13,7 @@
 
         {
             "key": "Lgyy",
-            "name": "qq群：866142863，新配置接口",
+            "name": "进qq群：866142863，获取新配置接口",
             "type": 3,
             "api": "csp_Lgyy",
             "searchable": 1,
