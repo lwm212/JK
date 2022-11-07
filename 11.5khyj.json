@@ -28,16 +28,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-      
-        {
-            "key": "AppTT",
-            "name": "默认主页4",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
   
          
         {
@@ -60,15 +51,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "ZJMiao",
-            "name": "追剧喵",
-            "type": 3,
-            "api": "csp_ZJMiao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
 
         {
             "key": "Ysgc",
@@ -80,17 +63,7 @@
             "filterable": 1
         },
    
-  
-        {
-            "key": "Voflix",
-            "name": "Voflix",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/voflix.json"
-        },
+
         {
             "key": "Bili",
             "name": "Bili",
@@ -112,7 +85,9 @@
             "filterable": 1,
             "ext": "https://dxawi.github.io/1/json/xx2.json"
         },
-   
+ {"key":"csp_biubiu_voflix","name":"voflix","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/lwm212/XB@main/voflix.json"},
+ {"key":"csp_biubiu_豆角网","name":"豆角","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/豆角网.json"},  
+ {"key":"csp_biubiu_蓝光影院","name":"蓝光","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/蓝光影院.json"},
         {
             "key": "Yj1211",
             "name": "Yj1211",
@@ -127,7 +102,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9keGF3aS5naXRodWIuaW8vMS90dmxpdmUudHh0"
+        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9sd20yMTIvbHdtMjEyLmdpdGh1Yi5pby9tYWluLzkuMTl6Yi50eHQ="
     ]}]}],
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
