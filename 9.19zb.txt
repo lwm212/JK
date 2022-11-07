@@ -4,15 +4,12 @@
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
-翡翠台,http://113.64.147.66:808/hls/67/index.m3u8 
-翡翠台,http://113.64.147.72:808/hls/67/index.m3u8 
-翡翠台,http://113.64.147.88:808/hls/67/index.m3u8 
-翡翠台,http://113.64.147.91:808/hls/67/index.m3u8 
+
 TVB星河,http://113.64.147.46:808/hls/135/index.m3u8 
 TVB星河,http://113.64.147.51:808/hls/135/index.m3u8 
 TVB星河,http://113.64.147.66:808/hls/135/index.m3u8 
 TVB星河,http://113.64.147.72:808/hls/135/index.m3u8 
-tvb影视,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8 
+
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 J2,http://120.84.96.195:808/hls/86/index.m3u8 
 J2,http://120.84.96.196:808/hls/86/index.m3u8 
@@ -98,7 +95,7 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 大立電視 (720p),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
 💞岗奥苔测试,#genre#
-香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 RTHK32,http://50.7.220.74:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
