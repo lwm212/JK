@@ -10,15 +10,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "Kuaikan",
-            "name": "qq群：866142863，新配置接口",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
         {
             "key": "Lgyy",
             "name": "qq群：866142863，新配置接口",
