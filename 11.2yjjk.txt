@@ -28,39 +28,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-      
-        {
-            "key": "AppTT",
-            "name": "qq群：866142863，新配置接口",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
 
-        {
-            "key": "ZJMiao",
-            "name": "qq群：866142863，新配置接口",
-            "type": 3,
-            "api": "csp_ZJMiao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-
-    
-  
-        {
-            "key": "Voflix",
-            "name": "qq群：866142863，新配置接口",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/voflix.json"
-        },
 
    
         {
