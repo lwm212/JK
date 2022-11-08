@@ -21,6 +21,7 @@
             "filterable": 1
         },
 
+{"key":"csp_QXBiubiu_剧白白","name":"进qq群：866142863，获取新配置接口","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/QXBiubiu.jar","ext":"https://notabug.org/lwm212/JS/raw/master/QXB/剧白白.json"},
 
    
         {
