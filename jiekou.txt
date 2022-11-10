@@ -1,6 +1,7 @@
 { 
-"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;9 
-E2D9DD7789D3C4702B7D29D7162668E", "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302", "lives": [{ 
+"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;9E2D9DD7789D3C4702B7D29D7162668E", "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302", 
+
+"lives": [{ 
 "group": "redirect", 
 "channels": [{ "name": "live", "urls": 
 ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L 2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="] }] }], 
