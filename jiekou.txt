@@ -1,7 +1,7 @@
 
 
 {
-    "spider":"http://ys-c.ysepan.com/622306759/119198320/jfgWw6l5723754J5NJ383/Yoursmile.jar;md5;85D2B2400B8C5BF6CB454911345CDE2F",
+    "spider":"https://github.com/lwm212/lwm212.github.io/blob/main/Yoursmile.jar;md5;85D2B2400B8C5BF6CB454911345CDE2F",
               
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
