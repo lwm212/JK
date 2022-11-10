@@ -1,7 +1,7 @@
 
 
 {
-    "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;85D2B2400B8C5BF6CB454911345CDE2F",
+    "spider":"http://ys-c.ysepan.com/622306759/119198320/jfgWwTm5454613N6NG683/Yoursmile.jar;md5;85D2B2400B8C5BF6CB454911345CDE2F",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		"group": "redirect",
