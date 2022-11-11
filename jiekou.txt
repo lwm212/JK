@@ -1,8 +1,8 @@
 
 
 {
-//"spider":"https://189.ly93.cc/BRn2YjRf2uue/22316134114916718?accessCode=tp9b&accessToken=E60C8F51F644A54CFDC8926A68B808B7;md5;85D2B2400B8C5BF6CB454911345CDE2F",
-"spider":"https://notabug.org/lwm212/boxx/raw/master/JAR/Yoursmile1.jar;md5;7fdf839e36aa18bc1dd09d911b564e06",             
+"spider":"https://189.ly93.cc/BRn2YjRf2uue/22316134114916718?accessCode=tp9b&accessToken=E60C8F51F644A54CFDC8926A68B808B7;md5;85D2B2400B8C5BF6CB454911345CDE2F",
+            
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		"group": "redirect",
