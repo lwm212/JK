@@ -322,7 +322,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/bili.json"
+            "ext": "https://cdn.jsdelivr.net/gh/lwm212/bili@main/BILI.json"
         },
         {
             "key": "知识",
@@ -332,7 +332,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx1.json"
+            "ext": "https://cdn.jsdelivr.net/gh/lwm212/bili@main/知识.json"
         },
         {
             "key": "儿童",
@@ -342,7 +342,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx2.json"
+            "ext": "https://cdn.jsdelivr.net/gh/lwm212/bili@main/儿童.json"
         },
         {
             "key": "小学",
@@ -352,7 +352,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx3.json"
+            "ext": "https://cdn.jsdelivr.net/gh/lwm212/bili@main/小学.json"
         },
         {
             "key": "初中",
@@ -362,7 +362,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx4.json"
+            "ext": "https://cdn.jsdelivr.net/gh/lwm212/bili@main/初中.json"
         },
         {
             "key": "高中",
@@ -372,7 +372,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx5.json"
+            "ext": "https://cdn.jsdelivr.net/gh/lwm212/bili@main/高中.json"
         },
         {
             "key": "Yj1211",
