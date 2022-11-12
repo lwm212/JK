@@ -53,26 +53,7 @@
 {"key":"csp_Yisou","name":"..易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"fi lterable":0}, 
 {"key":"csp_Upyunso","name":".UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1," filterable":0}, 
 {"key":"push_agent","name":"..推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1 ,"filterable":0},
- {
-            "key" : "py_cokemv",
-            "name" : "cokemv",
-            "type" : 3,
-            "api" : "py_cokemv",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "ext" : "https://notabug.org/lwm212/JS/raw/master/JSON文件/py_cokemv.py,"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/888.jar"},
-    
-            {
-            "key" : "py_voflix",
-            "name" : "Voflix",
-            "type" : 3,
-            "api" : "py_voflix",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "ext" : "https://notabug.org/lwm212/JS/raw/master/JSON文件/py_voflix.py,"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/888.jar"}
-      
+
 
 {"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 {"key":"csp_Yj1211","name":"📽️在线直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
