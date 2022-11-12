@@ -61,8 +61,8 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://notabug.org/lwm212/JS/raw/master/JSON文件/py_cokemv.py"
-        },
+            "ext" : "https://notabug.org/lwm212/JS/raw/master/JSON文件/py_cokemv.py,"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/888.jar"},
+    
             {
             "key" : "py_voflix",
             "name" : "Voflix",
@@ -71,8 +71,8 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://notabug.org/lwm212/JS/raw/master/JSON文件/py_voflix.py"
-        },
+            "ext" : "https://notabug.org/lwm212/JS/raw/master/JSON文件/py_voflix.py,"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/888.jar"}
+      
 
 {"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 {"key":"csp_Yj1211","name":"📽️在线直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
