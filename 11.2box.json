@@ -393,7 +393,11 @@
             "filterable":0,
             "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
         },
- 
+{"key": "演唱会","name": " 💿演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://cdn.jsdelivr.net/gh/lwm212/bili@mainB/演唱会.json"},       	    
+{"key":"戏曲","name":"🅱️戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/lwm212/bili@main/戏曲.json"},
+{"key":"美食","name":"🍔美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/lwm212/bili@main/美食天地.json"},
+{"key":"音乐","name":"🎤音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/lwm212/bili@main/演唱会.json"},
+	    
 {"key":"csp_biubiu_voflix","name":"⚓voflix","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/lwm212/XB@main/voflix.json"},
 {"key":"csp_biubiu_在线之家","name":"🥒在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/在线之家.json"},
 {"key":"csp_biubiu_COKEMV","name":"🥒COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/COKEMV.json"},
