@@ -68,14 +68,7 @@
 {"key": "csp_XYQBiu_虎牙","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/hy.json"},
 {"key": "csp_XYQBiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/dy.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
-{"key":"量子资源","name":"🐝量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"新浪资源","name":"🐝新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"冠军资源","name":"🐝冠军资源","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},    
-{"key":"FOX资源","name":"🐝FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"卧龙资源","name":"🐝卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"樱花资源","name":"🐝樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"快播资源","name":"🐝快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"200121","name":"🐝200121","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
 
 {"key":"csp_xBPQ_98影院","name":"..98影院（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&& </a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类 url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cat eId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫 $dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片 $kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧 $oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选 \":\"1\"}"}, 
 {"key":"csp_xBPQ_极品","name":"🍀极品","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放标题\":\"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html\",\"年份\":\"2000-2022\",\"筛选\":\"1\"}"},	
