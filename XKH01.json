@@ -42,16 +42,7 @@
             "filterable": 1,
             "ext": "https://notabug.org/lwm212/JS/raw/master/XP/nongminys.json"
         },
-      
-        {
-            "key": "Bttoo",
-            "name": "Bttoo",
-            "type": 3,
-            "api": "csp_Bttoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+  
 
 
         {
@@ -86,14 +77,12 @@
             "filterable": 1,
             "ext": "https://dxawi.github.io/1/json/xx2.json"
         },
- {"key":"csp_biubiu_voflix","name":"voflix","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/lwm212/XB@main/voflix.json"},
+ 
  {"key":"csp_biubiu_豆角网","name":"豆角","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/豆角网.json"},  
  {"key":"csp_biubiu_蓝光影院","name":"蓝光","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/蓝光影院.json"},
- {"key":"csp_xBPQ_饭团影视","name":"饭团影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lwm212/XBQ/main/饭团.json"},
+
  {"key":"戏曲","name":"🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/lwm212/bili@main/戏曲.json"},
-{"key":"美食","name":"🍔美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/lwm212/bili@main/美食天地.json"},
-{"key":"csp_Bili热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.fastgit.org/lwm212/bili/main/女团热舞.json"},
-{"key":"csp_Bili相声","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lwm212/bili/main/相声.json"},
+
         {
             "key": "Yj1211",
             "name": "Yj1211",
