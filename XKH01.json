@@ -80,7 +80,7 @@
  {"key":"csp_biubiu_手机看剧","name":"看剧TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/手机看剧.json"},
  {"key":"csp_biubiu_豆角网","name":"豆角","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/豆角网.json"},  
  {"key":"csp_biubiu_蓝光影院","name":"蓝光","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/蓝光影院.json"},
-
+{"key":"csp_biubiu_city电影","name":"city影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/city电影.json"},
  {"key":"戏曲","name":"🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/lwm212/bili@main/戏曲.json"},
 
         {
