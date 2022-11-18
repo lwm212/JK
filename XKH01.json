@@ -98,7 +98,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9sd20yMTIvbHdtMjEyLmdpdGh1Yi5pby9tYWluLzkuMTl6Yi50eHQ="
+        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9sd20yMTIvSksvbWFpbi8xMS4xOHpiLnR4dA=="
     ]}]}],
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
