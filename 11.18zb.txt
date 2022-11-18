@@ -27,8 +27,7 @@ CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 
-CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221226221/index.m3u8
+
 
 CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
