@@ -2,14 +2,15 @@
 {
     "sites": [ 
                  {
-            "key": "LiteApple",
+        {
+            "key": "Bttoo",
             "name": "默认主页1",
             "type": 3,
-            "api": "csp_LiteApple",
+            "api": "csp_Bttoo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }, 
+        },
         {
             "key": "77",
             "name": "默认主页2",
