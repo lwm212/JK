@@ -65,16 +65,6 @@
         },
    
 
-        {
-            "key": "Bili",
-            "name": "Bili",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/bili.json"
-        },
  
         {
             "key": "儿童",
