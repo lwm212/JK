@@ -1,11 +1,11 @@
 
 {
     "sites": [ 
-            {
-            "key": "Fantuan",
+                  {
+            "key": "🐷",
             "name": "默认主页1",
             "type": 3,
-            "api": "csp_Fantuan",
+            "api": "csp_Lezhu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
