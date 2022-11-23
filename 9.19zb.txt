@@ -93,14 +93,13 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 好消息电视台1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息电视台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 大立電視 (720p),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-
-鈿斤笍  涓栫晫鏉�,#genre#
-鎶栭煶,http://mmmitv.top/test/douyin-x.php?id=rand
-鎶栭煶,https://pull-flv-spe-l1.douyincdn.com/fantasy/stream-7168813858243971870_spuhd.flv?_neptune_token=MIGnBAwdUQjqEoM89RIiEfMEgYS4trMVkd8wmNrb5rLLl5FFYG6EwJtdl4xMxociZqiMCPqnsAgvbT2FOesT5kDqArUfsdpETAT9jgedEplQopqEvnu88z9gJ_fVTw5HcEVDn1WXD21nuQtIl6V-GvSHrFNBj7rSASZP-pVyfKasMzZT19rh6X37T8R8cxUr-r2qwTeeiIoEEIcEmcGIl0ZGybQyKeDlZlA&keeptime=00015180&wsSecret=3511986f99728aa07a314ff31638849c&wsTime=637cc477&abr_pts=-1800
-鍜挄瑙嗛,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls 
-鍜挄瑙嗛,http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225863/index.m3u8 
-鍜挄瑙嗛,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8 
-鍜挄瑙嗛,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+世界杯,#genre#
+抖音,http://mmmitv.top/test/douyin-x.php?id=rand
+抖音,https://pull-flv-spe-l1.douyincdn.com/fantasy/stream-7168813858243971870_spuhd.flv?_neptune_token=MIGnBAwdUQjqEoM89RIiEfMEgYS4trMVkd8wmNrb5rLLl5FFYG6EwJtdl4xMxociZqiMCPqnsAgvbT2FOesT5kDqArUfsdpETAT9jgedEplQopqEvnu88z9gJ_fVTw5HcEVDn1WXD21nuQtIl6V-GvSHrFNBj7rSASZP-pVyfKasMzZT19rh6X37T8R8cxUr-r2qwTeeiIoEEIcEmcGIl0ZGybQyKeDlZlA&keeptime=00015180&wsSecret=3511986f99728aa07a314ff31638849c&wsTime=637cc477&abr_pts=-1800
+咪咕,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls 
+咪咕,http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225863/index.m3u8 
+咪咕,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8 
+咪咕,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 CCTV5,https://pull-l3-cny.douyincdn.com/live/e98227c16857b6fb43bfd9a17cea43bb.m3u8
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
