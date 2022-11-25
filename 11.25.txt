@@ -121,7 +121,7 @@ sites:[{key:'drpy_js_test',name:' 🎑js测试[DRPY]',type:3,api:'https://raw.iq
 {key:'drpy_js_AGE动漫',name:' 🎑AGE动漫[DRPY]',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/AGE动漫.js'},
 {key:'drpy_js_七小时影院',name:' 🎑七小时影院[DRPY]',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/七小时影院.js'},
 
-,
+
 {key:'drpy_js_溪谷影视',name:' 🎑溪谷影视[DRPY]',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/溪谷影视.js'},
 {key:'drpy_js_石榴影院',name:' 🎑石榴影院[DRPY]',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/石榴影院.js'},
 
