@@ -1,4 +1,6 @@
-{spider:'https://ghproxy.com/https://raw.githubusercontent.com/lwm212/boxx/main/e5o5ixww.jar;md5;ec03f63796a909bce4c8ac16b938591b',lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt']}]}],
+{spider:'https://ghproxy.com/https://raw.githubusercontent.com/lwm212/boxx/main/e5o5ixww.jar;md5;ec03f63796a909bce4c8ac16b938591b',
+ 
+ lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt']}]}],
 
 sites:[
 
