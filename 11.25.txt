@@ -70,12 +70,12 @@ sites:[{key:'drpy_js_test',name:' 🎑js测试[DRPY]',type:3,api:'https://raw.iq
 {key:'drpy_js_稀饭影视',name:' 🎑稀饭影视[DRPY]',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/稀饭影视.js'},
 
 
-{key:'drpy_js_库马伊',name:' 🎑库马伊[DRPY]',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/库马伊.js'},
+
 {key:'drpy_js_蓝光影院',name:' 🎑蓝光影院[DRPY]',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/蓝光影院.js'},
 {key:'drpy_js_蓝莓影视',name:' 🎑蓝莓影视[DRPY]',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/蓝莓影视.js'},
-{key:'drpy_js_凌云影视',name:' 🎑凌云影视[DRPY]',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/凌云影视.js'},
+
 {key:'drpy_js_喵喵',name:' 🎑喵喵[DRPY]',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/喵喵.js'},
-{key:'drpy_js_莫扎兔',name:' 🎑莫扎兔[DRPY]',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/莫扎兔.js'},
+
 
 {key:'drpy_js_闪影影院',name:' 🎑闪影影院[DRPY]',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/闪影影院.js'},
 {key:'drpy_js_人人影视',name:' 🎑人人影视[DRPY]',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/人人影视.js'},
