@@ -29,7 +29,24 @@
             "quickSearch": 1,
             "filterable": 1
         },
-    
+         {
+            "key": "Lgyy",
+            "name": "蓝光影院",
+            "type": 3,
+            "api": "csp_Lgyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Fantuan",
+            "name": "饭团",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "Dm84",
             "name": "动漫",
