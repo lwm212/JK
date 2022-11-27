@@ -21,7 +21,11 @@
             "filterable": 1
         },
 
-{"key":"csp_QXBiubiu_剧白白","name":"接口3","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/QXBiubiu.jar","ext":"https://notabug.org/lwm212/JS/raw/master/QXB/剧白白.json"},
+{key:'csp_xBPQ_e9视频',name:' E9视频',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:0,ext:'https://raw.iqiq.io/lwm212/XBQ/main/E9视频.json'},
+{key:'csp_xBPQ_Fositv',name:' Fositv ',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.iqiq.io/lwm212/XBQ/main/Fositv.json'},
+{key:'csp_XBPQHDIK影视',name:' HDIK影视',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.iqiq.io/lwm212/XBQ/main/HDIK影视.json'},
+{key:'csp_XBPQ555影视',name:' 555影视〕',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.iqiq.io/lwm212/XBQ/main/555影视.json'},
+{key:'csp_XBPQ真不卡',name:' 真不卡〔',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.iqiq.io/lwm212/XBQ/main/真不卡.json'},
 {"key":"csp_xBPQ_在线","name":"️接口4","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\": \"class=\\\"stui-vodlist__head&&</div>\",\"线路标题\": \"<h3>&&</h3>\",\"播放数组\":\"class=\\\"stui-content__playlist&&</ul>\",\"分类\":\"电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6\",\"分类url\":\"https://zxzj.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html\",\"筛选\":\"1\"}"},	
    
         {
