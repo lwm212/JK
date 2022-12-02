@@ -1,6 +1,7 @@
 
 {
     "sites": [ 
+         {key:'douban',name:'豆瓣',type:4,api:'http://t4.ganggang.live:3812/vod',searchable:0,quickSearch:0,filterable:1},
         {
             "key": "77",
             "name": "默认主页1",
@@ -28,7 +29,11 @@
             "quickSearch": 1,
             "filterable": 1
         },
-
+       {key:'世界杯',
+        name:'一起看',
+        type:'3',
+        api:'csp_Dora',
+        searchable:'1',quickSearch:'1',filterable:'1',ext:'8e3aefcba838d8dc5102ac786719d837',jar:'https://stevenfang.github.io/cs.jar;md5;e9899f6e856e5e2a0fff91ba4e108b3f'},
   
          
         {
@@ -373,5 +378,5 @@
         "cms.qdwght.com"
     ],
       
-    "spider":"https://189.ly93.cc/7Zjm6jaeQr6f/92323135161810908?accessCode=b5jx&accessToken=E60C8F51F644A54CFDC8926A68B808B7;md5;7fdf839e36aa18bc1dd09d911b564e06"
+    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/11.28.jar;md5;fa1981d675136061c6ba1a1f98966633"
 }
