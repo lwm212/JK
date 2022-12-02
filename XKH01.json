@@ -1,6 +1,7 @@
 
 {
     "sites": [ 
+         {key:'douban',name:'豆瓣',type:4,api:'http://t4.ganggang.live:3812/vod',searchable:0,quickSearch:0,filterable:1},{key:'t4豆瓣',name:'豆瓣备用',type:4,api:'https://t4.secan.icu/vod?sites=voflix&timeout=7',searchable:1,quickSearch:1,filterable:1},
                 {
             "key": "Kuaikan",
             "name": "默认主页1",
@@ -29,6 +30,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {key:'世界杯',name:'默认主页4',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'8e3aefcba838d8dc5102ac786719d837',jar:'https://stevenfang.github.io/cs.jar;md5;e9899f6e856e5e2a0fff91ba4e108b3f'},
          {
             "key": "Lgyy",
             "name": "蓝光影院",
