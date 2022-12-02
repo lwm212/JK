@@ -1,7 +1,7 @@
 
 {
     "sites": [ 
-         {key:'douban',name:'豆瓣',type:4,api:'http://t4.ganggang.live:3812/vod',searchable:0,quickSearch:0,filterable:1},
+     
                 {
             "key": "Kuaikan",
             "name": "默认主页1",
