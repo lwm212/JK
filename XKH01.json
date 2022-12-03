@@ -31,7 +31,8 @@
             "filterable": 1
         },
         {key:'世界杯',name:'默认主页4',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'8e3aefcba838d8dc5102ac786719d837',jar:'https://stevenfang.github.io/cs.jar;md5;e9899f6e856e5e2a0fff91ba4e108b3f'},
-         {
+        {key:'Yanet',name:'飞飞',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'a369b1f623fe86605f1b029f0cf66349'},
+        {
             "key": "Lgyy",
             "name": "蓝光影院",
             "type": 3,
