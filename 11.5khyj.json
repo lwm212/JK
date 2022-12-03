@@ -92,7 +92,7 @@
         },
   {"key":"csp_biubiu_骚火电影","name":"骚火","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/骚火电影.json"},
  {key:'drpy_js_Voflix',name:'Voflix',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/Voflix.js'},
-{key:'drpy_js_人人影视',name:'人人影视',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/人人影视.js'},
+{key:'csp_xBPQ_e9视频',name:' E9视频 ',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:0,ext:'https://raw.iqiq.io/lwm212/XBQ/main/E9视频.json'},
 {"key":"csp_biubiu_手机看剧","name":"看剧TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/手机看剧.json"},
 {"key":"csp_biubiu_豆角网","name":"豆角","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/豆角网.json"}, 
  {"key":"csp_xBPQ_饭团影视","name":"饭团影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lwm212/XBQ/main/饭团.json"},
