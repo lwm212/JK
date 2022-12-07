@@ -312,9 +312,9 @@
 {"key":"csp_xBPQ_抓饭体育","name":"️🍀抓饭体育","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"}, 
 
 {"key":"csp_xBPQ_饭团影视","name":"🍚饭团影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lwm212/XBQ/main/饭团.json"},
-
-
-
+{key:'csp_xBPQ_万能影视',name:' 🍂万能影视 xBPQ',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:0,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/vx2i3adr.json'},
+{key:'csp_xBPQ_厂长资源',name:' 🍂厂长资源 xBPQ',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:0,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/vwjgivjh.json'},
+{key:'csp_XBPQ宅腐TV',name:' 🍂宅腐TV〔XBPQ〕',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/cyr6fh42.json'},
 {key:'csp_xBPQ_e9视频',name:' 🍂E9视频 xBPQ',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:0,ext:'https://raw.iqiq.io/lwm212/XBQ/main/E9视频.json'},
 {key:'csp_xBPQ_Fositv',name:' 🍂Fositv xBPQ',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.iqiq.io/lwm212/XBQ/main/Fositv.json'},
 {key:'csp_XBPQHDIK影视',name:' 🍂HDIK影视〔XBPQ〕',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.iqiq.io/lwm212/XBQ/main/HDIK影视.json'},
