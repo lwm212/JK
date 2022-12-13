@@ -97,6 +97,7 @@
             "filterable": 1,
             "ext": "https://dxawi.github.io/1/json/xx2.json"
         },
+{key:'YiSo',name:'易搜',type:'3',api:'csp_YiSo',searchable:'1',quickSearch:'1',filterable:'1',ext:'https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt',jar:'https://stevenfang.github.io/cs.jar;md5;e9899f6e856e5e2a0fff91ba4e108b3f'},
 {key:'csp_XBPQ宅腐TV',name:' 腐剧',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.iqiq.io/lwm212/XBQ/main/宅腐TV.json'},
 {key:'drpy_js_Voflix',name:'Voflix',type:3,api:'https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js',ext:'https://raw.iqiq.io/heroaku/TVboxo/main/Js/Voflix.js'},
 {"key":"csp_biubiu_干饭影视","name":"黄瓜","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/干饭影视.json"},
