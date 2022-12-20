@@ -79,7 +79,7 @@
 {"key":"csp_biubiu_city电影","name":"主页14","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/city电影.json"},
  {key:'Cokemv',name:'主页15',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'b88de1329655cca1beba45aa9776de70',jar:'https://stevenfang.github.io/cs.jar;md5;e9899f6e856e5e2a0fff91ba4e108b3f'},
   {key:'AppTT',name:'主页16',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'110c922de7d69804467fb83d3bb664b5',jar:'https://stevenfang.github.io/cs.jar;md5;e9899f6e856e5e2a0fff91ba4e108b3f'},
-{"key":"戏曲","name":"🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/lwm212/bili@main/戏曲.json"},
+
         {
             "key": "儿童",
             "name": "儿童",
@@ -89,17 +89,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://dxawi.github.io/1/json/xx2.json"
-        },
-
-        {
-            "key": "Yj1211",
-            "name": "直播",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         }
+
       
     ],
        "lives":[
