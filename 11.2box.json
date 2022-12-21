@@ -440,7 +440,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=https://raw.fastgit.org/biancangming/wtv/master/txt/all.txt"
+        "proxy://do=live&type=txt&ext=https://raw.iqiq.io/lwm212/JK/main/syzb.txt"
     ]}]}],
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
