@@ -37,69 +37,35 @@ TVB J2 ,https://cdn.hklive.tv/xxxx/82/index.m3u8
 翡翠台,http://23.237.10.66:16106
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 TVB Pearl ,https://cdn.hklive.tv/xxxx/84/index.m3u8
-百事通体育1,http://112.25.48.68/live/program/live/hdnba1/4000000/mnf.m3u8
-百事通体育2,http://112.25.48.68/live/program/live/hdnba2/4000000/mnf.m3u8
-百事通体育3,http://112.25.48.68/live/program/live/hdnba3/4000000/mnf.m3u8
-百事通体育5,http://112.25.48.68/live/program/live/hdnba5/4000000/mnf.m3u8
-百事通体育7,http://112.25.48.68/live/program/live/hdnba7/4000000/mnf.m3u8
+
 
 韩国,#genre#
 
 
-Arirang (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang (720p),http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-Arirang (720p),http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang (720p),https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-Arirang (720p),https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-BBS Buddhist Broadcasting ,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-
-BTN TV (1080p),http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-
-CBS ,http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-CGNTV,http://cgntv-glive.ofsdelivery.net/live/cgntv_kr01/playlist.m3u8
-CGNTV,http://cgntv-glive.ofsdelivery.net/live/cgntv_kr02/playlist.m3u8
-Channel A,http://han.ddkdxmkj.com/api/han123.php?id=15
-
+BBS Buddhist ,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 Channel China ,http://mytv.dothome.co.kr/ch/catv/255.php
-
 MBC Chungbuk,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-
-
 CTS기독교TV,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 
 
 Edaily TV,
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC8Sv6O3Ux8ePVqorx8aOBMg/live
-NEC ETV 한국선거방송 (720p)，
-http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-
+NEC ETV ，http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 GCN24 Korean,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqGxkgVnPc7arUR7MdCi99g/live
-
-
-GugakTV 국악방송 ,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+GugakTV  ,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-MBC Gwangju,https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
-
-
-SBS JIBS ,http://123.140.197.22/stream/1/play.m3u8
 JTBC4,http://mytv.dothome.co.kr/ch/catv/283.php
+JTBC Golf & Sports,http://mytv.dothome.co.kr/ch/catv/249.php
 
+SBS KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBS1 ,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+KBS2 ,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 
-JTBC Golf & Sports,，http://mytv.dothome.co.kr/ch/catv/249.php
+KBS Korea ,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig/live
 
-SBS KBC，http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-timeout",KBS1 (720p)，http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-KBS2 (720p)，http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+KBS News ,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 
-KBS Korea (1080p)，http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig/live
-
-KBS News D (720p)，
-http://ye23.vip/z7z8/2021/kbs2020.php?id=4
-
-KBS World (Vietnamese Subtitles) (720p)，https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+KBS World ,https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
 KBS World ,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 KCTV 광주,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
