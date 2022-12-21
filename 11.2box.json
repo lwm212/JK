@@ -309,7 +309,7 @@
 
 {"key":"csp_xBPQ_um","name":"🍀UM影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"module-info-introduction-content&&</div>\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}
 "},
-{"key":"csp_xBPQ_ 乐猪","name":"🍀乐猪（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/乐猪.json"},
+
 {"key":"csp_xBPQ_ 六度","name":"🍀六度（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/六度.json"},
 {"key":"csp_xBPQ_爱看","name":"🍀爱看（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"},
 {"key":"csp_xBPQ_胖虎","name":"🍀胖虎（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/胖虎.json"},
@@ -325,7 +325,7 @@
 {key:'csp_xBPQ_万能影视',name:' 🍂万能影视 xBPQ',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:0,ext:'https://raw.iqiq.io/lwm212/XBQ/main/万能影视.json'},
 {key:'csp_xBPQ_厂长资源',name:' 🍂厂长资源 xBPQ',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:0,ext:'https://raw.iqiq.io/lwm212/XBQ/main/厂长资源.json'},
 {key:'csp_XBPQ宅腐TV',name:' 🍂宅腐TV〔XBPQ〕',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.iqiq.io/lwm212/XBQ/main/宅腐TV.json'},
-{key:'csp_xBPQ_e9视频',name:' 🍂E9视频 xBPQ',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:0,ext:'https://raw.iqiq.io/lwm212/XBQ/main/E9视频.json'},
+
 {key:'csp_xBPQ_Fositv',name:' 🍂Fositv xBPQ',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.iqiq.io/lwm212/XBQ/main/Fositv.json'},
 {key:'csp_XBPQHDIK影视',name:' 🍂HDIK影视〔XBPQ〕',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.iqiq.io/lwm212/XBQ/main/HDIK影视.json'},
 {key:'csp_XBPQ555影视',name:' 🍂555影视〔XBPQ〕',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.iqiq.io/lwm212/XBQ/main/555影视.json'},
