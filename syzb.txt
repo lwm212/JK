@@ -20,13 +20,10 @@ TVBS歡樂台,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 鳳凰衛視資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 港台電視31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-TVB News Channel (720p),https://cdn.hklive.tv/xxxx/83/index.m3u8
-TVB News Channel (720p),http://9.zhxinda.xyz/newss.php?id=1
-TVB News Channel (720p),https://tvp22.sky4k.top/index1.php
+TVB News ,https://cdn.hklive.tv/xxxx/83/index.m3u8
 ViuTV  ,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTVsix ,https://cdn.hklive.tv/xxxx/96/index.m3u8
-HOY Infotainment Channel (1080p),https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-News Channel (有線新聞台) (1080p) ,https://cdn.hklive.tv/xxxx/78/index.m3u8
+有線新聞台 ,https://cdn.hklive.tv/xxxx/78/index.m3u8
 SPOTV2 ,https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 SPOTV ,https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 TVB 财经,https://cdn.hklive.tv/xxxx/85/index.m3u8
