@@ -94,14 +94,3 @@ Korean Song Channel,http://live.kytv.co.kr:8080/hls/stream.m3u8
 AT-X ,https://sub.neetball.net/live/neet.m3u8
 J Sports 4,http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8
 J Sports 4,http://cdnv148.cloudrsst.com:1935/jptv/jsports2_720/playlist.m3u8
-
-STIRR Gusto TV,https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
-STIRR 恐怖电影,https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
-STIRR National,https://dai.google.com/linear/hls/event/-V3XSvA2Sa6e8h7cnHXB8w/master.m3u8
-
-STIRR 空间,https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
-STIRR Stadium,http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
-STIRR Stadium,https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-STIRR 黄貂鱼流行成人,https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
-STIRR TV Mix,https://dai.google.com/linear/hls/event/ZP8ZMv95Q0Gm9EiyYOGHAA/master.m3u8
-今日美国 ,https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
