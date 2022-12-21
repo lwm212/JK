@@ -16,42 +16,22 @@ TVBS歡樂台,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 東森幼幼台,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 
 香港,#genre#
-
-Creation TV (720p) [Not 24/7],http://al-pull2.hkatv.vip/live/CTV.m3u8
-HKIBC,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
-香港衛視,https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
-
-HOYTV,https://d3lbtdzocyu3ke.cloudfront.net/out/v1/214e9e20c822494ea5bc1f1428833428/index.m3u8
-HOY TV (720p),http://media.fantv.hk/m3u8/archive/channel2.m3u8
-HOY TV (720p),http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
-
-
-鳳凰衛視中文) (1080p),https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-
-鳳凰衛視資訊台HD (720p),http://117.169.120.138:8080/live/fhzixun/.m3u8
-鳳凰衛視資訊) (1080p),https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-
-港台電視31) (1080p),https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-港台電視31) (1080p) [Geo-blocked],
-
-RTHK (港台電視32) (1080p),https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-
+鳳凰衛視中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+鳳凰衛視資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+港台電視31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+TVB News Channel (720p),https://cdn.hklive.tv/xxxx/83/index.m3u8
 TVB News Channel (720p),http://9.zhxinda.xyz/newss.php?id=1
 TVB News Channel (720p),https://tvp22.sky4k.top/index1.php
-TVB News Channel (720p),https://cdn.hklive.tv/xxxx/83/index.m3u8
-ViuTV (1080p) ,https://cdn.hklive.tv/xxxx/99/index.m3u8
-
-ViuTVsix (1080p) [Geo-blocked],https://cdn.hklive.tv/xxxx/96/index.m3u8
+ViuTV  ,https://cdn.hklive.tv/xxxx/99/index.m3u8
+ViuTVsix ,https://cdn.hklive.tv/xxxx/96/index.m3u8
 HOY Infotainment Channel (1080p),https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 News Channel (有線新聞台) (1080p) ,https://cdn.hklive.tv/xxxx/78/index.m3u8
-SPOTV2 (1080p),https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-SPOTV (1080p),https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-TVB Finance and Sport Channel (720p),https://cdn.hklive.tv/xxxx/85/index.m3u8
-TVB J2,https://j3.lhlh.app/mv.m3u8
-TVB J2 (720p),https://cdn.hklive.tv/xxxx/82/index.m3u8
-翡翠台) (720p),https://cdn.hklive.tv/xxxx/81/index.m3u8
- (翡翠台) (Cantonese Subtitles) (720p),http://23.237.10.66:16106
-TVB Pearl (珍珠台) (1080p) ,https://cdn.hklive.tv/xxxx/84/index.m3u8
-TVB明珠台 (PEARL),http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
-TVB明珠台 (PEARL),http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=12&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-有線新聞台 i-Cable 24-hour News Channel (720p),https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+SPOTV2 ,https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+SPOTV ,https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+TVB 财经,https://cdn.hklive.tv/xxxx/85/index.m3u8
+TVB J2 ,https://cdn.hklive.tv/xxxx/82/index.m3u8
+翡翠台,http://23.237.10.66:16106
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+TVB Pearl ,https://cdn.hklive.tv/xxxx/84/index.m3u8
+
