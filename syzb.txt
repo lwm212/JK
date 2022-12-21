@@ -37,13 +37,9 @@ TVB J2 ,https://cdn.hklive.tv/xxxx/82/index.m3u8
 翡翠台,http://23.237.10.66:16106
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 TVB Pearl ,https://cdn.hklive.tv/xxxx/84/index.m3u8
-CDM International,https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/playlist.m3u8
-Noti Uno Puerto Rico,https://59514edd5dd8e.streamlock.net/unoradio/unoradio1/playlist.m3u8
-Pura Palabra (718p),https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
-CDM TV ,http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
-Network,https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8
+
 Mas TV ,https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
-blocked,https://streannliveprtv.cachefly.net/prtv1/prtv1/playlist.m3u8
+
 
 韩国,#genre#
 
