@@ -18,12 +18,7 @@ TVBS歡樂台,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 香港,#genre#
 鳳凰衛視中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 鳳凰衛視資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-凤凰中文 ,http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰中文 (720p),http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-凤凰中文720p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰资讯 (576p),http://125.210.152.18:9090/live/FHZX_1200.m3u8
-凤凰资讯 (720p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-凤凰香港 (720p),http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+
 港台電視31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 TVB News ,https://cdn.hklive.tv/xxxx/83/index.m3u8
@@ -94,3 +89,64 @@ Korean Song Channel,http://live.kytv.co.kr:8080/hls/stream.m3u8
 AT-X ,https://sub.neetball.net/live/neet.m3u8
 J Sports 4,http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8
 J Sports 4,http://cdnv148.cloudrsst.com:1935/jptv/jsports2_720/playlist.m3u8
+
+世界,#genre#
+[瑞士]Tele 1 (1080p),
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
+[瑞士]Tele M1 HD (720p),
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
+刚果]Boss Brothers TV (720p),
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+[智利]Portalfoxmix (720p),
+http://149.56.17.92:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+[西班牙]Visión 6 TV,
+https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
+[西班牙]101 Tele Antequera,
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+[西班牙]Noroeste TV (720p),
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+[西班牙]Trece TV,
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+[芬兰]Himlen TV 7 (720p),
+http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
+Taevas TV7 (EST),
+http://vod.tv7.fi:1935/tv7-ee/tv7-ee.stream_720p/playlist.m3u8
+[法国]TVR (Bretagne) ,
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+[法国]viàMoselleTV,
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+[法国]BIP TV,
+http://biptv.tv:80/live/biptvstream_orig/index.m3u8
+[法国]PERSIANA ENTERTAINMENT,http://51.210.199.14/hls/stream.m3u8
+[法国]Persiana Family,http://51.210.199.19/hls/stream.m3u8
+[法国]Persiana Junior,http://51.210.199.18/hls/stream.m3u8
+[法国]Persiana Nostalgia,http://51.210.199.20/hls/stream.m3u8
+[法国]TV78 (720p),https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+[希腊]MGR TV,https://vod.streams.ovh:3876/stream/play.m3u8
+[希腊]NEA TV (1080p),https://live.neatv.gr:8888/hls/neatv.m3u8
+[匈牙利]Halom TV,http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8
+[越南]Cà Mau TV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
+[乌克兰]Renome ,http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+[乌克兰]Renome,http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+[乌克兰]СК1,http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+[乌克兰]Измаил ТВ,http://cdn10.live-tv.od.ua:8081/izod/izod-abr/playlist.m3u8
+[乌克兰]Сварожичи ,http://80.91.177.102:1935/live/live1/playlist.m3u8
+[乌克兰]Первый городской ,http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+[乌克兰]100% News,http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+[哈萨克斯坦]Gakku,https://sc.id-tv.kz:443/Gakku.m3u8
+[斯里兰卡]Santhora TV,http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w405490395.m3u8
+[摩洛哥]M24 HD
+,http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w575132091_b4500000_sleng.m3u8
+[马来西亚]Maah TV,http://51.210.199.33/hls/stream.m3u8
+[波兰]TV Kujawy,http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+[塞尔维亚]Muzzik,https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+[塞尔维亚]Muzzik HipHop Serbia ,https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+[塞尔维亚]Muzzik Mediteraneo ,
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+[俄罗斯]Хабар 24,https://sc.id-tv.kz/Khabar_24_34_35.m3u8
+[俄罗斯联邦]НТС ,
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+[俄罗斯]TRK 555,http://trk555.tv:8888/live
+[俄罗斯]Вместе РФ ,http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
+[俄罗斯]Просвещение,http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/playlist.m3u8
+[俄罗斯]Конный Мир,http://cdn-01.bonus-tv.ru:80/konnyimir/playlist.m3u8
