@@ -18,6 +18,15 @@ TVBS歡樂台,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 香港,#genre#
 鳳凰衛視中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 鳳凰衛視資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+EYE TV戏剧,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
+翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+翡翠台,http://23.237.10.66:16106
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+明珠台,http://198.16.64.10:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+明珠台 ,https://cdn.hklive.tv/xxxx/84/index.m3u8
+无线新闻台,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+
 
 港台電視31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
@@ -29,9 +38,8 @@ SPOTV2 ,https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-nort
 SPOTV ,https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 TVB 财经,https://cdn.hklive.tv/xxxx/85/index.m3u8
 TVB J2 ,https://cdn.hklive.tv/xxxx/82/index.m3u8
-翡翠台,http://23.237.10.66:16106
-翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-TVB Pearl ,https://cdn.hklive.tv/xxxx/84/index.m3u8
+
+
 
 Mas TV ,https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 
