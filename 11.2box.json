@@ -279,6 +279,14 @@
 {"key":"音乐","name":"🎤音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.fastgit.org/lwm212/bili/main/MTV.json"},
 {"key":"csp_Bili热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.fastgit.org/lwm212/bili/main/女团热舞.json"},
 {"key":"csp_Bili相声","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lwm212/bili/main/相声.json"},	
+
+{"key":"IKan","name":"爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/ts%20(3).jar"},
+{"key":"Yanet","name":"鸭奈飞","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/ts%20(3).jar"},
+{"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/ts%20(3).jar"},
+{"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"hhttps://raw.iqiq.io/lwm212/JK/main/JAR/ts%20(3).jar"},
+{"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/ts%20(3).jar"},
+{"key":"Tbook","name":"听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/ts%20(3).jar"},	    
+	    
 	    
 {"key":"csp_biubiu_voflix","name":"⚓voflix","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/lwm212/XB@main/voflix.json"},
 {"key":"csp_biubiu_在线之家","name":"🥒在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/在线之家.json"},
