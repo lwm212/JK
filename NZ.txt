@@ -78,9 +78,10 @@
 {"key":"csp_biubiu_city电影","name":"主页14","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/XB@main/city电影.json"},
  {key:'Cokemv',name:'主页15',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'b88de1329655cca1beba45aa9776de70',jar:'https://stevenfang.github.io/cs.jar;md5;e9899f6e856e5e2a0fff91ba4e108b3f'},
   {key:'AppTT',name:'主页16',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'110c922de7d69804467fb83d3bb664b5',jar:'https://stevenfang.github.io/cs.jar;md5;e9899f6e856e5e2a0fff91ba4e108b3f'},
+  {"key":"Hei","name":"主页17","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/ts%20(3).jar"},
           {
             "key": "MGTV",
-            "name": "主页17",
+            "name": "主页18",
             "type": 3,
             "api": "csp_Mgtv",
             "searchable": 1,
