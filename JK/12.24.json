@@ -3,13 +3,8 @@
 { 
 
 
-  //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/91a.jar;md5;1C1482FF646CC40E1F924EBE320822BC",
-  //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/1008.jar",
-  //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/cs.jar;md5;ca07e741640debc3777bb9a227cfb884",
   "spider":"https://raw.iqiq.io/lwm212/JK/main/xo1.jar",
-  //"spider":"https://神器每日推送.tk/jar",
-  //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/0928.jar",
-  //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/1013.jar",
+
  
   
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2hlcm9ha3UvVFZib3hvL3Jhdy9tYWluL3R2L2JjLnR4dA=="]}]}],
@@ -37,16 +32,11 @@
    {"key": "Alist_dr","name": "Alist DR","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/alist.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.com/heroaku/drpy/raw/master/txt/json/alist.json;50;video"},
    {"key": "py_bilimy","name": " 🐦Bilibili自用","type": 3,"api": "py_bilimy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_bilimy.py"},	  
    {"key": "T4a","name": " 🎑T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=a60a9387a6124e47ac78c726a02dba6d&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
-   //{  "key": "t4public", "name":" 🎑公共", "type": 4, "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1, "quickSearch": 1, "filterable": 0},
-   //{"key": "T4备用","name": " 🎑备用","type": 4,"api": "https://t4.run.goorm.io/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},  
 
-   //{"key":"csp_Nbys","name":"🛫泥视频┃墙外","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-   {"key":"csp_If101","name":"🛫If101┃墙外","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-   {"key":"csp_trj","name":"🛫唐人街┃墙外","type": 3,"api":"csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
-   {"key":"csp_Xiaoh","name":"🛫小 宝┃墙外","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
+  
    {"key":"csp_Zjdr","name":"👓追剧达人┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 	  
-//js 
+
 	{"key": "drpy_js_小宝影院","name": " 🎑小宝影院 🚪[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/小宝影院.js"},
 	{"key": "drpy_js_多瑙影视","name": " 🎑多瑙影视[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/多瑙影视.js"},
 	{"key": "drpy_js_NY影院","name": " 🎑NY影院[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/NY影院.js"},
@@ -338,7 +328,7 @@
     {"key": "csp_xb_23影视","name": " 💠23影视(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.23wm.net/vodshow/id/{cateId}/page/{catePg}.html"},
  
 	  
-    //spider java
+
     {"key": "Lezhu_spider","name": "🐞乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     //{"key":"If101","name":"🐞If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1}, 
     {"key":"if101资源","name":" 🍁If101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
