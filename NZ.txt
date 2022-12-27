@@ -1,7 +1,7 @@
 
 {
     "sites": [ 
-    {"key":"dr_豆瓣","name":"豆瓣荐片","type":3,"api":"https://raw.iqiq.io/lwm212/json/Js/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/lwm212/json/Js/豆瓣.js"},
+
      
 {"key": "Kuaikan","name": "主页1","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Bttoo", "name": "主页2","type": 3, "api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
