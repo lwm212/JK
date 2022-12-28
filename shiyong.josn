@@ -30,7 +30,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9sd20yMTIvSksvbWFpbi8xMi4yMHpiLnR4dA=="
+        "proxy://do=live&type=txt&ext=https://notabug.org/lwm212/boxx/raw/master/7.31zb/12.26zb.txt"
     ]}]}],
      "parses": [
     //{"name":"解析聚合","type":3,"url":"Demo"},
