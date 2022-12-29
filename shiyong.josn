@@ -22,8 +22,7 @@
 {"key": "Bttoo", "name": "主页13","type": 3, "api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Hei","name":"主页14","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/ts%20(3).jar"},
 {"key":"BuLei","name":"主页15","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/lwm212/JK/main/Yoursmile.jar;md5;BC2ADDDA493B092086F9EDA452AD2E66"},
-{"key": "MGTV","name": "主页16","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,jar:'https://raw.iqiq.io/lwm212/JK/main/11.28.jar'},
-{ "key": "儿童","name": "儿童","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://dxawi.github.io/1/json/xx2.json" }
+{"key": "MGTV","name": "主页16","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,jar:'https://raw.iqiq.io/lwm212/JK/main/11.28.jar'}
 
       
     ],
