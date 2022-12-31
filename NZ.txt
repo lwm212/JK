@@ -302,5 +302,5 @@
         "cms.qdwght.com"
     ],
       
-   "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;8F86EB79293B22966BA2C54A7C34E2EB"
+   "spider": "https://raw.kgithub.com/lwm212/JK/main/JAR/Yoursmile.jar;md5;7D3E43933F34C49FC629B10D1B7C1FBF"
 }
