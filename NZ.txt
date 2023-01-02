@@ -3,7 +3,7 @@
     "sites": [ 
 
      
-{"key": "Kuaikan","name": "主页1","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Kuaikan","name": "主页1","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1}
 {"key":"csp_AppTT","name":"主页2","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
 {"key": "77","name": "主页3","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Nkdy","name":"主页4","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
