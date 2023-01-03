@@ -302,5 +302,5 @@
         "cms.qdwght.com"
     ],
       
-   "spider": "https://raw.kgithub.com/lwm212/JK/main/JAR/Yoursmile.jar;md5;8977DB03D3374537FDAD0C396BB1FE99"
+   "spider": "spider": "https://ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/Yoursmile.jar;md5;8977DB03D3374537FDAD0C396BB1FE99"
 }
