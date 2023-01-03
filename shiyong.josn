@@ -2,7 +2,7 @@
 {
     "sites": [ 
 {"key":"小苹果","name":"主页1","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
-{"key": "csp_AppTT","name": "主页2","type": 3,"api": "csp_AppTT","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://124.248.66.107:7799",jar:'https://github.com/dxawi/1/blob/main/jar/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5'},
+{"key": "csp_AppTT","name": "主页2","type": 3,"api": "csp_AppTT","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://124.248.66.107:7799",jar:'https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5'},
 {"key": "Kuaikan","name": "主页3","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "77","name": "主页4","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Nkdy","name":"主页5","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
