@@ -266,6 +266,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
+{"key":"csp_Auete","name":"🐞Auete影院","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_短视频","name":"☘️短视频","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lwm212/JK/main/json//短视频.json","jar":"https://raw.iqiq.io/lwm212/JK/main/Yoursmile.jar"},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"💥哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
