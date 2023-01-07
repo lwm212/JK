@@ -15,7 +15,7 @@
         },
 {"key": "Kuaikan","name": "主页3","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "77","name": "主页4","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "dr_8号影院","name": "主页5","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://101.34.67.237/js/8号影院.js",jar:'http://101.34.67.237/files/custom_spider_tang.jar'},
+{"key": "dr_8号影院","name": "主页5","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://101.34.67.237/js/8号影院.js",jar:"http://101.34.67.237/files/custom_spider_tang.jar"},
 {"key":"Czsapp","name":"主页6","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://gitee.com/babyisbreath/babyish/raw/master/jar/ts.jar"},
 {key:'世界杯',name:'主页7',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'8e3aefcba838d8dc5102ac786719d837',jar:'https://raw.kgithub.com/lwm212/JK/main/JAR/cs.jar;md5;e9899f6e856e5e2a0fff91ba4e108b3f'},
 {"key":"csp_xBPQ_饭团影视","name":"主页8","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lwm212/XBQ/main/饭团.json"},
