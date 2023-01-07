@@ -14,7 +14,8 @@
             "ext": "http://124.248.66.107:9911"
         },
 {"key": "Kuaikan","name": "主页3","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "77","name": "主页4","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Dy1010","name":"主页4","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+//{"key": "77","name": "主页4","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "dr_8号影院","name": "主页5","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://101.34.67.237/js/8号影院.js",jar:"http://101.34.67.237/files/custom_spider_tang.jar"},
 {"key":"Czsapp","name":"主页6","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://gitee.com/babyisbreath/babyish/raw/master/jar/ts.jar"},
