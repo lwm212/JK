@@ -2,12 +2,22 @@
 {
     "sites": [ 
 {"key":"小苹果","name":"主页1","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
-{"key": "csp_AppTT","name": "主页2","type": 3,"api": "csp_AppTT","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://124.248.66.107:9911"},
+       {
+            "key": "csp_AppTT",
+            "name": "主页2",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://124.248.66.107:9911"
+        },
 {"key": "Kuaikan","name": "主页3","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "77","name": "主页4","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Nkdy","name":"主页5","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Czsapp","name":"主页6","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{key:'世界杯',name:'主页7',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'8e3aefcba838d8dc5102ac786719d837',jar:'https://ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/cs.jar;md5;e9899f6e856e5e2a0fff91ba4e108b3f'},
+{"key":"Czsapp","name":"主页6","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://gitee.com/babyisbreath/babyish/raw/master/jar/ts.jar"},
+{key:'世界杯',name:'主页7',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'8e3aefcba838d8dc5102ac786719d837',jar:'https://raw.kgithub.com/lwm212/JK/main/JAR/cs.jar;md5;e9899f6e856e5e2a0fff91ba4e108b3f'},
 {"key":"csp_xBPQ_饭团影视","name":"主页8","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lwm212/XBQ/main/饭团.json"},
 {"key": "Dm84","name": "动漫","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -22,8 +32,8 @@
 {"key":"BuLei","name":"主页14","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/lwm212/JK/main/Yoursmile.jar;md5;BC2ADDDA493B092086F9EDA452AD2E66"},
 {"key": "MGTV","name": "主页15","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,jar:'https://raw.iqiq.io/lwm212/JK/main/11.28.jar'},
 {"key":"SP360","name":"主页16","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key": "儿童","name": "儿童","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/json/ertong.json"},
-{"key": "小学","name": "小学学习","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/json/xiaoxue.json"},
+{"key": "儿童","name": "儿童","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/lwm212/JK/main/json/ertong.json"},
+{"key": "小学","name": "小学学习","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/lwm212/JK/main/json/xiaoxue.json"},
 {"key": "演唱会","name": "音乐演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/lwm212/boxx/raw/master/json/biliyc.json"}
 		
       
