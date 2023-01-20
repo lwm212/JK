@@ -1,11 +1,11 @@
 
 {
     "sites": [ 
-{"key":"小苹果","name":"主页1","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
-{"key": "农民","name": "主页2","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},  	    
+{"key":"小苹果","name":"主页1","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "农民","name": "主页2","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},  
+
 {"key":"AppTT","name":"主页3","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key": "Kuaikan","name": "主页4","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-
 
 //{"key": "77","name": "主页4","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -23,7 +23,7 @@
 {"key":"Hei","name":"主页13","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/ts%20(3).jar"},
 {"key": "csp_xBPQ_98影院","name": "主页14","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"},
 {"key": "MGTV","name": "主页15","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.kgithub.com/lwm212/JK/main/JAR/cc.jar;md5;d47cbda99b05cddb6d4e8bae2e85857e"},
-{"key":"SP360","name":"主页16","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"BuLei","name":"⚡主页16","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "儿童","name": "儿童","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/lwm212/JK/main/json/ertong.json"},
 {"key": "小学","name": "小学学习","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/lwm212/JK/main/json/xiaoxue.json"},
 {"key": "演唱会","name": "音乐演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/lwm212/boxx/raw/master/json/biliyc.json"}
@@ -299,5 +299,5 @@
         "cms.qdwght.com"
     ],
       
-  "spider": "https://raw.kgithub.com/lwm212/JK/main/JAR/Yoursmile.jar;md5;8977DB03D3374537FDAD0C396BB1FE99"
+  "spider": "https://agit.ai/TVYS/jierui/raw/branch/master/jar1/Yoursmile.jar;md5;41542D12E472BE5F1EF53990CF0CFD94"
 }
