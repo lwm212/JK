@@ -7,7 +7,7 @@
 {"key":"AppTT","name":"主页3","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 
 
-{"key": "77","name": "主页4","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "77","name": "主页4","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 {"key": "dr_8号影院","name": "主页5","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://101.34.67.237/js/8号影院.js",jar:"http://101.34.67.237/files/custom_spider_tang.jar"},
 
