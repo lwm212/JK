@@ -19,7 +19,8 @@
 {"key": "Dm84","name": "动漫","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Voflix","name": "主页9","type": 3,"api": "csp_Voflix","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 // {key:'Lgyy',name:'主页9',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'b2e573ff040fcd54b50475660ee1a7d1',jar:'https://stevenfang.github.io/cs.jar;md5;e9899f6e856e5e2a0fff91ba4e108b3f'},
-{"key":"YiSo","name":"搜搜（蓝光）","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+
+{"key":"YiSo","name":"搜搜（蓝光）","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"csp_panghu","name":"主页10","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 
 
