@@ -30,8 +30,8 @@
 {"key": "dr_B站影视","name": "主页14","type": 3,"api": "https://notabug.org/lwm212/JS/raw/master/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/B站影视.js","jar":"http://101.34.67.237/files/custom_spider_tang.jar"},
 
 {"key": "IQIYI", "name": "主页15","type": 3,"api": "csp_IQIYI", "searchable": 1,"quickSearch": 1,"filterable": 1,jar:'https://raw.iqiq.io/lwm212/JK/main/11.28.jar'},
-//{"key": "MGTV","name": "主页16","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,jar:'https://raw.iqiq.io/lwm212/JK/main/11.28.jar'},
-{"key": "MGTV","name": "主页16","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,  "parses": [{"name":"bozrc","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}} ] },
+{"key": "MGTV","name": "主页16","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,jar:'https://raw.iqiq.io/lwm212/JK/main/11.28.jar'},
+
 {"key": "儿童","name": "儿童","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.kgithub.com/lwm212/JK/main/json/ertong.json"},
 {"key": "演唱会","name": "音乐演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/lwm212/boxx/raw/master/json/biliyc.json"}
 		
