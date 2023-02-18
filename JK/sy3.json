@@ -18,7 +18,7 @@
 
 {"key":"YiSo","name":"搜搜（蓝光）","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://notabug.org/lwm212/boxx/raw/master/token/ali.txt"},
 
-{"key": "dr_伊雪湾","name": "主页110","type": 3,"api": "https://notabug.org/lwm212/JS/raw/master/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/伊雪湾.js"},
+{"key": "dr_伊雪湾","name": "主页10","type": 3,"api": "https://notabug.org/lwm212/JS/raw/master/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/伊雪湾.js"},
 {"key":"BuLei","name":"主页11","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "dr_创艺影视","name": "主页12","type": 3,"api": "https://notabug.org/lwm212/JS/raw/master/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/创艺影视.js","jar":"http://101.34.67.237/files/custom_spider_tang.jar"},
 {"key":"Tian","name":"主页12","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
