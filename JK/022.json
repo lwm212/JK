@@ -6,7 +6,7 @@
 {"key": "77", "name": "77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"Alist","name":"Alist","type":3, "api":"http://101.34.67.237/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},
-{"key": "csp_AppTT","图图": "主页6","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://103.239.101.244:6677/$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
+{"key":"csp_AppTT","图图": "主页6","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://103.239.101.244:6677/$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
 
 {"key": "Ysgc","name": "影视工厂","type": 3,"api": "csp_Ysgc","searchable": 1, "quickSearch": 1,"filterable": 1},
 {"key": "Bttoo","name": "Bttoo","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
