@@ -8,12 +8,7 @@
 {"key":"Alist","name":"Alist","type":3, "api":"http://101.34.67.237/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},
 
 
-{"key": "Ysgc","name": "影视工厂","type": 3,"api": "csp_Ysgc","searchable": 1, "quickSearch": 1,"filterable": 1},
-{"key": "Bttoo","name": "Bttoo","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Bdys01","name": "哔滴影视","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "农民","name": "农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},  
 
-	    
 
 {"key":"IKan","name":"爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key": "MGTV","name": "芒果TV","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
