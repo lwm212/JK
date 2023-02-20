@@ -2,7 +2,7 @@
 {
     "sites": [ 
 
-{"key":"SP360","name":"主页3","type":1,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"SP360","name":"主页1","type":1,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_doujiaow","name":"主页2","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/xp@main/doujiaow.json"},
 
 
