@@ -1,7 +1,7 @@
 
 {
     "sites": [ 
-{"key":"小苹果","name":"主页1","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"小苹果","name":"主页1","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}
 
 {"key": "Kuaikan","name": "主页2","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Nmys","name":"主页3","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
