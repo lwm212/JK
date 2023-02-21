@@ -2,7 +2,7 @@
 {
     "sites": [ 
 
-{"key":"csp_xp_gongreng","name":"软件更新，请找客服拿分享码","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/gongreng.json"},
+{"key":"csp_xp_gongreng","name":"软件更新，请找客服拿分享码","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://rw.liucn.cc/box/sub/MeowXP/gongreng.json"},
 
 
 {"key": "儿童","name": "软件更新，请找客服拿分享码","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.kgithub.com/lwm212/JK/main/json/ertong.json"},
