@@ -44,9 +44,9 @@
 {"key":"csp_xBPQ_短视频","name":"☘️短视频","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/lwm212/boxx/raw/master/json/dsp.json"},
 {"key":"Tbook","name":"听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 
-{"key":"Paper","name":"📜小纸条","type":3,"api":"csp_Paper","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://ali.饭太硬.ml/alitoken"},
-{"key": "YiSo","name": "易搜┃搜索","type": 3,"api": "csp_YiSo","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://ali.饭太硬.ml/alitoken"},
-{"key": "PanSou","name": "盘搜┃搜索","type": 3,"api": "csp_PanSou","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://ali.饭太硬.ml/alitoken"},
+{"key":"Paper","name":"📜小纸条","type":3,"api":"csp_Paper","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"dbefacab172442768dcf66df24858b49"},
+{"key": "YiSo","name": "易搜┃搜索","type": 3,"api": "csp_YiSo","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"dbefacab172442768dcf66df24858b49"},
+{"key": "PanSou","name": "盘搜┃搜索","type": 3,"api": "csp_PanSou","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"dbefacab172442768dcf66df24858b49"},
 {"key": "UpYun","name": "Up搜┃搜索","type": 3,"api": "csp_UpYun","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"},
 {"key": "Dm84","name": "动漫巴士","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable": 1},
