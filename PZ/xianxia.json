@@ -4,7 +4,7 @@
 
 {"key": "360","name": "主页2","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Kuaikan","name":"主页3","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_fantuan","name": "主页4","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.fantuanhd.com"},
+{"key":"csp_AppTT","name":"主页4","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:3434/$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg=="},
 {"key":"csp_Nkdy","name":"主页5","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 
 
