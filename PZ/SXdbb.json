@@ -1,26 +1,41 @@
 {
     "sites": [ 
 {"key": "农民","name": "主页1","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},  
-{"key":"csp_xpath_doujiaow","name":"主页2","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/xp@main/doujiaow.json"},
-{"key": "360","name": "主页3","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_BuLei","name": "主页4","type": 3,"api": "csp_BuLei","quickSearch": 1,"filterable": 1,"ext": "https://www.bulei.cc"},
-//{"key": "csp_AppTT","name": "主页4","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="},
-{"key": "csp_fantuan","name": "主页5","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.fantuanhd.com"},
-{"key": "Kuaikan","name":"主页6","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"Dy555","name":"主页7","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/ts.jar"},
+
+{"key": "360","name": "主页2","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Kuaikan","name":"主页3","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_fantuan","name": "主页4","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.fantuanhd.com"},
+{"key":"csp_Nkdy","name":"主页5","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
+
+
+
+{"key": "csp_BuLei","name": "主页6","type": 3,"api": "csp_BuLei","quickSearch": 1,"filterable": 1,"ext": "https://www.bulei.cc"},
+{"key": "csp_Auete","name": "主页7","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xp_348z","name":"主页8","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/348z.json"},
 
-{"key":"csp_xBPQ_98影院","name":"主页9","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"},
-{"key": "YiSo","name":"搜搜（蓝光）","type": 3,"api": "csp_YiSo","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"dbefacab172442768dcf66df24858b49"},
-{"key": "dr_酷客影院","name": "主页10","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷客影院.js"},
-{"key": "MGTV","name": "主页11","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "IQIYI","name": "主页12","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1}
+{"key":"csp_XBPQ_98影院","name":"主页9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"},
+
+{"key":"csp_Lib","name":"主页10","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
+{"key": "dr_酷客影院","name": "主页11","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷客影院.js"},
+{"key":"csp_Zxzj","name":"主页12","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "dr_8号影院","name": "主页13","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"},
+{"key":"新视觉影院","name":"主页14","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/新视觉影院.json"},
+
+{"key": "dr_007影视","name": "主页15","type": 3,"api": "https://notabug.org/lwm212/JS/raw/master/drpy.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/007影视.js"},
+{"key": "MGTV","name": "芒16","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "dr_腾云驾雾","name": "腾17","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"},
+{"key": "IQIYI","name": "爱18","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "dr_NT动漫","name": "动漫","type": 3,"api": "https://notabug.org/lwm212/JS/raw/master/drpy.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/NT动漫.js"},
+
+{"key": "儿童","name": "儿童","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.kgithub.com/lwm212/JK/main/json/ertong.json"},
+{"key": "演唱会","name": "音乐演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/lwm212/boxx/raw/master/json/biliyc.json"}
+	
  ],     
       
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"
+        "proxy://do=live&type=txt&ext=https://notabug.org/lwm212/boxx/raw/master/7.31zb/xianziazhib.txt"
     ]}]}],
      "parses": [
 
