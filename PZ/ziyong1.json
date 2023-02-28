@@ -63,7 +63,9 @@
 { "key": "csp_xBPQ_cs", "name": "️FREE(佰欣园)","type": 3, "api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVBox/main/MaooXB/free.json","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/佰欣园.jar"},
 //{ "key": "csp_xBPQ_cs", "name": "️FREE(佰欣园)","type": 3, "api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/XBPQ/free.json","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/佰欣园.jar"},
 {"key": "csp_xBPQ_555","name": "555(佰欣园)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1, "filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/XBPQ/555.json","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/佰欣园.jar"},
-
+ {"key": "1080zyk","name": "1080ZYK(佰欣园)","type": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php",	"searchable": 1,"quickSearch": 0},
+        
+        
 {"key": "IQIYI","name": "奇异果(解析)","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "QQ","name": "企鹅(解析)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "MGTV","name": "芒果(解析)","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
