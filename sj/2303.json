@@ -11,8 +11,8 @@
 {"key": "dr_酷客影院","name": "主页9","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷客影院.js"},
 {"key":"csp_xpath_zaixiandianying8","name":"主页10","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/xp@main/zaixiandianying8.json"},
 {"key":"csp_Nkdy","name":"主页11","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "PanSou","name": "搜搜┃蓝光1","type": 3,"api": "csp_PanSou","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/token/aili.txt"},
-{"key": "YiSo","name": "搜搜┃蓝光2","type": 3,"api": "csp_YiSo","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://ali.饭太硬.ml/alitoken"},
+//{"key": "PanSou","name": "搜搜┃蓝光1","type": 3,"api": "csp_PanSou","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/token/aili.txt"},
+//{"key": "YiSo","name": "搜搜┃蓝光2","type": 3,"api": "csp_YiSo","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://ali.饭太硬.ml/alitoken"},
 
 
 
