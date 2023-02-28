@@ -248,8 +248,7 @@
 
 
 
-{"key" : "云播看看","name" : "🌨云播看看","type" : 3,"api" : "csp_XPath","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "https://agit.ai/l/o/raw/branch/o/o/云播看看.json"},
-
+{key:'csp_XBPQ真不卡',name:' 🍂真不卡〔XBPQ〕',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.iqiq.io/lwm212/XBQ/main/真不卡.json'},
 
 {"key" : "COKEMV","name" : "🥮COKEMV","type" : 3,"api" : "csp_XBiubiu","searchable" : 1,"quickSearch" : 1, "filterable" : 0, "ext" : "https://agit.ai/l/o/raw/branch/o/o/COKEMV.json"},
 {"key" : "比特影视","name" : "💰比特影视","type" : 3,"api" : "csp_XPath","searchable" : 0,"quickSearch" : 0,"filterable" : 0,"ext" : "https://agit.ai/l/o/raw/branch/o/o/比特影视.json"},
