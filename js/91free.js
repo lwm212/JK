@@ -19,8 +19,8 @@ var rule = {
 		21:{cateId:'21'},
 		22:{cateId:'22'},
 		23:{cateId:'23'},
-		52:{cateId:'52'},
-		59:{cateId:'59'}
+		52:{cateId:'52'}
+		
 	},
 	searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
 	class_parse: '.navbar-items&&li:gt(1):lt(7);a&&title;a&&href;.*/(.*?).html',
