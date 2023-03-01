@@ -14,9 +14,7 @@
 {"key": "PanSou","name": "搜搜┃蓝光","type": 3,"api": "csp_PanSou","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/token/aili.txt"},
 
 
-{"key": "csp_Auete","name": "主页12","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-
+{"key": "csp_xBPQ_555","name": "主页12","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1, "filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/XBPQ/555.json","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/佰欣园.jar"},
 {"key":"csp_Lib","name":"主页13","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
 
 {"key":"csp_Zxzj","name":"主页14","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
