@@ -12,7 +12,7 @@
 {"key": "dr_酷客影院","name": "主页10","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷客影院.js"},
 {"key":"csp_xpath_zaixiandianying8","name":"主页11","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/xp@main/zaixiandianying8.json"},
 
-{"key": "PanSou","name": "搜搜┃蓝光","type": 3,"api": "csp_PanSou","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/token/aili.txt"},
+//{"key": "PanSou","name": "搜搜┃蓝光","type": 3,"api": "csp_PanSou","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/token/aili.txt"},
 
 { "key": "csp_xBPQ_cs", "name": "️主页12","type": 3, "api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/chengxueli818913/TVBox/main/MaooXB/free.json","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/佰欣园.jar"},
 
@@ -25,7 +25,7 @@
 
 {"key": "dr_007影视","name": "主页16","type": 3,"api": "https://notabug.org/lwm212/JS/raw/master/drpy.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/007影视.js"},
 {"key": "MGTV","name": "芒果","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+{"key": "dr_腾云驾雾","name": "腾讯","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"},
 {"key": "Dm84","name": "动漫","type": 3,"api": "csp_Dm84","quickSearch": 1,"filterable": 1},
 {"key": "儿童","name": "儿童","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.kgithub.com/lwm212/JK/main/json/ertong.json"},
 {"key": "演唱会","name": "音乐演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/lwm212/boxx/raw/master/json/biliyc.json"}
