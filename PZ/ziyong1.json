@@ -312,7 +312,7 @@
     {"name": "777","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
     
     {"name": "盘古","type":0,"url": "http://www.pangujiexi.com/pangu/?url="},
-   
+     {"name": "猪蹄","url": "https://jx.iztyy.com/svip/?url=","type": 0},
     {"name":"Parwix嗅探","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name": "ckmov","type": 0,"url": "https://www.ckmov.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
     {"name":"8090","url":"https://www.8090.la/8090/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
