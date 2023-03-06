@@ -24,7 +24,7 @@
 {"key": "dr_91free","name": "主页16","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/js/91free.js"},
 
 
-{"key": "dr_007影视","name": "主页17","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/007影视.js"},
+{"key":"csp_XBPQ_ 零零七","name":"主页17","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lwm212/JK/main/XBPQ/007.json"},
 {"key": "MGTV","name": "芒果","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "dr_优酷","name": "优酷","type": 3,"api": "https://notabug.org/lwm212/JS/raw/master/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},	    
 {"key": "dr_腾云驾雾","name": "腾讯","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"},
