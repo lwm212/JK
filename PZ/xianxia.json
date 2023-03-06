@@ -14,7 +14,7 @@
 {"key":"csp_fantuan","name":"主页11","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key": "dr_天空影视","name": "主页12","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/天空影视.js"},
 //{"key": "YiSo","name": "搜索┃蓝光","type": 3,"api": "csp_YiSo","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://ali.饭太硬.ml/alitoken"},
-{ "key": "csp_xBPQ_cs", "name": "️主页13","type": 3, "api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/chengxueli818913/TVBox/main/MaooXB/free.json","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/佰欣园.jar"},
+{ "key": "csp_XBPQ_cs", "name": "️主页13","type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/chengxueli818913/TVBox/main/MaooXB/free.json","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/佰欣园.jar"},
 {"key": "csp_Bttoo","name": "主页14","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_Lib","name":"主页15","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
