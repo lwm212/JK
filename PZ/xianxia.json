@@ -14,15 +14,15 @@
 {"key":"csp_fantuan","name":"主页11","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key": "dr_天空影视","name": "主页12","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/天空影视.js"},
 //{"key": "YiSo","name": "搜索┃蓝光","type": 3,"api": "csp_YiSo","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://ali.饭太硬.ml/alitoken"},
-{ "key": "csp_XBPQ_cs", "name": "️主页13","type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/chengxueli818913/TVBox/main/MaooXB/free.json","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/佰欣园.jar"},
-{"key": "csp_Bttoo","name": "主页14","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"csp_Lib","name":"主页15","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
+{"key": "csp_Bttoo","name": "主页13","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+{"key":"csp_Lib","name":"主页14","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
 
 
-{"key":"csp_xBPQ_91影院","name":"主页16","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/91影院.json","jar":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"},        
+{"key":"csp_xBPQ_91影院","name":"主页15","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/91影院.json","jar":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"},        
 
-{"key":"csp_XBPQ_ 零零七","name":"主页17","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lwm212/JK/main/XBPQ/007.json"},
+{"key":"csp_XBPQ_ 零零七","name":"主页16","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lwm212/JK/main/XBPQ/007.json"},
 {"key": "MGTV","name": "芒果","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "dr_优酷","name": "优酷","type": 3,"api": "https://notabug.org/lwm212/JS/raw/master/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},	    
 {"key": "dr_腾云驾雾","name": "腾讯","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"},
