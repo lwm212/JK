@@ -5,21 +5,22 @@
 {"key":"csp_AppMr","name":"主页3","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Kuaikan","name": "主页4","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Auete","name": " 主页5","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},  
-{"key":"csp_xBPQ_豆角网","name":"主页6","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/豆角网.json","jar":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/XBPQ_0111.jar"},
+{"key": "dr_奇优影院","name": "主页6","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇优影院.js"},	    
 
 {"key":"csp_XBPQ_98影院","name":"主页7","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"},
 {"key": "csp_panghu","name": "主页8","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_AppTT","name":"主页9","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+{"key":"csp_xBPQ_豆角网","name":"主页9","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/豆角网.json","jar":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/XBPQ_0111.jar"},
+
 {"key": "dr_8号影院","name": "主页10","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"},
 {"key":"csp_fantuan","name":"主页11","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key": "dr_天空影视","name": "主页12","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/天空影视.js"},
-//{"key": "YiSo","name": "搜索┃蓝光","type": 3,"api": "csp_YiSo","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://ali.饭太硬.ml/alitoken"},
-
-{"key": "csp_Bttoo","name": "主页13","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-{"key":"csp_Lib","name":"主页14","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
+//{"key": "PanSou","name": "搜索┃蓝光","type": 3,"api": "csp_PanSou","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://ali.饭太硬.ml/alitoken"},
 
 
+
+{"key":"csp_Lib","name":"主页13","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
+
+{"key":"csp_Zxzj","name":"主页14","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_91影院","name":"主页15","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/91影院.json","jar":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"},        
 
 {"key":"csp_XBPQ_ 零零七","name":"主页16","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lwm212/JK/main/XBPQ/007.json"},
