@@ -331,10 +331,10 @@
     {"name": "电影港","type":0,"url": "https://vip.lianfaka.com/vip/?url=","ext": {"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
          
     {"name": "爱奇艺","type": 1,"url": "https://vip.blbo.cc:2222/api/?key=4f1bf89d280322a85fee7c57ed5e2bb0&url=","ext": {"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
-    {"name": "1","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url"},
+    {"name": "1","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
     {"name": "2","type": 0,"url": "http://jx.nikucms.com/pc/index6.php?url="},          
     {"name": "3","type": 0,"url": "http://91fanli.top/m3u8/?url="},          
-    {"name": "41","type": 0,"url": "https://vip.fuqizhishi.com/?v=},          
+    {"name": "41","type": 0,"url": "https://vip.fuqizhishi.com/?v="},          
     {"name": "51","type": 1,"url": "https://api.8a5.cn/parse/de.php?url="},          
     {"name": "6","type": 1,"url": "https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url="},
     {"name": "7","type": 0,"url": "https://play.fositv.com/?url="},          
