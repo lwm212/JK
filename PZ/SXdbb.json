@@ -38,10 +38,11 @@
     {"name":"live","urls":[
         "proxy://do=live&type=txt&ext=https://notabug.org/lwm212/boxx/raw/master/7.31zb/xianziazhib.txt"
     ]}]}],
-     "parses": [
-     {"name": "腾讯 搜狐 ","type": 0,"url": "https://jx.xmflv.com/?url="},
-    {"name":"芒果 西瓜 爱奇艺 PPTV","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
-    {"name": "优酷","type": 0,"url": "https://yun.nxflv.com/?url="}
+"parses": [
+{"name": "腾讯 搜狐 爱奇艺 乐视 CNTV","type": 0,"url": "https://jx.xmflv.com/?url="},
+    
+{"name":"芒果 西瓜 爱奇艺 PPTV","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
+{"name": "优酷 乐视","type": 0,"url": "https://yun.nxflv.com/?url="}
     ],
     "flags":[
 "youku",
