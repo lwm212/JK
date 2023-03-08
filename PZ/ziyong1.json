@@ -338,7 +338,7 @@
     {"name": "5","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},          
     {"name": "6","type": 1,"url": "https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url="},
     {"name": "7","type": 0,"url": "https://play.fositv.com/?url="},          
-    {"name": "8","type": 1,"url": "https://v.2080kk.com/home/api?type=ys&uid=1308653&key=behnpstwxBCHJMQ029&url="},          
+    {"name": "8","type": 0,"url": "https://m2090.com/?url="},          
               
     {"name": "bozrc1","type": 0,"url": "https://jx.bozrc.com:4433/aliplayer/?url=","ext": {"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
     {"name": "CK","url": "https://ckmov.ccyjjd.com/ckmov/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}},"header": {"User-Agent": "Mozilla/5.0"}},
