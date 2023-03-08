@@ -120,6 +120,7 @@
 {"key": "dr_石榴影院","name": "石榴影院(drpy)","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/石榴影院.js"},
 {"key": "dr_起飞影院","name": "起飞影院(drpy)","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/起飞影院.js"},
 {"key": "dr_有声小说吧","name": "有声小说吧(drpy)","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/有声小说吧.js"},
+{"key":"dr_HG影院[V2]","name":"HG影院[V2](drpy)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/HG影院[V2].js","playerType":2},
 
         
         
