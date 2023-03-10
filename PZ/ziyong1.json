@@ -204,7 +204,10 @@
 #张红
 {"key":"csp_XBPQ_98影院","name":"98影院（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"},
 
-{"key":"csp_XBPQ_ TVB云播","name":"TVB云播（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/TVB云播.json"},
+{"key":"csp_XBPQ_TVB云播","name":"TVB云播（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/TVB云播.json"},
+{"key":"csp_XBPQ_两个BT","name":"两个BT（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/两个BT.json"},
+{"key":"csp_XBPQ_七小时影院","name":"七小时影院（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/七小时影院.json"},
+{"key":"csp_XBPQ_LIBVIO","name":"LIBVIO（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/LIBVIO.json"},
 
 
 {"key":"csp_XBPQ_二次萌影视","name":"二次萌影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/二次萌影视.json"},
