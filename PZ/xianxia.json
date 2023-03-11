@@ -6,7 +6,7 @@
 
 {"key": "Kuaikan","name": "主页4","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Auete","name": " 主页5","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":2},
-{"key":"csp_AppMr","name":"主页6","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},	    
+{"key":"csp_AppMr","name":"主页6","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/dxawi/1/main/jar/cc.jar"},	    
 {"key": "dr_奇优影院","name": "主页7","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇优影院.js"},	    
 
 {"key":"csp_XBPQ_子子影视","name":"主页8","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/子子影视.json"},
