@@ -243,6 +243,7 @@
 
 {"key":"csp_XBPQ_聚优超清资源","name":"聚优超清资源（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/聚优超清资源.json"},
 {"key":"csp_XBPQ_爱污传媒","name":"爱污传媒（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/爱污传媒.json"},
+{"key":"csp_XBPQ_聚优废柴网资源","name":"聚优废柴网资源（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/聚优废柴网资源.json"},
 
 
 
