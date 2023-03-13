@@ -239,6 +239,7 @@
 {"key":"csp_XBPQ_七小时影院","name":"七小时影院（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/七小时影院.json"},
 {"key":"csp_XBPQ_爱看影视","name":"爱看影视（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/爱看影视.json"},
 {"key":"csp_xBPQ_看看屋","name":"看看屋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/xBPQ/看看屋.json","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/zy.jar"}, 
+{"key":"csp_xBPQ_蓝光影院","name":"蓝光影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/xBPQ/蓝光影院.json"}, 
 
 
 
