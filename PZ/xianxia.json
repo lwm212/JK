@@ -9,8 +9,7 @@
 {"key":"csp_AppMr","name":"主页6","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},	    
 {"key": "dr_奇优影院","name": "主页7","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇优影院.js"},	    
 
-{"key":"csp_XBPQ_子子影视","name":"主页8","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/子子影视.json"},
-
+{"key": "csp_YQKAPP","name": "主页8","type": 3,"api": "csp_YQKAPP","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-tx.shumaxc.xyz"},
 {"key":"csp_XBPQ_ 咕噜咕噜","name":"主页9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/lwm212/boxx/raw/master/XBQ/咕噜咕噜.json"},
 {"key": "dr_8号影院","name": "主页10","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"},
 {"key":"csp_fantuan","name":"主页11","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
