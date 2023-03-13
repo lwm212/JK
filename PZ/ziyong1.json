@@ -227,7 +227,7 @@
 {"key":"csp_XBPQ_Auete","name":"Auete","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/Auete.json"},
 {key:'csp_XBPQ真不卡',name:' 🍂真不卡〔XBPQ〕',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.iqiq.io/lwm212/XBQ/main/真不卡.json'},
 {"key":"csp_xBPQ_91影院","name":"91影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/91影院.json","jar":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"},        
-{"key":"csp_xBPQ_双十电影","name":"双十电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ双十电影.json","jar":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"},
+
 {"key":"csp_xBPQ_UM影院","name":"UM影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/UM影院.json","jar":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"},        
  {"key":"csp_xBPQ_TVB云播","name":"TVB云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/TVB云播.json","jar":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"},   
 {"key":"csp_xBPQ_疯狗电影","name":"疯狗电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/疯狗电影.json","jar":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"},
@@ -238,7 +238,7 @@
 {"key":"csp_XBPQ_乐猪","name":"💢乐猪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/lwm212/boxx/raw/master/XBQ/乐猪影视.json"},
 {"key":"csp_XBPQ_七小时影院","name":"七小时影院（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/七小时影院.json"},
 {"key":"csp_XBPQ_爱看影视","name":"爱看影视（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/爱看影视.json"},
-{"key":"csp_xBPQ_看看屋","name":"看看屋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/xBPQ/看看屋.json","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/zy.jar"}, 
+{"key":"csp_xBPQ_看看屋","name":"看看屋","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/xBPQ/看看屋.json","jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/zy.jar"}, 
 
 {"key":"csp_xBPQ_蓝光影院","name":"蓝光影院","type": 3,"api":"csp_xBPQ","ext":"https://cdn.jsdelivr.net/gh/zhanghong1983/TVBOXZY@main/xBPQ/xBPQ/蓝光影院.json","jar":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"},
 
