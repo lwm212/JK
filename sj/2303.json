@@ -15,10 +15,10 @@
 {"key":"csp_XBPQ_ 咕噜咕噜","name":"主页10","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/lwm212/boxx/raw/master/XBQ/咕噜咕噜.json"},
 {"key": "dr_8号影院","name": "主页11","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"},
 {"key":"csp_fantuan","name":"主页12","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
-{"key":"csp_xp_348z","name":"主页13","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/lwm212/boxx/raw/master/XP/348z.json"},
+//{"key":"csp_xp_348z","name":"主页13","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/lwm212/boxx/raw/master/XP/348z.json"},
 
 
-//{"key":"csp_Nkdy","name":"主页13","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/Yoursmile.jar"},
+{"key":"csp_Nkdy","name":"主页13","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_XBPQ_双十电影","name":"主页14","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/lwm212/boxx/raw/master/XBQ/双十电影.json"},
 
