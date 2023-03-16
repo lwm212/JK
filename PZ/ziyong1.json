@@ -246,7 +246,8 @@
 
 {"key": "csp_xbpq_lgyy","name": "蓝光影院(XBPQ)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
 {"key": "csp_xb_zbk","name": "真不卡(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
-
+{"key": "csp_xb_auete","name": "AUETE(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://home.jundie.top:666/json/XBiu/auete.json"},
+{"key": "csp_xb_lib","name": "LIB(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": " https://www.libvio.cc/type/{cateId}-{catePg}.html"},
 
 {"key":"csp_xbb_骚火VIP","name":"🍀骚火VIP","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/shdy.json"},
 {"key":"csp_xbb_手机看剧","name":"🍀手机看剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/手机看剧.json","jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/xbb.jar"},
