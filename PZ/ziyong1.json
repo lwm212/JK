@@ -207,7 +207,7 @@
 #张红
 {"key":"csp_XBPQ_98影院","name":"98影院（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"},
 {"key":"csp_XBPQ_LIBVIO","name":"LIBVIO（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/LIBVIO.json"},
-{key:'csp_XBPQ真不卡',name:' 🍂真不卡〔XBPQ〕',type:3,api:'csp_XBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.iqiq.io/lwm212/XBQ/main/真不卡.json'},
+
 {"key":"csp_XBPQ_ 咕噜咕噜","name":"💢咕噜咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/lwm212/boxx/raw/master/XBQ/咕噜咕噜.json"},
 {"key":"csp_XBPQ_乐猪","name":"💢乐猪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/lwm212/boxx/raw/master/XBQ/乐猪影视.json"},
 {"key":"csp_xp_789kp","name":"💢789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/789kp.json"},
@@ -232,10 +232,10 @@
 {"key":"乐猪TV","name":"乐猪TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/乐猪TV.json"},
 {"key":"城市电影","name":"城市电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/城市电影.json"},
 {"key":"农民影视","name":"农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/农民影视.json"},
-{"key":"188影视","name":"188影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ188影视.json"},
+
 {"key":"真不卡影院","name":"真不卡影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/真不卡影院.json"},
 
-{"key":"凌云影视","name":"凌云影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/凌云影视.json"},
+
 
 
 {"key":"吼吼","name":"吼吼","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/吼吼.json"},
@@ -247,12 +247,11 @@
 {"key":"布蕾影视","name":"布蕾影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/布蕾影视.json"},
 {"key":"哔哩兔","name":"哔哩兔","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/哔哩兔.json"},
 {"key":"新视觉","name":"新视觉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/新视觉.json"},
-{"key":"兰花影院","name":"兰花影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/兰花影院.json"},
+
 {"key":"Vidhub","name":"Vidhub","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/Vidhub.json"},
 {"key":"Auete","name":"Auete","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/Auete.json"},
-{"key":"追剧啦","name":"追剧啦","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/追剧啦.json"},
-{"key":"霹雳影视","name":"霹雳影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/霹雳影视.json"},
-{"key":"万博剧院","name":"万博剧院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/万博剧院.json"},
+
+
 
 
 {"key": "csp_xbpq_lgyy","name": "蓝光影院(XBPQ)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
