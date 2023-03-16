@@ -284,7 +284,7 @@
     {"name": "电影港","type":0,"url": "https://vip.lianfaka.com/vip/?url=","ext": {"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
      {"name":"JJ","type":1,"url":"https://jj.wappt.top/api/jsonindex.php/?key=1WvfGOUzxbJ3yVgyIH&url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},     
     {"name": "爱奇艺","type": 1,"url": "https://vip.blbo.cc:2222/api/?key=4f1bf89d280322a85fee7c57ed5e2bb0&url=","ext": {"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
-     {"name":"喵影视","type":0,"url":"ttp://www.miaoys.cc/vip/?url="},
+     {"name":"喵影视","type":0,"url":"http://www.miaoys.cc/vip/?url="},
          
     {"name": "优酷 乐视3","type": 0,"url": "http://91fanli.top/m3u8/?url="},           
 
