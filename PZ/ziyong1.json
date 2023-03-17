@@ -310,7 +310,8 @@
      {"name":"喵影视","type":0,"url":"http://www.miaoys.cc/vip/?url="},
          
     {"name": "优酷 乐视3","type": 0,"url": "http://91fanli.top/m3u8/?url="},           
-
+     {"name": "云you解析①","type": 1,"url": "https://chaloli.cn/api/?key=592eb1213fe06e7c19347160cfa7eb7a&url="}, 
+   
             
               
     {"name": "bozrc1","type": 0,"url": "https://jx.bozrc.com:4433/aliplayer/?url=","ext": {"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
