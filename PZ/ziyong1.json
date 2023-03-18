@@ -266,7 +266,7 @@
 {"key":"csp_XBPQ_ 零零七","name":"007影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://raw.iqiq.io/lwm212/JK/main/XBPQ/007.json"},
 {"key":"csp_xpath_doujiaow","name":"豆角网(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/lwm212/xp@main/doujiaow.json"},
 
-
+{"key":"csp_XYQBiu_艾菲影视","name":"艾菲影视[XYQ]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lwm212/JK/main/XYQ/艾菲影视.json"},
 
 
 {"key": "csp_xbpq_lgyy","name": "蓝光影院(XBPQ)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
