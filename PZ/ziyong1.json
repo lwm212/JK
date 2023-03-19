@@ -331,7 +331,7 @@
          
     {"name": "优酷 乐视3","type": 0,"url": "http://91fanli.top/m3u8/?url="},           
     {"name": "尘烟","type": 1,"url": " https://jifei.mrcy0.com/home/api?type=ys&uid=7007619&key=kmouvzBEHKMQRVYZ19&url="}, 
-    {"name": "星辰云","type": 1,"url": "https://json.key521.cn/api/?key=df2b77e9d0d38651f82400579520a1ad&url="},
+    {"name": "星辰云","type": 1,"url": "https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url="},
             
               
     {"name": "bozrc1","type": 0,"url": "https://jx.bozrc.com:4433/aliplayer/?url=","ext": {"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
