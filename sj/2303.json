@@ -1,14 +1,15 @@
 {
     "sites": [ 
-{"key": "农民","name": "主页1","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},  
-{"key":"奇优影院","name":"主页2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/奇优影院.json"},
-	    
+//{"key": "农民","name": "主页1","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},  
+//{"key":"奇优影院","name":"主页2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/lwm212/jierui/raw/master/XBPQ/奇优影院.json"},
+{"key": "dr_农民影视","name": "主页1","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/农民影视.js"},
+{"key": "dr_奇优影院","name": "主页2","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇优影院.js"},	    
 {"key": "360","name": "主页3","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 	    
 {"key":"csp_Cokemv","name":"主页4","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},	    
 
 {"key": "Kuaikan","name": "主页5","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"Auete","name":"主页6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/Auete.json","playerType":2},
+{"key":"Auete","name":"主页6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/lwm212/jierui/raw/master/XBPQ/Auete.json","playerType":2},
  {"key":"DNSP_spider","name":"主页7","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996","jar":"http://cdn.qiaoji8.com/fix230228.jar"},
 {"key":"csp_AppMr","name":"主页8","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},	    
 
@@ -299,6 +300,6 @@
         "cms.qdwght.com"
     ],
       
-"spider":"https://notabug.org/lwm212/boxx/raw/master/JAR/cc1.jar;md5;21b08989bf6fec5203e7726180d77082",
+"spider":"https://gitee.com/lwm212/jierui/raw/master/0/cc1.jar;md5;21b08989bf6fec5203e7726180d77082",
        "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302"
 }
