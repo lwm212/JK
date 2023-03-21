@@ -110,9 +110,9 @@
 {"key": "dr_起飞影院","name": "起飞影院(drpy)","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/起飞影院.js"},
 {"key": "dr_有声小说吧","name": "有声小说吧(drpy)","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/有声小说吧.js"},
 {"key":"dr_HG影院[V2]","name":"HG影院[V2](drpy)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/HG影院[V2].js","playerType":2},
-{"key":"dr_天空影视[V2]","name":"天空影视[V2]drpy)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/天空影视[V2].js"},            
-    
-        
+{"key":"dr_KOK影院","name":"KOK影院drpy)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/KOK影院.js"},            
+{"key":"dr_去享星视","name":"去享星视drpy)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/去享星视.js"},            
+
 {"key":"dr_omofun动漫","name":"omofun动漫(drpy)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/omofun动漫.js"},
 {"key":"dr_萌蛋蛋[V2]","name":"萌蛋蛋[V2](drpy)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/萌蛋蛋[V2].js"},
 {"key":"dr_我爱电影网","name":"我爱电影网(drpy)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/我爱电影网.js"},
