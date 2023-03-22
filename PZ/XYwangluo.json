@@ -1,7 +1,7 @@
 {
     "sites": [ 
-{"key": "农民","name": "主页1","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/lwm212/JK/main/json/nongmin.json"},  
-
+//{"key": "农民","name": "主页1","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/lwm212/JK/main/json/nongmin.json"},  
+{"key":"csp_xp_gongreng","name":"主页1","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/gongreng.json"},
 {"key":"奇优影院","name":"主页2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/奇优影院.json"},
 
 {"key": "360","name": "主页3","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
