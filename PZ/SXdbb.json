@@ -20,11 +20,10 @@
 
 {"key":"csp_Nkdy","name":"主页14","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_Lib","name":"主页15","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
 
 
 
-{"key":"csp_XBPQ_ 零零七","name":"主页16","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://raw.iqiq.io/lwm212/JK/main/XBPQ/007.json"},
+{"key":"csp_XBPQ_ 零零七","name":"主页15","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://raw.iqiq.io/lwm212/JK/main/XBPQ/007.json"},
 {"key": "MGTV","name": "芒果","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "IQIYI","name": "爱奇艺","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
