@@ -2,7 +2,7 @@ muban.首图2.二级.desc = ';;;.data:eq(1)&&Text;.data.hidden-xs&&Text'
 var rule = {
 	title:'LIBVIO',
 	模板:'首图2',
-	host:'https://libvio.cc',
+	host:'https://tv.libvio.cc/',
 	// url:'/type/fyclass-fypage.html',
 	url:'/show/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
