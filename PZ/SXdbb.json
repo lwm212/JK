@@ -20,7 +20,10 @@
 
 {"key":"csp_Nkdy","name":"主页14","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/Yoursmile.jar"},
 
-
+{"key": "dr_星辰","name": "星辰(drpy)","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/星辰.js"},
+{"key": "dr_奇优影院","name": "奇优影院(drpy)","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/奇优影院.js"},
+{"key": "dr_大米星球","name": "大米星球(drpy)","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/大米星球.js"},
+{"key": "dr_厂长资源","name": "厂长资源(drpy)","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/厂长资源.js"},
 
 
 {"key":"csp_XBPQ_ 零零七","name":"主页15","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://raw.iqiq.io/lwm212/JK/main/XBPQ/007.json"},
