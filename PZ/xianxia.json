@@ -10,7 +10,7 @@
 {"key":"csp_Cokemv","name":"主页4","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},	    
 
 {"key": "Kuaikan","name": "主页5","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Auete","name": "主页6","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":2},
+{"key":"Auete","name":"主页6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/Auete.json"},
 
 {"key":"csp_AppTT","name":"主页7","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
 {"key":"世界杯","name":"主页8","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/ts.jar"},
