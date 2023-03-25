@@ -19,8 +19,7 @@
 {"key":"csp_XBPQ_ 咕噜咕噜","name":"主页10","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/lwm212/boxx/raw/master/XBQ/咕噜咕噜.json"},
 
 {"key":"csp_fantuan","name":"主页11","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
-{"key":"世界杯","name":"主页12","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/ts.jar"},
-
+{"key": "csp_MeiJu69","name": "主页12","type": 3,"api":"csp_MeiJu69","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/","jar":"http://我不是.肥猫.love:63/Jar/panda230324.jar"},
 
 {"key": "MGTV","name": "芒果","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/cc.jar"},
 
