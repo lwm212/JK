@@ -107,6 +107,7 @@
 {"key": "dr_南柯电影网","name": "南柯电影网(drpy)","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/南柯电影网.js"},
 {"key": "dr_345看片","name": "345看片(drpy)","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/345看片.js"},
 {"key": "dr_剧白白","name": "剧白白(drpy)","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/剧白白.js"},
+{"key": "dr_万能影视","name": "万能影视(drpy)","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/万能影视.js"},
 
 
 {"key": "dr_ 555影视[V2]","name": " 555影视[V2](drpy)","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/555影视%5BV2%5D.js"},
