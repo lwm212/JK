@@ -6,7 +6,7 @@ muban.短视2.二级.content = '.card-text&&Text';
 var rule = {
     title:'人人',
     模板:'短视2',
-    host:'https://www.rrets.cc',
+    host:'https://www.renren.pro/',
 	// url: '/vodshow-fyclass/page/fypage/',
 	url: '/vodshow-fyclassfyfilter/',
     filterable:1,//是否启用分类筛选,
