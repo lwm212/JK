@@ -20,7 +20,7 @@
 {"key":"csp_fantuan","name":"主页12","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_XYQBiu_艾菲影视","name":"主页13","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lwm212/JK/main/XYQ/艾菲影视.json"},
 {"key":"csp_XBPQ_ 零零七","name":"主页14","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://raw.iqiq.io/lwm212/JK/main/XBPQ/007.json","playerType":2},
-{"key": "dr_tva云播","name": "主页15","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/tva云播.js"},
+{"key": "dr_双十电影","name": "主页15","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/双十电影.js"},
 {"key": "MGTV","name": "芒果","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/cc.jar"},
 {"key": "dr_奇珍异兽","name": "爱奇艺","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/奇珍异兽.js"},
 {"key": "dr_腾云驾雾","name": "腾讯","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/腾云驾雾.js"},
