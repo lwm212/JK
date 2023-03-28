@@ -6,7 +6,9 @@
 {"key": "360","name": "主页3","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 	    
-{"key":"csp_Cokemv","name":"主页4","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},	    
+
+{"key":"骚火","name":"主页4","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/骚火.json"},
+
 
 {"key": "Kuaikan","name": "主页5","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Auete","name":"主页6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/Auete.json"},
