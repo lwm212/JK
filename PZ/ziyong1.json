@@ -335,7 +335,7 @@
 {"key":"csp_xbb_city电影","name":"🍀city电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/city电影.json","jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/xbb.jar"},
 {"key":"csp_xbb_139影视","name":"🍀139影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/139影视.json","jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/xbb.jar"},
 {"key" : "csp_biubiu_dadagui","name" : "达达龟","type" : 3,"api" : "csp_XPathFilter","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"},
-{"key":"csp_xp_348z","name":"💢348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/348z.json"},
+{"key":"csp_xp_348z","name":"💢348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/xp/348z.json"},
 {"key": "Bili","name": "Bili(爬虫)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://dxawi.github.io/1/json/bili.json"},
 {"key": "知识","name": "知识学堂(爬虫)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://dxawi.github.io/1/json/xx1.json"},
 {"key": "儿童","name": "儿童(爬虫)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://dxawi.github.io/1/json/xx2.json"},
