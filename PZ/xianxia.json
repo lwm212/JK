@@ -23,8 +23,8 @@
 {"key": "MGTV","name": "芒果","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/cc.jar"},
 {"key": "dr_奇珍异兽","name": "爱奇艺","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/奇珍异兽.js"},
 {"key": "dr_腾云驾雾","name": "腾讯","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/腾云驾雾.js"},
-{"key": "PanSou","name": "盘搜┃蓝光","type": 3,"api": "csp_PanSou","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/token/aili.txt"},
-	    
+
+{"key": "YiSo","name": "盘搜┃搜索","type": 3,"api": "csp_YiSo","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/token/aili.txt"},	    
 {"key": "Dm84","name": "动漫","type": 3,"api": "csp_Dm84","quickSearch": 1,"filterable": 1},
 {"key": "儿童","name": "儿童","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.kgithub.com/lwm212/JK/main/json/ertong.json"},
 {"key": "演唱会","name": "音乐演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/lwm212/boxx/raw/master/json/biliyc.json"}
