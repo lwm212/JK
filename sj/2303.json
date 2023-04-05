@@ -13,7 +13,7 @@
 {"key":"csp_XYQBiu_艾菲影视","name":"主页8","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lwm212/JK/main/XYQ/艾菲影视.json"},
 {"key":"csp_AppTT","name":"主页9","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
 {"key": "dr_LIBVIO","name": "主页10","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/LIBVIO.js"},
-{"key": "dr_酷客影院","name": "主页11","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/酷客影院.js"},
+{"key": "77", "name": "主页11","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/cc.jar"},
 
 {"key": "dr_8号影院","name": "主页12","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/8号影院.js"},
 {"key":"城市电影","name":"主页13","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/城市电影.json"},
