@@ -19,7 +19,7 @@
 
 {"key":"csp_XBPQ_双十电影","name":"主页13","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/lwm212/boxx/raw/master/XBQ/双十电影.json"},
 
-{"key":"城市电影","name":"主页14","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/城市电影.json"},
+{"key": "77", "name": "主页14","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/cc.jar"},
 
 {"key":"csp_Xinsj","name":"主页15","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 
