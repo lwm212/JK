@@ -2,8 +2,7 @@
     "sites": [ 
 {"key": "农民","name": "主页1","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/csp/农民.json"},  
 {"key":"奇优影院","name":"主页2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"},
-{"key": "csp_XYQHiker_电影盒子","name":"主页3","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XYQ/电影盒子.json"},
-	    
+{"key":"csp_XBPQ_ 咕噜咕噜","name":"主页3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/咕噜咕噜.json"},	    
 {"key": "360","name": "主页4","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Auete","name":"主页5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/Auete.json"},
 
