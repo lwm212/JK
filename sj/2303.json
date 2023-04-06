@@ -4,8 +4,7 @@
 
 {"key":"奇优影院","name":"主页2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"},
 {"key": "360","name": "主页3","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_XYQHiker_电影盒子","name":"主页4","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XYQ/电影盒子.json"},
-
+{"key":"csp_XBPQ_ 咕噜咕噜","name":"主页4","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/咕噜咕噜.json"},
 {"key":"csp_Xinsj","name":"主页5","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_XBPQ_ 零零七","name":"主页6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://raw.iqiq.io/lwm212/JK/main/XBPQ/007.json","playerType":2},
 
