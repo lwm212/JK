@@ -13,8 +13,7 @@
 	    
 {"key":"csp_XBPQ_ 咕噜咕噜","name":"主页10","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/咕噜咕噜.json"},
 	    
-{"key":"csp_XBPQ_ 零零七","name":"主页11","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://raw.iqiq.io/lwm212/JK/main/XBPQ/007.json","playerType":2},
-
+{"key":"csp_DiDuan","name":"主页11","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"csp_XYQBiu_艾菲影视","name":"主页12","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lwm212/JK/main/XYQ/艾菲影视.json"},
 
