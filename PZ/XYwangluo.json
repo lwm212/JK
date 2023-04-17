@@ -1,30 +1,18 @@
 {
     "sites": [ 
-{"key": "农民","name": "主页1","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/csp/农民.json"},  
-{"key":"360","name":"主页2","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
-
-{"key":"奇优影院","name":"主页3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"},
-{"key": "Kuaikan","name": "主页4","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-{"key":"csp_xbb_红领巾","name":"主页5","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/xbb/红领巾.json","jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/xbb.jar"},
-	    
-
-{"key":"csp_Xinsj","name":"主页6","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
-{"key": "77", "name": "主页7","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/cc.jar"},
-{"key": "csp_Lib","name": "主页8","type": 3,"api": "csp_Libvio","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
-	
-
-
-
-{"key":"csp_Auete","name":"主页9","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
-
-{"key":"csp_Smdyy","name": "主页10","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-
-{"key":"诺讯资源〔官源〕","name":"主页11","type":1,"api":"http://xxx.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道","动漫频道","综合频道"]},
-
-
+{"key":"直播","name":"软件使用说明","type":3,"api":"https://notabug.org/lwm212/boxx/raw/master/libs/直播转点播.js","ext":"使用说明$https://jihulab.com/lwm212/box/-/raw/main/TVLive/sm.json"},
+{"key": "农民","name": "影视┃1","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/csp/农民.json"},  
+{"key":"360","name":"影视┃2","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"奇优影院","name":"影视┃3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"},
+{"key":"csp_xbb_红领巾","name":"影视┃4","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/xbb/红领巾.json","jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/xbb.jar"},
+{"key": "Kuaikan","name": "影视┃5","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "77", "name": "影视┃6","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/cc.jar"},
+{"key":"csp_AppTT","name":"影视┃7","type":3,"api":"csp_AppTT","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+{"key":"csp_Xinsj","name":"影视┃8","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
+{"key": "csp_Lib","name": "影视┃9","type": 3,"api": "csp_Libvio","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
+{"key":"csp_Auete","name":"影视┃10","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"csp_Smdyy","name": "影视┃11","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_XYQHiker_星辰影院","name":"影视┃12","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XYQ/星辰影院.json"},
 
 {"key": "MGTV","name": "芒果","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/cc.jar"},
 {"key": "dr_奇珍异兽","name": "爱奇艺","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/奇珍异兽.js"},
