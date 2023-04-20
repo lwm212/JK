@@ -8,7 +8,7 @@
 {"key":"98影院","name":"影视┃4","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/98影院.json"},
 	    
 {"key": "Kuaikan","name": "影视┃5","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "77", "name": "影视┃6","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://raw.iqiq.io/lwm212/JK/main/JAR/cc.jar"},
+{"key":"csp_77","name":"影视┃6","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"影视┃7","type":3,"api":"csp_AppTT","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_Xinsj","name":"影视┃8","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key": "csp_Lib","name": "影视┃9","type": 3,"api": "csp_Libvio","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
