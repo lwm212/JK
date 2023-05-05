@@ -1,7 +1,8 @@
 {
     "sites": [ 
 
-{"key": "农民","name": "影视┃1","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/csp/农民.json"}, 
+{"key":"csp_xp_gongreng","name":"影视┃1","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/xp/gongreng.json"},
+
 
 {"key":"360","name":"影视┃2","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
