@@ -14,7 +14,7 @@
 {"key":"csp_77","name":"影视┃7","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_XYQHiker_七新影视","name":"影视┃8","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XYQ/七新影视.json"}, 
 {"key":"csp_Xinsj","name":"影视┃9","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
-{"key":"csp_DiDuan","name":"影视┃10","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+{"key": "dr_皮皮鸭","name": "影视┃10","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/皮皮鸭.js"},
 //{"key": "csp_Lib","name": "影视┃9","type": 3,"api": "csp_Libvio","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
 {"key":"csp_Auete","name":"影视┃11","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
