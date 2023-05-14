@@ -3,10 +3,13 @@
 
         
 {"key":"直播","name":"使用说明","type":3,"api":"https://notabug.org/lwm212/JS/raw/master/api/直播转点播.js","ext":"使用说明$https://jihulab.com/lwm212/box/-/raw/main/TVLive/sm.json"},
-{"key": "农民","name": "影视┃1","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/csp/农民.json"},  
+{"key":"奇优影院","name":"影视┃1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"},  
+//{"key": "农民","name": "影视┃2","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/csp/农民.json"}, 
+{"key":"新视觉","name":"影视┃2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/新视觉.json"},  
+{"key":"Tutu_spider","name":"影视┃3","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW","jar":"http://cdn.qiaoji8.com/fix0511.jar"},
+ 
+   
 
-{"key":"奇优影院","name":"影视┃2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"},   
-{"key":"csp_Xinsj","name":"影视┃3","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},    
 {"key": "dr_360影视","name": "影视┃4","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/360影视.js"},
 {"key":"BuLei","name":"影视┃5","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kan.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},
 {"key":"csp_xbb_红领巾","name":"影视┃6","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/xbb/红领巾.json","jar":"https://jihulab.com/lwm212/box/-/raw/main/JAR/xbb.jar"},
