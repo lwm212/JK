@@ -26,8 +26,7 @@
 
 
 
-{"key": "UpYun","name": "搜索┃阿里云盘扫码授权","type": 3,"api": "csp_UpYun","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/lwm212/JK/main/token/aili.txt"},
-
+{"key": "csp_Yisou","name": "影视┃搜索","type": 3,"playerType": 1,"api": "csp_Yisou","ext": "https://notabug.org/qizhen15800/My9394/raw/master/alitoken/token.php","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xldjq0516.jar"},
 {"key": "dr_奇珍异兽","name": "爱奇艺","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/奇珍异兽.js"},
 {"key": "dr_腾云驾雾","name": "腾讯","type": 3,"api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/腾云驾雾.js"},
 {"key": "dr_优酷","name": "优酷","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/优酷.js"},
