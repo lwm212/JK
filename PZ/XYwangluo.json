@@ -1,38 +1,27 @@
 {
     "sites": [ 
 
-
+{"key":"直播","name":"使用说明","type":3,"api":"https://notabug.org/lwm212/JS/raw/master/api/直播转点播.js","ext":"使用说明$https://jihulab.com/lwm212/box/-/raw/main/TVLive/sm.json"},
 {"key":"奇优影院","name":"影视┃1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"},
-{"key": "csp_appys_酷影","name": "影视┃2","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://ys.realdou.cn/api.php/app/"},
+//{"key": "csp_appys_酷影","name": "影视┃2","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://ys.realdou.cn/api.php/app/"},
+{"key":"多米蓝光","name":"影视┃2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
 
-
-
-{"key":"多米蓝光","name":"影视┃3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
-
-
+{"key": "csp_XYQHiker_电影盒子","name":"影视┃3","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XYQ/电影盒子.json","jar":"https://jihulab.com/lwm212/box/-/raw/main/JAR/XYQ.jar" },
 {"key": "农民","name": "影视┃4","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/csp/农民.json"}, 
 {"key": "XYQB_酷客","name": "影视┃5","type": 3,"playerType": 2,"api": "csp_XYQBiu","ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQBiu/酷客.js"},
-{"key": "XYQB_磁力熊","name": "影视┃6","type": 3,"api": "csp_XYQBiu","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/XYQBiu/磁力熊.json"},
+{"key":"csp_AppTT","name":"影视┃6","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","jar":"http://我不是.肥猫.love:63/Jar/pandaQ230527.jar"},
+{"key":"Auete","name":"影视┃7","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/Auete.json"},
 
-{"key": "XYQH_白嫖联盟","name": "影视┃7","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/XYQ/联盟.js","jar":"https://jihulab.com/lwm212/box/-/raw/main/JAR/XYQ.jar" },
-{"key":"csp_xbb_红领巾","name":"影视┃8","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/xbb/红领巾.json","jar":"https://jihulab.com/lwm212/box/-/raw/main/JAR/xbb.jar"},
-{"key":"csp_Smdyy","name": "影视┃9","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"诺讯资源〔官源〕","name":"影视┃10","type":1,"api":"http://xxx.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动漫频道","综合频道"]},
+{"key": "csp_XYQHiker_98影院","name":"影视┃8","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XYQ/98影院.json","jar":"https://jihulab.com/lwm212/box/-/raw/main/JAR/XYQ.jar" },
 
-{"key": "csp_Lib","name": "影视┃11","type": 3,"api": "csp_Libvio","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
-{"key":"csp_DiDuan","name":"影视┃12","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "csp_XYQHiker_98影院","name":"影视┃13","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XYQ/98影院.json","jar":"https://jihulab.com/lwm212/box/-/raw/main/JAR/XYQ.jar" },
+{"key":"诺讯资源〔官源〕","name":"影视┃9","type":1,"api":"http://xxx.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动漫频道","综合频道"]},
 
-//{"key":"易搜","name": "影视┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"https://cf.weixine.net/YSC.jar"},
-
-{"key": "csp_Yisou","name": "影视┃搜索","type": 3,"api": "csp_Yisou","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/alitoken/token.php","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/xldjq0516.jar"},
-
-
-
+{"key": "csp_Lib","name": "影视┃10","type": 3,"api": "csp_Libvio","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
+{"key":"csp_DiDuan","name":"影视┃11","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "dr_奇珍异兽","name": "爱奇艺","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/奇珍异兽.js"},
 {"key": "dr_腾云驾雾","name": "腾讯","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/腾云驾雾.js"},
 {"key": "dr_优酷","name": "优酷","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/优酷.js"},
-{"key": "dr_百忙无果","name": "芒果","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/百忙无果.js"},
+//{"key": "dr_百忙无果","name": "芒果","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/百忙无果.js"},
 {"key": "csp_XYQBiu_88看球","name":"NBA直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XYQBiu/88看球.json"},
    
 {"key":"dr_路漫漫","name":"动漫","type":3,"api":"https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/drpy/路漫漫.js"},                                              
