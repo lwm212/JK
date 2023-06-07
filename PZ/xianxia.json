@@ -1,35 +1,36 @@
 {
     "sites": [ 
 
+{"key":"直播","name":"使用说明","type":3,"api":"https://notabug.org/lwm212/JS/raw/master/api/直播转点播.js","ext":"使用说明$https://jihulab.com/lwm212/box/-/raw/main/TVLive/sm.json"},
+
 {"key":"奇优影院","name":"影视┃1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"},
+{"key":"多米蓝光","name":"影视┃2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
 
-{"key":"多米蓝光","name":"影视┃2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
+{"key":"csp_XBPQ_磁力熊","name":"影视┃3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playerType":2,"ext":"http://我不是.肥猫.love:63/json/磁力熊.json"},
 
-{"key": "csp_XYQHiker_电影盒子","name":"影视┃3","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XYQ/电影盒子.json"},
-{"key": "app_影视之光","name": "影视┃4","type": 1,"api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod"},
-{"key": "csp_appys_酷影","name": "影视┃5","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://ys.realdou.cn/api.php/app/"},
+{"key": "csp_XYQHiker_电影盒子","name":"影视┃4","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XYQ/电影盒子.json"},
+{"key": "csp_BuLei","name":"影视┃5","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://dy01.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122","jar":"http://我不是.肥猫.love:63/Jar/pandaQ230604.jar"},
 {"key": "csp_appys_如意4K","name": "影视┃6","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},
 
-{"key": "dr_农民影视","name": "影视┃7","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/农民影视.js"},
-
+{"key": "dr_农民影视","name": "影视┃7","type": 3,"api": "https://raw.iqiq.io/lwm212/dr_py/main/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/农民影视.js"},
 
 {"key":"98影院","name":"影视┃8","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/98影院.json"},
 
 {"key":"诺讯资源〔官源〕","name":"影视┃9","type":1,"api":"http://xxx.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动漫频道","综合频道"]},
 
-{"key": "dr_LIBVIO","name": "影视┃10","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/LIBVIO.js"},
+{"key": "dr_LIBVIO","name": "影视┃10","type": 3,"api": "https://raw.iqiq.io/lwm212/dr_py/main/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/LIBVIO.js"},
 {"key":"csp_DiDuan","name":"影视┃11","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
 
 
 
-{"key": "dr_奇珍异兽","name": "爱奇艺","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/奇珍异兽.js"},
-{"key": "dr_腾云驾雾","name": "腾讯","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/腾云驾雾.js"},
-{"key": "dr_优酷","name": "优酷","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/优酷.js"},
-
+{"key": "dr_奇珍异兽","name": "爱奇艺","type": 3,"api": "https://raw.iqiq.io/lwm212/dr_py/main/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/奇珍异兽.js","playerType":2},
+{"key": "dr_腾云驾雾","name": "腾讯","type": 3,"api": "https://raw.iqiq.io/lwm212/dr_py/main/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/腾云驾雾.js","playerType":2},
+{"key": "dr_优酷","name": "优酷","type": 3,"api": "https://raw.iqiq.io/lwm212/dr_py/main/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/优酷.js","playerType":2},
+//{"key": "dr_百忙无果","name": "芒果","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/百忙无果.js"},
 {"key": "csp_XYQBiu_88看球","name":"NBA直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XYQBiu/88看球.json"},
    
-{"key":"dr_路漫漫","name":"动漫","type":3,"api":"https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/drpy/路漫漫.js"},                                              
+{"key":"dr_路漫漫","name":"动漫","type":3,"api":"https://raw.iqiq.io/lwm212/dr_py/main/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/drpy/路漫漫.js"},                                              
    
 
 {"key": "Bili","name": "Bili综合","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/lwm212/boxx/raw/master/json/bilibili.json"}
@@ -45,9 +46,9 @@
 {"name": "爱奇艺 腾讯 优酷 PPTV ","type":0,"url":"https://jxdp.codermart.net/?url="},     
 {"name":"芒果 优酷  腾讯 bili","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 
-{"name":"芒果 爱奇艺 优酷  腾讯 西瓜","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"芒果  腾讯 西瓜 cntv","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
- {"name":"腾讯 爱奇艺 优酷","url":"http://json.yimufund.net/jsonindex.php?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"LuaSocket 3.0-rc1"}},"header":{"User-Agent":"LuaSocket 3.0-rc1"}}
+ {"name":"腾讯 爱奇艺 优酷","url":"https://json.key521.cn/api/?key=080c82d4670d28ef3a3cedfc2370e21b&url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"LuaSocket 3.0-rc1"}},"header":{"User-Agent":"LuaSocket 3.0-rc1"}}
 
 
 ],
