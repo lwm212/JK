@@ -1,7 +1,7 @@
 {
     "sites": [ 
 
-{"key":"直播","name":"使用说明","type":3,"api":"https://notabug.org/lwm212/JS/raw/master/api/直播转点播.js","ext":"使用说明$https://jihulab.com/lwm212/box/-/raw/main/TVLive/sm.json"},
+
 
 {"key":"奇优影院","name":"影视┃1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"},
 
@@ -45,7 +45,7 @@
         "proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9sd20yMTIvYm94eC9yYXcvbWFzdGVyLzcuMzF6Yi9GTVpCLnR4dA=="
     ]}]}],
 "parses": [
-{"name":"爱奇艺 腾讯","type":0,"url":"https://vip.feifeiab.com/?url="},    
+{"name":"爱奇艺 腾讯","type":0,"url":"https://jx.777jiexi.com/player/?url="},    
 {"name": " 优酷 芒果 ","type": 0,"url": "https://yun.nxflv.com/?url="}, 
 {"name":"芒果 优酷  腾讯 bili","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
 
