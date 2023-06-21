@@ -2,23 +2,27 @@
     "sites": [ 
 
 
-{"key":"奇优影院","name":"影视┃1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"},
 
-{"key": "csp_XYQHiker_电影盒子","name":"影视┃2","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XYQ/电影盒子.json"},
-{"key":"多米蓝光","name":"影视┃3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
-{"key": "dr_农民影视","name": "影视┃4","type": 3,"api": "https://raw.iqiq.io/lwm212/dr_py/main/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/农民影视.js"},
+//{"key":"奇优影院","name":"影视┃1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"},
 
-{"key": "热播之家","name": "影视┃5","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/XBPQ/热播之家.json"},
+{"key": "csp_XYQHiker_电影盒子","name":"影视┃1","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XYQ/电影盒子.json"},
+
+{"key": "drpy_影探","name": "影视┃2","type": 3,"api": "csp_AppYsV2","ext": "http://longfei.lfytyl.com/api.php/app/"},
+{"key": "dr_农民影视","name": "影视┃3","type": 3,"api": "https://raw.iqiq.io/lwm212/dr_py/main/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/农民影视.js"},
+{"key": "cjzy_快看","name": "影视┃4","type": 1,"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","港台剧","国产动漫","日韩剧","欧美剧","爱情片","剧情片","科幻片","奇幻片","战争片","犯罪片","恐怖片","悬疑片","惊悚片","冒险片"]},
+
+
+
 
 
 //{"key": "360","name": "影视┃4","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/lwm212/box/-/raw/main/JAR/xl.jar"},
 
-{"key": "dr_爱迪影视","name": "影视┃6","type": 3,"api": "https://raw.iqiq.io/hjdhnx/dr_py/main/libs/drpy.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/爱迪影视.js"},
+{"key": "dr_爱迪影视","name": "影视┃5","type": 3,"api": "https://raw.iqiq.io/hjdhnx/dr_py/main/libs/drpy.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/爱迪影视.js"},
 
-{"key":"棉花影视","name":"影视┃7","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"http://cdn.qiaoji8.com/fix0516.jar"},
+{"key":"棉花影视","name":"影视┃6","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"http://cdn.qiaoji8.com/fix0516.jar"},
+{"key":"csp_77","name":"影视┃7","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://cdn.qiaoji8.com/fix0610.jar"},
 
-
-{"key":"98影院","name":"影视┃8","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/98影院.json"},
+{"key": "热播之家","name": "影视┃8","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/XBPQ/热播之家.json"},
 
 {"key":"诺讯资源〔官源〕","name":"影视┃9","type":1,"api":"http://xxx.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动漫频道","综合频道"]},
 
