@@ -1,10 +1,10 @@
 {
     "sites": [ 
 
-{"key":"直播","name":"使用说明","type":3,"api":"https://notabug.org/lwm212/JS/raw/master/api/直播转点播.js","ext":"使用说明$https://jihulab.com/lwm212/box/-/raw/main/TVLive/sm.json"},
+
 
 {"key":"奇优影院","name":"影视┃1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"},
-{"key": "cjzy_快看","name": "影视┃2","type": 1,"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","港台剧","国产动漫","国产综艺","港台综艺","韩国剧","日本剧","韩国综艺","欧美剧","爱情片","剧情片","科幻片","奇幻片","战争片","犯罪片","恐怖片","悬疑片","惊悚片","冒险片"]},
+{"key": "cjzy_快看","name": "影视┃2","type": 1,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","港台剧","国产动漫","国产综艺","港台综艺","韩国剧","日本剧","韩国综艺","欧美剧","爱情片","剧情片","科幻片","奇幻片","战争片","犯罪片","恐怖片","悬疑片","惊悚片","冒险片"]},
 {"key": "csp_XYQHiker_电影盒子","name":"影视┃3","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XYQ/电影盒子.json"},
 
 {"key":"北极狐", "name": "影视┃4", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
@@ -12,7 +12,7 @@
 
 {"key": "drpy_爱迪","name": "影视┃6","type": 3,"api": "csp_AppYsV2","ext": "https://aidiapp.xyz/xgapp.php/v2/"},
 
-{"key":"棉花影视","name":"影视┃7","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"http://cdn.qiaoji8.com/fix0516.jar"},
+{"key": "看看","name": "影视┃7","type": 3,"playerType": "1","changeable": 0,"api": "csp_XBPQ","ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/看看.json","jar":"https://jihulab.com/lwm212/box/-/raw/main/JAR/小暴脾气.jar"},
 {"key":"csp_77","name":"影视┃8","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://cdn.qiaoji8.com/fix0610.jar"},
 
 {"key":"新视觉","name":"影视┃9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/新视觉.json"},
@@ -24,7 +24,7 @@
 
 {"key":"csp_LibVio","name":"影视┃11","type":3,"api":"csp_Lib","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"jar":"http://cdn.qiaoji8.com/fix0610.jar"},
 
-
+{"key": "YiSo","name": "搜搜┃阿里云盘扫码授权","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto","jar":"https://raw.iqiq.io/lwm212/gao/master/jar/小暴脾气.jar"},
 
 
 {"key": "dr_奇珍异兽","name": "爱奇艺","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/奇珍异兽.js"},
@@ -46,7 +46,7 @@
         "proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9sd20yMTIvYm94eC9yYXcvbWFzdGVyLzcuMzF6Yi9GTVpCLnR4dA=="
     ]}]}],
 "parses": [
-{"name":"爱奇艺 腾讯","type":0,"url":"https://jx.zhanlangbu.com/?url="}, 
+{"name":"爱奇艺 腾讯","type":1,"url":"https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url="}, 
 {"name": "腾讯 爱奇艺","type": 0,"url": "https://jx.777jiexi.com/player/?url="},    
 {"name": " 优酷 芒果 ","type": 0,"url": "https://yun.nxflv.com/?url="}, 
 {"name":"芒果 优酷  腾讯 bili","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
