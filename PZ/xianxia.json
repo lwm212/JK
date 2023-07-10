@@ -19,7 +19,8 @@
 
 {"key":"新视觉","name":"影视┃9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://jihulab.com/lwm212/box/-/raw/main/XBPQ/新视觉.json"},
 
-{"key": "csp_Czsapp","name": "影视┃10","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://czzy.art/","filterable": 1},
+{"key": "csp_Czsapp","name": "影视┃10","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://czzy.art/","filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/小暴脾气.jar"},
+
 
 
 {"key":"csp_LibVio","name":"影视┃11","type":3,"api":"csp_Lib","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"jar":"http://cdn.qiaoji8.com/fix0610.jar"},
