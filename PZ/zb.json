@@ -524,12 +524,12 @@ CCTV16-4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/
 
 
 测试,#genre#
-凤凰中文,https://dispatch.ulivetv.net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&timestamp=1686312697&rand=GPCliIMJdJ&uuid=9b647b3816b2a66a&from=web&sign=c469d073b65a1ef009f63e5fb44a7662
+凤凰中文,http://60.255.59.180:9090/live/8ne5i_sccn,test1_hls_pull_4000K/283/163/216.ts?vhost=live2.rxip.sc96655.com
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 
 
-凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰资讯,http://60.255.59.180:9090/live/8ne5i_sccn,test2_hls_pull_4000K/283/163/233.ts?vhost=live2.rxip.sc96655.com
 凤凰资讯,https://dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g&timestamp=1686272611&rand=L0EMwvvEsh&uuid=9b647b3816b2a66a&from=web&sign=aa283c67b0fc598ba2eb5ed7d31095dd
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 
