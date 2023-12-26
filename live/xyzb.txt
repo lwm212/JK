@@ -1422,8 +1422,14 @@ GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
 武汉新闻综合,http://58.19.38.221:9901/tsfile/live/65473_1.m3u8?key=txiptv
 
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
+武汉电视剧,http://58.19.38.221:9901/tsfile/live/65474_1.m3u8?key=txiptv
+
 武汉新闻综合,http://video.hannews.com.cn/fs/livedit/579aab595e36f48a/adb11b845cc5a5ab.m3u8
+武汉科技生活,http://58.19.38.221:9901/tsfile/live/65476_1.m3u8?key=txiptv
+
 武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
+武汉文体,http://58.19.38.221:9901/tsfile/live/65475_1.m3u8?key=txiptv
+
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
@@ -1504,7 +1510,10 @@ GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
 通城综合,https://tongcheng-live21.cjyun.org/10132/s10132-tongchengtv01.m3u8?auth_key=1704038399-0-0-4340a5902757b9adebfafe14d7d1e683
 孝感新闻综合,http://xiaogan-live21.cjyun.org/10139/s10139-xg.m3u8?auth_key=1704038399-0-0-71023ffd778812fa103ed72b64f4e067
 孝感生活,http://xiaogan-live21.cjyun.org/10139/s10139-shpd.m3u8?auth_key=1704038399-0-0-38258db7eb010303cb33988874a75a9f
+孝昌新闻党建,http://58.19.38.221:9901/tsfile/live/65479_1.m3u8?key=txiptv
+
 孝昌新闻党建,http://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1704038399-0-0-66730340ff88177724aa0e28999d1aab
+
 孝昌生活,http://xiaochang-live21.cjyun.org/10128/s10128-xcsh.m3u8?auth_key=1704038399-0-0-af4710244dd0e15a8c9b86523ea9bf2a
 应城新闻党建,https://yingcheng-live21.cjyun.org/10135/s10135-YCZH.m3u8?auth_key=1704038399-0-0-183e4f22e93e62e3d5853726af611aed
 应城生活,https://yingcheng-live21.cjyun.org/10135/s10135-YCDJ.m3u8?auth_key=1704038399-0-0-f5dd91c5873e2e3a99f0ce5a4714f709
