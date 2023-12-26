@@ -3215,6 +3215,13 @@ CDTV8高清,http://171.214.202.74:4000/udp/239.93.0.22:1252
 巴彦淖尔影视,http://pili-live-hls-bynr.tianma3600.com/bynr/ysyl.flv
 额济纳旗电视台,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live167081213259277.m3u8
 额济纳旗电视台,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live167081213259277.flv
+海南,#genre#
+海南新闻,http://stream3.hnntv.cn/xwpd/sd/live.m3u8?_upt=fb97ea901703585050
+海南公共,http://stream3.hnntv.cn/ggpd/sd/live.m3u8?_upt=1f41c6e41703585085
+海南经济,http://stream3.hnntv.cn/jjpd/sd/live.m3u8?_upt=1fcdc02f1703585080
+海南少儿,http://stream3.hnntv.cn/sepd/sd/live.m3u8?_upt=364522851703585240
+海南公共,http://stream3.hnntv.cn/ggpd/sd/live.m3u8?_upt=1a1712d81703585253
+海南文旅,http://stream3.hnntv.cn/wlpd/sd/live.m3u8?_upt=81efe3e41703585211
 
  🥙黑龙江,#genre#
 
