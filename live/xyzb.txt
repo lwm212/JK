@@ -258,6 +258,8 @@ CCTV17,http://39.134.136.151:6610/000000001000/1000000005000056836/index.m3u8?ch
 卫视频道,#genre#
 
 湖南卫视,http://182.32.160.11:9999/udp/239.21.1.158:5002
+湖南卫视,http://223.151.51.21:9901/tsfile/live/1010_1.m3u8?key=txiptv
+
 江苏卫视,http://182.32.160.11:9999/udp/239.21.1.89:5002
 
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -1165,18 +1167,23 @@ GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
 广东影视,http://47.242.38.45:9999/yisz.php?id==gdys
 
 
-广州南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
+广州南国都市,http://211.101.234.94:9999/php/gz.php?id=shenghuo
 
-广州综合,https://justsometime.gztv.com/sec/zhonghe.m3u8
+
+广州综合,http://211.101.234.94:9999/php/gz.php?id=zhonghe
+
 广州综合,http://hz752.love:63/live_60/gztv.php?id=gzzh
 广州综合,http://lu1.cc/itv/php/gudou.php?id=gzzh
-广州法治,https://justsometime.gztv.com/sec/fazhi.m3u8
+广州法治,http://211.101.234.94:9999/php/gz.php?id=fazhi
+
 广州法治,http://hz752.love:63/live_60/gztv.php?id=gzfz
 广州法治,http://lu1.cc/itv/php/gudou.php?id=gzfz
-广州新闻,https://justsometime.gztv.com/sec/xinwen.m3u8
+广州新闻,http://211.101.234.94:9999/php/gz.php?id=xinwen
+
 广州新闻,http://hz752.love:63/live_60/gztv.php?id=gzxw
 广州新闻,http://lu1.cc/itv/php/gudou.php?id=gzxw
-广州影视,https://justsometime.gztv.com/sec/yingshi.m3u8
+广州影视,http://211.101.234.94:9999/php/gz.php?id=yingshi
+
 广州影视,http://hz752.love:63/live_60/gztv.php?id=gzys
 广州影视,http://lu1.cc/itv/php/gudou.php?id=gzys
 广州竞赛,https://justsometime.gztv.com/sec/jibgsai.m3u8
@@ -1336,9 +1343,20 @@ GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
 分宜综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
 
  🎇湖南,#genre#
+湖南娱乐,http://223.151.51.21:9901/tsfile/live/1005_1.m3u8?key=txiptv
+湖南爱晚,http://223.151.51.21:9901/tsfile/live/1006_1.m3u8?key=txiptv
+
+湖南国际,http://223.151.51.21:9901/tsfile/live/1014_1.m3u8?key=txiptv
+
 湖南国际,http://220.248.173.158:9901/tsfile/live/1010_1.m3u8?key=txiptv
 湖南经视,http://220.170.243.198:9901/tsfile/live/1001_1.m3u8key=txiptv
+湖南都市,http://223.151.51.21:9901/tsfile/live/1009_1.m3u8?key=txiptv
+
 湖南都市,http://220.170.243.198:9901/tsfile/live/1002_1.m3u8?key=txiptv
+湖南电视剧,http://223.151.51.21:9901/tsfile/live/1011_1.m3u8?key=txiptv
+湖南教育,http://223.151.51.21:9901/tsfile/live/1013_1.m3u8?key=txiptv
+湖南电影,http://223.151.51.21:9901/tsfile/live/1015_1.m3u8?key=txiptv
+
 湖南教育,http://220.248.173.158:9901/tsfile/live/1023_1.m3u8?key=txiptv
 金鹰卡通,http://220.170.243.198:9901/tsfile/live/1005_1.m3u8?key=txiptv
 金鹰纪实,http://220.170.243.198:9901/tsfile/live/1007_1.m3u8?key=txiptv
@@ -1388,6 +1406,20 @@ GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
 洪江市综合,http://liveplay.rednet.cn/live/hongjiang_tv_ced5a7.m3u8
 
  💐湖北,#genre#
+湖北卫视,http://58.19.38.221:9901/tsfile/live/65465_1.m3u8?key=txiptv
+
+湖北综合,http://58.19.38.221:9901/tsfile/live/65466_1.m3u8?key=txiptv
+
+湖北经视,http://58.19.38.221:9901/tsfile/live/65467_1.m3u8?key=txiptv
+湖北影视,http://58.19.38.221:9901/tsfile/live/65470_1.m3u8?key=txiptv
+
+湖北公共,http://58.19.38.221:9901/tsfile/live/65468_1.m3u8?key=txiptv
+湖北教育,http://58.19.38.221:9901/tsfile/live/65471_1.m3u8?key=txiptv
+
+湖北生活,http://58.19.38.221:9901/tsfile/live/65472_1.m3u8?key=txiptv
+湖北垄上,http://58.51.109.158:9901/tsfile/live/23274_1.m3u8?key=txiptv
+武汉新闻综合,http://58.19.38.221:9901/tsfile/live/65473_1.m3u8?key=txiptv
+
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉新闻综合,http://video.hannews.com.cn/fs/livedit/579aab595e36f48a/adb11b845cc5a5ab.m3u8
 武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
