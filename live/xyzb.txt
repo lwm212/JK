@@ -3,46 +3,79 @@
 
 🇨🇳央视频道,#genre#
 使用说明,https://189.ly93.cc/qM7F3aFnqENj/32463166233707227/新项目2222.mp4?q=rGamZVrj49FWrc1HLEyq1Gm73V8m91s_3RHHASbOA7mMi3pHu9HKunrS7oCrZ2eu
+CCTV1,http://nas.jdshipin.com:8801/bst.php?id=cctv1
 CCTV1,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
 
 CCTV1,http://182.32.160.11:9999/udp/239.21.1.120:5002
 
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV2,http://nas.jdshipin.com:8801/bst.php?id=cctv2
 
 CCTV2,http://182.32.160.11:9999/udp/239.21.1.151:5002
+CCTV3,http://nas.jdshipin.com:8801/bst.php?id=cctv3
 CCTV3,http://182.32.160.11:9999/udp/239.21.2.45:5002
+CCTV4,http://nas.jdshipin.com:8801/bst.php?id=cctv4
+
 CCTV4,http://182.32.160.11:9999/udp/239.21.1.154:5002
-CCTV4欧洲,http://182.32.160.11:9999/udp/239.21.2.28:5002
-CCTV4美洲,http://182.32.160.11:9999/udp/239.21.2.29:5002
+
+CCTV5,http://nas.jdshipin.com:8801/bst.php?id=cctv5
+
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5,http://182.32.160.11:9999/udp/239.21.2.46:5002
 CCTV5,http://183.237.231.139:9901/tsfile/live/1005_1.m3u8
+CCTV5+,http://nas.jdshipin.com:8801/bst.php?id=cctv5p
+
 CCTV5+,http://182.32.160.11:9999/udp/239.21.1.142:5002
+CCTV6,http://nas.jdshipin.com:8801/bst.php?id=cctv6
 CCTV6,http://182.32.160.11:9999/udp/239.21.2.47:5002
 CCTV6,http://183.237.231.139:9901/tsfile/live/1006_1.m3u8
+CCTV7,http://nas.jdshipin.com:8801/bst.php?id=cctv7
 CCTV7,http://182.32.160.11:9999/udp/239.21.1.152:5002
+CCTV8,http://nas.jdshipin.com:8801/bst.php?id=cctv8
 CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV8,http://182.32.160.11:9999/udp/239.21.2.48:5002
-CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV9,http://nas.jdshipin.com:8801/bst.php?id=cctv9
+
+CCTV9,http://nas.jdshipin.com:8801/bst.php?id=cctv9
 CCTV9,http://182.32.160.11:9999/udp/239.21.1.153:5002
+CCTV10,http://nas.jdshipin.com:8801/bst.php?id=cctv10
+
 CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 CCTV10,http://183.237.231.139:9901/tsfile/live/1010_1.m3u8
 CCTV10,http://182.32.160.11:9999/udp/239.21.1.155:5002
+CCTV11,http://nas.jdshipin.com:8801/bst.php?id=cctv11
+
 CCTV11,http://182.32.160.11:9999/udp/239.21.2.2:5002
+CCTV12,http://nas.jdshipin.com:8801/bst.php?id=cctv12
+
 CCTV12,http://182.32.160.11:9999/udp/239.21.1.156:5002
 CCTV12,http://183.237.231.139:9901/tsfile/live/1012_1.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,http://cfss.cc/api/ysp/cctv13.m3u8
+
+CCTV13,http://nas.jdshipin.com:8801/bst.php?id=cctv13
+
 CCTV13,http://182.32.160.11:9999/udp/239.21.2.3:5002
+CCTV14,http://nas.jdshipin.com:8801/bst.php?id=cctv14
+
 CCTV14,http://182.32.160.11:9999/udp/239.21.1.157:5002
 CCTV14,http://183.237.231.139:9901/tsfile/live/1014_1.m3u8
+CCTV15,http://nas.jdshipin.com:8801/bst.php?id=cctv15
+
 CCTV15,http://182.32.160.11:9999/udp/239.21.2.4:5002
 CCTV15,http://183.237.231.139:9901/tsfile/live/1015_1.m3u8
+CCTV16,http://nas.jdshipin.com:8801/bst.php?id=cctv16
+
 CCTV16,http://cfss.cc/api/ysp/cctv16.m3u8
-CCTV17,http://182.32.160.11:9999/udp/239.21.1.186:5002
+
+CCTV17,http://nas.jdshipin.com:8801/bst.php?id=cctv17
+CETV1,http://nas.jdshipin.com:8801/bst.php?id=zgjy1
+
 CETV1,http://182.32.160.11:9999/udp/239.21.2.7:5002
+CETV2,http://nas.jdshipin.com:8801/bst.php?id=zgjy2
+
 CETV2,http://182.32.160.11:9999/udp/239.21.2.8:5002
 CETV2,http://182.32.160.11:9999/udp/239.21.1.222:5002
+CETV4,http://nas.jdshipin.com:8801/bst.php?id=zgjy4
 
 
 
@@ -253,53 +286,98 @@ CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 
 CCTV17,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
 CCTV17,http://39.134.136.151:6610/000000001000/1000000005000056836/index.m3u8?channel-
+CHC高清电影,http://183.238.66.1:9090/live/CHCHD_7000.m3u8?t=w14L5ppGYYzipwiIRQpgdA==&u=17199741419&p=8&pid=&cid=&d=865372026096088&sid=cNoVVZ/mJuWb7pnJw/EDZw==&r=20240103121316&e=20240104121321&nc=HSu0sbDZG0Et&a=7&v=2&isSuma=1&hlsSessionID=2793077895968924498&srchost=172.16.149.181:8060&gid=vdOBLp4%2FoNT%2BNyU7FP6IIA%3D%3D
+
+CHC动作电影,http://27.36.62.162:9090/live/CHCactionmovie_1500/CHCactionmovie_1500_426063814.ts?t=w14L5ppGYYzipwiIRQpgdA==&u=17199741419&p=8&pid=&cid=&d=865372026096088&sid=r7OtiBwJP7m9C9la6wsfZw==&r=20240103121440&e=20240104121445&nc=wKO3aqWZH0fl&a=7&v=2&isSuma=1&hlsSessionID=2793077895968925717&srchost=172.16.149.181:8060&gid=Ho5fo76Rp5RHqEAWSE%2FtPw%3D%3D
+
 
 
 卫视频道,#genre#
+湖南卫视,http://nas.jdshipin.com:8801/bst.php?id=hunan
 
 湖南卫视,http://182.32.160.11:9999/udp/239.21.1.158:5002
 湖南卫视,http://223.151.51.21:9901/tsfile/live/1010_1.m3u8?key=txiptv
+江苏卫视,http://nas.jdshipin.com:8801/bst.php?id=jsws
 
 江苏卫视,http://182.32.160.11:9999/udp/239.21.1.89:5002
+浙江卫视,http://nas.jdshipin.com:8801/bst.php?id=zjws
 
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 浙江卫视,http://182.32.160.11:9999/udp/239.21.1.90:5002
+东方卫视,http://nas.jdshipin.com:8801/bst.php?id=dfws
+
 东方卫视,http://182.32.160.11:9999/udp/239.21.1.111:5002
+北京卫视,http://nas.jdshipin.com:8801/bst.php?id=bjws
+
 北京卫视,http://182.32.160.11:9999/udp/239.21.1.88:5002
 四川卫视,http://182.32.160.11:9999/udp/239.21.2.15:5002
 深圳卫视,http://183.238.66.1:9090/live/shenzhenHD_7000.m3u8?ptype=8&plocation=001&puser=freeuser&ptoken=437930349747239&pversion=030106&pserverAddress=portal.gcable.cn&pserialNumber=437930349747239&d=437930349747239&ot=0&pid=&secondAuthid=&ptn=Y29tLnN1bWF2aXNpb24uc2FucGluZy5ndWRvdQ&l=001&nonce=8476730340&n=shenzhenHD_7000&DRMtoken=437930349747239&p=8&pappName=GoodTV&epgID=&t=437930349747239&u=freeuser&v=2&hmac=a693b3300a&pkv=1&authType=0&timestamp=1703472695&cid=316&remoteIP=183.93.93.178&accessFlag=1&errorcode=0&sid=0h1TYFLW3BTpd9D6GFxcyw%3D%3D&r=20231225105131&e=20231226105136&nc=5buwExrEpPUK&a=7&errorReason=0&pd=600&ip=172.31.145.65&auth_message=eyJlcnJvcmNvZGVfbWVzc2FnZSI6IumJtOadg-mAmui_hyJ9&isSuma=1&hlsSessionID=1457760599766492689&srchost=172.16.149.181:8060&gid=T5pcVbqDJRfxj45FGcrAxg%3D%3D
+海峡卫视,http://nas.jdshipin.com:8801/bst.php?id=hxws
 
 深圳卫视,http://182.32.160.11:9999/udp/239.21.1.93:5002
 广东卫视,http://182.32.160.11:9999/udp/239.21.1.92:5002
+天津卫视,http://nas.jdshipin.com:8801/bst.php?id=tjws
+
 天津卫视,http://182.32.160.11:9999/udp/239.21.1.165:5002
+山东卫视,http://nas.jdshipin.com:8801/bst.php?id=sdws
+
 山东卫视,http://182.32.160.11:9999/udp/239.21.1.87:5002
+江西卫视,http://nas.jdshipin.com:8801/bst.php?id=jxws
+
 江西卫视,http://182.32.160.11:9999/udp/239.21.1.167:5002
+东南卫视,http://nas.jdshipin.com:8801/bst.php?id=dnws
+
 东南卫视,http://182.32.160.11:9999/udp/239.21.1.113:5002
 黑龙江卫视,http://182.32.160.11:9999/udp/239.21.1.91:5002
+重庆卫视,http://nas.jdshipin.com:8801/bst.php?id=cqws
+
 重庆卫视,http://182.32.160.11:9999/udp/239.21.1.233:5002
+湖北卫视,http://58.19.38.221:9901/tsfile/live/65465_1.m3u8?key=txiptv
+湖北卫视,http://nas.jdshipin.com:8801/bst.php?id=hubei
+贵州卫视,http://nas.jdshipin.com:8801/bst.php?id=gzws
+
 贵州卫视,http://182.32.160.11:9999/udp/239.21.1.166:5002
 湖北卫视,http://182.32.160.11:9999/udp/239.21.1.163:5002
+安徽卫视,http://nas.jdshipin.com:8801/bst.php?id=ahws
+
 安徽卫视,http://182.32.160.11:9999/udp/239.21.1.159:5002
+河北卫视,http://nas.jdshipin.com:8801/bst.php?id=hbws
+
 河北卫视,http://182.32.160.11:9999/udp/239.21.1.168:5002
+辽宁卫视,http://nas.jdshipin.com:8801/bst.php?id=lnws
+
 辽宁卫视,http://182.32.160.11:9999/udp/239.21.1.164:5002
+河南卫视,http://nas.jdshipin.com:8801/bst.php?id=hnws
+
 河南卫视,http://182.32.160.11:9999/udp/239.21.2.37:5002
 广西卫视,http://171.214.202.74:4000/udp/239.93.42.46:5140
+云南卫视,http://nas.jdshipin.com:8801/bst.php?id=ynws
+
 云南卫视,http://171.214.202.74:4000/udp/239.93.0.174:5140
+吉林卫视,http://nas.jdshipin.com:8801/bst.php?id=jlws
+
 吉林卫视,http://182.32.160.11:9999/udp/239.21.2.49:5002
 陕西卫视,http://171.214.202.74:4000/udp/239.93.0.176:5140
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+内蒙古卫视,http://nas.jdshipin.com:8801/bst.php?id=nmgws
 
 内蒙古卫视,http://171.214.202.74:4000/udp/239.93.0.8:5140
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+宁夏卫视,http://nas.jdshipin.com:8801/bst.php?id=nxws
 
 宁夏卫视,http://171.214.202.74:4000/udp/239.93.0.247:5140
 西藏卫视,http://171.214.202.74:4000/udp/239.93.0.175:5140
 新疆卫视,http://171.214.202.74:4000/udp/239.93.0.194:5140
+甘肃卫视,http://nas.jdshipin.com:8801/bst.php?id=gsws
 甘肃卫视,http://182.32.160.11:9999/udp/239.21.2.22:5002
 康巴卫视,http://171.214.202.74:4000/udp/239.93.0.41:5140
+海南卫视,http://nas.jdshipin.com:8801/bst.php?id=hainan
+
 海南卫视,http://182.32.160.11:9999/udp/239.21.2.14:5002
 陕西农林,http://182.32.160.11:9999/udp/239.21.1.235:5002
+兵团卫视,http://nas.jdshipin.com:8801/bst.php?id=btws
+
 兵团卫视,http://182.32.160.11:9999/udp/239.21.1.234:5002
 厦门卫视,http://182.32.160.11:9999/udp/239.21.2.6:5002
 三沙卫视,http://182.32.160.11:9999/udp/239.21.2.9:5002
@@ -509,6 +587,7 @@ J2,http://gwtv.cnv8.tv:8097/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=192
 明珠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 
+澳视澳门,http://27.36.62.162:9090/live/1352_4500.m3u8?t=w14L5ppGYYzipwiIRQpgdA==&u=17199741419&p=8&pid=&cid=&d=865372026096088&sid=e0My7cyqyFeCBByyYD9J6Q==&r=20240103121151&e=20240104121156&nc=hq29Y6x6jaWp&a=7&v=2&isSuma=1&hlsSessionID=1457760599775722838&srchost=172.16.149.181:8060&gid=0iDufmHTZktG1Qo7%2F8h09Q%3D%3D
 
 东风卫视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1195
 三立都会HD,http://50.7.238.114:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
@@ -1155,9 +1234,18 @@ da宋提刑官[243],https://epg.112114.xyz/huya/11279251
 春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
- 
- 
+上海,#genre#
+新闻综合,http://nas.jdshipin.com:8801/bst.php?id=shxwzh
+上海都市,http://nas.jdshipin.com:8801/bst.php?id=shds
+东方影视,http://nas.jdshipin.com:8801/bst.php?id=dfys
+纪实人文,http://nas.jdshipin.com:8801/bst.php?id=jsrw
+第一财经,http://nas.jdshipin.com:8801/bst.php?id=dycj
+五星体育,http://nas.jdshipin.com:8801/bst.php?id=wxty
+
+浦东电视台,http://nas.jdshipin.com:8801/bst.php?id=pudong
+
  🍡广东,#genre#
+广东珠江,http://183.238.66.1:9090/live/gdzhujiangHD_1500.m3u8?ptype=8&plocation=001&puser=freeuser&ptoken=437930349747239&pversion=030106&pserverAddress=portal.gcable.cn&pserialNumber=437930349747239&d=437930349747239&ot=0&pid=&secondAuthid=&ptn=Y29tLnN1bWF2aXNpb24uc2FucGluZy5ndWRvdQ&l=001&nonce=2800282789&n=gdzhujiangHD_1500&DRMtoken=437930349747239&p=8&pappName=GoodTV&epgID=&t=437930349747239&u=freeuser&v=2&hmac=9ba699a2c7&pkv=1&authType=0&timestamp=1704263744&cid=1404&remoteIP=183.94.62.136&accessFlag=1&errorcode=0&sid=IPqX463MfE9K%2BXFOh9u5zA%3D%3D&r=20240103143540&e=20240104143545&nc=IliiafNciWwY&a=7&errorReason=0&pd=600&ip=172.31.145.64&auth_message=eyJlcnJvcmNvZGVfbWVzc2FnZSI6IumJtOadg-mAmui_hyJ9&isSuma=1&hlsSessionID=1457760599775905743&srchost=172.16.149.181:8060&gid=Zw9y2aWzvytrEiayxirEDQ%3D%3D
 
 GRTN文化频道,http://glive.grtn.cn/live/wenhua_test0203.m3u8
 GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
@@ -1166,12 +1254,17 @@ GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 大湾区卫视,http://47.242.38.45:9999/yisz.php?id=nfws
 广东影视,http://47.242.38.45:9999/yisz.php?id==gdys
+广东体育,http://27.36.62.162:9090/live/gdsportsHD_3000.m3u8?t=w14L5ppGYYzipwiIRQpgdA==&u=17199741419&p=8&pid=&cid=&d=865372026096088&sid=t6Y6GNyAigckbPKZMKJBQA==&r=20240103121043&e=20240104121048&nc=UlEeZd6unXiR&a=7&v=2&isSuma=1&hlsSessionID=2793077895968921529&srchost=172.16.149.181:8060&gid=ToDvHzyy%2BVgqsjZigpTRmQ%3D%3D
 
 
 广州南国都市,http://211.101.234.94:9999/php/gz.php?id=shenghuo
 
+广州新闻,http://27.36.62.162:9090/live/1433_4500.m3u8?ptype=8&plocation=001&puser=freeuser&ptoken=437930349747239&pversion=030106&pserverAddress=portal.gcable.cn&pserialNumber=437930349747239&d=437930349747239&ot=0&pid=&secondAuthid=&ptn=Y29tLnN1bWF2aXNpb24uc2FucGluZy5ndWRvdQ&l=001&nonce=1359556668&n=1433_4500&DRMtoken=437930349747239&p=8&pappName=GoodTV&epgID=&t=437930349747239&u=freeuser&v=2&hmac=f3bd4c64a2&pkv=1&authType=0&timestamp=1704263967&cid=782&remoteIP=183.94.62.136&accessFlag=1&errorcode=0&sid=lAnjbnk4O7wqoq6ZriKAag%3D%3D&r=20240103143923&e=20240104143928&nc=WB0Y7dXXKcX7&a=7&errorReason=0&pd=600&ip=172.31.145.65&auth_message=eyJlcnJvcmNvZGVfbWVzc2FnZSI6IumJtOadg-mAmui_hyJ9&isSuma=1&hlsSessionID=2793077895969109059&srchost=172.16.149.181:8060&gid=GjRqNCRioFUNhQIpIe8ATQ%3D%3D
 
-广州综合,http://211.101.234.94:9999/php/gz.php?id=zhonghe
+
+
+
+
 
 广州综合,http://hz752.love:63/live_60/gztv.php?id=gzzh
 广州综合,http://lu1.cc/itv/php/gudou.php?id=gzzh
@@ -1542,6 +1635,16 @@ GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
 鄂州新闻综合,http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1704038399-0-0-f97391c85e7bf53b885ed7d63cf722c0
 鄂州公共,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1704038399-0-0-7387d4927e444c08f898365bb0a16e87
 随州广水新闻,http://guangshui-live21.cjyun.org/10146/s10146-GSXW.m3u8?auth_key=1704038399-0-0-5c0cb2e7b7e0bc9c67777330c96507ad
+江苏,#genre#
+福建新闻,http://nas.jdshipin.com:8801/bst.php?id=fjxw
+福建综合,http://nas.jdshipin.com:8801/bst.php?id=fjzh
+福建电视剧,http://nas.jdshipin.com:8801/bst.php?id=fjdsj
+福建经济,http://nas.jdshipin.com:8801/bst.php?id=fjjj
+福建文体,http://nas.jdshipin.com:8801/bst.php?id=fjwt
+福建少儿,http://nas.jdshipin.com:8801/bst.php?id=fjse
+福建旅游,http://nas.jdshipin.com:8801/bst.php?id=fjly
+福建公共,http://nas.jdshipin.com:8801/bst.php?id=fjgg
+福建教育,http://nas.jdshipin.com:8801/bst.php?id=fjjy
 
  ⛵江苏,#genre#
 
