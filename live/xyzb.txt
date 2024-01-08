@@ -315,12 +315,13 @@ CHC动作电影,http://27.36.62.162:9090/live/CHCactionmovie_1500/CHCactionmovie
 深圳卫视,http://183.238.66.1:9090/live/shenzhenHD_7000.m3u8?ptype=8&plocation=001&puser=freeuser&ptoken=437930349747239&pversion=030106&pserverAddress=portal.gcable.cn&pserialNumber=437930349747239&d=437930349747239&ot=0&pid=&secondAuthid=&ptn=Y29tLnN1bWF2aXNpb24uc2FucGluZy5ndWRvdQ&l=001&nonce=8476730340&n=shenzhenHD_7000&DRMtoken=437930349747239&p=8&pappName=GoodTV&epgID=&t=437930349747239&u=freeuser&v=2&hmac=a693b3300a&pkv=1&authType=0&timestamp=1703472695&cid=316&remoteIP=183.93.93.178&accessFlag=1&errorcode=0&sid=0h1TYFLW3BTpd9D6GFxcyw%3D%3D&r=20231225105131&e=20231226105136&nc=5buwExrEpPUK&a=7&errorReason=0&pd=600&ip=172.31.145.65&auth_message=eyJlcnJvcmNvZGVfbWVzc2FnZSI6IumJtOadg-mAmui_hyJ9&isSuma=1&hlsSessionID=1457760599766492689&srchost=172.16.149.181:8060&gid=T5pcVbqDJRfxj45FGcrAxg%3D%3D
 海峡卫视,http://nas.jdshipin.com:8801/bst.php?id=hxws
 
-深圳卫视,http://182.32.160.11:9999/udp/239.21.1.93:5002
+
 广东卫视,http://182.32.160.11:9999/udp/239.21.1.92:5002
 天津卫视,http://nas.jdshipin.com:8801/bst.php?id=tjws
 
 天津卫视,http://182.32.160.11:9999/udp/239.21.1.165:5002
-山东卫视,http://nas.jdshipin.com:8801/bst.php?id=sdws
+山东卫视,http://ksdlive.qlpd.iqilu.com/live2/sdtv.m3u8?did=764e969491d74fc0c67b37946c9e8ada&e=1704697949&r=0.7567284295322564&t=CZhaLMhfOpTcfXRJz0pnNw
+
 
 山东卫视,http://182.32.160.11:9999/udp/239.21.1.87:5002
 江西卫视,http://nas.jdshipin.com:8801/bst.php?id=jxws
@@ -342,13 +343,15 @@ CHC动作电影,http://27.36.62.162:9090/live/CHCactionmovie_1500/CHCactionmovie
 安徽卫视,http://nas.jdshipin.com:8801/bst.php?id=ahws
 
 安徽卫视,http://182.32.160.11:9999/udp/239.21.1.159:5002
-河北卫视,http://nas.jdshipin.com:8801/bst.php?id=hbws
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
+
 
 河北卫视,http://182.32.160.11:9999/udp/239.21.1.168:5002
 辽宁卫视,http://nas.jdshipin.com:8801/bst.php?id=lnws
 
 辽宁卫视,http://182.32.160.11:9999/udp/239.21.1.164:5002
-河南卫视,http://nas.jdshipin.com:8801/bst.php?id=hnws
+河南卫视,http://122.189.225.150/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0507dfe6ee72d1e8043eb08171810afd&wsTime=1704698112&wsSession=7cbc33b694fd1389e154baf8-170468430758778&wsIPSercert=954cd457e903c5d8505f0f2db4af0ddc&wsiphost=local&wsBindIP=1
+
 
 河南卫视,http://182.32.160.11:9999/udp/239.21.2.37:5002
 广西卫视,http://171.214.202.74:4000/udp/239.93.42.46:5140
@@ -360,9 +363,13 @@ CHC动作电影,http://27.36.62.162:9090/live/CHCactionmovie_1500/CHCactionmovie
 吉林卫视,http://182.32.160.11:9999/udp/239.21.2.49:5002
 陕西卫视,http://171.214.202.74:4000/udp/239.93.0.176:5140
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
-内蒙古卫视,http://nas.jdshipin.com:8801/bst.php?id=nmgws
+
+
+内蒙古卫视,http://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+
 
 内蒙古卫视,http://171.214.202.74:4000/udp/239.93.0.8:5140
+
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 宁夏卫视,http://nas.jdshipin.com:8801/bst.php?id=nxws
 
@@ -2307,26 +2314,7 @@ http://stream2.xiancity.cn/xatv5/sd/live.m3u8http://stream2.xiancity.cn/xatv5/sd
 隆德电视台,http://livepgc.cmc.ningxiahuangheyun.com/pgc/8d355b3d74e80a3136d96ae488d7062d.m3u8
 隆德电视台,http://livepgc.cmc.ningxiahuangheyun.com/pgc/8d355b3d74e80a3136d96ae488d7062d.flv
 
- 🍸青海,#genre#
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
-青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
-西宁综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
-西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
-海东综合,http://hz752.love:63/live_60/tm.php?id=haidong
-大通电视台,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
-湟源电视台,http://livecdn.dmqhyadmin.com/hls/xjhuangyuan.m3u8
-湟中电视台,http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
-玉树综合,http://stream.ysbtv.net/1/sd/live.m3u8
-兴海电视台,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
-化隆电视台,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
-民和电视台,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
-德令哈电视台,http://livecdn.dmqhyadmin.com/hls/xjdelingha.m3u8
-玉树电视台,http://stream.ysbtv.net/1/sd/live.m3u8
-门源电视台,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
-祁连电视台,http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
-贵南电视台,http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
+
 
  🌶四川,#genre#
 SCTV2高清,http://171.214.202.74:4000/udp/239.93.1.101:5140
@@ -3267,6 +3255,26 @@ CDTV8高清,http://171.214.202.74:4000/udp/239.93.0.22:1252
 卓尼综合,http://p6.vzan.com/slowlive/739231678016908030/live.m3u8
 舟曲新闻综合,http://p6.vzan.com/slowlive/775973177933749565/live.m3u8
 临洮电视台,http://hz752.love:63/live_60/migu.php?id=lttv
+青海,#genre#
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
+青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
+西宁综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+海东综合,http://hz752.love:63/live_60/tm.php?id=haidong
+大通电视台,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
+湟源电视台,http://livecdn.dmqhyadmin.com/hls/xjhuangyuan.m3u8
+湟中电视台,http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
+玉树综合,http://stream.ysbtv.net/1/sd/live.m3u8
+兴海电视台,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
+化隆电视台,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
+民和电视台,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
+德令哈电视台,http://livecdn.dmqhyadmin.com/hls/xjdelingha.m3u8
+玉树电视台,http://stream.ysbtv.net/1/sd/live.m3u8
+门源电视台,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+祁连电视台,http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
+贵南电视台,http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
 
  🍠云南,#genre#
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
@@ -3364,7 +3372,15 @@ CDTV8高清,http://171.214.202.74:4000/udp/239.93.0.22:1252
 阿克苏2套汉语文艺,http://hz752.love:63/live_60/ady.php?id=akstv2
 阿克苏3套维语综合,http://hz752.love:63/live_60/ady.php?id=akstv3
 
- 🍡内蒙古,#genre#
+内蒙古,#genre#
+内蒙古综合,http://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+内蒙古经济,http://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+内蒙古少儿,http://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+内蒙古娱乐,http://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+内蒙古蒙语卫视,http://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+内蒙古蒙语文化,http://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+内蒙古农牧,http://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+
 
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 包头新闻综合,http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
