@@ -1,6 +1,6 @@
 {
   "sites": [
-{"key":"直播","name":"福利","type":3,"api":"https://notabug.org/lwm212/JS/raw/master/api/直播转点播.js","ext":"福利$https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/JK/main/live/fuli.txt"},
+{"key":"直播","name":"福利","type":3,"api":"https://notabug.org/lwm212/JS/raw/master/api/直播转点播.js","ext":"福利$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/live/fuli.txt"},
 {"key": "timizy","name": "甜蜜资源 ","type": 1,"api": "https://timizy10.cc/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "奥斯卡资源网","name": "奥斯卡资源网","type": 1,"api": "https://aosikazy.com/api.php/provide/vod/"},
 {"key":"*皇冠资源","name":"*默认首页1","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
