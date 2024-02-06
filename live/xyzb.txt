@@ -4,31 +4,6 @@
 🇨🇳央视频道,#genre#
 使用说明,https://189.ly93.cc/qM7F3aFnqENj/32463166233707227/新项目2222.mp4?q=rGamZVrj49FWrc1HLEyq1Gm73V8m91s_3RHHASbOA7mMi3pHu9HKunrS7oCrZ2eu
 
-CCTV1,https://live3.rxip.sc96655.com/live/CCTV-1H265.m3u8
-CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-
-CCTV2,https://live3.rxip.sc96655.com/live/CCTV-2H265.m3u8
-CCTV3,https://live3.rxip.sc96655.com/live/CCTV-3H265.m3u8
-CCTV4,https://live3.rxip.sc96655.com/live/CCTV-4H265.m3u8
-CCTV4,https://live3.rxip.sc96655.com/live/CCTV-5H265.m3u8
-CCTV5,https://live3.rxip.sc96655.com/live/CCTV-5H265.m3u8
-CCTV5+,https://live3.rxip.sc96655.com/live/CCTV-5plusH265.m3u8
-CCTV6,https://live3.rxip.sc96655.com/live/CCTV-6H265.m3u8
-CCTV7,https://live3.rxip.sc96655.com/live/CCTV-7H265.m3u8
-CCTV8,https://live3.rxip.sc96655.com/live/CCTV-8H265.m3u8
-CCTV9,https://live3.rxip.sc96655.com/live/CCTV-9H265.m3u8
-CCTV10,https://live3.rxip.sc96655.com/live/CCTV-10H265.m3u8
-CCTV11,https://live3.rxip.sc96655.com/live/CCTV-11H265.m3u8
-CCTV12,https://live3.rxip.sc96655.com/live/CCTV-12H265.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,https://live3.rxip.sc96655.com/live/CCTV-13H265.m3u8
-CCTV14,https://live3.rxip.sc96655.com/live/CCTV-8H265.m3u8
-CCTV15,https://live3.rxip.sc96655.com/live/CCTV-8H265.m3u8
-CCTV16,https://live3.rxip.sc96655.com/live/CCTV-16.m3u8
-CCTV-16-4K,https://live3.rxip.sc96655.com/live/CCTV-16-4K.m3u8
-CCTV17,https://live3.rxip.sc96655.com/live/CCTV-17.m3u8
-CETV1,https://live3.rxip.sc96655.com/live/CETV-1H264.m3u8
-CETV4,https://live3.rxip.sc96655.com/live/CETV-4H264.m3u8
 
 
 
@@ -37,10 +12,14 @@ CETV4,https://live3.rxip.sc96655.com/live/CETV-4H264.m3u8
 
 
 
-CETV1,http://nas.jdshipin.com:8801/bst.php?id=zgjy1
+
+
+
+
+
 
 CETV1,http://182.32.160.11:9999/udp/239.21.2.7:5002
-CETV2,http://nas.jdshipin.com:8801/bst.php?id=zgjy2
+
 
 CETV2,http://182.32.160.11:9999/udp/239.21.2.8:5002
 CETV2,http://182.32.160.11:9999/udp/239.21.1.222:5002
@@ -50,40 +29,12 @@ CETV4,http://nas.jdshipin.com:8801/bst.php?id=zgjy4
 
 
 
-CCTV4,http://8.218.49.207:9999/1905.php?id=cctv4
-
-
-CCTV6,http://8.218.49.207:9999/1905.php?id=cctv6
-
-CCTV7,http://8.218.49.207:9999/1905.php?id=cctv7
-
-CCTV8,http://8.218.49.207:9999/1905.php?id=cctv8
-
-CCTV9,http://8.218.49.207:9999/1905.php?id=cctv9
-
-CCTV10,http://8.218.49.207:9999/1905.php?id=cctv10
-
-CCTV11,http://8.218.49.207:9999/1905.php?id=cctv11
-
-CCTV12,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
-
-CCTV13,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
-
-CCTV14,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
-
-CCTV15,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8
-CCTV16,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
-
-
-CCTV17,http://8.217.77.255:9999/ysp.php?id=cctv17
-CCTV4K,http://8.217.77.255:9999/ysp.php?id=cctv4k
-
-
 
 
 
 
 CCTV1,http://171.214.202.74:4000/udp/239.93.0.184:5140
+CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2,http://171.214.202.74:4000/udp/239.93.1.23:6000
 CCTV3,http://171.214.202.74:4000/udp/239.93.1.11:2223
 CCTV4,http://171.214.202.74:4000/udp/239.93.1.105:5140
