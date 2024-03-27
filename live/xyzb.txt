@@ -2478,25 +2478,18 @@ CDTV8高清,http://119.4.196.65:4455/udp/239.93.0.21:1251
 阜阳都市文艺,http://hz752.love:63/live_60/ady.php?id=fydswy
 
 河南,#genre#
-河南卫视,http://hz752.love:63/live_60/astv.php?id=hnws
 
-河南新闻,http://122.188.184.46/tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=b3cd8225e7093a8b22695c178e713b52&wsTime=1703494511&wsSession=e9db440e3acc25e7e046ec79-170348132446118&wsIPSercert=1ffdad701bf4cbbe4269ec023c4eccba&wsiphost=local&wsBindIP=1
-
-河南都市,http://122.188.184.47/tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=ef2def1512da9b295d716e8a980039ca&wsTime=1703494511&wsSession=0b4b930ad109fb84d297e25a-170348136640409&wsIPSercert=1ffdad701bf4cbbe4269ec023c4eccba&wsiphost=local&wsBindIP=1
-
-河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8
-河南民生,http://122.188.184.51/tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=2f90ad3d646945c0e7a910fa9e93f74d&wsTime=1703494511&wsSession=20868c72d97d7da37ac125ed-170348138501977&wsIPSercert=1ffdad701bf4cbbe4269ec023c4eccba&wsiphost=local&wsBindIP=1
-
-河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8
-河南电视剧,http://122.188.184.41/tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=69c6bd9773e3a4094992f47e25b16668&wsTime=1703494511&wsSession=f8b0362bbf5ec84c92df5277-170348147049316&wsIPSercert=1ffdad701bf4cbbe4269ec023c4eccba&wsiphost=local&wsBindIP=1
-河南法治,http://122.188.184.50/tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=38440f8efb8c5adf3dd79c824b624376&wsTime=1703494511&wsSession=864647ac9b0225320725136c-170348150510036&wsIPSercert=1ffdad701bf4cbbe4269ec023c4eccba&wsiphost=local&wsBindIP=1
-河南公共,http://122.188.184.47/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=7ccd6c77aaf6c706b697ea4b15b9a099&wsTime=1703494511&wsSession=0b4b930ad109fb84d297e25a-170348153396722&wsIPSercert=1ffdad701bf4cbbe4269ec023c4eccba&wsiphost=local&wsBindIP=1
-
-河南文博,http://media.hndyjyfw.gov.cn/live/jz-henanwenwu/live.m3u8
-河南党教,http://media.hndyjyfw.gov.cn/live/jz-m-ycjy/live.m3u8
-河南乡村,http://122.188.184.45/tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=42b515ac2ef01e60f7d15e2b78082994&wsTime=1703494511&wsSession=597be0cdf3c3027291b9e022-170348160111412&wsIPSercert=1ffdad701bf4cbbe4269ec023c4eccba&wsiphost=local&wsBindIP=1
-
-河南国际,http://122.188.184.51/tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=cc364155b89a66b9e56797c50df7dacd&wsTime=1703494511&wsSession=20868c72d97d7da37ac125ed-170348125632843&wsIPSercert=1ffdad701bf4cbbe4269ec023c4eccba&wsiphost=local&wsBindIP=1
+河南卫视,http://61.52.156.33:808/hls/16/index.m3u8
+河南新闻,http://61.52.156.33:808/hls/22/index.m3u8
+河南都市,http://218.29.135.3:4000/rtp/225.1.4.52:1081
+河南民生,http://61.52.156.33:808/hls/19/index.m3u8
+河南电视剧,http://61.52.156.33:808/hls/21/index.m3u8
+河南法治,http://61.52.156.33:808/hls/20/index.m3u8
+河南公共,http://61.52.156.33:808/hls/23/index.m3u8
+河南文物宝库,http://182.117.77.177:808/hls/24/index.m3u8
+河南乡村,http://61.52.156.33:808/hls/24/index.m3u8
+河南国际,http://61.52.156.33:808/hls/25/index.m3u8
+河南梨园频道,http://61.52.156.33:808/hls/26/index.m3u8
 
 安阳公共,http://live.dxhmt.cn:9080/18625858176/196a29fbe1224599856553f16a8de8ea.m3u8
 安阳公共,http://live.dxhmt.cn:9080/18625858176/b53f118c3ffc4a5c82b6f14b8301fd17.m3u8
