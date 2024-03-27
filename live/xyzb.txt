@@ -1505,7 +1505,7 @@ HZTV-2高清,http://219.128.40.214:8888/udp/239.77.1.233:5146
 乐安一套,http://live.mudu.tv/watch/oup5o1.m3u8
 分宜综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
 
- 🎇湖南,#genre#
+ 湖南,#genre#
 湖南娱乐, http://118.251.69.109:4022/udp/239.76.245.121:1234
 湖南娱乐,http://222.241.145.143:8888/udp/239.76.245.121:1234
 
@@ -1695,7 +1695,7 @@ HZTV-2高清,http://219.128.40.214:8888/udp/239.77.1.233:5146
 石首综合,http://p8.vzan.com/slowlive/622923977748489779/live.m3u8
 
 
- ⛵江苏,#genre#
+江苏,#genre#
 
 江苏城市,http://114.225.153.199:12999/hls/19/index.m3u8
 江苏公共新闻,http://114.225.153.199:12999/hls/20/index.m3u8
@@ -1983,7 +1983,7 @@ MAX极速汽车,http://101.229.109.76:4022/udp/239.45.3.49:5140
 临平新闻,http://hz752.love:63/live_60/ady.php?id=lpxw
 富阳新闻综合,http://hz752.love:63/live_60/ady.php?id=fyzh
 
- 🍝重庆,#genre#
+ 重庆,#genre#
 
 重庆新闻,http://113.206.156.121:8003/udp/225.0.4.188:7980
 重庆影视,http://113.206.156.121:8003/udp/225.0.4.192:7980
@@ -2942,7 +2942,7 @@ CDTV8高清,http://119.4.196.65:4455/udp/239.93.0.21:1251
 陕西卫视,http://219.145.19.7:5555/rtp/239.111.205.35:5140
 农林卫视,http://219.145.19.7:5555/rtp/239.112.205.27:5140
 陕西新闻,http://219.145.19.7:5555/rtp/239.111.205.28:5140
-都市青春,http://219.145.19.7:5555/rtp/239.111.205.42:5140
+都市青春,http://219.144.235.108:8090/hls/35/index.m3u8
 陕西生活,http://219.145.19.7:5555/rtp/239.112.205.20:5140
 陕西影视,http://219.145.19.7:5555/rtp/239.112.205.21:5140
 
@@ -3020,7 +3020,7 @@ CDTV8高清,http://119.4.196.65:4455/udp/239.93.0.21:1251
 吕梁一套,http://hz752.love:63/live_60/ady.php?id=lltv1
 吕梁二套,http://hz752.love:63/live_60/ady.php?id=lltv2
 
- 🍶贵州,#genre#
+ 贵州,#genre#
 
 六盘水综合,http://file.lpsntv.com/nmip-media/channellive/channel110181/playlist.m3u8
 六盘水公共,http://file.lpsntv.com/nmip-media/channellive/channel110983/playlist.m3u8
@@ -3033,7 +3033,7 @@ CDTV8高清,http://119.4.196.65:4455/udp/239.93.0.21:1251
 罗甸综合,http://pili-live-rtmp.210.i2863.com/i2863-210/live_210_050252.m3u8
 湄潭综合,http://p2.weizan.cn/1635496647/663562647402642026/live.m3u8
 
- 🌻吉林,#genre#
+吉林,#genre#
 吉林卫视,http://36.49.53.3:8800/rtp/239.37.0.101:5540
 
 吉林都市,http://36.49.53.3:8800/rtp/239.37.0.102:5540
@@ -3112,7 +3112,7 @@ CDTV8高清,http://119.4.196.65:4455/udp/239.93.0.21:1251
 梅河口电视台,http://stream4.jlntv.cn/mhk/playlist.m3u8
 通化县综合,http://stream5.jlntv.cn/thx/playlist.m3u8
 
- 🍎甘肃,#genre#
+ 甘肃,#genre#
 
 甘肃公共,http://live.todaydunhuang.com:1935/live/live157/500k/tzwj_video.m3u8
 酒泉综合,http://stream.gsjqtv.com/pd1/sd/live.m3u8
@@ -3211,7 +3211,7 @@ CDTV8高清,http://119.4.196.65:4455/udp/239.93.0.21:1251
 祁连电视台,http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
 贵南电视台,http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
 
- 🍠云南,#genre#
+ 云南,#genre#
 云南卫视,http://220.163.178.144:8888/tsfile/live/0019_1.m3u8
 云南卫视,http://hz752.love:63/live_60/astv.php?id=ynws
 云南娱乐,http://220.163.178.144:8888/tsfile/live/0124_1.m3u8
@@ -3250,14 +3250,14 @@ CDTV8高清,http://119.4.196.65:4455/udp/239.93.0.21:1251
 普洱二套,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel27/playlist.m3u8
 普洱三套,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel28/playlist.m3u8
 
- 🍗海南,#genre#
+海南,#genre#
 海南卫视,http://livelyws.chinamcache.com/lyws/zb01.m3u8
 
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,http://hz752.love:63/live_60/hin.php?id=7
 儋州电视台,http://hz752.love:63/live_60/ady.php?id=dztv
 
- 🍇新疆,#genre#
+ 新疆,#genre#
 
 新疆维语综合,http://lu1.cc/itv/xjtv/xjyx1.php?id=xjwyzh
 新疆维语综艺,http://lu1.cc/itv/xjtv/xjyx1.php?id=xjwyzy
