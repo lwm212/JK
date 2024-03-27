@@ -245,7 +245,7 @@ CCTV-17农村农业,http://101.229.109.76:4022/udp/239.45.3.52:5140
 四川卫视,http://111.20.35.107:6610/000000001000/1000000002000016825/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367205720240323064108670762&channel-id=ystenlive&Contentid=1000000002000016825
 
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-
+东南卫视,http://61.52.156.33:808/hls/83/index.m3u8
 东南卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225766/index.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8
