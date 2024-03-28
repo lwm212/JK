@@ -3304,8 +3304,13 @@ CDTV8高清,http://119.4.196.65:4455/udp/239.93.0.21:1251
 普洱三套,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel28/playlist.m3u8
 
 海南,#genre#
-海南卫视,http://livelyws.chinamcache.com/lyws/zb01.m3u8
-
+海南新闻,http://live3.hnntv.cn/srs/tv/xwpd.m3u8
+海南公共,http://live3.hnntv.cn/srs/tv/ggpd.m3u8
+h海南少儿,ttp://live3.hnntv.cn/srs/tv/sepd.m3u8
+海南经济,http://live3.hnntv.cn/srs/tv/jjpd.m3u8
+海南文旅,http://live3.hnntv.cn/srs/tv/wlpd.m3u8
+海口综合,http://153.0.158.159:16080/live/tv2401.m3u8?hls_ctx=93e07302
+海口-2,http://153.0.158.159:16080/live/tv2402.m3u8?hls_ctx=x7ydhp42
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,http://hz752.love:63/live_60/hin.php?id=7
 儋州电视台,http://hz752.love:63/live_60/ady.php?id=dztv
