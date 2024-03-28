@@ -1,20 +1,21 @@
 🇨🇳央视频道,#genre#
 使用说明,https://189.ly93.cc/qM7F3aFnqENj/32463166233707227/新项目2222.mp4?q=rGamZVrj49FWrc1HLEyq1Gm73V8m91s_3RHHASbOA7mMi3pHu9HKunrS7oCrZ2eu
+CCTV1,http://117.43.218.236:20000/hls/1/index.m3u8
 CCTV1,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2,http://171.214.202.74:4000/udp/239.93.1.23:6000
 CCTV3,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-
+CCTV4,http://117.43.218.236:20000/hls/4/index.m3u8
 CCTV4,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-4 欧洲,http://182.85.186.145:8888/udp/239.252.219.192:5140
 CCTV-4 美洲,http://182.85.186.145:8888/udp/239.252.219.193:5140
 CCTV5,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-
+CCTV5+,http://117.43.218.236:20000/hls/6/index.m3u8
 CCTV5+,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 CCTV6,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV6,http://hlslive.1905.com/live/LIVEI56PNI726KA7A/index.m3u8?tm=1711183889&sign=48c195e7225c9c6a592422d0b71bd104
-
+CCTV7,http://117.43.218.236:20000/hls/8/index.m3u8
 CCTV7,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 
 CCTV8,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
@@ -33,12 +34,15 @@ CCTV13,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212262
 CCTV14,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 
 CCTV15,http://218.241.192.50:8808/udp/239.3.1.153:8136
+CCTV16,http://117.43.218.236:20000/hls/16/index.m3u8
 
 CCTV16,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 
 CCTV17,http://218.241.192.50:8808/udp/239.3.1.151:8144
 CHC家庭影院,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC家庭影院,http://221.232.105.110:8880/rtp/239.69.1.243:11100
+
+CHC高清电影,http://117.43.218.236:20000/hls/67/index.m3u8
 CHC高清电影,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 
 CHC高清电影,http://221.232.105.110:8880/rtp/239.69.1.241:11088
@@ -198,40 +202,45 @@ CCTV-17农村农业,http://101.229.109.76:4022/udp/239.45.3.52:5140
 
 卫视频道,#genre#
 湖南卫视,http://111.20.35.107:6610/000000001000/1000000001000009115/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367418720240323060541669630&channel-id=ystenlive&Contentid=1000000001000009115
-
+北京卫视,http://117.43.218.236:20000/hls/59/index.m3u8
 北京卫视,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-
+湖北卫视,http://117.43.218.236:20000/hls/34/index.m3u8
 湖北卫视,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+江苏卫视,http://117.43.218.236:20000/hls/29/index.m3u8
 江苏卫视,http://101.229.109.76:4022/udp/239.45.3.177:5140 
+江西卫视,http://117.43.218.236:20000/hls/19/index.m3u8
 江西卫视,http://111.20.35.107:6610/000000001000/1000000001000013731/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367203020240323071708667810&channel-id=ystenlive&Contentid=1000000001000013731
-
-云南卫视,http://101.229.109.76:4022/udp/239.45.0.4:5140
-吉林卫视,http://111.20.35.107:6610/000000001000/1000000002000027730/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367736520240323072246674060&channel-id=ystenlive&Contentid=1000000002000027730
-
+东方卫视,http://117.43.218.236:20000/hls/30/index.m3u8
+东方卫视,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+深圳卫视,http://117.43.218.236:20000/hls/39/index.m3u8
 深圳卫视,http://111.20.35.107:6610/000000001000/1000000001000011645/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367562920240323062950676666&channel-id=ystenlive&Contentid=1000000001000011645
 山东卫视,http://111.20.35.107:6610/000000001000/1000000001000016568/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367205820240323063259664862&channel-id=ystenlive&Contentid=1000000001000016568
 
 广西卫视,http://111.20.35.107:6610/000000001000/1000000002000019837/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367250420240323071952662867&channel-id=ystenlive&Contentid=1000000002000019837
-
+广东卫视,http://117.43.218.236:20000/hls/32/index.m3u8
 广东卫视,http://111.20.35.107:6610/000000001000/1000000001000028357/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367201520240323063133665338&channel-id=ystenlive&Contentid=1000000001000028357
-
+天津卫视,http://117.43.218.236:20000/hls/35/index.m3u8
 天津卫视,http://111.20.35.107:6610/000000001000/1000000001000003475/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367906520240323063215661234&channel-id=ystenlive&Contentid=1000000001000003475
 东方卫视,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 
-东方卫视,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+重庆卫视,http://117.43.218.236:20000/hls/47/index.m3u8
+重庆卫视,http://111.20.35.107:6610/000000001000/1000000002000018937/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367203420240323064216666475&channel-id=ystenlive&Contentid=1000000002000018937
 
 海南卫视,http://111.20.35.107:6610/000000001000/1000000002000023773/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367984020240323072028661255&channel-id=ystenlive&Contentid=1000000002000023773
-
-
+云南卫视,http://117.43.218.236:20000/hls/41/index.m3u8
+云南卫视,http://101.229.109.76:4022/udp/239.45.0.4:5140
+吉林卫视,http://111.20.35.107:6610/000000001000/1000000002000027730/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367736520240323072246674060&channel-id=ystenlive&Contentid=1000000002000027730
+甘肃卫视,http://117.43.218.236:20000/hls/48/index.m3u8
 甘肃卫视,http://222.241.145.143:8888/udp/239.76.253.94:9000
 陕西卫视,http://stream.snrtv.com/sxbc-star-ikvyAY.m3u8
 安徽卫视,http://111.20.35.107:6610/000000001000/1000000001000030159/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367626820240323063543661742&channel-id=ystenlive&Contentid=1000000001000030159
+安徽卫视,http://117.43.218.236:20000/hls/36/index.m3u8
 安徽卫视,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
 
 新疆卫视,https://liveplay.xjbs.cn/liveback/xjtvs-01.m3u8?auth_key=1711098172-0-0-f5b59851e4e72a9941ff2127fc22d1b5
-重庆卫视,http://111.20.35.107:6610/000000001000/1000000002000018937/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367203420240323064216666475&channel-id=ystenlive&Contentid=1000000002000018937
+
 贵州卫视,http://101.229.109.76:4022/udp/239.45.1.80:5140
 
 河南卫视,http://111.20.35.107:6610/000000001000/1000000002000027731/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT368094620240323064423663117&channel-id=ystenlive&Contentid=1000000002000027731
@@ -241,13 +250,14 @@ CCTV-17农村农业,http://101.229.109.76:4022/udp/239.45.3.52:5140
 
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1711098772&k=05aa03b7c62340fcdb80f8c9656d5e12
 
-
+吉林卫视,http://117.43.218.236:20000/hls/42/index.m3u8
 吉林卫视,http://111.20.35.107:6610/000000001000/1000000002000027730/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367334020240323063816668560&channel-id=ystenlive&Contentid=1000000002000027730
-
+辽宁卫视,http://117.43.218.236:20000/hls/37/index.m3u8
 辽宁卫视,http://111.20.35.107:6610/000000001000/1000000002000024033/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367758120240323063637660604&channel-id=ystenlive&Contentid=1000000002000024033
 辽宁卫视,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
 
-
+黑龙江卫视,http://117.43.218.236:20000/hls/33/index.m3u8
+山东卫视,http://117.43.218.236:20000/hls/38/index.m3u8
 山东卫视,https://livealone302.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 
 四川卫视,http://111.20.35.107:6610/000000001000/1000000002000016825/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367205720240323064108670762&channel-id=ystenlive&Contentid=1000000002000016825
@@ -1456,9 +1466,12 @@ HZTV-2高清,http://219.128.40.214:8888/udp/239.77.1.233:5146
 江西卫视,http://182.85.186.145:8888/udp/239.252.220.63:5140
 江西二套,http://182.85.186.145:8888/udp/239.252.220.238:5140
 江西三套,http://182.85.186.145:8888/udp/239.252.219.173:5140
+江西五套,http://117.43.218.236:20000/hls/23/index.m3u8
 江西五套,http://182.85.186.145:8888/udp/239.252.220.102:5140
 江西六套,http://182.85.186.145:8888/udp/239.252.219.113:5140
+江西七套,http://117.43.218.236:20000/hls/25/index.m3u8
 江西七套,http://182.85.186.145:8888/udp/239.252.220.100:5140
+江西教育,http://117.43.218.236:20000/hls/26/index.m3u8
 江西教育,http://182.85.186.145:8888/udp/239.252.219.115:5140
 
 
@@ -1547,6 +1560,7 @@ HZTV-2高清,http://219.128.40.214:8888/udp/239.77.1.233:5146
 快乐垂钓,http://218.241.192.50:8808/udp/239.3.1.164:8001
 金鹰纪实,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8?
 金鹰纪实,http://hz752.love:63/live_60/migu.php?id=jyjs
+金鹰卡通,http://117.43.218.236:20000/hls/63/index.m3u8
 金鹰卡通,http://hz752.love:63/live_60/astv.php?id=jykt
 快乐垂钓,https://live.goodiptv.club/api/cqyx.php?id=klcdHD
 快乐垂钓,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225780/2/index.m3u8?fmt=ts2hls
@@ -1845,6 +1859,8 @@ HZTV-2高清,http://219.128.40.214:8888/udp/239.77.1.233:5146
 哈哈炫动,http://101.229.109.76:4022/udp/239.45.1.55:5140 
 上视外语,http://101.229.109.76:4022/udp/239.45.1.127:5140 
 都市剧场,http://101.229.109.76:4022/udp/239.45.3.136:5140 
+
+欢笑剧场,http://117.43.218.236:20000/hls/69/index.m3u8
 欢笑剧场,http://101.229.109.76:4022/udp/239.45.3.196:5140 
 欢笑剧场（备）,http://101.229.109.76:4022/udp/239.45.1.4:5140 
 全纪实,http://101.229.109.76:4022/udp/239.45.3.135:5140 
