@@ -871,7 +871,18 @@ TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE52833224528
 八大第一,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 
 
+澳视澳门.720,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳视卫星.720,http://61.244.22.5/ch3/ch3.live/index.m3u8
+澳视卫星.720,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+澳门体育.720,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
+澳门体育.720,http://61.244.22.5/ch4/sport_ch4.live/master.m3u8
+澳门资讯.720,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
+澳门资讯.720,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
 
+澳视葡文.720,http://61.244.22.5/ch2/ch2.live/index.m3u8
+澳视葡文.720,http://61.244.22.5/ch2/ch2.live/playelist.m3u8
+
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 
 华视,http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
 
