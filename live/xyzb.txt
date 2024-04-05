@@ -228,29 +228,29 @@ CCTV-17农村农业,http://101.229.109.76:4022/udp/239.45.3.52:5140
 卫视频道,#genre#
 湖南卫视,http://119.54.0.212:9999/hls/34/index.m3u8
 湖南卫视,http://111.20.35.107:6610/000000001000/1000000001000009115/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367418720240323060541669630&channel-id=ystenlive&Contentid=1000000001000009115
-北京卫视,http://58.19.182.187:9901/tsfile/live/0122_1.m3u8
-北京卫视,http://117.43.218.236:20000/hls/59/index.m3u8
+
+
 北京卫视,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-湖北卫视,http://117.43.218.236:20000/hls/34/index.m3u8
+
 湖北卫视,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 江苏卫视,,http://58.19.182.187:9901/tsfile/live/0127_1.m3u8
-江苏卫视,http://117.43.218.236:20000/hls/29/index.m3u8
+
 江苏卫视,http://101.229.109.76:4022/udp/239.45.3.177:5140 
-江西卫视,http://117.43.218.236:20000/hls/19/index.m3u8
+
 江西卫视,http://111.20.35.107:6610/000000001000/1000000001000013731/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367203020240323071708667810&channel-id=ystenlive&Contentid=1000000001000013731
 东方卫视,http://58.19.182.187:9901/tsfile/live/0107_1.m3u8
-东方卫视,http://117.43.218.236:20000/hls/30/index.m3u8
+
 东方卫视,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 深圳卫视,,http://58.19.182.187:9901/tsfile/live/0126_1.m3u8
-深圳卫视,http://117.43.218.236:20000/hls/39/index.m3u8
+
 深圳卫视,http://111.20.35.107:6610/000000001000/1000000001000011645/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367562920240323062950676666&channel-id=ystenlive&Contentid=1000000001000011645
 山东卫视,http://111.20.35.107:6610/000000001000/1000000001000016568/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367205820240323063259664862&channel-id=ystenlive&Contentid=1000000001000016568
 
 广西卫视,http://111.20.35.107:6610/000000001000/1000000002000019837/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367250420240323071952662867&channel-id=ystenlive&Contentid=1000000002000019837
 广东卫视,http://58.19.182.187:9901/tsfile/live/0125_1.m3u8
-广东卫视,http://117.43.218.236:20000/hls/32/index.m3u8
+
 广东卫视,http://111.20.35.107:6610/000000001000/1000000001000028357/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367201520240323063133665338&channel-id=ystenlive&Contentid=1000000001000028357
 天津卫视,http://117.43.218.236:20000/hls/35/index.m3u8
 天津卫视,http://111.20.35.107:6610/000000001000/1000000001000003475/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367906520240323063215661234&channel-id=ystenlive&Contentid=1000000001000003475
@@ -1404,7 +1404,7 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 云浮文旅,http://livestream.oeeee.com/slive/17807.m3u8
 
 
- 🍒江西,#genre#
+江西,#genre#
 江西卫视,http://182.84.232.36:9999/udp/239.252.220.63:5140
 江西二套,http://182.84.232.36:9999/udp/239.252.220.238:5140
 江西三套,http://182.84.232.36:9999/udp/239.252.219.173:5140
@@ -1486,7 +1486,7 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 桑植新闻综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_NbaWW5.m3u8
 洪江市综合,http://liveplay.rednet.cn/live/hongjiang_tv_ced5a7.m3u8
 
- 💐湖北,#genre#
+湖北,#genre#
 湖北综合,http://58.19.182.187:9901/tsfile/live/1014_1.m3u8
 湖北公共,http://58.19.182.187:9901/tsfile/live/1018_1.m3u8
 湖北经视,http://58.19.182.187:9901/tsfile/live/1016_1.m3u8
@@ -1658,7 +1658,7 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 无锡经济,http://m.m3u8.wifiwx.com/live/wifiwx-245.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
 
- ⭐北京,#genre#
+北京,#genre#
  
 北京科教,http://218.241.192.50:8808/udp/239.3.1.115:8000
 北京财经,http://218.241.192.50:8808/udp/239.3.1.116:8000
