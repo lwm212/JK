@@ -239,14 +239,14 @@ CCTV-17农村农业,http://101.229.109.76:4022/udp/239.45.3.52:5140
 东南卫视,http://58.19.182.187:9901/tsfile/live/0137_1.m3u8
 天津卫视,http://58.19.182.187:9901/tsfile/live/0114_1.m3u8
 安徽卫视,http://58.19.182.187:9901/tsfile/live/0130_1.m3u8
-湖北卫视,,http://58.19.182.187:9901/tsfile/live/0121_1.m3u8
+湖北卫视,http://58.19.182.187:9901/tsfile/live/0121_1.m3u8
 山东卫视,http://58.19.182.187:9901/tsfile/live/0131_1.m3u8
 海南卫视,http://58.19.182.187:9901/tsfile/live/1007_1.m3u8
 四川卫视,http://58.19.182.187:9901/tsfile/live/0123_1.m3u8
 贵州卫视,http://58.19.182.187:9901/tsfile/live/0120_1.m3u8
 河南卫视,http://58.19.182.187:9901/tsfile/live/0139_1.m3u8
-吉林卫视,http://58.19.182.187:9901/tsfile/live/0116_1.m3u8
 黑龙江卫视,http://58.19.182.187:9901/tsfile/live/0143_1.m3u8
+吉林卫视,http://117.43.218.236:20000/hls/42/index.m3u8
 广西卫视,http://111.20.35.107:6610/000000001000/1000000002000019837/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367250420240323071952662867&channel-id=ystenlive&Contentid=1000000002000019837
 大湾区卫视,http://113.74.172.130:4000/udp/239.77.0.215:5146
 湖南卫视,http://119.54.0.212:9999/hls/34/index.m3u8
@@ -304,7 +304,7 @@ CCTV-17农村农业,http://101.229.109.76:4022/udp/239.45.3.52:5140
 
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1711098772&k=05aa03b7c62340fcdb80f8c9656d5e12
 
-吉林卫视,http://117.43.218.236:20000/hls/42/index.m3u8
+
 吉林卫视,http://111.20.35.107:6610/000000001000/1000000002000027730/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT367334020240323063816668560&channel-id=ystenlive&Contentid=1000000002000027730
 辽宁卫视,,http://58.19.182.187:9901/tsfile/live/0112_1.m3u8
 辽宁卫视,http://117.43.218.236:20000/hls/37/index.m3u8
