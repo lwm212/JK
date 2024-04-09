@@ -121,17 +121,14 @@
 			"filterable": 0,
 			"ext": "https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"
 		},
-		{
-			"key": "Xinsj",
-			"name": "影视┃10",
-			"type": 3,
-			"api": "csp_Xinsj",
-			"searchable": 1,
-			"quickSearch": 1,
-			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt",
-			"changeable": 0,
-			"ext": "https://www.hdmyy.com/"
-		},
+	{
+		"key": "XBPQ_即看",
+		"name": "影视┃10",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/custom_spider.jar",
+		"ext": "https://agit.ai/qi169/wog/raw/branch/master/XBPQ/即看影视.json"
+	},
 		{
 			"key": "快看影视",
 			"name": "影视┃11",
