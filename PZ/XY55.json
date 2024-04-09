@@ -17,7 +17,7 @@
 		"playerType": 1,
 		"api": "csp_XBPQ",
 		"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/custom_spider.jar",			
-		"ext": "https://agit.ai/qi169/wog/raw/branch/master/XBPQ/小苹果.json"
+		"ext": "https://raw.kkgithub.com/lwm212/JK/main/XBPQ/xpg.json"
 	},
 	{
 		"key": "XBPQ_免费",
