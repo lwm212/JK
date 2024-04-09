@@ -171,25 +171,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "短剧",
-			"name": "短剧1",
-			"type": 3,
-			"api": "csp_App",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://zzdj.cc/api.php/provide/vod"
-		},
-		{
-			"key": "短剧网",
-			"name": "短剧2",
-			"type": 3,
-			"api": "csp_Duanjuw",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
+
 		{
 			"key": "PanSou",
 			"name": "搜搜┃阿里云盘扫码授权",
