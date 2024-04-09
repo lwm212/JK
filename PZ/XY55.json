@@ -15,6 +15,7 @@
 		"name": "影视┃2",
 		"type": 3,
 		"api": "csp_XBPQ",
+		"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/custom_spider.jar",		
 		"ext": "https://raw.kkgithub.com/lwm212/JK/main/XBPQ/免费资源.json"
 	},
 
@@ -95,6 +96,7 @@
 		"name": "影视┃7",
 		"type": 3,
 		"api": "csp_XBPQ",
+		"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/custom_spider.jar",
 		"ext": "hhttps://raw.kkgithub.com/lwm212/JK/main/XBPQ/98影视.json"
 	},
 
