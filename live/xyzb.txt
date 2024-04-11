@@ -6,26 +6,26 @@ CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.
 
 CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV3,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV4,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+
 CCTV4,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 
-
-CCTV5,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV5,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV5+,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV6,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV7,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV8,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 
-CCTV10,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV5+,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+
+CCTV6,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+
+CCTV7,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+
+CCTV8,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV9,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV9,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
+
 CCTV10,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV11,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+
 CCTV11,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-CCTV12,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+
 CCTV12,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 
 CCTV13,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
@@ -34,14 +34,12 @@ CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 CCTV14,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 
 CCTV15,http://218.241.192.50:8808/udp/239.3.1.153:8136
-CCTV16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+
 CCTV16,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://218.241.192.50:8808/udp/239.3.1.151:8144
 CCTV-4欧洲,http://114.253.247.196:14000/rtp/239.3.1.213:4220
 CCTV-4美洲,http://114.253.247.196:14000/rtp/239.3.1.214:4220
-CHC家庭影院,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC动作电影,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC高清电影,http://339.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+
 CHC家庭影院,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC动作电影,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
@@ -87,22 +85,11 @@ CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122639
 CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 CCTV8,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV9,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV9,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
+
 CCTV10,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV13,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV1综合,http://101.229.109.76:4022/udp/239.45.3.145:5140
-CCTV2财经,http://101.229.109.76:4022/udp/239.45.1.109:5140
-CCTV3综艺,http://101.229.109.76:4022/udp/239.45.1.68:5140
-CCTV4中文国际,http://101.229.109.76:4022/udp/239.45.0.2:5140
-CCTV5体育,http://101.229.109.76:4022/udp/239.45.1.69:5140
-CCTV6电影,http://101.229.109.76:4022/udp/239.45.1.70:5140
-CCTV7国防军事,http://101.229.109.76:4022/udp/239.45.3.56:5140
-CCTV8电视剧,http://101.229.109.76:4022/udp/239.45.1.71:5140
-CCTV9记录,http://101.229.109.76:4022/udp/239.45.3.4:5140
-CCTV10科教,http://101.229.109.76:4022/udp/239.45.3.8:5140
+
 卫视频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://58.19.182.187:9901/tsfile/live/0124_1.m3u8
