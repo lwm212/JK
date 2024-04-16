@@ -445,7 +445,7 @@
 		"channels": [{
 			"name": "live",
 			"urls": [
-				"proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/live/xyzb.txt"
+				"proxy://do=live&type=txt&ext=https://notabug.org/lwm212/boxx/raw/master/7.31zb/zhzb.txt"
 			]
 		}]
 	}],
