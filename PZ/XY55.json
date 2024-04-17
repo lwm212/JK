@@ -92,13 +92,23 @@
 			"filterable": 0,
 			"ext": "https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"
 		},
-	{
-		"key": "XBPQ_即看",
-		"name": "影视┃10",
-		"type": 3,
-		"api": "csp_XBPQ",
-                "ext": "https://agit.ai/qi169/wog/raw/branch/master/XBPQ/即看影视.json"
-	},
+		{
+			"key": "双黄",
+			"name": "🥚1080P┃蛋蛋",
+			"type": 3,
+
+			"api": "csp_XBPQ",
+			"ext": {
+				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
+				"请求头": "手机#Referer$https://www.dandanju.cc/",
+				"分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
+				"分类": "电影$1#剧集$2#动漫$4#综艺$4",
+				"数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
+				"搜索模式": "1",
+				"搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
+				"搜索数组": "<li class=\"active clearfix&&</li"
+			}
+		},
 		{
 			"key": "快看影视",
 			"name": "影视┃11",
@@ -157,16 +167,14 @@
 			"filterable": 1,
 			"ext": "https://ownjpykxttjzuhy.jiesiwa.com"
 		},
-
-		{
-			"key": "csp_Bdys",
-			"name": "影视┃14",
-			"type": 3,
-			"api": "csp_Bdys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+	{
+		"key": "XBPQ_天堂",
+		"name": "🧲电影┃天堂",
+		"type": 3,
+		"playerType": 2,
+		"api": "csp_XBPQ",
+		"ext": "https://agit.ai/qi169/wog/raw/branch/master/XBPQ/电影天堂.json"
+	},
 
 		{
 			"key": "PanSou",
@@ -211,38 +219,7 @@
 			"filterable": 1,
 			"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/优酷.js"
 		},
-		{
-			"key": "芒果资源",
-			"name": "️🥭芒果影视",
-			"type": 1,
-			"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
-			"playUrl": "https://jx.quankan.app/?url=",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"categories": [
-				"国产剧",
-				"韩国剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"动作片",
-				"科幻片",
-				"战争片",
-				"奇幻片",
-				"喜剧片",
-				"爱情片",
-				"恐怖片",
-				"犯罪片",
-				"悬疑片",
-				"惊悚片",
-				"剧情片",
-				"冒险片",
-				"记录片",
-				"综艺",
-				"动漫"
-			]
-		},
+
 
 		{
 			"key": "sohu",
