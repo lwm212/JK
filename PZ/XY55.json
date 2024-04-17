@@ -102,7 +102,7 @@
 				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
 				"请求头": "手机#Referer$https://www.dandanju.cc/",
 				"分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
-				"分类": "电影$1#剧集$2#动漫$4#综艺$4",
+				"分类": "电影$1#剧集$2#动漫$4#综艺$3",
 				"数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
 				"搜索模式": "1",
 				"搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
@@ -175,7 +175,14 @@
 		"api": "csp_XBPQ",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/电影天堂.json"
 	},
-
+	{
+		"key": "XBPQ_MP4",
+		"name": "🧲MP4┃磁力",
+		"type": 3,
+		"playerType": 2,
+		"api": "csp_XBPQ",
+		"ext": "https://agit.ai/qi169/wog/raw/branch/master/XBPQ/MP4磁力.json"
+	},
 		{
 			"key": "PanSou",
 			"name": "搜搜┃阿里云盘扫码授权",
