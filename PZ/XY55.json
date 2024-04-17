@@ -171,6 +171,7 @@
 		"key": "XBPQ_天堂",
 		"name": "🧲电影┃天堂",
 		"type": 3,
+		"searchable": 1,
 		"playerType": 2,
 		"api": "csp_XBPQ",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/电影天堂.json"
@@ -179,6 +180,7 @@
 		"key": "XBPQ_MP4",
 		"name": "🧲MP4┃磁力",
 		"type": 3,
+		"searchable": 1,
 		"playerType": 2,
 		"api": "csp_XBPQ",
 		"ext": "https://fastly.jsdelivr.net/gh/lwm212/JK@main/XBPQ/MP4磁力.json"
