@@ -1,11 +1,11 @@
 {
 	"sites": [
 
-	{"key":"酷看弹幕","name":"影视┃1","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-	{"key":"厂长弹幕","name":"影视┃2","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+	{"key":"酷看弹幕","name":"影视┃1","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+	{"key":"厂长弹幕","name":"影视┃2","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
 
-	{"key":"小苹果弹幕","name":"影视┃3","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-	{"key":"JOJO弹幕","name":"影视┃4","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+	{"key":"小苹果弹幕","name":"影视┃3","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+	{"key":"JOJO弹幕","name":"影视┃4","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://notabug.org/lwm212/boxx/raw/master/JAR/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
 
 	{
 		"key": "XBPQ_免费",
@@ -207,32 +207,8 @@
 			"filterable": 1,
 			"ext": "https://notabug.org/lwm212/boxx/raw/master/json/bilibili.json",
 			"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/Yoursmile.jar"
-		},
-
-		{
-			"key": "drpy_js_博看听书",
-			"name": "听书|博看听书",
-			"type": 3,
-			"api": "https://raw.fgit.cf/lwm212/gao/master/lib/drpy2.min.js",
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1
-			},
-			"ext": "https://raw.fgit.cf/lwm212/gao/master/js/博看听书.js"
-		},
-		{
-			"key": "drpy_js_海洋听书",
-			"name": "听书|海洋听书",
-			"type": 3,
-			"api": "https://raw.fgit.cf/lwm212/gao/master/lib/drpy2.min.js",
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1
-			},
-			"ext": "https://raw.fgit.cf/lwm212/gao/master/js/海洋听书.js"
 		}
+
 	],
 
 	"parses": [
@@ -292,7 +268,7 @@
 	],
 
 
-
+"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/XBQH.jar",
 
 	"flags": [
 		"youku",
