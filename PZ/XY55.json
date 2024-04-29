@@ -42,19 +42,8 @@
 			},
 			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
 		},
-		{
-			"key": "机器人弹幕",
-			"name": "机器人弹幕",
-			"type": 3,
-			"api": "csp_Ikanbot",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"danmu": true
-			},
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
-		},
+{"key": "天天","name": "弹幕┃天天","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/pg.jar;md5;8c6e049d99fcce701ee1e02bdaac7992"},
+{"key": "追剧","name": "弹幕┃追剧","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://app.kzjtv.com$$$null$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/pg.jar;md5;8c6e049d99fcce701ee1e02bdaac7992"},
 		{
 			"key": "小苹果弹幕",
 			"name": "小苹果弹幕",
