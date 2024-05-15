@@ -369,8 +369,18 @@
 			"type": 1,
 			"url": "http://119.91.123.253:2345/Api/yun.php?url="
 		},
+		        {
+            "name": "官解2",
+            "type": 0,
+            "url": "https://jx.quankan.app/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
 		{
-			"name": "官解2",
+			"name": "官解3",
 			"type": 0,
 			"url": "https://jx.xmflv.com/?url=",
 			"ext": {
@@ -380,7 +390,7 @@
 			}
 		},
 		{
-			"name": "官解3",
+			"name": "官解4",
 			"type": 1,
 			"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
 			"ext": {
@@ -393,7 +403,7 @@
 			}
 		},
 		{
-			"name": "官解4",
+			"name": "官解5",
 			"type": 0,
 			"url": "https://cache.json.icu/5555.php?url="
 		},
@@ -405,7 +415,7 @@
 
 
 		{
-			"name": "官解5",
+			"name": "官解6",
 			"type": 0,
 			"url": "https://jx.jsonplayer.com/player/?url=",
 			"ext": {
