@@ -1,26 +1,26 @@
 {
 	"sites": [
 
-        {
-            "key": "看看影视",
-            "name": "影视┃1",
-            "type": 3,
-            "api": "csp_WebIV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-	    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
-        },
-		        {
-            "key": "米米影视",
-            "name": "影视┃2",
-            "type": 3,
-            "api": "csp_WebDM",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-	     "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"			
-        },
+		{
+			"key": "看看影视",
+			"name": "影视┃1",
+			"type": 3,
+			"api": "csp_WebIV",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+		},
+		{
+			"key": "米米影视",
+			"name": "影视┃2",
+			"type": 3,
+			"api": "csp_WebDM",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+		},
 		{
 			"key": "南瓜",
 			"name": "影视┃3",
@@ -33,15 +33,15 @@
 			"changeable": 1,
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt;md5;8c6e049d99fcce701ee1e02bdaac7992"
 		},
-        {
-            "key": "明日影视",
-            "name": "影视┃4",
-            "type": 3,
-            "api": "csp_WexMingriys",
-            "searchable": 1,
-            "changeable": 1,
-	    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
-        },
+		{
+			"key": "明日影视",
+			"name": "影视┃4",
+			"type": 3,
+			"api": "csp_WexMingriys",
+			"searchable": 1,
+			"changeable": 1,
+			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+		},
 
 
 
@@ -249,16 +249,16 @@
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/JAR/fan.txt",
 			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
 		},
-		        {
-            "key": "星芽短剧",
-            "name": "短剧",
-            "type": 3,
-            "api": "csp_AppXY",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-	    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"			
-        },
+		{
+			"key": "星芽短剧",
+			"name": "短剧",
+			"type": 3,
+			"api": "csp_AppXY",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+		},
 		{
 			"key": "dr_奇珍异兽",
 			"name": "爱奇艺",
@@ -369,16 +369,16 @@
 			"type": 1,
 			"url": "http://119.91.123.253:2345/Api/yun.php?url="
 		},
-		        {
-            "name": "官解2",
-            "type": 0,
-            "url": "https://jx.quankan.app/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        },
+		{
+			"name": "官解2",
+			"type": 0,
+			"url": "https://jx.quankan.app/?url=",
+			"ext": {
+				"header": {
+					"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+				}
+			}
+		},
 		{
 			"name": "官解3",
 			"type": 0,
