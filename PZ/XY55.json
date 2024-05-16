@@ -8,7 +8,7 @@
             "api": "csp_WebIV",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
 	    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
         },
 		{
@@ -29,7 +29,7 @@
             "type": 3,
             "api": "csp_WexMingriys",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
 	    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
         },
 
