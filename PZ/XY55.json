@@ -1,19 +1,16 @@
 {
 	"sites": [
 
-		{
-			"key": "酷看弹幕",
-			"name": "影视┃1",
-			"type": 3,
-			"api": "csp_Kkys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"danmu": true
-			},
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
-		},
+        {
+            "key": "看看影视",
+            "name": "影视┃1",
+            "type": 3,
+            "api": "csp_WebIV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+	    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+        },
 		{
 			"key": "南瓜",
 			"name": "影视┃2",
@@ -26,20 +23,15 @@
 			"changeable": 1,
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt;md5;8c6e049d99fcce701ee1e02bdaac7992"
 		},
-		{
-			"key": "厂长弹幕",
-			"name": "影视┃3",
-			"type": 3,
-			"api": "csp_Czzy",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"danmu": true
-			},
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
-		},
-
+        {
+            "key": "明日影视",
+            "name": "影视┃3",
+            "type": 3,
+            "api": "csp_WexMingriys",
+            "searchable": 1,
+            "changeable": 1
+	    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+        },
 
 		{
 			"key": "三六零弹幕",
