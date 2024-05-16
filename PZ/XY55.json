@@ -11,9 +11,19 @@
             "filterable": 0,
 	    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
         },
+		        {
+            "key": "米米影视",
+            "name": "影视┃2",
+            "type": 3,
+            "api": "csp_WebDM",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+	     "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"			
+        },
 		{
 			"key": "南瓜",
-			"name": "影视┃2",
+			"name": "影视┃3",
 			"type": 3,
 			"api": "csp_NanGua",
 			"timeout": 15,
@@ -25,7 +35,7 @@
 		},
         {
             "key": "明日影视",
-            "name": "影视┃3",
+            "name": "影视┃4",
             "type": 3,
             "api": "csp_WexMingriys",
             "searchable": 1,
@@ -33,19 +43,7 @@
 	    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
         },
 
-		{
-			"key": "三六零弹幕",
-			"name": "影视┃4",
-			"type": 3,
-			"api": "csp_Sp360",
-			"searchable": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"danmu": true
-			},
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
-		},
+
 
 		{
 			"key": "追剧",
@@ -251,6 +249,16 @@
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/JAR/fan.txt",
 			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
 		},
+		        {
+            "key": "星芽短剧",
+            "name": "短剧",
+            "type": 3,
+            "api": "csp_AppXY",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+	    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"			
+        },
 		{
 			"key": "dr_奇珍异兽",
 			"name": "爱奇艺",
