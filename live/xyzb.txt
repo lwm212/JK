@@ -165,6 +165,8 @@ CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 浙江卫视,http://111.11.98.205:9900/hls/31/index.m3u8
 浙江卫视,http://116.128.243.121:9901/tsfile/live/0124_1.m3u8
 浙江卫视,http://114.254.94.104:2222/rtp/239.3.1.137:8036
+
+湖南卫视,http://mglivesu.hometv.komect.com/000000001000/1000000001000032695/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&authCode=3a&stbId=0000030000056800CH0L88947E9ACADE&version=1.0&owaccmark=1000000001000032695&owchid=ystenlive&owsid=9919091715952489461&AuthInfo=wgL8uPqORoo4fJBA1PBXfOIqij%2FGNvevijy8l%2BB3m0u0MrwzU09wfyjFjOGKrCKvQaiiy%2BYx0oQg6D7cvIXoQhW4701XzIFehpnO9JEbP9acwZ45t6VxAGs7I%2FX%2Fvmm7
 湖南卫视,http://58.19.38.162:9901/tsfile/live/1016_1.m3u8
 湖南卫视,http://116.128.243.121:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://111.11.98.205:9900/hls/30/index.m3u8
