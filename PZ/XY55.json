@@ -1,9 +1,21 @@
 {
 	"sites": [
-
+        {
+            "key": "酷看弹幕",
+            "name": "影视┃1",
+            "type": 3,
+            "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+        },
 		{
 			"key": "看看影视",
-			"name": "影视┃1",
+			"name": "影视┃2",
 			"type": 3,
 			"api": "csp_WebIV",
 			"searchable": 1,
@@ -13,7 +25,7 @@
 		},
 		{
 			"key": "米米影视",
-			"name": "影视┃2",
+			"name": "影视┃3",
 			"type": 3,
 			"api": "csp_WebDM",
 			"searchable": 1,
@@ -23,7 +35,7 @@
 		},
 		{
 			"key": "南瓜",
-			"name": "影视┃3",
+			"name": "影视┃4",
 			"type": 3,
 			"api": "csp_NanGua",
 			"timeout": 15,
@@ -35,7 +47,7 @@
 		},
 		{
 			"key": "明日影视",
-			"name": "影视┃4",
+			"name": "影视┃5",
 			"type": 3,
 			"api": "csp_WexMingriys",
 			"searchable": 1,
@@ -47,7 +59,7 @@
 
 		{
 			"key": "追剧",
-			"name": "影视┃5",
+			"name": "影视┃6",
 			"type": 3,
 			"api": "csp_TTian",
 			"playerType": 1,
@@ -56,7 +68,7 @@
 		},
 		{
 			"key": "小苹果弹幕",
-			"name": "影视┃6",
+			"name": "影视┃7",
 			"type": 3,
 			"api": "csp_Xpg",
 			"searchable": 1,
@@ -69,7 +81,7 @@
 		},
 		{
 			"key": "JOJO弹幕",
-			"name": "影视┃7",
+			"name": "影视┃8",
 			"type": 3,
 			"api": "csp_Jiohub",
 			"searchable": 1,
@@ -84,7 +96,7 @@
 
 		{
 			"key": "XBPQ_免费",
-			"name": "影视┃8",
+			"name": "影视┃9",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/免费资源.json"
@@ -94,7 +106,7 @@
 
 		{
 			"key": "saohuo",
-			"name": "影视┃9",
+			"name": "影视┃10",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -107,7 +119,7 @@
 
 		{
 			"key": "四九资源",
-			"name": "影视┃10",
+			"name": "影视┃11",
 			"type": 1,
 			"api": "https://49zyw.com/api.php/provide/vod/",
 			"searchable": 1,
@@ -116,7 +128,7 @@
 		},
 		{
 			"key": "XBPQ_98影视",
-			"name": "影视┃11",
+			"name": "影视┃12",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/98影院.json"
@@ -124,7 +136,7 @@
 
 		{
 			"key": "csp_XYQHiker_七新影视",
-			"name": "影视┃12",
+			"name": "影视┃13",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -135,7 +147,7 @@
 		},
 		{
 			"key": "奇优影院",
-			"name": "影视┃13",
+			"name": "影视┃14",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -145,7 +157,7 @@
 		},
 		{
 			"key": "双黄",
-			"name": "影视┃14",
+			"name": "影视┃15",
 			"type": 3,
 
 			"api": "csp_XBPQ",
@@ -162,7 +174,7 @@
 		},
 		{
 			"key": "快看影视",
-			"name": "影视┃15",
+			"name": "影视┃16",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
@@ -172,7 +184,7 @@
 		},
 		{
 			"key": "豪华资源",
-			"name": "影视┃16",
+			"name": "影视┃17",
 			"type": 1,
 			"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
@@ -209,7 +221,7 @@
 
 		{
 			"key": "荐片弹幕版",
-			"name": "影视┃17",
+			"name": "影视┃18",
 			"type": 3,
 			"api": "csp_Jianpian",
 			"searchable": 1,
