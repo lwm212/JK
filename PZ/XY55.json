@@ -14,8 +14,21 @@
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
         },
 		{
-			"key": "看看影视",
+			"key": "荐片弹幕版",
 			"name": "影视┃2",
+			"type": 3,
+			"api": "csp_Jianpian",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/gao/master/json/jianpian.json$$$1",
+			"timeout": 60,
+			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/gao/master/jar/pg.jar;md5;8c6e049d99fcce701ee1e02bdaac7992"
+		},
+		
+		{
+			"key": "看看影视",
+			"name": "影视┃3",
 			"type": 3,
 			"api": "csp_WebIV",
 			"searchable": 1,
@@ -25,7 +38,7 @@
 		},
 		{
 			"key": "米米影视",
-			"name": "影视┃3",
+			"name": "影视┃4",
 			"type": 3,
 			"api": "csp_WebDM",
 			"searchable": 1,
@@ -35,7 +48,7 @@
 		},
 		{
 			"key": "南瓜",
-			"name": "影视┃4",
+			"name": "影视┃5",
 			"type": 3,
 			"api": "csp_NanGua",
 			"timeout": 15,
@@ -47,7 +60,7 @@
 		},
 		{
 			"key": "明日影视",
-			"name": "影视┃5",
+			"name": "影视┃6",
 			"type": 3,
 			"api": "csp_WexMingriys",
 			"searchable": 1,
@@ -56,16 +69,6 @@
 		},
 
 
-
-		{
-			"key": "追剧",
-			"name": "影视┃6",
-			"type": 3,
-			"api": "csp_TTian",
-			"playerType": 1,
-			"ext": "http://app.kzjtv.com$$$null$$$1",
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/gao/master/jar/pg.jar;md5;8c6e049d99fcce701ee1e02bdaac7992"
-		},
 		{
 			"key": "小苹果弹幕",
 			"name": "影视┃7",
@@ -219,16 +222,14 @@
 			]
 		},
 
+
 		{
-			"key": "荐片弹幕版",
+			"key": "追剧",
 			"name": "影视┃18",
 			"type": 3,
-			"api": "csp_Jianpian",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/gao/master/json/jianpian.json$$$1",
-			"timeout": 60,
+			"api": "csp_TTian",
+			"playerType": 1,
+			"ext": "http://app.kzjtv.com$$$null$$$1",
 			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/gao/master/jar/pg.jar;md5;8c6e049d99fcce701ee1e02bdaac7992"
 		},
 
