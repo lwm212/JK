@@ -1,67 +1,19 @@
 {
 	"sites": [
-        {
-            "key": "天天弹幕",
-            "name": "影视┃1",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
-        },
-		{"key":"贱贱","name":"影视┃2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
-
-		
 		{
-			"key": "看看影视",
-			"name": "影视┃3",
+			"key": "saohuo",
+			"name": "影视┃1",
 			"type": 3,
-			"api": "csp_WebIV",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+			"playerType": "1",
+			"api": "csp_XBPQ",
+			"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/custom_spider.jar",
+			"ext": "https://jihulab.com/lwm212/box/-/raw/main/XBPQ/骚火.json"
 		},
-		{
-			"key": "米米影视",
-			"name": "影视┃4",
-			"type": 3,
-			"api": "csp_WebDM",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
-		},
-		{
-			"key": "南瓜",
-			"name": "影视┃5",
-			"type": 3,
-			"api": "csp_NanGua",
-			"timeout": 15,
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt;md5;8c6e049d99fcce701ee1e02bdaac7992"
-		},
-		{
-			"key": "明日影视",
-			"name": "影视┃6",
-			"type": 3,
-			"api": "csp_WexMingriys",
-			"searchable": 1,
-			"changeable": 1,
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
-		},
-
-
-		{
+				{
 			"key": "小苹果弹幕",
-			"name": "影视┃7",
+			"name": "影视┃2",
 			"type": 3,
 			"api": "csp_Xpg",
 			"searchable": 1,
@@ -74,7 +26,7 @@
 		},
 		{
 			"key": "JOJO弹幕",
-			"name": "影视┃8",
+			"name": "影视┃3",
 			"type": 3,
 			"api": "csp_Jiohub",
 			"searchable": 1,
@@ -85,11 +37,77 @@
 			},
 			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
 		},
+        {
+            "key": "天天弹幕",
+            "name": "影视┃4",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
+        },
+		{"key":"贱贱","name":"影视┃5","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
+		{
+			"key": "XBPQ_98影视",
+			"name": "影视┃6",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/98影院.json"
+		},
+		
+		{
+			"key": "看看影视",
+			"name": "影视┃7",
+			"type": 3,
+			"api": "csp_WebIV",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+		},
+		{
+			"key": "米米影视",
+			"name": "影视┃8",
+			"type": 3,
+			"api": "csp_WebDM",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+		},
+		{
+			"key": "南瓜",
+			"name": "影视┃9",
+			"type": 3,
+			"api": "csp_NanGua",
+			"timeout": 15,
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt;md5;8c6e049d99fcce701ee1e02bdaac7992"
+		},
+		{
+			"key": "明日影视",
+			"name": "影视┃10",
+			"type": 3,
+			"api": "csp_WexMingriys",
+			"searchable": 1,
+			"changeable": 1,
+			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+		},
+
+
+
 
 
 		{
 			"key": "XBPQ_免费",
-			"name": "影视┃9",
+			"name": "影视┃11",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/免费资源.json"
@@ -97,35 +115,19 @@
 
 
 
-		{
-			"key": "saohuo",
-			"name": "影视┃10",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"playerType": "1",
-			"api": "csp_XBPQ",
-			"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/custom_spider.jar",
-			"ext": "https://jihulab.com/lwm212/box/-/raw/main/XBPQ/骚火.json"
-		},
+
 
 
 		{
 			"key": "四九资源",
-			"name": "影视┃11",
+			"name": "影视┃12",
 			"type": 1,
 			"api": "https://49zyw.com/api.php/provide/vod/",
 			"searchable": 1,
 			"changeable": 1,
 			"categories": ["纪录片", "动作片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "喜剧片", "动画片", "犯罪片", "奇幻片", "灾难片", "悬疑片", "其他片", "欧美剧", "香港剧", "国产剧", "韩国剧", "台湾剧", "泰国剧", "日剧", "海外剧", "国产动漫", "日本动漫", "欧美动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "电影解说", "体育赛事", "短剧"]
 		},
-		{
-			"key": "XBPQ_98影视",
-			"name": "影视┃12",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/98影院.json"
-		},
+
 
 		{
 			"key": "csp_XYQHiker_七新影视",
