@@ -1,17 +1,17 @@
 {
 	"sites": [
         {
-            "key": "酷看弹幕",
+            "key": "天天弹幕",
             "name": "影视┃1",
             "type": 3,
-            "api": "csp_Kkys",
+            "api": "csp_TianTian",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
 		{
 			"key": "荐片弹幕版",
