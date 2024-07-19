@@ -576,7 +576,7 @@
 		"channels": [{
 			"name": "live",
 			"urls": [
-				"proxy://do=live&type=txt&ext=https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/JK/main/live/xyzb.txt"
+				"proxy://do=live&type=txt&ext=https://cdn.jsdelivr.net/gh/lwm212/JK@main/live/xyzb.txt"
 			]
 		}]
 	}],
