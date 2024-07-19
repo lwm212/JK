@@ -32,7 +32,7 @@
 			"ext": {
 				"danmu": true
 			},
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
 		},
 		{
 			"key": "JOJO弹幕",
@@ -45,7 +45,7 @@
 			"ext": {
 				"danmu": true
 			},
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
 		},
 		{
 			"key": "天天弹幕",
@@ -58,7 +58,7 @@
 			"ext": {
 				"danmu": true
 			},
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
 		},
 
 		{
@@ -66,7 +66,7 @@
 			"name": "影视┃6",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/98影院.json"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/98影院.json"
 		},
 		{
 			"key": "看看影视",
@@ -76,7 +76,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
 		},
 		{
 			"key": "米米影视",
@@ -86,7 +86,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
 		},
 		{
 			"key": "南瓜",
@@ -98,7 +98,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt;md5;8c6e049d99fcce701ee1e02bdaac7992"
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt;md5;8c6e049d99fcce701ee1e02bdaac7992"
 		},
 		{
 			"key": "明日影视",
@@ -107,14 +107,14 @@
 			"api": "csp_WexMingriys",
 			"searchable": 1,
 			"changeable": 1,
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
 		},
 		{
 			"key": "XBPQ_免费",
 			"name": "影视┃11",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/免费资源.json"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/免费资源.json"
 		},
 		{
 			"key": "四九资源",
@@ -249,7 +249,7 @@
 			"api": "csp_TTian",
 			"playerType": 1,
 			"ext": "http://app.kzjtv.com$$$null$$$1",
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/gao/master/jar/pg.jar;md5;8c6e049d99fcce701ee1e02bdaac7992"
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/pg.jar;md5;8c6e049d99fcce701ee1e02bdaac7992"
 		},
 		{
 			"key": "XBPQ_天堂",
@@ -258,7 +258,7 @@
 			"searchable": 1,
 			"playerType": 2,
 			"api": "csp_XBPQ",
-			"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/电影天堂.json"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/电影天堂.json"
 		},
 		{
 			"key": "XBPQ_MP4",
@@ -277,7 +277,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/gao/master/JAR/fan.txt",
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/JAR/fan.txt",
 			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
 		},
 		{
@@ -288,14 +288,14 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
 		},
 		{
 			"key": "dr_奇珍异兽",
 			"name": "爱奇艺",
 			"type": 3,
 			"playerType": "2",
-			"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/gao/master/lib/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/lib/drpy2.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 1,
@@ -306,7 +306,7 @@
 			"name": "腾讯",
 			"type": 3,
 			"playerType": "2",
-			"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/gao/master/lib/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/lib/drpy2.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 1,
@@ -316,7 +316,7 @@
 			"key": "dr_优酷",
 			"name": "优酷",
 			"type": 3,
-			"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lwm212/gao/master/lib/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/lib/drpy2.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 1,
