@@ -360,30 +360,8 @@
 			"ext": "https://notabug.org/lwm212/boxx/raw/master/json/bilibili.json",
 			"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/Yoursmile.jar"
 		},
-		{
-			"key": "drpy_js_博看听书",
-			"name": "听书|博看听书",
-			"type": 3,
-			"api": "https://raw.fgit.cf/lwm212/gao/master/lib/drpy2.min.js",
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1
-			},
-			"ext": "https://raw.fgit.cf/lwm212/gao/master/js/博看听书.js"
-		},
-		{
-			"key": "drpy_js_海洋听书",
-			"name": "听书|海洋听书",
-			"type": 3,
-			"api": "https://raw.fgit.cf/lwm212/gao/master/lib/drpy2.min.js",
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1
-			},
-			"ext": "https://raw.fgit.cf/lwm212/gao/master/js/海洋听书.js"
-		}
+                {"key": "FirstAid","name": "急救 ","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}}
+
 	],
 	"parses": [{"name":"官解1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
 		{
