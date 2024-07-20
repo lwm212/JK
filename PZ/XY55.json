@@ -22,18 +22,16 @@
 			"ext": "https://jihulab.com/lwm212/box/-/raw/main/XBPQ/骚火.json"
 		},
 		{
-			"key": "小苹果弹幕",
-			"name": "影视┃3",
-			"type": 3,
-			"api": "csp_Xpg",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"danmu": true
-			},
+			"key":"苹果",
+			"name":"影视┃3",
+			"type":3,
+			"api":"csp_LiteApple",
+			"searchable":1,
+			"quickSearch":1,
+			"changeable":1,
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
 		},
+		
 		{
 			"key": "JOJO弹幕",
 			"name": "影视┃4",
