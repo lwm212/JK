@@ -385,11 +385,7 @@
 			"ext": "https://raw.fgit.cf/lwm212/gao/master/js/海洋听书.js"
 		}
 	],
-	"parses": [{
-			"name": "官解1",
-			"type": 1,
-			"url": "http://119.91.123.253:2345/Api/yun.php?url="
-		},
+	"parses": [{"name":"官解1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
 		{
 			"name": "官解2",
 			"type": 0,
