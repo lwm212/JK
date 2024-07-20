@@ -1,5 +1,5 @@
 {
-	"sites": [		{
+	"sites": [{
 			"key": "贱贱",
 			"name": "影视┃1",
 			"type": 3,
@@ -31,32 +31,27 @@
 			"changeable":1,
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
 		},
-		
 		{
-			"key": "JOJO弹幕",
+			"key": "文采",
 			"name": "影视┃4",
 			"type": 3,
-			"api": "csp_Jiohub",
+			"api": "csp_Jpys",
+			"playerType": 2,
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"danmu": true
-			},
-			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
-		},
+			"changeable": 1,
+                                           "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+                             },
 		{
-			"key": "天天弹幕",
+			"key": "酷看",
 			"name": "影视┃5",
 			"type": 3,
-			"api": "csp_TianTian",
+			"api": "csp_Kkys",
+			"timeout": 15,
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"danmu": true
-			},
-			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"changeable": 1,
+                                           "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
 		},
 
 		{
@@ -67,15 +62,19 @@
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/98影院.json"
 		},
 		{
-			"key": "看看影视",
+			"key": "厂长",
 			"name": "影视┃7",
 			"type": 3,
-			"api": "csp_WebIV",
+			"api": "csp_NewCz",
+			"timeout": 15,
+			"playerType": 2,
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+			"changeable": 1,
+			"ext": "https://www.czys.pro/",
+                                           "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
 		},
+
 		{
 			"key": "米米影视",
 			"name": "影视┃8",
