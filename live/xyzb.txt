@@ -76,10 +76,7 @@ CCTV16,http://115.238.155.197/live3.ngaacdn.sc96655.com/live/CCTV-16_4000.m3u8
 CCTV16,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://111.11.98.205:9900/hls/17/index.m3u8
 CCTV17,http://115.238.155.197/live3.ngaacdn.sc96655.com/live/CCTV-17H265_4000.m3u8
-CCTV-4欧洲,http://114.254.94.104:2222/rtp/239.3.1.213:4220
-CCTV-4美洲,http://114.254.94.104:2222/rtp/239.3.1.214:4220
-CCTV-4欧洲,http://114.253.247.196:14000/rtp/239.3.1.213:4220
-CCTV-4美洲,http://114.253.247.196:14000/rtp/239.3.1.214:4220
+
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 CHC家庭影院,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
