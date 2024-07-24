@@ -196,8 +196,10 @@
 			"searchable": 1,
 			"playerType": 2,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/spider.jar"
 		},
+		
 		{
 			"key": "豪华资源",
 			"name": "影视┃17",
