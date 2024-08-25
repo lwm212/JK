@@ -452,7 +452,7 @@
 			]
 		}
 	],
-  "lives":[
+
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
