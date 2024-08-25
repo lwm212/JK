@@ -55,7 +55,7 @@ CHC动作电影,http://nas.hssvm.com:8888/rtp/225.1.1.215:5002
 女性时尚,http://nas.hssvm.com:8888/rtp/225.1.2.172:5002
 世界地理,http://nas.hssvm.com:8888/rtp/225.1.2.171:5002
 网球高尔夫,http://nas.hssvm.com:8888/rtp/225.1.2.169:5002
-兵器科技.http://nas.hssvm.com:8888/rtp/225.1.2.166:5002
+兵器科技,http://nas.hssvm.com:8888/rtp/225.1.2.166:5002
 
 
 
