@@ -1,10 +1,12 @@
 🇨🇳央视频道,#genre#
 CCTV1,https://livednow.com/migu/608807420?sign=gAAAAABml7qmnY4_XFWn880kDQkf9Evv0IP3yNnlhrWU5UuyDow1niqhLIIaF3B3EYyp6HV8twefqXUlNyKgYkmVPftZnOQtN83Ttr7OowYRbt_4NP1g7DgbkgPS8gNnOVj78p4pPiO0KY-dHPmLnVBB7iQMAwnkEBbae645H-odcjKXhPWF9a6Hb1mtbv5Z3jJUJIprhQMSiVsGYBpmH1enX9P92p8oQw%3D%3D
+CCTV1,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv1
 
 
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2,https://livednow.com/migu/631780532?sign=gAAAAABml7qms0pb-Ujp9QvCzx4GyR5vzqzZ7RwfV9gC56OuzHIT2VbSJoBcZoA_YgHVs4tsdFClFNVaC33lmSssI6xjONybsmDkklX40_P4OnNZpL6CotuazxT0OizLZJsR5qlAvNKIEKVk38iYL60nOqM_qKnUQ3EfuJj17Z_xKnSbRXhECqTcCd6K6Sl9vKfe7_befpEDoJxT3B1puA9MnP6FOGYwAA%3D%3D
+CCTV2,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv2
 
 CCTV3,https://livednow.com/migu/624878271?sign=gAAAAABml7qmBER_O-kf1WC_k8gJgR5iTVLC-NS1LWDZLCv6XsGlatdDMLUo_Y-aKAc10swmqHCKgREt8ma22j_Mr3MD_4UOKF2mWK3UoB_FImWLDAy1covdj2aJ_KNBHahQhKOzHdJYMHJyGv2CYHPjRmVFb2rUa3fKakIA4qBWRN-i9f5j6643RAXCUy9tWB-YzYW3ur0rMKRN6WNy3Zr_wjCh-aLc3w%3D%3D
 
@@ -15,7 +17,7 @@ CCTV5,https://livednow.com/migu/641886683?sign=gAAAAABml7qm-Eqk8M2qpagASj1ZmDVYa
 CCTV5+,https://livednow.com/migu/641886773?sign=gAAAAABmwtTudYVI4jfMsN0Z9fKcfTElS9rfuC7wnjZFqi9bSMW9h1jLEm6z4Qh7yfVvK7TKDjPylrRRg5fFLKhq4g9YysTXgrO5H-U5HweXuOr4kx2vBvchmamltv0s5FUojvTyoH8SlS6ZyhSbsl84tpMAaPRFNh4Hccbg5Esl3Ujt2cyu-GINrfoRqtZ4twIywq9tpCOTyz3GBTXMqZUjahW6WxFcYQ%3D%3D
 
 CCTV6,https://livednow.com/migu/624878396?sign=gAAAAABml7qm7JicBy4HVME1s9l3wgXdSUycDwtssE8j8nfP_Lg7O-dPLB_M_WEU2Fm6KO1WSbxBk4SE99Y-2cIpw-lQPI9sjF0tw1CojuvXAJ_6koMl2rdWrpzs6ltXkjXcsGRfEaTxakEldNY1hf0zU4sBqb2dLFQauHx0i-secvGKGxlpibeOGRqxXHw2jff_ky6zSymLuvARUJZibtT7qar33KXZ2g%3D%3D
-
+CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV7,https://livednow.com/migu/673168121?sign=gAAAAABml7qmn3me8i-XwWtMfd5gVU-SyaXPZ7NEIIrLocPWHNN5TtYBvvp-yBRF5IYv-OuYpnY9i3e821kj1HYF34vE4c2343aLOFSAPQPP-VGc8kYoTFULQfYiyzegsS5d7xtoU2BbtjNRA7hKOyVCEzbYxKCyB0MkXgwTAYj96GIdDLLwjfAJ9RAzWg12vx8eJLcDUdicLufZBESjF6NkjPEJETvjWA%3D%3D
 
 CCTV8,https://livednow.com/migu/624878356?sign=gAAAAABml7qm7w57C3G8BNSeNlGcPODVX0GMVjSzVO3kX4xoO5vRy0usgC-IUaNOvlFRMHi8hogFJWxjnXc5P7t5WFjmDAES45octWdDtrp2Ccn-hQbZdKJj-llMJ-ZLqQW5j6BBcAR3ph0IlyaO_2xRIbpH8qUIXQC67bDyVObR2hC4DNwVqlvnaPAJlmcOinQpIM-RpUD_kq75G2vcnVzwZCL4rhDNcw%3D%3D
@@ -28,6 +30,7 @@ CCTV10,https://livednow.com/migu/624878405?sign=gAAAAABml7qm2TqOePXGrRmB8tLugddO
 CCTV11,https://livednow.com/migu/667987558?sign=gAAAAABml7qmSqcog6KVXdkFqlGRh-cnEI4EtFiB_NbAial-mk1pxkmfxKA6mYbV6A0RO-2CgDbSb9UTTPkvix8u8oZuifdDxpTRHupzJok8Zig7IDy-dTYqsCoYxaSK8EXH7neeFNbyrCYKEtcXtMKOD9flZYElFjXFcDZHZfpe7z7XFg73B-3J9jxwm7uVNr4NE4C1qaBYSiFM4kVFy5GqiL0BFE0fYg%3D%3D
 
 CCTV12,https://livednow.com/migu/673168185?sign=gAAAAABml7qmsMys8NTNaUymeDtRFknt-dHgDJ5Qn-DVploHKIrZihg2nfOCU7kQT6g1YKOa2ggk5jZnS1ranFCWhcE7Dtk-deouP_dwuplE2yquAX7LqLd_gFBfcekxiNabAGrnUS7ETFDNPnnessRn6lAmwRu6N6EEbnNibJ15bWvr3pTCdcp_twbcAJ79IYjKqiYjL7l6z-BUimPuR_mU3LjUuuUYrw%3D%3D
+CCTV13,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv13
 
 CCTV13,https://livednow.com/migu/608807423?sign=gAAAAABml7qmUtlBYbwCkBTy78BHvugotM62mD-SWPtJs1nqbnBKKUBumKDGUO3rWZmUrjCgSfiCo1e8sd1hWncGqq3C5nAeHlVZ2U0_3qhiSFL69CKORRSOMY6zAdNrUHIKIoGFjUDVE4djnHshbQbMNUKDB19HoUGR6N9ET7KeukYB3xSRf2xeZHxCF4MRY-f7G2iK3yPVzfSqwmsbM7emANylyZdJxw%3D%3D
 
@@ -39,6 +42,7 @@ CCTV15,http://218.241.192.50:8808/udp/239.3.1.153:8136
 CCTV16,http://hlslive-tx-cdn.ysp.cctv.cn/3CDCAC819C1DCA8220C1B507034D4F0047A47DCACE6A390CA1A56819ECEB2D31152381EEA557E3BA6164CE44776E71883609382388F875ACE5DD60F2CDE7F8FCFCAB5D9B2B0FB4F2ACA98D04428151C831350090EB3587D5122B6A211913D7270710710050D9543528AFFF6919046521F95247ACEB6D690EC96A9C5720F5AC42/2024079302.m3u8?from=player&svrtime=1724595603&pid=600098637&cdn=5510&revoi=CCA3002209E668DAED5DBF9CFBAA9D3992C5DC924CB4319AFC788F0474BB9C07
 
 CCTV17,https://livednow.com/migu/673168256?sign=gAAAAABml7qmOBwJZkfya_zcJjt9nfcU-BBXXu9BE2YurVCbTSeM6UP5_rAKD4QdSyZJ4Wk8-I4QeLfMzqdj3hoyX9VjnnMR-J6MfCUJ5LB2JD7vebfojq-S4QcU0J0aKz_dLIJapjkE_lKQIYY98aHV37ppcGTgm9O4EBENS4C6A0tEhPEN9hdXSVOuV6qUwlBiS71FcdQN-6AxQxWait805ostoWSmRA%3D%3D
+CCTV17,http://111.166.193.128:8888/udp/225.1.2.52:5002
 
 CCTV-4欧洲,https://livednow.com/migu/608807419?sign=gAAAAABml7qmIhAMacXbEm7MUGhJFlFAZMuosqfzfQ9_HJXo7wF_IBX_e_IviIU8KyYL9uKAfUbWtEoidJJTFfixG0IAcWeWCoZtCNPtcjfruMZJo3GPaxSQG02lU9eKr6Hbhfq9LFi5l-j_zSvYHc0FjtitkO8vwP9uPiEXioHmDoxGkv_gKrQ-Bkd2ltnMf4cVYO5070DO62yFNOtVL7Lxu-GZuTbONQ%3D%3D
 CCTV-4美洲,https://livednow.com/migu/608807416?sign=gAAAAABml7qmKsa93_huv9VVG_Ovp1ui0UDgfX8OSbY-Jg2xwQkWUcL3gArvGObCJ_VXpTqHGAcNZyMbawmaLmQI9n87quOcVzI8D_c8V0zhhw-c_4ilFYstPTEoxsK71NCU8wvAue0p_PtpHvp_epHe2Lj0Q7w13NMOqQko8UpfI6ow06rjq4MT-jJOmTLtzgI55c5ZDV8yon1HinXvVJbmtffiagPEow%3D%3D
@@ -50,6 +54,8 @@ CHC动作电影,http://nas.hssvm.com:8888/rtp/225.1.1.215:5002
 第一剧场,http://nas.hssvm.com:8888/rtp/225.1.2.175:5002
 风云剧场,http://nas.hssvm.com:8888/rtp/225.1.2.174:5002
 怀旧剧场,http://nas.hssvm.com:8888/rtp/225.1.2.173:5002
+怀旧剧场,http://111.166.193.128:8888/udp/225.1.2.173:5002
+
 风云足球,http://nas.hssvm.com:8888/rtp/225.1.2.168:5002
 风云音乐,http://nas.hssvm.com:8888/rtp/225.1.2.176:5002
 央视台球,http://nas.hssvm.com:8888/rtp/225.1.2.170:5002
@@ -62,6 +68,7 @@ CHC动作电影,http://nas.hssvm.com:8888/rtp/225.1.1.215:5002
 
 
 
+CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 
 CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 
@@ -69,13 +76,15 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://nas.hssvm.com:8888/rtp/225.1.1.112:5002
 湖南卫视,http://nas.hssvm.com:8888/rtp/225.1.1.114:5002
-湖南卫视,http://116.128.243.121:9901/tsfile/live/0128_1.m3u8
+湖南卫视,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=hnws
+
 
 江苏卫视,https://livednow.com/migu/623899368?sign=gAAAAABmxI0hPnAVKDn5X4rM5ve7Zie_kH4FrDcpakJYKAfJZ0fZ4dqQuLva3b7Oe92BFzX31CeBFXrad8LffH1ibt9y8z3IUqzGzcM4s9lSWPGF64Wb6CnfqwoVh-0nOKMOSDDcJBsmn3HjxZNYsRq0itURFTqhPtJXvQfi56jyvSmi7f2RV-U3KmNdwntrwtz_5lRGFuf_l_sCyt0UU8fUq0mvxI1j_Q%3D%3D
 江苏卫视,http://nas.hssvm.com:8888/rtp/225.1.1.126:5002
 
 北京卫视,http://nas.hssvm.com:8888/rtp/225.1.1.113:5002
-北京卫视,http://111.11.98.205:9900/hls/35/index.m3u8
+北京卫视,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=bjws
+
 
 东方卫视,http://nas.hssvm.com:8888/rtp/225.1.2.31:5002
 东方卫视,http://111.11.98.205:9900/hls/47/index.m3u8
@@ -134,6 +143,7 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 广西卫视,http://nas.hssvm.com:8888/rtp/225.1.2.81:5002
 内蒙古卫视,http://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 
+兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 
 
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
