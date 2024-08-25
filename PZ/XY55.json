@@ -453,16 +453,15 @@
 		}
 	],
   "lives":[
-  {
-  "name":"内置直播",
-  "type":0,
-  "url":"http://rihou.cc:555/gggg.nzk",
-  "playerType":1,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  }
-],
+	"lives": [{
+		"group": "redirect",
+		"channels": [{
+			"name": "live",
+			"urls": [
+				"proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/live/xyzb.txt"
+			]
+		}]
+	}],
 	"ijk": [{
 			"group": "软解码",
 			"options": [{
