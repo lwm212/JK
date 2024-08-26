@@ -35,6 +35,7 @@ CCTV13,http://hlslive-hs-cdn.ysp.cctv.cn/E893663C6B35875EE6D74DCF4CB938D658EB80C
 CCTV13,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv13
 
 CCTV13,https://livednow.com/migu/608807423?sign=gAAAAABml7qmUtlBYbwCkBTy78BHvugotM62mD-SWPtJs1nqbnBKKUBumKDGUO3rWZmUrjCgSfiCo1e8sd1hWncGqq3C5nAeHlVZ2U0_3qhiSFL69CKORRSOMY6zAdNrUHIKIoGFjUDVE4djnHshbQbMNUKDB19HoUGR6N9ET7KeukYB3xSRf2xeZHxCF4MRY-f7G2iK3yPVzfSqwmsbM7emANylyZdJxw%3D%3D
+CCTV13,http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=f37566d1d48261e6e4d12e2f0372977b&mdspid=&spid=699004&netType=4&sid=2202208864&pid=2028597139&timestamp=20240826220422&Channel_ID=0116_25040600-99000-200300120100004&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=183.93.93.88&SecurityKey=20240826220422&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-7.8.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&bean=mgspad&mtv_session=54d81fcaab40004a115426bd10d6e31a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e2b3694fc599097d37f7ed63552f4a07
 
 CCTV14,https://livednow.com/migu/624878440?sign=gAAAAABml7qmBTeJ-5vF5cGxjZvwL0maHRXgXoD7Bu-4ry8R90c6HGlxgbcAdnHbNBtH1yYSNmKsetgQPxi8QCmJfHEEosE8TzbRhPll078bp7VXT8LmkafrEHrjXg_EfNSnRTpP8VXrAX5yUGNQLt1rWlwM7rai2y8JunPnn6a9usywOX1bAVoDRx10bu_OudzKBSKMrYq1fW4aj5xBS9d6Qvgk4cWgfw%3D%3D
 
