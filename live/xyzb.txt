@@ -99,37 +99,31 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 广东卫视,http://nas.hssvm.com:8888/rtp/225.1.1.116:5002
 
 重庆卫视,http://nas.hssvm.com:8888/rtp/225.1.1.155:5002
-重庆卫视,http://116.128.243.121:9901/tsfile/live/0142_1.m3u8
-重庆卫视,http://114.254.94.104:2222/rtp/239.3.1.122:8160
-重庆卫视,http://58.19.182.187:9901/tsfile/live/0142_1.m3u8
+
 深圳卫视,http://nas.hssvm.com:8888/rtp/225.1.1.117:5002
 深圳卫视,http://111.11.98.205:9900/hls/45/index.m3u8
 
 东南卫视,http://nas.hssvm.com:8888/rtp/225.1.2.235:5002
 东南卫视,http://111.11.98.205:9900/hls/34/index.m3u8
-东南卫视,http://116.128.243.121:9901/tsfile/live/0137_1.m3u8
-东南卫视,http://221.220.134.175:8012/rtp/239.3.1.156:8148
-东南卫视,http://58.19.182.187:9901/tsfile/live/0137_1.m3u8
-天津卫视,http://58.19.38.162:9901/tsfile/live/1024_1.m3u8
+
 天津卫视,http://111.11.98.205:9900/hls/36/index.m3u8
-天津卫视,http://116.128.243.121:9901/tsfile/live/0135_1.m3u8
-天津卫视,http://114.254.94.104:2222/rtp/239.3.1.141:1234
+
 安徽卫视,http://nas.hssvm.com:8888/rtp/225.1.1.127:5002
 安徽卫视,http://111.11.98.205:9900/hls/33/index.m3u8
-安徽卫视,http://58.19.182.187:9901/tsfile/live/0130_1.m3u8
+
 湖北卫视,https://livednow.com/migu/738906825?sign=gAAAAABmxI0h-BHwt9eZfEsttvtUEHqF_nOSMg5vDeQKzmCYZVQ7M3-_wVYpdbwi1Rg70jmTIX50Ex6Nh61BD18ct6I4Zb9aWLIwKQ1nTm71D4SLNTRzWSEVOVug1AESI4KXnu5BBbwL9EPTSrJbrBzIXo_ImM9vLxYfam1IWL-c12xoUpjVwWzdPBYa84ftUoDcyK_oFmD1i-Ap3qrgu7lkT9Fd3KdjWA%3D%3D
 湖北卫视,http://nas.hssvm.com:8888/rtp/225.1.1.147:5002
 
 山东卫视,http://nas.hssvm.com:8888/rtp/225.1.1.148:5002
-山东卫视,http://111.11.98.205:9900/hls/38/index.m3u8
+
 
 河北卫视,http://nas.hssvm.com:8888/rtp/225.1.2.27:5002
-河北卫视,http://114.254.94.104:2222/rtp/239.3.1.148:8072
+
 海南卫视,https://livednow.com/migu/738906860?sign=gAAAAABmWcv_cCQP4HFmJdrproVAtVra2Mg07zUlnoewQPWQqSygguixpReyKlfIch9PdGKgOOD4Y2hQTbh_BcUzvWemcsciz2l2MDRd9ex3VRu8vt_wRQ0oOnEabBwBrLPZFebB3xOk-DDg9_oLZ4K8zVVOIjcahCgqltlHDCOiZLdzHSWPSn3hWWVNkjfsbK9gQkJ7OJ3GnifHViP5llTY_9ELjlW0hQ%3D%3D
 海南卫视,http://nas.hssvm.com:8888/rtp/225.1.2.82:5002
-海南卫视,http://58.19.182.187:9901/tsfile/live/1007_1.m3u8
+
 四川卫视,http://nas.hssvm.com:8888/rtp/225.1.1.123:5002
-四川卫视,http://116.128.243.121:9901/tsfile/live/0123_1.m3u8
+
 贵州卫视,http://nas.hssvm.com:8888/rtp/225.1.2.28:5002
 贵州卫视,http://111.11.98.205:9900/hls/44/index.m3u8
 陕西卫视,https://livednow.com/migu/738910838?sign=gAAAAABmxI0hnkOYQP7HM-HD3kdJoM6Rjv49qBot8XR7M6H9gwyRq0RRVvrAn_az0kemolsCFSx_MrucdJP21jJGedd8u5pUKa-fUe7pw0hbCH8xRqqRHYW7MJmxdtK7fjbNjeYPILBRR9D0aRKhHQxqqcZJxu7aWtdfYrirUflaXKXPh-edykJkAEGqBtAwmz1ZE6cQl3RCrB9bwuH5JNaRaCM3quQFmA%3D%3D
@@ -149,10 +143,31 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 广西卫视,http://nas.hssvm.com:8888/rtp/225.1.2.81:5002
 内蒙古卫视,http://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 
+
+浙江卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=zjws
+湖南卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=hnws
+江苏卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=jsws
+北京卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=bjws
+东方卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=dfws
+广东卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=gdws
+重庆卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cqws
+深圳卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=szws
+东南卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=dnws
+天津卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=tjws
+安徽卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=ahws
+山东卫视,http://58.59.47.242:8180/TV00000000000000000018@HHZT
+河北卫视,http://www.hiliu.myds.me:8088/rtp/239.69.1.157:10578
+四川卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=scws
+贵州卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=gzws
+黑龙江卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=hljws
+吉林卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=jlws
+江西卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=jxws
+广西卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=gxws
+山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+内蒙古卫视,http://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
-
-
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
 西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 
