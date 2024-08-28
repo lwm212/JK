@@ -70,13 +70,54 @@ CHC动作电影,http://nas.hssvm.com:8888/rtp/225.1.1.215:5002
 网球高尔夫,http://nas.hssvm.com:8888/rtp/225.1.2.169:5002
 兵器科技,http://nas.hssvm.com:8888/rtp/225.1.2.166:5002
 
+CCTV1,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv1
+CCTV2,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv2
+CCTV3,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv3
+CCTV4,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv4
+CCTV5,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv5
+CCTV5+,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv5p
+CCTV6,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv6
+CCTV7,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv7
+CCTV8,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv8
+CCTV9,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv9
+CCTV10,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv10
+CCTV11,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv11
+CCTV12,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv12
+CCTV13,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv13
+CCTV14,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv14
+CCTV15,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv15
+CCTV16,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv16
+CCTV17,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv17
+CCTV-4欧洲,http://111.227.194.148:4022/rtp/239.254.201.205:4220
+CCTV-4美洲,http://111.227.194.148:4022/rtp/239.254.201.206:4220
+CGTN英语,http://111.227.194.148:4022/rtp/239.254.200.12:8056
+CGTN纪录,http://111.227.194.148:4022/rtp/239.254.201.208:4220
+CGTN西语,http://111.227.194.148:4022/rtp/239.254.201.209:4220
+CGTN法语,http://111.227.194.148:4022/rtp/239.254.201.210:4220
+CGTN阿语,http://111.227.194.148:4022/rtp/239.254.201.211:4220
+CGTN俄语,http://111.227.194.148:4022/rtp/239.254.201.212:4220
+CHC家庭影院,http://58.59.47.242:8180/TV00000000000000000029@HHZT
+CHC影迷电影,http://58.59.47.242:8180/TV00000000000000000031@HHZT
+CHC动作电影,http://58.59.47.242:8180/TV00000000000000000030@HHZT
 
+第一剧场,http://183.191.7.181:8002/rtp/226.0.2.221:9680
+风云剧场,http://183.191.7.181:8002/rtp/226.0.2.227:9728
+怀旧剧场,http://183.191.7.181:8002/rtp/226.0.2.224:9704
+风云足球,http://183.191.7.181:8002/rtp/226.0.2.225:9712
+风云音乐,http://183.191.7.181:8002/rtp/226.0.2.220:9672
+央视台球,http://183.191.7.181:8002/rtp/226.0.2.216:9640
+女性时尚,http://183.191.7.181:8002/rtp/226.0.2.226:9720
+世界地理,http://183.191.7.181:8002/rtp/226.0.2.222:9688
+网球高尔夫,http://183.191.7.181:8002/rtp/226.0.2.217:9648
+兵器科技,http://183.191.7.181:8002/rtp/226.0.2.223:9696
+文化精品,http://183.191.7.181:8002/rtp/226.0.2.219:9664
 
 
 
 CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 
 CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
+
 
 卫视频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
