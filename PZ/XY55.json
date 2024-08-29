@@ -2,6 +2,17 @@
 	"sites": [
 
 		{
+			" key": "csp_瓜子",
+			"name": "🌰瓜子┃1080P",
+			"api": "影视┃0",
+			"type": 3,
+			"searchable": 1,
+			"playerType": 2,
+			"timeout": 30,
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724935608707/ouyang2.jar;md5;67c9b47d5677086689590c1f8a588263",
+			"changeable": 0
+		},
+		{
 			"key": "csp_XYQHiker_七新影视",
 			"name": "影视┃1",
 			"type": 3,
@@ -11,7 +22,7 @@
 			"filterable": 1,
 			"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/XYQ.jar",
 			"ext": "https://jihulab.com/lwm212/box/-/raw/main/XYQ/七新影视.json"
-		},		
+		},
 		{
 			"key": "贱贱",
 			"name": "影视┃2",
@@ -35,13 +46,13 @@
 			"ext": "https://jihulab.com/lwm212/box/-/raw/main/XBPQ/骚火.json"
 		},
 		{
-			"key":"苹果",
-			"name":"影视┃4",
-			"type":3,
-			"api":"csp_LiteApple",
-			"searchable":1,
-			"quickSearch":1,
-			"changeable":1
+			"key": "苹果",
+			"name": "影视┃4",
+			"type": 3,
+			"api": "csp_LiteApple",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
 		},
 		{
 			"key": "文采",
@@ -52,8 +63,18 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1
-                },
-{"key":"Auete","name":"影视┃6","type": 3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"}, 
+		},
+		{
+			"key": "Auete",
+			"name": "影视┃6",
+			"type": 3,
+			"api": "csp_Auete",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://auete.pro/"
+		},
 		{
 			"key": "XBPQ_98影视",
 			"name": "影视┃7",
@@ -121,7 +142,7 @@
 			"filterable": 1,
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/spider.jar"
 		},
-		
+
 		{
 			"key": "豪华资源",
 			"name": "影视┃13",
@@ -271,10 +292,29 @@
 			"ext": "https://notabug.org/lwm212/boxx/raw/master/json/bilibili.json",
 			"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/Yoursmile.jar"
 		},
-                {"key": "FirstAid","name": "急救 ","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}}
+		{
+			"key": "FirstAid",
+			"name": "急救 ",
+			"type": 3,
+			"api": "csp_FirstAid",
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 3.8
+			}
+		}
 
 	],
-	"parses": [{"name":"官解1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
+	"parses": [{
+			"name": "官解1",
+			"type": 0,
+			"url": "https://jx.xmflv.com/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "imgo", "rx", "ltnb", "bilibili", "1905", "xigua"]
+			}
+		},
 		{
 			"name": "官解2",
 			"type": 0,
