@@ -222,15 +222,7 @@
 			"filterable": 1,
 			"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/优酷.js"
 		},
-		{
-			"key": "sohu",
-			"name": "搜狐",
-			"type": 1,
-			"api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"playUrl": "json:http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="
-		},
+
 		{
 			"key": "csp_New6v",
 			"name": "🧲新6V",
