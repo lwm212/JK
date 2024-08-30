@@ -3,8 +3,6 @@ CCTV1,https://livednow.com/migu/608807420?sign=gAAAAABml7qmnY4_XFWn880kDQkf9Evv0
 CCTV1,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv1
 
 
-CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-CCTV2,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2,https://livednow.com/migu/631780532?sign=gAAAAABml7qms0pb-Ujp9QvCzx4GyR5vzqzZ7RwfV9gC56OuzHIT2VbSJoBcZoA_YgHVs4tsdFClFNVaC33lmSssI6xjONybsmDkklX40_P4OnNZpL6CotuazxT0OizLZJsR5qlAvNKIEKVk38iYL60nOqM_qKnUQ3EfuJj17Z_xKnSbRXhECqTcCd6K6Sl9vKfe7_befpEDoJxT3B1puA9MnP6FOGYwAA%3D%3D
 CCTV2,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv2
 
