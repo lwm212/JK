@@ -462,7 +462,7 @@
 		"channels": [{
 			"name": "live",
 			"urls": [
-				"proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/live/xyzb.txt"
+				"proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2x3bTIxMi9KSy9tYWluL2xpdmUveHl6Yi50eHQ="
 			]
 		}]
 	}],
