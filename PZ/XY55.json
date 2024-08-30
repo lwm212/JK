@@ -190,7 +190,7 @@
 		},
         {
             "key": "hipy_js_腾云驾雾[官]",
-            "name": "🌞腾腾┃解析",
+            "name": "腾讯",
             "type": 3,
             "api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
             "searchable": 1,
@@ -205,23 +205,13 @@
 			"name": "爱奇艺",
 			"type": 3,
 			"playerType": "2",
-			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/lib/drpy2.min.js",
+			"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/奇珍异兽.js"
 		},
-		{
-			"key": "dr_腾云驾雾",
-			"name": "腾讯",
-			"type": 3,
-			"playerType": "2",
-			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/lib/drpy2.min.js",
-			"searchable": 2,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/腾云驾雾.js"
-		},
+
 		{
 			"key": "dr_优酷",
 			"name": "优酷",
