@@ -187,15 +187,7 @@
 		},
 
 
-		{
-			"key": "XBPQ_MP4",
-			"name": "🧲MP4┃磁力",
-			"type": 3,
-			"searchable": 1,
-			"playerType": 2,
-			"api": "csp_XBPQ",
-			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/MP4%E7%A3%81%E5%8A%9B.json"
-		},
+{"key":"drpy_js_MP4US","name":"MP4电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
 		{
 			"key": "hipy_js_腾云驾雾[官]",
 			"name": "腾讯",
