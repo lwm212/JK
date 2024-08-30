@@ -109,16 +109,17 @@
 		},
         {
             "key": "csp_全网",
-            "name": "🥣全网┃1080P",
+            "name": "影视┃10",
             "type": 3,
             "changeable": 0,
             "api": "csp_Quanwk",
+	    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar",	
             "ext": "https://1.qkw1.cc/"
         },
 
         {
             "key": "小米",
-            "name": "📺米米┃1080P",
+            "name": "影视┃11",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -159,7 +160,7 @@
 
 		{
 			"key": "奇优影院",
-			"name": "影视┃10",
+			"name": "影视┃12,
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -167,25 +168,10 @@
 			"filterable": 0,
 			"ext": "https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"
 		},
-		{
-			"key": "双黄",
-			"name": "影视┃11",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": {
-				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
-				"请求头": "手机#Referer$https://www.dandanju.cc/",
-				"分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
-				"分类": "电影$1#剧集$2#动漫$4#综艺$3",
-				"数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
-				"搜索模式": "1",
-				"搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
-				"搜索数组": "<li class=\"active clearfix&&</li"
-			}
-		},
+
 		{
 			"key": "快看影视",
-			"name": "影视┃12",
+			"name": "影视┃13",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
@@ -195,42 +181,6 @@
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/spider.jar"
 		},
 
-		{
-			"key": "豪华资源",
-			"name": "影视┃13",
-			"type": 1,
-			"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"内地剧",
-				"香港剧",
-				"欧美剧",
-				"韩剧",
-				"日剧",
-				"马泰剧",
-				"台湾剧",
-				"动画片",
-				"中国动漫",
-				"日本动漫",
-				"欧美动漫",
-				"剧情片",
-				"战争片",
-				"动作片",
-				"科幻片",
-				"记录片",
-				"爱情片",
-				"喜剧片",
-				"灾难片",
-				"悬疑片",
-				"犯罪片",
-				"大陆综艺",
-				"日韩综艺",
-				"港台综艺",
-				"欧美综艺"
-			]
-		},
 
 
 
