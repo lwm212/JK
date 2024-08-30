@@ -187,7 +187,7 @@
 		},
 
 
-{"key":"drpy_js_MP4US","name":"MP4电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
+
 		{
 			"key": "hipy_js_腾云驾雾[官]",
 			"name": "腾讯",
@@ -198,7 +198,7 @@
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0,
-			"ext": "http://www.mpanso.com/小米/ttt.js"
+			"ext": "http://www.mpanso.com/小米/ttt1.js"
 		},
 		{
 			"key": "dr_奇珍异兽",
