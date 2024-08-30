@@ -1,16 +1,15 @@
 {
-	"sites": [
-		        {
-            "key": "csp_瓜子",
-            "name": "影视┃0",
-            "api": "csp_Gz360",
-            "type": 3,
-            "searchable": 1,
-            "playerType": 2,
-            "timeout": 30,
-	    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar",		
-            "changeable": 0
-        },
+	"sites": [{
+			"key": "csp_瓜子",
+			"name": "影视┃0",
+			"api": "csp_Gz360",
+			"type": 3,
+			"searchable": 1,
+			"playerType": 2,
+			"timeout": 30,
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar",
+			"changeable": 0
+		},
 
 		{
 			"key": "csp_XYQHiker_七新影视",
@@ -96,18 +95,18 @@
 			"changeable": 1,
 			"ext": "https://www.czys.pro/"
 		},
-		       {
-            "key": "君君",
-            "name": "影视┃9",
-            "playerType": 1,
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://122.228.85.203:1000/api.php/app/"
-        },
+		{
+			"key": "君君",
+			"name": "影视┃9",
+			"playerType": 1,
+			"type": 3,
+			"changeable": 0,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://122.228.85.203:1000/api.php/app/"
+		},
 
 
 
@@ -197,18 +196,18 @@
 			"api": "csp_XBPQ",
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/MP4%E7%A3%81%E5%8A%9B.json"
 		},
-        {
-            "key": "hipy_js_腾云驾雾[官]",
-            "name": "腾讯",
-            "type": 3,
-            "api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "http://www.mpanso.com/小米/ttt.js"
-        },
+		{
+			"key": "hipy_js_腾云驾雾[官]",
+			"name": "腾讯",
+			"type": 3,
+			"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "http://www.mpanso.com/小米/ttt.js"
+		},
 		{
 			"key": "dr_奇珍异兽",
 			"name": "爱奇艺",
@@ -280,76 +279,75 @@
 
 	],
 
-	  "parses": [
-        {
-            "name": "Json聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Web聚合",
-            "type": 3,
-            "url": "Web"
-        },
-        {
-            "name": "4K解析",
-            "type": 1,
-            "url": "http://www.mpanso.com/woaini.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
-        {
-            "name": "1080解析",
-            "type": 1,
-            "url": "https://cdn.suxun.site/api/?key=7QeqS18ZCrJgj0BSOn&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
-	{
+	"parses": [{
+			"name": "Json聚合",
+			"type": 3,
+			"url": "Demo"
+		},
+		{
+			"name": "Web聚合",
+			"type": 3,
+			"url": "Web"
+		},
+		{
+			"name": "4K解析",
+			"type": 1,
+			"url": "http://www.mpanso.com/woaini.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+		{
+			"name": "1080解析",
+			"type": 1,
+			"url": "https://cdn.suxun.site/api/?key=7QeqS18ZCrJgj0BSOn&url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+		{
 			"name": "官解1",
 			"type": 0,
 			"url": "https://jx.xmflv.com/?url=",
