@@ -355,8 +355,8 @@
 		},
 		{
 			"name": "官解3",
-			"type": 0,
-			"url": "https://jx.xmflv.com/?url=",
+			"type": 1,
+			"url": "http://39.104.230.177:1122/lxjx/myvip.php?url=",
 			"ext": {
 				"header": {
 					"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
