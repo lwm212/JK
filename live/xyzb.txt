@@ -120,8 +120,9 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 卫视频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://nas.hssvm.com:8888/rtp/225.1.1.112:5002
-湖南卫视,http://nas.hssvm.com:8888/rtp/225.1.1.114:5002
 湖南卫视,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=hnws
+湖南卫视,http://nas.hssvm.com:8888/rtp/225.1.1.114:5002
+
 
 
 江苏卫视,https://livednow.com/migu/623899368?sign=gAAAAABmxI0hPnAVKDn5X4rM5ve7Zie_kH4FrDcpakJYKAfJZ0fZ4dqQuLva3b7Oe92BFzX31CeBFXrad8LffH1ibt9y8z3IUqzGzcM4s9lSWPGF64Wb6CnfqwoVh-0nOKMOSDDcJBsmn3HjxZNYsRq0itURFTqhPtJXvQfi56jyvSmi7f2RV-U3KmNdwntrwtz_5lRGFuf_l_sCyt0UU8fUq0mvxI1j_Q%3D%3D
