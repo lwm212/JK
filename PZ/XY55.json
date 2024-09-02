@@ -355,7 +355,7 @@
 		},
 		{
 			"name": "官解3",
-			"type": 1,
+			"type":0,
 			"url": "http://39.104.230.177:1122/lxjx/myvip.php?url=",
 			"ext": {
 				"header": {
