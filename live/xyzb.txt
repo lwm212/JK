@@ -120,10 +120,8 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 卫视频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://nas.hssvm.com:8888/rtp/225.1.1.112:5002
-湖南卫视,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=hnws
+湖南卫视,http://58.59.47.242:8180/TV00000000000000000027@HHZT
 湖南卫视,http://nas.hssvm.com:8888/rtp/225.1.1.114:5002
-
-
 
 江苏卫视,https://livednow.com/migu/623899368?sign=gAAAAABmxI0hPnAVKDn5X4rM5ve7Zie_kH4FrDcpakJYKAfJZ0fZ4dqQuLva3b7Oe92BFzX31CeBFXrad8LffH1ibt9y8z3IUqzGzcM4s9lSWPGF64Wb6CnfqwoVh-0nOKMOSDDcJBsmn3HjxZNYsRq0itURFTqhPtJXvQfi56jyvSmi7f2RV-U3KmNdwntrwtz_5lRGFuf_l_sCyt0UU8fUq0mvxI1j_Q%3D%3D
 江苏卫视,http://nas.hssvm.com:8888/rtp/225.1.1.126:5002
@@ -153,7 +151,7 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 
 湖北卫视,https://livednow.com/migu/738906825?sign=gAAAAABmxI0h-BHwt9eZfEsttvtUEHqF_nOSMg5vDeQKzmCYZVQ7M3-_wVYpdbwi1Rg70jmTIX50Ex6Nh61BD18ct6I4Zb9aWLIwKQ1nTm71D4SLNTRzWSEVOVug1AESI4KXnu5BBbwL9EPTSrJbrBzIXo_ImM9vLxYfam1IWL-c12xoUpjVwWzdPBYa84ftUoDcyK_oFmD1i-Ap3qrgu7lkT9Fd3KdjWA%3D%3D
 湖北卫视,http://nas.hssvm.com:8888/rtp/225.1.1.147:5002
-
+山东卫视,http://58.59.47.242:8180/TV00000000000000000018@HHZT
 山东卫视,http://nas.hssvm.com:8888/rtp/225.1.1.148:5002
 
 
@@ -184,25 +182,7 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 内蒙古卫视,http://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 
 
-浙江卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=zjws
-湖南卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=hnws
-江苏卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=jsws
-北京卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=bjws
-东方卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=dfws
-广东卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=gdws
-重庆卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cqws
-深圳卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=szws
-东南卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=dnws
-天津卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=tjws
-安徽卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=ahws
-山东卫视,http://58.59.47.242:8180/TV00000000000000000018@HHZT
-河北卫视,http://www.hiliu.myds.me:8088/rtp/239.69.1.157:10578
-四川卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=scws
-贵州卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=gzws
-黑龙江卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=hljws
-吉林卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=jlws
-江西卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=jxws
-广西卫视,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=gxws
+
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 内蒙古卫视,http://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
