@@ -1,7 +1,5 @@
 🇨🇳央视频道,#genre#
-CCTV1,http://58.59.47.242:8180/TV00000000000000000003@HHZT
 
-CCTV2,http://58.59.47.242:8180/TV00000000000000000004@HHZT
 CCTV1,https://livednow.com/migu/608807420?sign=gAAAAABml7qmnY4_XFWn880kDQkf9Evv0IP3yNnlhrWU5UuyDow1niqhLIIaF3B3EYyp6HV8twefqXUlNyKgYkmVPftZnOQtN83Ttr7OowYRbt_4NP1g7DgbkgPS8gNnOVj78p4pPiO0KY-dHPmLnVBB7iQMAwnkEBbae645H-odcjKXhPWF9a6Hb1mtbv5Z3jJUJIprhQMSiVsGYBpmH1enX9P92p8oQw%3D%3D
 CCTV1,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv1
 
@@ -10,8 +8,7 @@ CCTV2,https://livednow.com/migu/631780532?sign=gAAAAABml7qms0pb-Ujp9QvCzx4GyR5vz
 CCTV2,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv2
 
 CCTV3,https://livednow.com/migu/624878271?sign=gAAAAABml7qmBER_O-kf1WC_k8gJgR5iTVLC-NS1LWDZLCv6XsGlatdDMLUo_Y-aKAc10swmqHCKgREt8ma22j_Mr3MD_4UOKF2mWK3UoB_FImWLDAy1covdj2aJ_KNBHahQhKOzHdJYMHJyGv2CYHPjRmVFb2rUa3fKakIA4qBWRN-i9f5j6643RAXCUy9tWB-YzYW3ur0rMKRN6WNy3Zr_wjCh-aLc3w%3D%3D
-CCTV4,http://58.59.47.242:8180/TV00000000000000000006@HHZT
-CCTV5+,http://58.59.47.242:8180/TV00000000000000000070@HHZT
+
 CCTV4,https://livednow.com/migu/631780421?sign=gAAAAABml7qmlXIiHOLFajI8kFDKcfi6auNmnCjkE-iRKbLrmMSW-P_oCFTmLhhzf1j0m5AqUNivAp2vyv_sMsdGqZ6zG5Ez5GIYuEJ9vTKJDf5Fsd-In-9pIDIrB8sNEwNRrzpmigkW8bA_PygFHBCz7aDMJHpJp0lRCsh7H42oKXcKZcEHqihT1soraiOJP8ZTkGAAEr9amqTBN23Sppu03mR8ReMF0g%3D%3D
 
 CCTV5,https://livednow.com/migu/641886683?sign=gAAAAABml7qm-Eqk8M2qpagASj1ZmDVYak2McHWyUrNXoLfZ_4DuTk3tOzDAmu1arbY-UUYPkn2ys0cCtYv4jw5c0ZTwpwBrIb-KuB1HqjajC0yCHtrugQsA7FUvLFwuj2erlxxCROgnZA29r-7BfB8SWdqxnYURcSG5mrIkhkwTRJWkdREb0qFG7RQaHv0Ti_4pFhnilivka6jhkoMXH7sXirUUd9Aq7g%3D%3D
@@ -20,7 +17,7 @@ CCTV5+,https://livednow.com/migu/641886773?sign=gAAAAABmwtTudYVI4jfMsN0Z9fKcfTEl
 
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6,https://livednow.com/migu/624878396?sign=gAAAAABml7qm7JicBy4HVME1s9l3wgXdSUycDwtssE8j8nfP_Lg7O-dPLB_M_WEU2Fm6KO1WSbxBk4SE99Y-2cIpw-lQPI9sjF0tw1CojuvXAJ_6koMl2rdWrpzs6ltXkjXcsGRfEaTxakEldNY1hf0zU4sBqb2dLFQauHx0i-secvGKGxlpibeOGRqxXHw2jff_ky6zSymLuvARUJZibtT7qar33KXZ2g%3D%3D
-CCTV7,http://58.59.47.242:8180/TV00000000000000000106@HHZT
+
 
 CCTV7,https://livednow.com/migu/673168121?sign=gAAAAABml7qmn3me8i-XwWtMfd5gVU-SyaXPZ7NEIIrLocPWHNN5TtYBvvp-yBRF5IYv-OuYpnY9i3e821kj1HYF34vE4c2343aLOFSAPQPP-VGc8kYoTFULQfYiyzegsS5d7xtoU2BbtjNRA7hKOyVCEzbYxKCyB0MkXgwTAYj96GIdDLLwjfAJ9RAzWg12vx8eJLcDUdicLufZBESjF6NkjPEJETvjWA%3D%3D
 
@@ -33,13 +30,13 @@ CCTV10,https://livednow.com/migu/624878405?sign=gAAAAABml7qm2TqOePXGrRmB8tLugddO
 
 
 CCTV11,https://livednow.com/migu/667987558?sign=gAAAAABml7qmSqcog6KVXdkFqlGRh-cnEI4EtFiB_NbAial-mk1pxkmfxKA6mYbV6A0RO-2CgDbSb9UTTPkvix8u8oZuifdDxpTRHupzJok8Zig7IDy-dTYqsCoYxaSK8EXH7neeFNbyrCYKEtcXtMKOD9flZYElFjXFcDZHZfpe7z7XFg73B-3J9jxwm7uVNr4NE4C1qaBYSiFM4kVFy5GqiL0BFE0fYg%3D%3D
-CCTV12,http://58.59.47.242:8180/TV00000000000000000108@HHZT
+
 
 CCTV12,https://livednow.com/migu/673168185?sign=gAAAAABml7qmsMys8NTNaUymeDtRFknt-dHgDJ5Qn-DVploHKIrZihg2nfOCU7kQT6g1YKOa2ggk5jZnS1ranFCWhcE7Dtk-deouP_dwuplE2yquAX7LqLd_gFBfcekxiNabAGrnUS7ETFDNPnnessRn6lAmwRu6N6EEbnNibJ15bWvr3pTCdcp_twbcAJ79IYjKqiYjL7l6z-BUimPuR_mU3LjUuuUYrw%3D%3D
 
 CCTV13,https://livednow.com/migu/608807423?sign=gAAAAABml7qmUtlBYbwCkBTy78BHvugotM62mD-SWPtJs1nqbnBKKUBumKDGUO3rWZmUrjCgSfiCo1e8sd1hWncGqq3C5nAeHlVZ2U0_3qhiSFL69CKORRSOMY6zAdNrUHIKIoGFjUDVE4djnHshbQbMNUKDB19HoUGR6N9ET7KeukYB3xSRf2xeZHxCF4MRY-f7G2iK3yPVzfSqwmsbM7emANylyZdJxw%3D%3D
 CCTV13,http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=f37566d1d48261e6e4d12e2f0372977b&mdspid=&spid=699004&netType=4&sid=2202208864&pid=2028597139&timestamp=20240826220422&Channel_ID=0116_25040600-99000-200300120100004&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=183.93.93.88&SecurityKey=20240826220422&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-7.8.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&bean=mgspad&mtv_session=54d81fcaab40004a115426bd10d6e31a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e2b3694fc599097d37f7ed63552f4a07
-CCTV14,http://58.59.47.242:8180/TV00000000000000000109@HHZT
+
 
 CCTV14,https://livednow.com/migu/624878440?sign=gAAAAABml7qmBTeJ-5vF5cGxjZvwL0maHRXgXoD7Bu-4ry8R90c6HGlxgbcAdnHbNBtH1yYSNmKsetgQPxi8QCmJfHEEosE8TzbRhPll078bp7VXT8LmkafrEHrjXg_EfNSnRTpP8VXrAX5yUGNQLt1rWlwM7rai2y8JunPnn6a9usywOX1bAVoDRx10bu_OudzKBSKMrYq1fW4aj5xBS9d6Qvgk4cWgfw%3D%3D
 
@@ -48,7 +45,7 @@ CCTV15,http://218.241.192.50:8808/udp/239.3.1.153:8136
 
 CCTV16,http://zy.otioi.cn/live/cqyx.php?token=8sO3Q0p7&id=cctv16
 CCTV16,http://cqcu4.live.cbncdn.cn:80/session/3794983c-63ab-11ef-b4a2-525400dfb345$h1.0$hls.live.cqccn.com/rx45vo/__cl/cg:live/__c/cctv16HD/__op/default/__f/1/v4M/index.m3u8
-CCTV17,http://58.59.47.242:8180/TV00000000000000000009@HHZT
+
 CCTV17,https://livednow.com/migu/673168256?sign=gAAAAABml7qmOBwJZkfya_zcJjt9nfcU-BBXXu9BE2YurVCbTSeM6UP5_rAKD4QdSyZJ4Wk8-I4QeLfMzqdj3hoyX9VjnnMR-J6MfCUJ5LB2JD7vebfojq-S4QcU0J0aKz_dLIJapjkE_lKQIYY98aHV37ppcGTgm9O4EBENS4C6A0tEhPEN9hdXSVOuV6qUwlBiS71FcdQN-6AxQxWait805ostoWSmRA%3D%3D
 CCTV17,http://111.166.193.128:8888/udp/225.1.2.52:5002
 
