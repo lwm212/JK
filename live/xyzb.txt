@@ -50,6 +50,25 @@ CCTV16,http://218.241.192.50:8808/udp/239.3.1.184:8001
 CCTV17,https://livednow.com/migu/673168256?sign=gAAAAABml7qmOBwJZkfya_zcJjt9nfcU-BBXXu9BE2YurVCbTSeM6UP5_rAKD4QdSyZJ4Wk8-I4QeLfMzqdj3hoyX9VjnnMR-J6MfCUJ5LB2JD7vebfojq-S4QcU0J0aKz_dLIJapjkE_lKQIYY98aHV37ppcGTgm9O4EBENS4C6A0tEhPEN9hdXSVOuV6qUwlBiS71FcdQN-6AxQxWait805ostoWSmRA%3D%3D
 CCTV17,http://111.166.193.128:8888/udp/225.1.2.52:5002
 
+CCTV1,http://diyp.uk.to/zb/1725695663.php?id=cctv1
+CCTV2,http://diyp.uk.to/zb/1725695663.php?id=cctv2
+CCTV3,http://diyp.uk.to/zb/1725695663.php?id=cctv3
+CCTV4,http://diyp.uk.to/zb/1725695663.php?id=cctv4
+CCTV5,http://diyp.uk.to/zb/1725695663.php?id=cctv5
+CCTV5+,http://diyp.uk.to/zb/1725695663.php?id=cctv5p
+CCTV6,http://diyp.uk.to/zb/1725695663.php?id=cctv6
+CCTV7,http://diyp.uk.to/zb/1725695663.php?id=cctv7
+CCTV8,http://diyp.uk.to/zb/1725695663.php?id=cctv8
+CCTV9,http://diyp.uk.to/zb/1725695663.php?id=cctv9
+CCTV10,http://diyp.uk.to/zb/1725695663.php?id=cctv10
+CCTV11,http://diyp.uk.to/zb/1725695663.php?id=cctv11
+CCTV12,http://diyp.uk.to/zb/1725695663.php?id=cctv12
+CCTV13,http://diyp.uk.to/zb/1725695663.php?id=cctv13
+CCTV14,http://diyp.uk.to/zb/1725695663.php?id=cctv14
+CCTV15,http://diyp.uk.to/zb/1725695663.php?id=cctv15
+CCTV16,http://diyp.uk.to/zb/1725695663.php?id=cctv16
+CCTV17,http://diyp.uk.to/zb/1725695663.php?id=cctv17
+
 CCTV-4欧洲,https://livednow.com/migu/608807419?sign=gAAAAABml7qmIhAMacXbEm7MUGhJFlFAZMuosqfzfQ9_HJXo7wF_IBX_e_IviIU8KyYL9uKAfUbWtEoidJJTFfixG0IAcWeWCoZtCNPtcjfruMZJo3GPaxSQG02lU9eKr6Hbhfq9LFi5l-j_zSvYHc0FjtitkO8vwP9uPiEXioHmDoxGkv_gKrQ-Bkd2ltnMf4cVYO5070DO62yFNOtVL7Lxu-GZuTbONQ%3D%3D
 CCTV-4美洲,https://livednow.com/migu/608807416?sign=gAAAAABml7qmKsa93_huv9VVG_Ovp1ui0UDgfX8OSbY-Jg2xwQkWUcL3gArvGObCJ_VXpTqHGAcNZyMbawmaLmQI9n87quOcVzI8D_c8V0zhhw-c_4ilFYstPTEoxsK71NCU8wvAue0p_PtpHvp_epHe2Lj0Q7w13NMOqQko8UpfI6ow06rjq4MT-jJOmTLtzgI55c5ZDV8yon1HinXvVJbmtffiagPEow%3D%3D
 CHC家庭影院,https://livednow.com/migu/644368373?sign=gAAAAABml7qmeyTy29cknAK94j8hHJXWivvg2AxBVs9ixKzkevJqJfTEzTgxGBjUdjuzkq_FBiGVCTD1lPDRVrOySvlxCy_OcURylfBXckr-5tBhFu1LnTfVeuOMzQ1P8PlsbXJdWaxrJ1iy2KNZgab2VNu1gYvpcuN8RBEoG9YMf1wlUvlQCIkoq5U9bmcdDSeLh4Kcmz9wU1xNHkm8uOF17dhK0Pf5Xg%3D%3D
