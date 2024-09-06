@@ -6,7 +6,7 @@ CCTV1,http://183.94.191.34:888/udp/228.0.0.1:6108
 
 CCTV2,https://livednow.com/migu/631780532?sign=gAAAAABml7qms0pb-Ujp9QvCzx4GyR5vzqzZ7RwfV9gC56OuzHIT2VbSJoBcZoA_YgHVs4tsdFClFNVaC33lmSssI6xjONybsmDkklX40_P4OnNZpL6CotuazxT0OizLZJsR5qlAvNKIEKVk38iYL60nOqM_qKnUQ3EfuJj17Z_xKnSbRXhECqTcCd6K6Sl9vKfe7_befpEDoJxT3B1puA9MnP6FOGYwAA%3D%3D
 CCTV2,http://183.94.191.34:888/udp/228.0.0.2:6108
-CCTV2,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv2
+
 CCTV3,http://218.241.192.50:8808/udp/239.3.1.172:8001
 CCTV3,http://183.94.191.34:888/udp/228.0.0.156:7156
 CCTV3,https://livednow.com/migu/624878271?sign=gAAAAABml7qmBER_O-kf1WC_k8gJgR5iTVLC-NS1LWDZLCv6XsGlatdDMLUo_Y-aKAc10swmqHCKgREt8ma22j_Mr3MD_4UOKF2mWK3UoB_FImWLDAy1covdj2aJ_KNBHahQhKOzHdJYMHJyGv2CYHPjRmVFb2rUa3fKakIA4qBWRN-i9f5j6643RAXCUy9tWB-YzYW3ur0rMKRN6WNy3Zr_wjCh-aLc3w%3D%3D
@@ -130,7 +130,7 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 江苏卫视,http://nas.hssvm.com:8888/rtp/225.1.1.126:5002
 
 北京卫视,http://nas.hssvm.com:8888/rtp/225.1.1.113:5002
-北京卫视,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=bjws
+
 
 
 东方卫视,http://nas.hssvm.com:8888/rtp/225.1.2.31:5002
