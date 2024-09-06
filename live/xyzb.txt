@@ -189,11 +189,9 @@ CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAu
 跑跑卡丁车•手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 永劫无间,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 测试,#genre#
-腾讯体育,https://livednow.com/tencent/list?main_login=qq&vqq_appid=101481799&vqq_openid=2C145CC11C0FF30799BE123C1BDDEAB0&vqq_access_token=373ABDAFEA8D21C513693FB3DAEF18CF
-世亚预09/05 17:35 世亚预 第1轮 日本vs中国 陈文森,https://livednow.com/iqiyi/live/?sign=gAAAAABm2NWlrBdZZA7gPBj_XwzOFsGDPfNvZKtFV346d59FcnqM2kttwshdxvxkSInIae7lboVndfA6vBLtm0qN9w1xjfQaXeB2vcEnWpJ9Vv_bqDcipkX4FEvXmiA5RGazu_P1jUbKrNgQe2aBb_RrHGPc1iVfRzgx9RoZJEu4937o_T8ejek7CBL9ceIdz8V8sd-9HWWIxwGRUxWFGldmkytDyE2pLl_BQpqY91bsNCBTpqkgRh4y_J77w0X3l1na5xMt2yYVI_C8HI6b5p4lhnJwovFQncStjiW2rnHgzAvB9v_Kmb9O_5MA7Am76F1Gm4-366TW
-09/05 17:35 世亚预 第1轮 日本vs中国 李欣,https://livednow.com/iqiyi/live/?sign=gAAAAABm2NWlBqiisCNMRmP9xbJhP-zDX9Mlooi16IDA_BkJL0VwafPY86a6AdcSk_Uj7j9LARtIwwcBYwTz6_6-rjvyb_4d6OnRjwy7lgd_-9KUz3adYJQhpV2cnMr_GAh-_JYz3sN0pNRSC1RsYd2uXQKJ7I01-PKioNJ-vkkhtl9A6038ULTtjZMsk9-Ma75MyySoXo8hrscFXbzxuAZ8a_9xFXI-iEO1G2lIL1KdfIQ8I7UOFPiP7X1NUmmp62dhEAsJxru-V-I0sh0ZsBQ2GLcYOwDXSYedkYlFCKDCogH2S2lJeixgvXuzFjWKPK7O_EpXJpOR
-09/05 17:35 世亚预 第1轮 日本vs中国 English,https://livednow.com/iqiyi/live/?sign=gAAAAABm2NWlhVPVRKNQ2mtfDlx0nvi4YXSfPR5UPr3WScrTimVmwMSS_jRIEC4A29HYK_T8i0fBMux2QNHRuS1yI42bWieAuKRKCl-XY-r4hGdNG2pCrFgLMfXrKO-S5UIblAG8m0zZ9zAoAG8nHXeEkoqXqrU-zuDsE0vfknzuEFkF8TUNaK4z-xdMlEsok_yr3kc9poTrvpKw0NXemziYHZ7iNzbkRk_y2gSFA_OUQWIitqWut0B7Xg-tUjFyPXNFKz1zK-LJJmWqhNTO6U4tWQap0orKl4ql7GetywwJ1LvD8ej1rLjHJtHq2rLW_xYVHPmq4maB
-
+凤凰卫视,http://221.7.239.115:8181/tsfile/live/0108_1.m3u8
+凤凰资讯,http://221.7.239.115:8181/tsfile/live/1064_1.m3u8
+凤凰香港,http://221.7.239.115:8181/tsfile/live/1065_1.m3u8
 
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
