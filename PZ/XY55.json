@@ -116,10 +116,25 @@
 			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar",
 			"ext": "https://1.qkw1.cc/"
 		},
-
+		{
+			"key": "csp_NanGua",
+			"name": "影视┃11",
+			"type": 3,
+			"changeable": 1,
+			"api": "csp_NanGua",
+			"playerType": 2,
+			"filterable": 1
+		},
+		{
+			"key": "huohuo",
+			"name": "影视┃12",
+			"type": 3,
+			"changeable": 0,
+			"api": "csp_SaoHuo"
+		},
 		{
 			"key": "小米",
-			"name": "影视┃11",
+			"name": "影视┃13",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -160,7 +175,7 @@
 
 		{
 			"key": "奇优影院",
-			"name": "影视┃12",
+			"name": "影视┃14",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -171,7 +186,7 @@
 
 		{
 			"key": "快看影视",
-			"name": "影视┃13",
+			"name": "影视┃15",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
@@ -332,6 +347,35 @@
 			}
 		},
 		{
+			"name": "何必",
+			"type": 1,
+			"url": "http://www.mpanso.com/小姐姐/何必呢.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+		{
 			"name": "1080解析",
 			"type": 1,
 			"url": "https://jf.lemiaoyun.cn/api/?key=bc1e1c72813140c311929a461d167707&url=",
@@ -369,42 +413,17 @@
 				"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "imgo", "rx", "ltnb", "bilibili", "1905", "xigua"]
 			}
 		},
+
 		{
 			"name": "官解2",
-			"type": 0,
-			"url": "https://jx.quankan.app/?url=",
-			"ext": {
-				"header": {
-					"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-				}
-			}
-		},
-		{
-			"name": "官解3",
 			"type": 0,
 			"url": "http://39.104.230.177:1122/lxjx/myvip.php?url="
 
 		},
+
+
 		{
-			"name": "官解4",
-			"type": 1,
-			"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
-			"ext": {
-				"flag": [
-					"seven"
-				],
-				"header": {
-					"User-Agent": "Lavf/58.12.100"
-				}
-			}
-		},
-		{
-			"name": "官解5",
-			"type": 0,
-			"url": "https://cache.json.icu/5555.php?url="
-		},
-		{
-			"name": "官解6",
+			"name": "官解3",
 			"type": 0,
 			"url": "https://jx.jsonplayer.com/player/?url=",
 			"ext": {
