@@ -635,35 +635,18 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 江西教育,http://182.84.232.36:9999/udp/239.252.219.115:5140
 湖南,#genre#
 
-湖南卫视, http://222.244.147.16:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&down=1
-湖南娱乐,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTE4My45My45My4yMTAmcWlkPSZzPTc5YTZkMWZlYjNhYzlmNWQ5ODcxZGE2N2JkYmRmNDg1JmVzPTE3MjE3NTQ4NTEmdXVpZD1kY2QwNGUyMWIyMDkzZTcwYWEyYmU5Mzg0MWIwNzM4My1iNzVkNWRkMiZ2PTImYXM9MCZjZG5leF9pZD1hbF9waG9uZTM,/HNYLMPP360.m3u8
-
-湖南娱乐,http://220.168.77.132:8082/hls/20/index.m3u8
-湖南娱乐, http://222.244.147.16:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&down=1
-湖南国际,http://222.241.145.143:8888/udp/239.76.245.124:1234
-湖南公共,http://116.128.243.121:9901/tsfile/live/1005_1.m3u8
-湖南公共,http://222.244.147.16:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
-湖南公共,http://220.168.77.132:8082/hls/19/index.m3u8
-湖南经视,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE4My45My45My4yMTAmcWlkPSZzPTg2MGRkNDQ5M2FlM2RhNzQ3ZmM5OTI2ZGMzZWI3ZjQ5JmVzPTE3MjE3NTUwNDAmdXVpZD1hYWZhYmQ4M2FkZWE2M2U2ZTJhMmY4Mzg5MWM0MjQ1YS1iNzVkNWRkMiZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
-
-湖南经视,http://222.244.147.16:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-湖南经视,http://222.241.145.143:8888/udp/239.76.245.115:1234
-湖南都市,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTE4My45My45My4yMTAmcWlkPSZzPTIzZGRiNmFiY2U0OThjYjQ1MGU3YmI4YmNmMDQxYzkyJmVzPTE3MjE3NTQ5OTYmdXVpZD0xNjZjMWJiYjNmYmM2ZTUxMjI5MWQ4M2YwNjBmZjExNy1iNzVkNWRkMiZ2PTImYXM9MCZjZG5leF9pZD1od19waG9uZQ,,/HNDSMPP360.m3u8
-
-湖南都市,http://222.244.147.16:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-湖南都市,http://222.241.145.143:8888/udp/239.76.245.117:1234
-湖南电视剧,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTE4My45My45My4yMTAmcWlkPSZzPTBkOWZkNmEzYmYxZGZjZGQ3ZGNkYTg1ODJmNGZkOTdlJmVzPTE3MjE3NTQ4OTMmdXVpZD1kYzg4NmNhZmNiNWIxY2JhNTVjYWUwN2MzNjY1MjA2Ny1iNzVkNWRkMiZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSJMPP360.m3u8
-
-湖南电视剧,http://222.244.147.16:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-湖南电爱晚,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTE4My45My45My4yMTAmcWlkPSZzPWE0ZjQ0NjExNjViMjg5NTdlOGY5ZGZhMGZjNGE5NmUyJmVzPTE3MjE3NTQ5MjgmdXVpZD04N2RjODY1NGU3NzJmNDU2MDM4ZGNiZmYyYTQzYmRhNi1iNzVkNWRkMiZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNGGMPP360.m3u8
-
-湖南电影,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTE4My45My45My4yMTAmcWlkPSZzPWE5NmZhN2RkODk5YzhlYTcwNzQwNjE5MjhiZGE0OGM2JmVzPTE3MjE3NTUwMTgmdXVpZD1lNDI2M2ZlOGNhNzhiMTc2ZDliNTc0YWIyNTYxODQ2OC1iNzVkNWRkMiZ2PTImYXM9MCZjZG5leF9pZD1od19waG9uZQ,,/HNDYMPP360.m3u8
-
-湖南电影,http://222.244.147.16:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&down=1
-湖南电影,http://220.168.77.132:8082/hls/18/index.m3u8
-湖南教育,http://116.128.243.121:9901/tsfile/live/1009_1.m3u8
-湖南教育,http://222.241.145.143:8888/udp/239.76.252.233:9000
-芒果互娱,http://118.251.69.109:4022/udp/239.76.253.126:9000
+湖南卫视（超高码率）,http://iptv.bradyxu.com:18889/rtp/239.76.253.100:9000
+湖南经视,http://iptv.bradyxu.com:18889/rtp/239.76.253.103:9000
+湖南国际,http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
+湖南爱晚,http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
+湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
+湖南电视剧,http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
+湖南教育,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
+湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
+湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
+金鹰纪实,http://iptv.bradyxu.com:18889/udp/239.76.253.110:9000
+茶,http://iptv.bradyxu.com:18889/udp/239.76.252.239:9000
+快乐垂钓,http://iptv.bradyxu.com:18889/udp/239.76.252.127:9000
 长沙新闻,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTE4My45My45My4yMTAmcWlkPSZzPWY1NTRmMjQ4M2QxNTJmMTdjZGY2ZGM2NTgzNGQ2OWE0JmVzPTE3MjE3NTUwNjUmdXVpZD0wYWY2NWYwZmVjMTU3ZmVjMGYxOTdjMWNiOGU2YTZhOS1iNzVkNWRkMiZ2PTImYXM9MCZjZG5leF9pZD1xcV9waG9uZV9saXZl/CSXWMPP360.m3u8
 
 长沙新闻,http://222.244.113.235:808/hls/11/index.m3u8
