@@ -179,7 +179,7 @@
       "key": "csp_Nongm",
       "name": "🌾️┃农民┃影视",
       "type": 3,
-      "api": "csp_Nongm"
+      "api": "csp_Nongm",
       "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar"
     },
 
@@ -195,7 +195,14 @@
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/spider.jar"
 		},
 
-
+    {
+      "key": "csp_Dm84",
+      "name": "🤣┃动漫┃巴士",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Dm84",
+      "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar"
+    },
 
 
 		{
