@@ -175,16 +175,13 @@
 			}
 		},
 
-		{
-			"key": "奇优影院",
-			"name": "影视┃14",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://jihulab.com/lwm212/box/-/raw/main/XBPQ/奇优影院.json"
-		},
+    {
+      "key": "csp_Nongm",
+      "name": "🌾️┃农民┃影视",
+      "type": 3,
+      "api": "csp_Nongm"
+      "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar"
+    },
 
 		{
 			"key": "快看影视",
