@@ -171,7 +171,7 @@
 
 		{
 			"key": "csp_Nongm",
-			"name": "🌾️┃农民┃影视",
+			"name": "影视┃14",
 			"type": 3,
 			"api": "csp_Nongm",
 			"jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar"
@@ -191,13 +191,24 @@
 
 		{
 			"key": "csp_Dm84",
-			"name": "🤣┃动漫┃巴士",
+			"name": "动漫",
 			"type": 3,
 			"playerType": "2",
 			"api": "csp_Dm84",
 			"jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar"
 		},
-
+		{
+			"key": "hipy_js_腾云驾雾",
+			"name": "360",
+			"type": 3,
+			"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "http://www.mpanso.com/小米/ttt1.js"
+		},
 
 		{
 			"key": "hipy_js_腾云驾雾",
@@ -338,35 +349,36 @@
 			}
 		},
 
-		{
-			"name": "1080解析",
-			"type": 1,
-			"url": "https://jf.lemiaoyun.cn/api/?key=bc1e1c72813140c311929a461d167707&url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
+
+        {
+            "name": "1080解析",
+            "type": 1,
+            "url": "https://cdn.suxun.site/api/?key=Vmo3WNsFRY20yOfGZy&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
 
 		{
 			"name": "官解1",
