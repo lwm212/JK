@@ -89,6 +89,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt",			
 			"ext": "https://www.czys.pro/"
 		},
 		{
