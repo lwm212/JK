@@ -7,7 +7,6 @@
 			"searchable": 1,
 			"playerType": 2,
 			"timeout": 30,
-
 			"changeable": 0
 		},
 
@@ -22,15 +21,15 @@
 			"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/XYQ.jar",
 			"ext": "https://jihulab.com/lwm212/box/-/raw/main/XYQ/七新影视.json"
 		},
-                {
-                       "key": "荐片",
-                       "name": "影视┃2",
-                       "api": "csp_Jianpian",
-                       "type": 3,
-                       "playerType": "1",
-                       "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar",
-                       "ext": "http://api2.rinhome.com"
-                },
+		{
+			"key": "荐片",
+			"name": "影视┃2",
+			"api": "csp_Jianpian",
+			"type": 3,
+			"playerType": "1",
+			"jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar",
+			"ext": "http://api2.rinhome.com"
+		},
 		{
 			"key": "saohuo",
 			"name": "影视┃3",
@@ -110,7 +109,6 @@
 			"type": 3,
 			"changeable": 0,
 			"api": "csp_Quanwk",
-
 			"ext": "https://1.qkw1.cc/"
 		},
 		{
@@ -138,7 +136,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-
 			"playerType": "2",
 			"api": "csp_XBPQ",
 			"ext": {
@@ -172,13 +169,13 @@
 			}
 		},
 
-    {
-      "key": "csp_Nongm",
-      "name": "🌾️┃农民┃影视",
-      "type": 3,
-      "api": "csp_Nongm",
-      "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar"
-    },
+		{
+			"key": "csp_Nongm",
+			"name": "🌾️┃农民┃影视",
+			"type": 3,
+			"api": "csp_Nongm",
+			"jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar"
+		},
 
 		{
 			"key": "快看影视",
@@ -192,14 +189,14 @@
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/spider.jar"
 		},
 
-    {
-      "key": "csp_Dm84",
-      "name": "🤣┃动漫┃巴士",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Dm84",
-      "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar"
-    },
+		{
+			"key": "csp_Dm84",
+			"name": "🤣┃动漫┃巴士",
+			"type": 3,
+			"playerType": "2",
+			"api": "csp_Dm84",
+			"jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar"
+		},
 
 
 		{
