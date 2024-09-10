@@ -190,7 +190,7 @@
 		},
 		{
 			"key": "天天弹幕版",
-			"name": "⛅️天天┃弹幕",
+			"name": "影视┃16",
 			"type": 3,
 			"api": "csp_TianTian",
 			"searchable": 1,
@@ -204,7 +204,7 @@
 		},
 		{
 			"key": "荐片弹幕版",
-			"name": "⚔️荐片┃手机",
+			"name": "影视┃17",
 			"type": 3,
 			"api": "csp_Jianpian",
 			"searchable": 1,
@@ -219,7 +219,7 @@
 		},
 		{
 			"key": "韩圈",
-			"name": "🦄韩圈┃App",
+			"name": "韩圈",
 			"type": 3,
 			"api": "csp_HanXiaoQuan",
 			"playerType": 2,
@@ -231,7 +231,7 @@
 		},
 		{
 			"key": "360",
-			"name": "🛝360┃采集🛝",
+			"name": "影视┃18",
 			"type": 1,
 			"api": "https://360zy.com/api.php/provide/vod?",
 			"searchable": 1,
