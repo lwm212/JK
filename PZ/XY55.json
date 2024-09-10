@@ -7,7 +7,7 @@
 			"searchable": 1,
 			"playerType": 2,
 			"timeout": 30,
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar",
+
 			"changeable": 0
 		},
 
@@ -110,7 +110,7 @@
 			"type": 3,
 			"changeable": 0,
 			"api": "csp_Quanwk",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar",
+
 			"ext": "https://1.qkw1.cc/"
 		},
 		{
@@ -120,7 +120,7 @@
 			"changeable": 1,
 			"api": "csp_NanGua",
 			"playerType": 2,
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar",
+
 			"filterable": 1
 		},
 		{
@@ -128,7 +128,7 @@
 			"name": "影视┃12",
 			"type": 3,
 			"changeable": 0,
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar",
+
 			"api": "csp_SaoHuo"
 		},
 		{
@@ -138,7 +138,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+
 			"playerType": "2",
 			"api": "csp_XBPQ",
 			"ext": {
@@ -273,16 +273,7 @@
 			"filterable": 1,
 			"ext": "http://www.xb6v.com"
 		},
-		{
-			"key": "csp_XYQBiu_88看球",
-			"name": "NBA直播",
-			"type": 3,
-			"api": "csp_XYQBiu",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://jihulab.com/lwm212/box/-/raw/main/XYQBiu/88看球.json"
-		},
+
 		{
 			"key": "Bili",
 			"name": "Bili综合",
@@ -427,7 +418,7 @@
 			}
 		}
 	],
-	"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"rules": [{
 			"host": "www.iesdouyin.com",
