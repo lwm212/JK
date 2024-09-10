@@ -252,7 +252,7 @@
 			"key": "dr_优酷",
 			"name": "优酷",
 			"type": 3,
-			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/lib/drpy2.min.js",
+			"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 1,
