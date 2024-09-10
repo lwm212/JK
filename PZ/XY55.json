@@ -188,6 +188,20 @@
 			"filterable": 1,
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/spider.jar"
 		},
+		    {
+      "key": "天天弹幕版",
+      "name": "⛅️天天┃弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+	"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725241709759/okpng.txt"		    
+      "timeout": 10
+    },
 
 		{
 			"key": "csp_Dm84",
