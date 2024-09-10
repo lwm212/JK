@@ -188,47 +188,47 @@
 			"filterable": 1,
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/spider.jar"
 		},
-		    {
-      "key": "天天弹幕版",
-      "name": "⛅️天天┃弹幕",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-	"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725241709759/okpng.txt"		    
-      "timeout": 10
-    },
-  {
-      "key": "荐片弹幕版",
-      "name": "⚔️荐片┃手机",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-	"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725241709759/okpng.txt"  
-      "timeout": 10
-    },
-		    {
-      "key": "韩圈",
-      "name": "🦄韩圈┃App",
-      "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725241709759/okpng.txt" 		    
-      "timeout": 10
-    },
+		{
+			"key": "天天弹幕版",
+			"name": "⛅️天天┃弹幕",
+			"type": 3,
+			"api": "csp_TianTian",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"danmu": true
+			},
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725241709759/okpng.txt",
+			"timeout": 10
+		},
+		{
+			"key": "荐片弹幕版",
+			"name": "⚔️荐片┃手机",
+			"type": 3,
+			"api": "csp_Jianpian",
+			"searchable": 1,
+			"changeable": 0,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"danmu": true
+			},
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725241709759/okpng.txt",
+			"timeout": 10
+		},
+		{
+			"key": "韩圈",
+			"name": "🦄韩圈┃App",
+			"type": 3,
+			"api": "csp_HanXiaoQuan",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725241709759/okpng.txt",
+			"timeout": 10
+		},
 		{
 			"key": "csp_Dm84",
 			"name": "动漫",
@@ -390,35 +390,35 @@
 		},
 
 
-        {
-            "name": "1080解析",
-            "type": 1,
-            "url": "https://cdn.suxun.site/api/?key=Vmo3WNsFRY20yOfGZy&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
+		{
+			"name": "1080解析",
+			"type": 1,
+			"url": "https://cdn.suxun.site/api/?key=Vmo3WNsFRY20yOfGZy&url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
 
 		{
 			"name": "官解1",
@@ -431,7 +431,7 @@
 
 		{
 			"name": "官解2",
-			"type":0,
+			"type": 0,
 			"url": "http://shybot.top/video/jx/?ShyToken=shy_xvkong.shybot.cc&play=&url="
 
 		},
