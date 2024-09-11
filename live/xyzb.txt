@@ -344,6 +344,15 @@ CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAu
 凤凰资讯,http://221.7.239.115:8181/tsfile/live/1064_1.m3u8
 凤凰香港,http://221.7.239.115:8181/tsfile/live/1065_1.m3u8
 
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+三立新闻,http://61.221.215.25:8800/hls/41/index.m3u8
+ACM电影,http://61.221.215.25:8800/hls/43/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
@@ -1321,15 +1330,12 @@ MAX极速汽车,http://101.229.109.76:4022/udp/239.45.3.49:5140
 北方导视,http://hz752.love:63/live_60/bfgd.php?id=187
 风尚音乐,http://hz752.love:63/live_60/bfgd.php?id=294
 宁夏,#genre#
-宁夏公共,http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8
-宁夏公共,http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.flv
-宁夏经济,http://hz752.love:63/live_60/nxtv.php?id=7
-宁夏经济,http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8
-宁夏经济,http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.flv
-宁夏少儿,http://hz752.love:63/live_60/nxtv.php?id=28
-宁夏文旅,http://hz752.love:63/live_60/nxtv.php?id=29
-宁夏教育,http://livepgc.cmc.ningxiahuangheyun.com/pgc/0b034c59a0f219bc7887840c8d78fe20.m3u8
-宁夏教育,http://livepgc.cmc.ningxiahuangheyun.com/pgc/0b034c59a0f219bc7887840c8d78fe20.flv
+宁夏新闻,https://hls.ningxiahuangheyun.com/live/nxxw1M.m3u8?
+宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8?
+宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8?
+宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8?
+宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8?
+宁夏教育,https://hls.ningxiahuangheyun.com/live/nxjy1M.m3u8?
 银川公共,http://play-a2.quklive.com/live/1667883943560053.m3u8
 银川生活,http://play-a2.quklive.com/live/1667883987087179.m3u8
 银川文体,http://play-a2.quklive.com/live/1667884025738071.m3u8
