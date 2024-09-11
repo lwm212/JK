@@ -35,12 +35,12 @@ CCTV4,http://171.13.174.251:20443/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&
 CCTV4,http://171.8.138.153:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,https://livednow.com/migu/631780421?sign=gAAAAABml7qmlXIiHOLFajI8kFDKcfi6auNmnCjkE-iRKbLrmMSW-P_oCFTmLhhzf1j0m5AqUNivAp2vyv_sMsdGqZ6zG5Ez5GIYuEJ9vTKJDf5Fsd-In-9pIDIrB8sNEwNRrzpmigkW8bA_PygFHBCz7aDMJHpJp0lRCsh7H42oKXcKZcEHqihT1soraiOJP8ZTkGAAEr9amqTBN23Sppu03mR8ReMF0g%3D%3D
 
-CCTV5,http://116.233.34.25:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 CCTV4,http://www.syl88.online:8123/PLTV/88888888/224/3221225882/10000100000000060000000001558308_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ENUw9KE8aNiJsOWy5oA-ZtQ%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F5000037%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001558308_0%2CEND
 
 
-
+CCTV5,http://116.233.34.25:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,https://livednow.com/migu/641886683?sign=gAAAAABml7qm-Eqk8M2qpagASj1ZmDVYak2McHWyUrNXoLfZ_4DuTk3tOzDAmu1arbY-UUYPkn2ys0cCtYv4jw5c0ZTwpwBrIb-KuB1HqjajC0yCHtrugQsA7FUvLFwuj2erlxxCROgnZA29r-7BfB8SWdqxnYURcSG5mrIkhkwTRJWkdREb0qFG7RQaHv0Ti_4pFhnilivka6jhkoMXH7sXirUUd9Aq7g%3D%3D
 CCTV5,http://175.178.179.152:1888/PLTV/play.php?id=YeWS2XodXl&uid=CS
 
@@ -67,7 +67,7 @@ CCTV7,https://livednow.com/migu/673168121?sign=gAAAAABml7qmn3me8i-XwWtMfd5gVU-Sy
 CCTV7,http://cg12.hunancatv.cn:9090/live/CCTV7_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604329661&srchost=172.16.22.158:8060&gid=eFqmKmi9go09HRyf6VKwAw%3D%3D
 
 CCTV8,http://171.13.174.251:20443/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://113.220.232.38:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 CCTV8,https://livednow.com/migu/624878356?sign=gAAAAABml7qm7w57C3G8BNSeNlGcPODVX0GMVjSzVO3kX4xoO5vRy0usgC-IUaNOvlFRMHi8hogFJWxjnXc5P7t5WFjmDAES45octWdDtrp2Ccn-hQbZdKJj-llMJ-ZLqQW5j6BBcAR3ph0IlyaO_2xRIbpH8qUIXQC67bDyVObR2hC4DNwVqlvnaPAJlmcOinQpIM-RpUD_kq75G2vcnVzwZCL4rhDNcw%3D%3D
 CCTV8,http://www.syl88.online:8123/PLTV/88888888/224/3221225864/10000100000000060000000001067917_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ElblRKJ8q-fboZNXAZTvPUw%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F1369033%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001067917_0%2CEND
@@ -137,25 +137,6 @@ CCTV17,https://livednow.com/migu/673168256?sign=gAAAAABml7qmOBwJZkfya_zcJjt9nfcU
 CCTV17,http://www.syl88.online:8123/PLTV/88888888/224/3221225892/10000100000000060000000001558692_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ELUyTo-TPEVpOnHp8dZ3GbA%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F5000041%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001558692_0%2CEND
 
 
-CCTV17,http://111.166.193.128:8888/udp/225.1.2.52:5002
-CCTV1,http://117.161.12.118/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2,http://117.161.12.118/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3,http://117.161.12.118/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4,http://117.161.12.118/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5,http://117.161.12.118/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV5+,http://117.161.12.118/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV6,http://117.161.12.118/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7,http://117.161.12.118/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8,http://117.161.12.118/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9,http://117.161.12.118/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10,http://117.161.12.118/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11,http://117.161.12.118/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12,http://117.161.12.118/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13,http://117.161.12.118/live/program/live/cctv13hd8m/8000000/mnf.m3u8
-CCTV14,http://117.161.12.118/live/program/live/cctv14hd8m/8000000/mnf.m3u8
-CCTV15,http://117.161.12.118/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV16,http://117.161.12.118/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV17,http://117.161.12.118/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
 
 
