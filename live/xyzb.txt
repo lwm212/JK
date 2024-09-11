@@ -112,7 +112,7 @@ CCTV13,http://www.syl88.online:8123/PLTV/88888888/224/3221226036/100001000000000
 
 CCTV13,http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=f37566d1d48261e6e4d12e2f0372977b&mdspid=&spid=699004&netType=4&sid=2202208864&pid=2028597139&timestamp=20240826220422&Channel_ID=0116_25040600-99000-200300120100004&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=183.93.93.88&SecurityKey=20240826220422&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-7.8.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&bean=mgspad&mtv_session=54d81fcaab40004a115426bd10d6e31a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e2b3694fc599097d37f7ed63552f4a07
 
-CCTV14,http://113.220.232.38:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV14,http://171.8.138.153:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV14,https://livednow.com/migu/624878440?sign=gAAAAABml7qmBTeJ-5vF5cGxjZvwL0maHRXgXoD7Bu-4ry8R90c6HGlxgbcAdnHbNBtH1yYSNmKsetgQPxi8QCmJfHEEosE8TzbRhPll078bp7VXT8LmkafrEHrjXg_EfNSnRTpP8VXrAX5yUGNQLt1rWlwM7rai2y8JunPnn6a9usywOX1bAVoDRx10bu_OudzKBSKMrYq1fW4aj5xBS9d6Qvgk4cWgfw%3D%3D
