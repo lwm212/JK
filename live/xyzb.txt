@@ -75,7 +75,7 @@ CCTV8,http://www.syl88.online:8123/PLTV/88888888/224/3221225864/1000010000000006
 CCTV9,http://171.13.174.251:20443/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://171.8.138.169:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://171.8.138.153:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://113.218.231.17:8081/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 CCTV9,https://livednow.com/migu/673168140?sign=gAAAAABml7qmYsG6bxOZ_klluyVxjXN9efzm-hLgPpph45RnqEMuQwkMVwGI4_buu4-rB-T-qERtv3Moy2az2AE7y2apKdIR2_VZdtuN7RCn3Fdu84ToNOvJ_KJrk5kCV3oHt1ElCUJp_aDz17gpjZPIPf2-eC54yCs8fY_jro5XPuwvbhvk05ITR_0DjSZ7TxGktsg7gzVB_aJCtVMluW6VdKu6tMMlNg%3D%3D
 
