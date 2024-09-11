@@ -92,7 +92,7 @@ CCTV10,http://www.syl88.online:8123/PLTV/88888888/224/3221225889/100001000000000
 
 CCTV11,http://171.13.174.251:20443/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://171.8.138.153:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://183.185.218.119:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 CCTV11,https://livednow.com/migu/667987558?sign=gAAAAABml7qmSqcog6KVXdkFqlGRh-cnEI4EtFiB_NbAial-mk1pxkmfxKA6mYbV6A0RO-2CgDbSb9UTTPkvix8u8oZuifdDxpTRHupzJok8Zig7IDy-dTYqsCoYxaSK8EXH7neeFNbyrCYKEtcXtMKOD9flZYElFjXFcDZHZfpe7z7XFg73B-3J9jxwm7uVNr4NE4C1qaBYSiFM4kVFy5GqiL0BFE0fYg%3D%3D
 CCTV11,http://cg11.hunancatv.cn:9090/live/CCTV-11_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604330272&srchost=172.16.22.158:8060&gid=hbuKVaSO%2BKICjuNGP%2BRDKw%3D%3D
