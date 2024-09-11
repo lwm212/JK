@@ -28,12 +28,12 @@ CCTV3,http://183.94.191.34:888/udp/228.0.0.156:7156
 
 CCTV3,http://cg2.hunancatv.cn:9090/live/CCTV3_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536340111081&srchost=172.16.22.158:8060&gid=Qbtt%2FCKbgL%2BLEf0MZG39hA%3D%3D
 
-CCTV4,https://livednow.com/migu/631780421?sign=gAAAAABml7qmlXIiHOLFajI8kFDKcfi6auNmnCjkE-iRKbLrmMSW-P_oCFTmLhhzf1j0m5AqUNivAp2vyv_sMsdGqZ6zG5Ez5GIYuEJ9vTKJDf5Fsd-In-9pIDIrB8sNEwNRrzpmigkW8bA_PygFHBCz7aDMJHpJp0lRCsh7H42oKXcKZcEHqihT1soraiOJP8ZTkGAAEr9amqTBN23Sppu03mR8ReMF0g%3D%3D
+
 
 CCTV4,http://171.13.174.251:20443/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://171.13.174.251:20443/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://171.8.138.153:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-
+CCTV4,https://livednow.com/migu/631780421?sign=gAAAAABml7qmlXIiHOLFajI8kFDKcfi6auNmnCjkE-iRKbLrmMSW-P_oCFTmLhhzf1j0m5AqUNivAp2vyv_sMsdGqZ6zG5Ez5GIYuEJ9vTKJDf5Fsd-In-9pIDIrB8sNEwNRrzpmigkW8bA_PygFHBCz7aDMJHpJp0lRCsh7H42oKXcKZcEHqihT1soraiOJP8ZTkGAAEr9amqTBN23Sppu03mR8ReMF0g%3D%3D
 
 CCTV5,http://116.233.34.25:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -60,8 +60,8 @@ CCTV6,https://livednow.com/migu/624878396?sign=gAAAAABml7qm7JicBy4HVME1s9l3wgXdS
 
 CCTV6,http://www.syl88.online:8123/PLTV/88888888/224/3221225863/10000100000000060000000001067916_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EbO0fYjDeQnjO0qSFdhCBlg%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F1369030%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001067916_0%2CEND
 
-CCTV7,http://171.13.174.251:20443/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://113.220.232.38:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 
 CCTV7,https://livednow.com/migu/673168121?sign=gAAAAABml7qmn3me8i-XwWtMfd5gVU-SyaXPZ7NEIIrLocPWHNN5TtYBvvp-yBRF5IYv-OuYpnY9i3e821kj1HYF34vE4c2343aLOFSAPQPP-VGc8kYoTFULQfYiyzegsS5d7xtoU2BbtjNRA7hKOyVCEzbYxKCyB0MkXgwTAYj96GIdDLLwjfAJ9RAzWg12vx8eJLcDUdicLufZBESjF6NkjPEJETvjWA%3D%3D
 CCTV7,http://cg12.hunancatv.cn:9090/live/CCTV7_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604329661&srchost=172.16.22.158:8060&gid=eFqmKmi9go09HRyf6VKwAw%3D%3D
@@ -130,6 +130,7 @@ CCTV15,http://cg0.hunancatv.cn:9090/live/CCTV-15_2000.m3u8?deviceid=866265039837
 CCTV16,http://cg1.hunancatv.cn:9090/live/CCTV16_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=7114844658870775790&srchost=172.16.22.158:8060&gid=VUdUekIjmBFSrvnJArQETQ%3D%3D
 
 CCTV16,http://218.241.192.50:8808/udp/239.3.1.184:8001
+CCTV7,http://171.13.174.251:20443/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://113.57.20.158:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,https://livednow.com/migu/673168256?sign=gAAAAABml7qmOBwJZkfya_zcJjt9nfcU-BBXXu9BE2YurVCbTSeM6UP5_rAKD4QdSyZJ4Wk8-I4QeLfMzqdj3hoyX9VjnnMR-J6MfCUJ5LB2JD7vebfojq-S4QcU0J0aKz_dLIJapjkE_lKQIYY98aHV37ppcGTgm9O4EBENS4C6A0tEhPEN9hdXSVOuV6qUwlBiS71FcdQN-6AxQxWait805ostoWSmRA%3D%3D
 
