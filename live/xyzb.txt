@@ -341,7 +341,7 @@ CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAu
 永劫无间,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 测试,#genre#
 凤凰卫视,http://221.7.239.115:8181/tsfile/live/0108_1.m3u8
-凤凰资讯,http://221.7.239.115:8181/tsfile/live/1064_1.m3u8
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://221.7.239.115:8181/tsfile/live/1065_1.m3u8
 
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
