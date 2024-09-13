@@ -5,7 +5,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
 
 "sites":[
-
+{"key":"直播","name":"电视直播","type":3,"api":"https://notabug.org/lwm212/JS/raw/master/api/直播转点播.js","ext":"电视直播$https://raw.kkgithub.com/lwm212/JK/main/live/999.txt"},
 {"key":"小苹果","name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider"  ,"name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
