@@ -306,8 +306,9 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 
 
 体育游戏赛事,#genre#
-世亚预"曼联,https://gdctyunct.inter.71edge.com/tslive/l1/c66_ssports_20240914_kxrdaztm_hevc_1080p50_chst2_t4/32aWM_MOHGAbayN4BwBxaGOutiyn1N5xqoHcnZ5X6_akJeZ9jagFKncSBD-ZIAQism4dJlRglLshi7fOty_33FS5u6CTD2cBlSzr7AzT398wesX5nxOswEYZSD205rK0sbZuv6Jgpiu6YhGAUJO3SpNfEvJgNDrvnMnNuSCOkLWAJp0DotopBKTgnmLO6ZCX8l5uQwZVUib-sxDYGEeS6DAtZgX865WLlAeb3gucY5yXAdtzP_TtzERoMijf9aCEU_9f-4MEAcgPd_ZajN0NJhhdPIGwj2BYxbUkDh2l5-o/1ba4ba88b957407fef30b4e8e89e02f49/c66_ssports_20240914_kxrdaztm_hevc_1080p50_chst2_t4.m3u8?key=0f5a8db04d82848a923199ddc0755490c&dis_t=1726313812&uuid=7166ee13-66e57554-2ad&qdpv=3&qd_bid=610&qd_sft=0&mss=1&ssl=1&pv=0.1&uid=1819704654&random=1726313816
 世亚预"曼联,https://mgsp-tx2.live.miguvideo.com/migu/sports/50zhenyhtest05/902/20221027/01.m3u8?msisdn=28eaf5e005fe0969e5a9d5f87c1ffd6f&mdspid=&spid=800033&netType=0&sid=7510270575&pid=2029000131&timestamp=20240914194353&Channel_ID=0132_10010001005&ProgramID=932601360&ParentNodeID=-99&assertID=7510270575&client_ip=240e:3b1:d00c:3c70:e40d:33df:da49:e88a&SecurityKey=20240914194353&promotionId=&mvid=7510134956&mcid=500020&mpid=120000507249&playurlVersion=WX-A1-7.9.1-RELEASE&userid=1719000750&jmhm=28eaf5e005fe0969e5a9d5f87c1ffd6f&videocodec=h265&bean=mgspwww&sv=10000&ct=www&mtv_session=2990b92fa0d0980fc04761587433f354&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=028a7221fd3ec63907c054e508a04f28
+世亚预"曼联,https://gdctyunct.inter.71edge.com/tslive/l1/c66_ssports_20240914_kxrdaztm_hevc_1080p50_chst2_t4/32aWM_MOHGAbayN4BwBxaGOutiyn1N5xqoHcnZ5X6_akJeZ9jagFKncSBD-ZIAQism4dJlRglLshi7fOty_33FS5u6CTD2cBlSzr7AzT398wesX5nxOswEYZSD205rK0sbZuv6Jgpiu6YhGAUJO3SpNfEvJgNDrvnMnNuSCOkLWAJp0DotopBKTgnmLO6ZCX8l5uQwZVUib-sxDYGEeS6DAtZgX865WLlAeb3gucY5yXAdtzP_TtzERoMijf9aCEU_9f-4MEAcgPd_ZajN0NJhhdPIGwj2BYxbUkDh2l5-o/1ba4ba88b957407fef30b4e8e89e02f49/c66_ssports_20240914_kxrdaztm_hevc_1080p50_chst2_t4.m3u8?key=0f5a8db04d82848a923199ddc0755490c&dis_t=1726313812&uuid=7166ee13-66e57554-2ad&qdpv=3&qd_bid=610&qd_sft=0&mss=1&ssl=1&pv=0.1&uid=1819704654&random=1726313816
+
 世亚预"曼联,rtmp://hls.zb.ssports.com/ssports/ch4139833_xinying1080.flv
 
 
