@@ -305,7 +305,12 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 
 
-游戏赛事,#genre#
+体育游戏赛事,#genre#
+世亚预"曼联,https://gdctyunct.inter.71edge.com/tslive/l1/c66_ssports_20240914_kxrdaztm_hevc_1080p50_chst2_t4/32aWM_MOHGAbayN4BwBxaGOutiyn1N5xqoHcnZ5X6_akJeZ9jagFKncSBD-ZIAQism4dJlRglLshi7fOty_33FS5u6CTD2cBlSzr7AzT398wesX5nxOswEYZSD205rK0sbZuv6Jgpiu6YhGAUJO3SpNfEvJgNDrvnMnNuSCOkLWAJp0DotopBKTgnmLO6ZCX8l5uQwZVUib-sxDYGEeS6DAtZgX865WLlAeb3gucY5yXAdtzP_TtzERoMijf9aCEU_9f-4MEAcgPd_ZajN0NJhhdPIGwj2BYxbUkDh2l5-o/1ba4ba88b957407fef30b4e8e89e02f49/c66_ssports_20240914_kxrdaztm_hevc_1080p50_chst2_t4.m3u8?key=0f5a8db04d82848a923199ddc0755490c&dis_t=1726313812&uuid=7166ee13-66e57554-2ad&qdpv=3&qd_bid=610&qd_sft=0&mss=1&ssl=1&pv=0.1&uid=1819704654&random=1726313816
+世亚预"曼联,https://mgsp-tx2.live.miguvideo.com/migu/sports/50zhenyhtest05/902/20221027/01.m3u8?msisdn=28eaf5e005fe0969e5a9d5f87c1ffd6f&mdspid=&spid=800033&netType=0&sid=7510270575&pid=2029000131&timestamp=20240914194353&Channel_ID=0132_10010001005&ProgramID=932601360&ParentNodeID=-99&assertID=7510270575&client_ip=240e:3b1:d00c:3c70:e40d:33df:da49:e88a&SecurityKey=20240914194353&promotionId=&mvid=7510134956&mcid=500020&mpid=120000507249&playurlVersion=WX-A1-7.9.1-RELEASE&userid=1719000750&jmhm=28eaf5e005fe0969e5a9d5f87c1ffd6f&videocodec=h265&bean=mgspwww&sv=10000&ct=www&mtv_session=2990b92fa0d0980fc04761587433f354&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=028a7221fd3ec63907c054e508a04f28
+世亚预"曼联,rtmp://hls.zb.ssports.com/ssports/ch4139833_xinying1080.flv
+
+
 穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 和平精英•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 梦幻西游•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
