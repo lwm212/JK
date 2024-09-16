@@ -1,17 +1,37 @@
 🇨🇳央视频道,#genre#
-
+CCTV1,http://113.57.109.48:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://113.57.109.48:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://113.57.109.48:1111/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://113.57.109.48:1111/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://113.57.109.48:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://113.57.109.48:1111/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://113.57.109.48:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://113.57.109.48:1111/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://113.57.109.48:1111/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://113.57.109.48:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://113.57.109.48:1111/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://113.57.109.48:1111/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://113.57.109.48:1111/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://113.57.109.48:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://113.57.109.48:1111/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://113.57.109.48:1111/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://113.57.109.48:1111/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://113.57.109.48:1111/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,https://livednow.com/migu/608807420?sign=gAAAAABm5t8YAIUOA61Z7aZZnIjsRJNIvrqb_xbDTA62p-HwYqYUqWL14Pr08eSUgJuYbPs6Hgc9DN-k_l1KlZKB3NsLKZwM5kF7Bq1k6PxbXP1CNKHJgbRlSFR0TbYnN8vWBUqsvHh0TBZDraBF3Pe58-wX1r01Dqc8e0OhZYGV1gjSNzT5JBuMFEW3v8b5ABr2C8-UWy_iZL68TP5Ea0SPBnwsSSzZzg%3D%3D
+
 CCTV1,http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
 
 CCTV1,http://www.syl88.online:8123/PLTV/88888888/224/3221225703/10000100000000060000000000035351_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ep6OgLDvLzq6GN5uNV8rZ0g%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F111128%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000035351_0%2CEND
 
 CCTV2,https://livednow.com/migu/631780532?sign=gAAAAABm5t8YJzFmxPV8secJka2npZ3nDyWeyhkje_LX5bNLmJOQtG_ods2iXdYaTxlfVx5SOziR705ZVwLNI22zIj_wZS5GU-XTssqNN4ndCgnfzPfev0344iqZS9TdE_9TQ5DuybAS4AeLWsFvIo2gNNQDRINswRJm4WLXUgstwWZQaz2GAus8bZH47E6K8CHAXSaFv_C6EkSnm65jUipqatshdaf7tQ%3D%3D
+
 CCTV2,http://218.241.192.50:8808/rtp/239.3.1.60:8084
 CCTV2,http://1.180.2.93:9901/tsfile/live/1035_1.m3u8
 
 CCTV2,http://www.syl88.online:8123/PLTV/88888888/224/3221225881/10000100000000060000000001558309_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ES5lcT_93jS5zJ9nCiB1u8A%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F5000036%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001558309_0%2CEND
 
 CCTV3,https://livednow.com/migu/624878271?sign=gAAAAABm5t8YJDGmRaVzUBnnmoud8W4BBkcwpfEN5iqdtiglvxujRfbexpBXWyrXB7Zhne8jyOPjIx1uAopMUWkDkKc8kepZal0fWizmDC95gi4Q7y8E3S7WmlZ8wkCJgClfpNFl1vEIKIsqsAEu5U63dRRytLpxGWpvS4AFEWZJ9LI_s2zxd6-SkV4S2t94W2FdAHQrfY25TpytrbIjcieOiKUazrTBUQ%3D%3D
+
 CCTV3,http://1.180.2.93:9901/tsfile/live/1054_1.m3u8
 CCTV3,http://218.241.192.50:8808/rtp/239.3.1.172:8001
 
@@ -19,28 +39,32 @@ CCTV3,http://cg2.hunancatv.cn:9090/live/CCTV3_8000.m3u8?deviceid=866265039837531
 
 CCTV4,https://livednow.com/migu/631780421?sign=gAAAAABm5t8YaaWq6XpQ1DLYEs5fGvYuGSHp-Pi90i6KU8uNCDYJr6YT7xLowvhh2d-onXvu5LCYGfzmErMiyzgiNV8APg8dq1h5MYg4qH7Wc-R03i5u1dPF4WzTLeQtJFfOWJeKqXdUxDGvwxZG3Ww8eZk-wB9eIZO7FmFghp3LizNcf8TvgFbLbop08PUbDmg_Qki92ONKCXA77AO31VXIrNMtwkWEFg%3D%3D
 http://1.180.2.93:9901/tsfile/live/1063_1.m3u8
+
 CCTV4,http://218.241.192.50:8808/rtp/239.3.1.105:8092
 
 
 CCTV4,http://171.13.174.251:20443/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://171.13.174.251:20443/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV4,http://171.8.138.153:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 CCTV4,http://www.syl88.online:8123/PLTV/88888888/224/3221225882/10000100000000060000000001558308_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ENUw9KE8aNiJsOWy5oA-ZtQ%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F5000037%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001558308_0%2CEND
 
 CCTV5,https://livednow.com/migu/641886683?sign=gAAAAABm5t8Yd826398eBlu45hw142WmhDqLSHnuJsGkXq4l9U3Hj1Gro2k1BZrx_B57jVJMaFVlWMw_heV01kyAFQn2Ol2sfFGQB-wWgEblFtiP5WWxYPF5razA3z_MfUZEwVogKBB51-E4ZvOJ9Zfj2wC8gl144Mi643rZgbon5fB29lfbZ2lW6JZEommQDluoJs1rH5LJ_D2E9RR7du7reuJ6JrguIg%3D%3D
+CCTV5,http://113.57.109.48:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://116.233.34.25:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
 CCTV5+,https://livednow.com/migu/641886773?sign=gAAAAABm5t8YTFW1nqCwGwf23oQufwOhh_ceQccVIp__BiSJpKlFqRACncnlNAnLSz7La7JJIsNekuGyQMTO69pb5zKvjEHloWrV1KqSM2wJtKeKokq0RI2xKlvEDuKyb6lheFvvKBdg3PENNTWoUivVovPmIKyCIGlLhmVpW_8BNGYpoR8qywut9oUEy7avuRokkWAZUeSQrNUH0Zsnk_6oWBoEOPtsPw%3D%3D
+
 CCTV5+,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8
 CCTV5+,http://218.241.192.50:8808/rtp/239.3.1.130:8004
 
 
 
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+
 CCTV6,http://1.180.2.93:9901/tsfile/live/1064_1.m3u8
 CCTV6,http://218.241.192.50:8808/rtp/239.3.1.174:8001
 
@@ -52,11 +76,13 @@ CCTV6,http://www.syl88.online:8123/PLTV/88888888/224/3221225863/1000010000000006
 
 
 CCTV7,https://livednow.com/migu/673168121?sign=gAAAAABm5t8YrVA_8HpvNMKFzEU8nmpaGXsvJcQlspzYFqJMqzVlE2aFkusC2yNeCSoLI2pZ4g8XeiZJ5dMVqpY7RrqSlhdhMCoNtbBHAGfmNp8BoYgbc4PB9ofz9o1OvoZMnr0TWgpu8zG4Xbb3fUwK0Hni2OSFUDubnCUye37mPzFWp3a5Gv7gM2QMSUFo9REKCxUC3_kxuwjvQSVJA6hTVDVnxzpUpw%3D%3D
+
 CCTV7,http://218.241.192.50:8808/rtp/239.3.1.61:8104
 
 CCTV7,http://cg12.hunancatv.cn:9090/live/CCTV7_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604329661&srchost=172.16.22.158:8060&gid=eFqmKmi9go09HRyf6VKwAw%3D%3D
 
 CCTV8,https://livednow.com/migu/624878356?sign=gAAAAABm5t8Ya2HxQTeI5dU0NLftpEyvAMI9EJsyyb7as7EjH0eRuIyzBLVXF1W_UoxFTFczwreUbzen9XJTARfoPlPbc1lU2kSb3dKk7U-Vs8aNf1xJ0Pv4axh8zJH6Uhn47aQBnKiffIBUGt-t_5yqSJtKx-qT524ZjOn6HApKp-6QcqQdIGeq5RFIOZvsP2TiktsF5NH8W6GwYZiRHQHHfZ8NvXCXKw%3D%3D
+
 CCTV8,http://1.180.2.93:9901/tsfile/live/1065_1.m3u8
 CCTV8,http://218.241.192.50:8808/rtp/239.3.1.175:8001
 
@@ -128,24 +154,6 @@ CCTV17,http://www.syl88.online:8123/PLTV/88888888/224/3221225892/100001000000000
 
 CCTV17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 
-CCTV1,http://117.161.12.118/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2,http://117.161.12.118/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3,http://117.161.12.118/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4,http://117.161.12.118/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5,http://117.161.12.118/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV5+,http://117.161.12.118/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV6,http://117.161.12.118/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7,http://117.161.12.118/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8,http://117.161.12.118/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9,http://117.161.12.118/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10,http://117.161.12.118/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11,http://117.161.12.118/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12,http://117.161.12.118/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13,http://117.161.12.118/live/program/live/cctv13hd8m/8000000/mnf.m3u8
-CCTV14,http://117.161.12.118/live/program/live/cctv14hd8m/8000000/mnf.m3u8
-CCTV15,http://117.161.12.118/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV16,http://117.161.12.118/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV17,http://117.161.12.118/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
 
 
@@ -173,6 +181,10 @@ CCTV17,http://diyp.uk.to/zb/1725695663.php?id=cctv17
 CCTV-4欧洲,https://livednow.com/migu/608807419?sign=gAAAAABm5t8Y_a7WTTTiFH1-MVPTvgHx5kV722CfxkU1QeXDVBfWvNOna63lZeBQKqEuJu_LmxkFPqbEnaZ-pYx7xXItTu9_zjTsrnmHesaLY-vaGAycKAfKrp7dosljWwVDBpOhprH313eGNmVzie7_LMx7jHH7T9h9JrT436RxdcR3GRpuh7g3bdO9r9lG4kloIYrYCuaLJ1bq2h6V54Ssq5XkqELqTg%3D%3D
 CCTV-4美洲,https://livednow.com/migu/608807416?sign=gAAAAABm5t8YT-WfRMfcaHyS0YVKgkPvTpz9DkTomNRQ5V-R6vcNISk9WTbKaxe0Akzc4mz3G-ue4x34Wbu2CET6SFtvD28nJl0fNWbw81K5OUFWyOHQYZsvL3GJOdcxD5sYT3CiHoTNUayRxDwY8LZ8U3BRUAs59lhN3HaqLZ7rIXgSgERzCSVIQbqbDVTjsPuHuRLvm37vlFgtHaPLyW4NDaOkwact-Q%3D%3D
 CHC家庭影院,https://livednow.com/migu/644368373?sign=gAAAAABml7qmeyTy29cknAK94j8hHJXWivvg2AxBVs9ixKzkevJqJfTEzTgxGBjUdjuzkq_FBiGVCTD1lPDRVrOySvlxCy_OcURylfBXckr-5tBhFu1LnTfVeuOMzQ1P8PlsbXJdWaxrJ1iy2KNZgab2VNu1gYvpcuN8RBEoG9YMf1wlUvlQCIkoq5U9bmcdDSeLh4Kcmz9wU1xNHkm8uOF17dhK0Pf5Xg%3D%3D
+CHC动作电影,http://113.57.109.48:1111/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+
+CHC家庭影院,http://113.57.109.48:1111/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC影迷电影,http://113.57.109.48:1111/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://nas.hssvm.com:8888/rtp/225.1.1.213:5002
 CHC高清电影,http://nas.hssvm.com:8888/rtp/225.1.1.213:5002
 CHC动作电影,http://nas.hssvm.com:8888/rtp/225.1.1.215:5002
@@ -192,13 +204,9 @@ CHC动作电影,http://nas.hssvm.com:8888/rtp/225.1.1.215:5002
 
 CCTV-4欧洲,http://111.227.194.148:4022/rtp/239.254.201.205:4220
 CCTV-4美洲,http://111.227.194.148:4022/rtp/239.254.201.206:4220
-CGTN英语,http://111.227.194.148:4022/rtp/239.254.200.12:8056
-CGTN纪录,http://111.227.194.148:4022/rtp/239.254.201.208:4220
-CGTN西语,http://111.227.194.148:4022/rtp/239.254.201.209:4220
-CGTN法语,http://111.227.194.148:4022/rtp/239.254.201.210:4220
-CGTN阿语,http://111.227.194.148:4022/rtp/239.254.201.211:4220
-CGTN俄语,http://111.227.194.148:4022/rtp/239.254.201.212:4220
+风云足球,http://113.57.109.48:1111/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 
+第一剧场,http://113.57.109.48:1111/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 
 第一剧场,http://183.191.7.181:8002/rtp/226.0.2.221:9680
 风云剧场,http://183.191.7.181:8002/rtp/226.0.2.227:9728
@@ -220,6 +228,29 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 
 
 卫视频道,#genre#
+
+浙江卫视,http://113.57.109.48:1111/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://113.57.109.48:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://113.57.109.48:1111/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://113.57.109.48:1111/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://113.57.109.48:1111/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://113.57.109.48:1111/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://113.57.109.48:1111/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://113.57.109.48:1111/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://113.57.109.48:1111/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://113.57.109.48:1111/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://113.57.109.48:1111/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://113.57.109.48:1111/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://113.57.109.48:1111/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://113.57.109.48:1111/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://113.57.109.48:1111/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://113.57.109.48:1111/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://113.57.109.48:1111/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://113.57.109.48:1111/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://113.57.109.48:1111/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://113.57.109.48:1111/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://113.57.109.48:1111/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://nas.hssvm.com:8888/rtp/225.1.1.112:5002
 湖南卫视,http://iptv.bradyxu.com:18889/rtp/239.76.253.100:9000
@@ -506,105 +537,43 @@ IPTV淘娱乐HD,http://218.241.192.50:8808/udp/239.3.1.100:8001
 斗鱼电影165,http://43.138.170.29:35455/douyu/8705754
 斗鱼电影169,http://43.138.170.29:35455/douyu/7528160
 虎牙影视,#genre#
-古惑仔黑帮大片,http://live.iill.top/huya.php?id=24527617
-电影_英叔,https://live.metshop.top/huya/11342421
-电影_发哥,https://live.metshop.top/huya/11342387
-电影_成龙,https://live.metshop.top/huya/11342386
-电影_王晶,https://live.metshop.top/huya/11602058
-电影_沈腾,https://live.metshop.top/huya/11601968
-电影_黄渤,https://live.metshop.top/huya/11352876
-电影_强森,https://live.metshop.top/huya/21059581
-电影_漫威,https://live.metshop.top/huya/11602034
-电影_宇宙,https://live.metshop.top/huya/11342428
-电影_怪兽,https://live.metshop.top/huya/21059577
-电影_武侠,https://live.metshop.top/huya/11342427
-电影_警匪,https://live.metshop.top/huya/11352886
-电影_罪犯,https://live.metshop.top/huya/11352962
-电影_枪战,https://live.metshop.top/huya/21059579
-电影_海盗,https://live.metshop.top/huya/21059595
-电影_赛车,https://live.metshop.top/huya/11279247
-电影_推荐,https://live.metshop.top/huya/11602041
-电影_救援,https://live.metshop.top/huya/21059594
-电影_热血,https://live.metshop.top/huya/11352934
-电影_盗墓,https://live.metshop.top/huya/21059552
-电影_贺岁,https://live.metshop.top/huya/11601971
-电影_玄幻,https://live.metshop.top/huya/11342414
-电影_谍战,https://live.metshop.top/huya/21059585
-电影_战争,https://live.metshop.top/huya/21059592
-电影_喜剧,https://live.metshop.top/huya/11352877
-电影_港片,https://live.metshop.top/huya/11602043
-电影_国产,https://live.metshop.top/huya/11352973
-电影_周星星,https://live.metshop.top/huya/11336587
-电影_李连杰,https://live.metshop.top/huya/11342390
-电影_洪金宝,https://live.metshop.top/huya/11279251
-电影_梁家辉,https://live.metshop.top/huya/11342429
-电影_刘德华,https://live.metshop.top/huya/11342424
-电影_斯坦森,https://live.metshop.top/huya/21059588
-电影_小鬼头,https://live.metshop.top/huya/11352963
-电影_八点档,https://live.metshop.top/huya/880261
-电影_蜘蛛侠,https://live.metshop.top/huya/21059599
-电影_贺岁片,https://live.metshop.top/huya/11601986
-电影_功夫片,https://live.metshop.top/huya/11352941
-电影_黑帮片,https://live.metshop.top/huya/11336719
-电影_丧尸片,https://live.metshop.top/huya/21059578
-电影_灾难片,https://live.metshop.top/huya/11602075
-电影_谍战片,https://live.metshop.top/huya/21059587
-电影_战争片,https://live.metshop.top/huya/21059574
-电影_犯罪片,https://live.metshop.top/huya/11352974
-电影_古装片,https://live.metshop.top/huya/11336590
-电影_高分动作,https://live.metshop.top/huya/11352884
-电影_动作电影,https://live.metshop.top/huya/11602077
-电影_搞笑喜剧,https://live.metshop.top/huya/11342423
-电影_喜剧专场,https://live.metshop.top/huya/11602044
-电影_欢笑影院,https://live.metshop.top/huya/11352894
-电影_不挤影院,https://live.metshop.top/huya/11352897
-电影_国产悬疑,https://live.metshop.top/huya/11342395
-电影_快意江湖,https://live.metshop.top/huya/11342435
-电影_黑帮斗争,https://live.metshop.top/huya/11342419
-电影_嫣然影厅,https://live.metshop.top/huya/11601977
-电影_许氏三杰,https://live.metshop.top/huya/11602033
-电影_经典港片,https://live.metshop.top/huya/11352965
-电影_镖行天下,https://live.metshop.top/huya/11352969
-电影_高能反转,https://live.metshop.top/huya/11352887
-电影_喜乐影院,https://live.metshop.top/huya/21059580
-电影_蘑菇影厅,https://live.metshop.top/huya/11601981
-电影_搞笑恐怖,https://live.metshop.top/huya/11601960
-电影_死神来了,https://live.metshop.top/huya/11352903
-电影_变形金刚,https://live.metshop.top/huya/21059596
-电影_怪兽系列,https://live.metshop.top/huya/21059554
-剧集_老三国,https://live.metshop.top/huya/11602081
-剧集_新三国,https://live.metshop.top/huya/11352944
-剧集_新水浒,https://live.metshop.top/huya/11342384
-剧集_纪晓岚,https://live.metshop.top/huya/11342396
-剧集_庆余年,https://live.metshop.top/huya/11352960
-剧集_雍正王朝,https://live.metshop.top/huya/11342439
-剧集_士兵突击,https://live.metshop.top/huya/11342430
-剧集_爱情公寓,https://live.metshop.top/huya/11336726
-剧集_武林外传,https://live.metshop.top/huya/21059598
-剧集_地下交通站,https://live.metshop.top/huya/11342433
-剧集_邻里一家亲,https://live.metshop.top/huya/11342426
-搞笑_陈翔六点半,https://live.metshop.top/huya/11274154
-解说_鹿哥电影,https://live.metshop.top/huya/24396360
-解说_斌哥漫说,https://live.metshop.top/huya/18632116
-解说_续哥说电影,https://live.metshop.top/huya/24396472
-解说_小川侃电影,https://live.metshop.top/huya/15870999
-解说_阿良说剧,https://live.metshop.top/huya/20488841
-解说_鱼丸电影,https://live.metshop.top/huya/16615910
-解说_阿斗说电影,https://live.metshop.top/huya/13303478
-解说_扁豆看电影,https://live.metshop.top/huya/16028551
-解说_乌贼说电影,https://live.metshop.top/huya/16604522
-解说_大象放映室,https://live.metshop.top/huya/21277391
-解说_科幻梦工场,https://live.metshop.top/huya/15152155
-解说_亮哥讲电影,https://live.metshop.top/huya/16144175
-解说_越哥说电影,https://live.metshop.top/huya/15894162
-解说_小冉看电影,https://live.metshop.top/huya/17341907
-解说_阿翔说电影,https://live.metshop.top/huya/16868935
-解说_虎妞说电影,https://live.metshop.top/huya/20343144
-解说_涵哥评电影,https://live.metshop.top/huya/16865726
-解说_老皮讲电影,https://live.metshop.top/huya/16968572
-解说_默爷侃电影,https://live.metshop.top/huya/17204307
-解说_冷君说电影,https://live.metshop.top/huya/16739452
-解说_恐怖电影解说,https://live.metshop.top/huya/16741179
+火影忍者,http://mtw.so/5FCWPi
+星爷,http://mtw.so/6oKdhX
+林正英,http://mtw.so/5FCWRo
+动作电影,http://mtw.so/6he0fm
+李连杰,http://mtw.so/69HNaP
+埋堆堆,http://cfss.cc/cdn/hy/23903130.flv
+电影_高分动作,http://cfss.cc/cdn/hy/11352884.flv
+电影_经典港片,http://cfss.cc/cdn/hy/11352965.flv
+周星驰,http://cfss.cc/cdn/hy/11336587.flv
+剧集_地下交通站,http://cfss.cc/cdn/hy/11342433.flv
+剧集_邻里一家亲,http://cfss.cc/cdn/hy/11342426.flv
+搞笑_陈翔六点半,http://cfss.cc/cdn/hy/11274154.flv
+电影_超异能族,http://cfss.cc/cdn/hy/21059586.flv
+电影_古墓系列,http://cfss.cc/cdn/hy/11352913.flv
+电影_动作电影,http://cfss.cc/cdn/hy/11602077.flv
+电影_搞笑喜剧,http://cfss.cc/cdn/hy/11342423.flv
+电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
+电影_欢笑影院,http://cfss.cc/cdn/hy/11352894.flv
+电影_不挤影院,http://cfss.cc/cdn/hy/11352897.flv
+电影_国产悬疑,http://cfss.cc/cdn/hy/11342395.flv
+电影_快意江湖,http://cfss.cc/cdn/hy/11342435.flv
+电影_黑帮斗争,http://cfss.cc/cdn/hy/11342419.flv
+电影_嫣然影厅,http://cfss.cc/cdn/hy/11601977.flv
+电影_许氏三杰,http://cfss.cc/cdn/hy/11602033.flv
+电影_镖行天下,http://cfss.cc/cdn/hy/11352969.flv
+电影_高能反转,http://cfss.cc/cdn/hy/11352887.flv
+电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
+电影_搞笑恐怖,http://cfss.cc/cdn/hy/11601960.flv
+电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
+电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
+电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
+剧集_雍正王朝,http://cfss.cc/cdn/hy/11342439.flv
+剧集_士兵突击,http://cfss.cc/cdn/hy/11342430.flv
+剧集_爱情公寓,http://cfss.cc/cdn/hy/11336726.flv
+剧集_武林外传,http://cfss.cc/cdn/hy/21059598.flv
+杰森·斯坦森,http://cfss.cc/cdn/hy/21059588.flv
+
 历届春晚,#genre#
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
@@ -766,8 +735,10 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
 湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 金鹰纪实,http://1.180.2.93:9901/tsfile/live/1028_1.m3u8
+金鹰纪实,http://113.57.109.48:1111/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://iptv.bradyxu.com:18889/udp/239.76.253.110:9000
 茶,http://iptv.bradyxu.com:18889/udp/239.76.252.239:9000
+快乐垂钓,http://113.57.109.48:1111/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,http://iptv.bradyxu.com:18889/udp/239.76.252.127:9000
 长沙新闻,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTE4My45My45My4yMTAmcWlkPSZzPWY1NTRmMjQ4M2QxNTJmMTdjZGY2ZGM2NTgzNGQ2OWE0JmVzPTE3MjE3NTUwNjUmdXVpZD0wYWY2NWYwZmVjMTU3ZmVjMGYxOTdjMWNiOGU2YTZhOS1iNzVkNWRkMiZ2PTImYXM9MCZjZG5leF9pZD1xcV9waG9uZV9saXZl/CSXWMPP360.m3u8
 
@@ -827,6 +798,8 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 
 
 湖北,#genre#
+湖北影视,http://113.57.109.48:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北生活,http://113.57.109.48:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北综合,http://183.94.191.34:888/udp/228.0.0.126:6108
 湖北公共,http://183.94.191.34:888/udp/228.0.0.124:6108
 湖北经视,http://183.94.191.34:888/udp/228.0.0.125:6108
