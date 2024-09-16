@@ -11,6 +11,13 @@
 			"api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/PZ/直播转点播.js",
 			"ext": "电视直播$https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/live/999.txt"
 		},
+{
+         "key":"影视",
+         "name":"猫TV直播",        
+"type": 3,
+			"api": "https://d.kstore.space/download/2883/sdtv.js",
+			"ext": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/live/999.txt",
+			"jar": "https://d.kstore.space/download/2883/sdtv.jar"}, 
 		{
 			"key": "小苹果",
 			"name": "🐞小苹果",
