@@ -9,7 +9,7 @@
 			"name": "电视直播",
 			"type": 3,
 			"api": "https://notabug.org/lwm212/JS/raw/master/api/直播转点播.js",
-			"ext": "电视直播$http://52pan.top:81/api/v3/file/get/174969/live.txt?sign=thai3ky1iYk1Y6Qbt9W6XOTSkCAqZF0bbdB9emM1rkY%3D%3A0"
+			"ext": "电视直播$https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/live/999.txt"
 		},
 		{
 			"key": "小苹果",
