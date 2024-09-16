@@ -8,7 +8,7 @@
 			"key": "直播",
 			"name": "电视直播",
 			"type": 3,
-			"api": "https://notabug.org/lwm212/JS/raw/master/api/直播转点播.js",
+			"api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/PZ/直播转点播.js",
 			"ext": "电视直播$https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/live/999.txt"
 		},
 		{
