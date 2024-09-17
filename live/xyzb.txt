@@ -240,7 +240,7 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 
 
 卫视频道,#genre#
-
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://113.57.109.48:1111/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://113.57.109.48:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://113.57.109.48:1111/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -263,7 +263,40 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 重庆卫视,http://113.57.109.48:1111/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://113.57.109.48:1111/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+北京卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=bjws
+东方卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=dfws
+浙江卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=zjws
+江苏卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=jsws
+湖南卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=hunws
+广东卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=gdws
+深圳卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=szws
+安徽卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=ahws
+东南卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=dnws
+天津卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=tjws
+辽宁卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=lnws
+海南卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=hinws
+江西卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=jxws
+湖北卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=hubws
+广西卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=gxws
+四川卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=scws
+河南卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=hnws
+贵州卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=gzws
+河北卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=hbws
+重庆卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=cqws
+新疆卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=xjws
+吉林卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=jlws
+兵团卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=btws
+三沙卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=ssws
+西藏卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=xzws
+云南卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=ynws
+山西卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=sxiws
+青海卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=qhws
+宁夏卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=nxws
+内蒙古视,http://pt.aisx.cc:99/zb/cqyx.php?id=nmws
+黑龙江视,http://pt.aisx.cc:99/zb/cqyx.php?id=hljws
+
+
+
 浙江卫视,http://nas.hssvm.com:8888/rtp/225.1.1.112:5002
 湖南卫视,http://iptv.bradyxu.com:18889/rtp/239.76.253.100:9000
 湖南卫视,http://nas.hssvm.com:8888/rtp/225.1.1.114:5002
@@ -339,12 +372,13 @@ CETV1,http://218.241.192.50:8808/udp/239.3.1.57:8152
 辽宁卫视,http://117.161.12.118/live/program/live/lnwshd8m/8000000/mnf.m3u8
 海南卫视,http://117.161.12.118/live/program/live/hainanwshd8m/8000000/mnf.m3u8
 陕西卫视,http://61.190.129.195:8688/rtp/238.1.78.88:6576
+云南卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=ynws
 云南卫视,http://117.161.12.118/live/program/live/ynwshd8m/8000000/mnf.m3u8
 甘肃卫视,http://nas.hssvm.com:8888/rtp/225.1.1.159:5002
 甘肃卫视,http://117.161.12.118/live/program/live/gswshd8m/8000000/mnf.m3u8
 海峡卫视,https://livednow.com/migu/849119120?sign=gAAAAABm5t8YsozkqWO432Gigym7vlC9T0j5mvVK0gFMxB_W1-7OS5HWf97W7bVVTUyk-gOYxiWkbDJTNWwjUX129T6BNn-q0Wl82O3fokF_Q7-_tO7hxdLBlgxxct2rINAjrhim5RgztLnkwtXC2GBWbDWVoGbGySV0ditPg7q8FObTmu4hV_M4Ln-X80uYysEwXQHWUGwdFJ85zTVBDk4-ZaQteHgV5A%3D%3D
 宁夏卫视,http://61.190.129.195:8688/rtp/238.1.78.109:6744
-西藏卫视,http://61.190.129.195:8688/rtp/238.1.78.101:6680
+西藏卫视,http://pt.aisx.cc:99/zb/cqyx.php?id=xzws
 
 
 
