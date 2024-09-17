@@ -188,6 +188,18 @@ CHC影迷电影,http://113.57.109.48:1111/tsfile/live/1046_1.m3u8?key=txiptv&pla
 CHC家庭影院,http://nas.hssvm.com:8888/rtp/225.1.1.213:5002
 CHC高清电影,http://nas.hssvm.com:8888/rtp/225.1.1.213:5002
 CHC动作电影,http://nas.hssvm.com:8888/rtp/225.1.1.215:5002
+兵器科技,http://pt.aisx.cc:99/zb/cqyx.php?id=bqkj
+第一剧场,http://pt.aisx.cc:99/zb/cqyx.php?id=dyjc
+怀旧剧场,http://pt.aisx.cc:99/zb/cqyx.php?id=hjjc
+风云剧场,http://pt.aisx.cc:99/zb/cqyx.php?id=fyjc
+风云音乐,http://pt.aisx.cc:99/zb/cqyx.php?id=fyyy
+风云足球,http://pt.aisx.cc:99/zb/cqyx.php?id=fyzq
+女性时尚,http://pt.aisx.cc:99/zb/cqyx.php?id=nxss
+文化精品,http://pt.aisx.cc:99/zb/cqyx.php?id=whjp
+高尔网球,http://pt.aisx.cc:99/zb/cqyx.php?id=gefwq
+央视台球,http://pt.aisx.cc:99/zb/cqyx.php?id=ystq
+
+
 
 第一剧场,http://nas.hssvm.com:8888/rtp/225.1.2.175:5002
 风云剧场,http://nas.hssvm.com:8888/rtp/225.1.2.174:5002
