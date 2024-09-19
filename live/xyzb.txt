@@ -14,7 +14,9 @@ CCTV11,http://113.57.109.48:1111/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&a
 CCTV12,http://113.57.109.48:1111/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://113.57.109.48:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://113.57.109.48:1111/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://113.57.109.48:1111/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
+CCTV15,https://livednow.com/migu/673168223?sign=gAAAAABm5t8YzbkH9F9HU6kf9qI6EGK6d1_I40dutkVbAh649nZlavYGqXCP5EAbeEObnxnLqpnSn8hpWK4Xleyr-K8ajgo5Bj5YzpvGzcr--wylxEkOBoqqUbaUlPnFNxDKmwDYM7AGwFBRLmgJD3y91jMEAJKAdDu-p4W_6dLWYHSQIr9ZtFgXMK9fwfIbxUVzJ6yArAdyCGWt2az5ps2lXN4UuB0wAA%3D%3D
+CCTV15,http://cg0.hunancatv.cn:9090/live/CCTV-15_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604330647&srchost=172.16.22.158:8060&gid=wVe7da5Clx2OXnh1HZiivw%3D%3D
 CCTV16,http://113.57.109.48:1111/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://113.57.109.48:1111/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,https://livednow.com/migu/608807420?sign=gAAAAABm5t8YAIUOA61Z7aZZnIjsRJNIvrqb_xbDTA62p-HwYqYUqWL14Pr08eSUgJuYbPs6Hgc9DN-k_l1KlZKB3NsLKZwM5kF7Bq1k6PxbXP1CNKHJgbRlSFR0TbYnN8vWBUqsvHh0TBZDraBF3Pe58-wX1r01Dqc8e0OhZYGV1gjSNzT5JBuMFEW3v8b5ABr2C8-UWy_iZL68TP5Ea0SPBnwsSSzZzg%3D%3D
