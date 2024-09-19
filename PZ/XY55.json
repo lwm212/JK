@@ -104,14 +104,9 @@
 			"filterable": 1,
 			"ext": "http://122.228.85.203:1000/api.php/app/"
 		},
-		{
-			"key": "csp_全网",
-			"name": "影视┃10",
-			"type": 3,
-			"changeable": 0,
-			"api": "csp_Quanwk",
-			"ext": "https://www.91qkw.com"
-		},
+{"key":"荐片","name":"影视┃10","type":3,"api":"http://ttkx.live:55/lib/drpy2.min.js","ext":"http://ttkx.live:55/lib/jianpian.js"},
+
+
 		{
 			"key": "csp_NanGua",
 			"name": "影视┃11",
