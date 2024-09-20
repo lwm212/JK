@@ -108,18 +108,10 @@
 			"ext": "https://www.czys.pro/"
 		},
 
-		{
-			"key": "荐片",
-			"name": "影视┃11",
-			"type": 3,
-			"api": "http://ttkx.live:55/lib/drpy2.min.js",
-			"ext": "http://ttkx.live:55/lib/jianpian.js"
-		},
-
 
 		{
 			"key": "csp_NanGua",
-			"name": "影视┃12",
+			"name": "影视┃11",
 			"type": 3,
 			"changeable": 1,
 			"api": "csp_NanGua",
@@ -129,7 +121,7 @@
 		},
 		{
 			"key": "huohuo",
-			"name": "影视┃13",
+			"name": "影视┃12",
 			"type": 3,
 			"changeable": 0,
 
@@ -138,7 +130,7 @@
 
 		{
 			"key": "csp_Nongm",
-			"name": "影视┃14",
+			"name": "影视┃13",
 			"type": 3,
 			"api": "csp_Nongm",
 			"jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar"
@@ -146,7 +138,7 @@
 
 		{
 			"key": "快看影视",
-			"name": "影视┃15",
+			"name": "影视┃14",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
@@ -157,7 +149,7 @@
 		},
 		{
 			"key": "天天弹幕版",
-			"name": "影视┃16",
+			"name": "影视┃15",
 			"type": 3,
 			"api": "csp_TianTian",
 			"searchable": 1,
@@ -171,7 +163,7 @@
 		},
 		{
 			"key": "荐片弹幕版",
-			"name": "影视┃17",
+			"name": "影视┃16",
 			"type": 3,
 			"api": "csp_Jianpian",
 			"searchable": 1,
@@ -187,7 +179,7 @@
 
 		{
 			"key": "360",
-			"name": "影视┃18",
+			"name": "影视┃17",
 			"type": 1,
 			"api": "https://360zy.com/api.php/provide/vod?",
 			"searchable": 1,
