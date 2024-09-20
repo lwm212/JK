@@ -271,6 +271,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
+			"playerType": 2,
 			"order_num": 0,
 			"changeable": 0,
 			"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"
