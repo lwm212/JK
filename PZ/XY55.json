@@ -11,7 +11,7 @@
 			"filterable": 1,
 			"ext": "http://122.228.85.203:1000/api.php/app/"
 		},
-				{
+		{
 			"key": "影视┃2",
 			"name": "影视┃2",
 			"type": 3,
@@ -22,7 +22,7 @@
 			"changeable": 1,
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt"
 		},
-		
+
 		{
 			"key": "csp_瓜子",
 			"name": "影视┃3",
@@ -104,11 +104,17 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt",			
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt",
 			"ext": "https://www.czys.pro/"
 		},
 
-{"key":"荐片","name":"影视┃11","type":3,"api":"http://ttkx.live:55/lib/drpy2.min.js","ext":"http://ttkx.live:55/lib/jianpian.js"},
+		{
+			"key": "荐片",
+			"name": "影视┃11",
+			"type": 3,
+			"api": "http://ttkx.live:55/lib/drpy2.min.js",
+			"ext": "http://ttkx.live:55/lib/jianpian.js"
+		},
 
 
 		{
@@ -331,7 +337,7 @@
 
 	],
 
-		"parses": [{
+	"parses": [{
 			"name": "留在这里",
 			"type": 3,
 			"url": "Demo"
@@ -450,20 +456,7 @@
 		}
 
 	],
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar",
-	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-	"rules": [{
-			"host": "www.iesdouyin.com",
-			"rule": [
-				"playwm/?video_id="
-			]
-		},
-		{
-			"host": "v.douyin.com",
-			"rule": [
-				"playwm/?video_id="
-			]
-		},
+
 	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"rules": [{
