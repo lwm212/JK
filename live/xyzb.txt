@@ -547,6 +547,106 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+高速港台,#genre#
+凤凰资讯,http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8
+凤凰香港,http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8
+TVB星河台,http://13457610200.8866.org:2018/live/星河频道HD/index.m3u8
+Now 财经台,https://histar.zapi.us.kg/?id=now-finance
+Now 爆谷台,https://histar.zapi.us.kg/?id=baogu-movies
+Now 星影台,https://histar.zapi.us.kg/?id=now-baogu-superstars
+Now 新闻台,https://histar.zapi.us.kg/?id=now-news
+Now 直播台,https://histar.zapi.us.kg/?id=now-direct
+Now报价台,https://histar.zapi.us.kg/?id=now-data
+Now jelli紫金国际台,https://histar.zapi.us.kg/?id=now-jelli
+星空卫视,http://13457610200.8866.org:2018/live/星空卫视/index.m3u8
+天映经典,http://13457610200.8866.org:2018/live/天映频道HD/index.m3u8
+台视新闻,http://ali.hlspull.yximgs.com/live/TTaishi88822378889gdkagdakdbsavfcjdsfjs.flv
+中视新闻,http://ali.hlspull.yximgs.com/live/abc888445889889gdkagdakdbsavfcjdsfjs.flv
+民视新闻,http://ali.hlspull.yximgs.com/live/msxwtbbbst885231889gdkagdakdbsavfcjdsfjs.flv
+闽南电视,#genre#
+新唐人亚太,http://154.201.73.77:9000/live.m3u8?c=1
+TVB 翡翠台,https://histar.zapi.us.kg/?id=feicui
+TVB 无线新闻台,https://histar.zapi.us.kg/?id=tvb-news
+TVB PLUS,https://histar.zapi.us.kg/?id=tvb-plus
+TVB 黄金翡翠台,https://histar.zapi.us.kg/?id=golden-jade
+TVB 黄金华剧台,https://histar.zapi.us.kg/?id=golden-chinese-drama
+TVB 千禧经典台,https://histar.zapi.us.kg/?id=tvb-classic
+TVB 粤语片台,https://histar.zapi.us.kg/?id=tvb-yueyu
+TVB 星河台,https://histar.zapi.us.kg/?id=tvb-xinghe
+TVB 亚洲剧台,https://histar.zapi.us.kg/?id=tvb-asia-drama
+J2,https://histar.zapi.us.kg/?id=j2
+TVB 华语剧台,https://histar.zapi.us.kg/?id=tvb-drama
+凤凰卫视 资讯台,https://histar.zapi.us.kg/?id=phtv-info
+凤凰卫视 中文台,https://histar.zapi.us.kg/?id=phtv-cn
+凤凰卫视 香港台,https://histar.zapi.us.kg/?id=phtv-hk
+HOY 资讯台,https://histar.zapi.us.kg/?id=hoy-info
+ViuTV,https://histar.zapi.us.kg/?id=viutv
+香港卫视,https://histar.zapi.us.kg/?id=hks
+澳亚卫视,https://histar.zapi.us.kg/?id=mastv
+澳门卫视,https://histar.zapi.us.kg/?id=mstv
+澳门资讯,https://histar.zapi.us.kg/?id=tdm-information
+港台电视 31,https://histar.zapi.us.kg/?id=rthk31
+港台电视 32,https://histar.zapi.us.kg/?id=rthk32
+Now华剧台,https://histar.zapi.us.kg/?id=now-chinese-drama
+HBO Now115,https://histar.zapi.us.kg/?id=Now-HBO
+Now HBO Hits,https://histar.zapi.us.kg/?id=now-hbo-hits
+Now HBO Family,https://histar.zapi.us.kg/?id=now-hbof-amily
+Now HBO Signature,https://histar.zapi.us.kg/?id=now-hbo-signature
+NowViu剧集台,https://histar.zapi.us.kg/?id=now-viu-drama
+Now NBA,https://histar.zapi.us.kg/?id=now-nba
+Now Sports精选,https://histar.zapi.us.kg/?id=now-sports-prime
+Now Sports 1,https://histar.zapi.us.kg/?id=now-sports-1
+Now Sports 2,https://histar.zapi.us.kg/?id=now-sports-2
+Now Sports 3,https://histar.zapi.us.kg/?id=now-sports-3
+Now Sports 4,https://histar.zapi.us.kg/?id=now-sports-4
+Now Sports 5,https://histar.zapi.us.kg/?id=now-sports-5
+Now Sports 6,https://histar.zapi.us.kg/?id=now-sports-6
+Now Sports 7,https://histar.zapi.us.kg/?id=now-sports-7
+Now Sports Plus,https://histar.zapi.us.kg/?id=now-sports-plus
+Now Sports 英超1,https://histar.zapi.us.kg/?id=now-sports-premier-league1
+Now beIN SPORTS 1,https://histar.zapi.us.kg/?id=now-bein-sports1
+Now beIN SPORTS 2,https://histar.zapi.us.kg/?id=now-bein-sports2
+Now beIN SPORTS 3,https://histar.zapi.us.kg/?id=now-bein-sports3
+Now 668,https://histar.zapi.us.kg/?id=now-668
+Now Golf 2,https://histar.zapi.us.kg/?id=now-golf2
+Now Golf 3,https://histar.zapi.us.kg/?id=now-golf3
+民视台湾台,https://histar.zapi.us.kg/?id=ftv-tw
+民视第一台,https://histar.zapi.us.kg/?id=ftv-one
+纬来综合,https://histar.zapi.us.kg/?id=videoland
+TVBS 欢乐台,https://histar.zapi.us.kg/?id=tvbs-huanle
+TVBS Asia,https://histar.zapi.us.kg/?id=tvbs-asia
+三立台湾台,https://histar.zapi.us.kg/?id=settv-taiwan
+东森综合台,https://histar.zapi.us.kg/?id=ebc-ettv
+公视3台,https://histar.zapi.us.kg/?id=pts-3
+公视台语台,https://histar.zapi.us.kg/?id=pts-ty
+靖天日本台,https://histar.zapi.us.kg/?id=jtrb
+大爱一台,https://histar.zapi.us.kg/?id=daai1
+大爱二台,https://histar.zapi.us.kg/?id=daai2
+TVBS 新闻台,https://histar.zapi.us.kg/?id=tvbs-news
+TVBS HD,https://histar.zapi.us.kg/?id=tvbs-hd
+东森财经新闻,https://histar.zapi.us.kg/?id=ebc-finance
+壹新闻 HD,https://histar.zapi.us.kg/?id=nexttv
+三立iNews,https://histar.zapi.us.kg/?id=settv-inews
+民视新闻台,https://histar.zapi.us.kg/?id=ftv-news
+纬来电影台,https://histar.zapi.us.kg/?id=videoland-movie
+纬来戏剧,https://histar.zapi.us.kg/?id=videoland-drama
+TVBS综艺台,https://histar.zapi.us.kg/?id=tvbs-zongyi
+TVBS台剧台,https://histar.zapi.us.kg/?id=tvbs-taiju
+龙祥电影台,https://histar.zapi.us.kg/?id=lstime
+龙华电影台,https://histar.zapi.us.kg/?id=ltv-movies
+八大娱乐,https://histar.zapi.us.kg/?id=gtv-86
+八大综艺,https://histar.zapi.us.kg/?id=grt
+美亚电影台,https://histar.zapi.us.kg/?id=meiah-movies
+民视综艺,https://histar.zapi.us.kg/?id=ftv-reality
+民视影剧,https://histar.zapi.us.kg/?id=ftv-drama
+三立都会台,https://histar.zapi.us.kg/?id=settv-city
+中天娱乐,https://histar.zapi.us.kg/?id=cti-yule
+靖天电影台,https://histar.zapi.us.kg/?id=jtdy
+靖天戏剧台,https://histar.zapi.us.kg/?id=jtxjt
+MTV Live HD 频道,https://histar.zapi.us.kg/?id=mtv
+
+
+
 IPTV,#genre#
 4K高清电影,http://218.241.192.50:8808/udp/239.3.1.249:8001
 IPTV淘电影2,http://218.241.192.50:8808/udp/239.3.1.250:8001
