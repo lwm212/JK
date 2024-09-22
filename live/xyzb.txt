@@ -521,13 +521,8 @@ KTSF_26台,http://185.81.28.58/🥝.php?id=f8e5cc3f6f73349b505e323e8c88025e
 Krall_TV台,http://185.81.28.58/🥝.php?id=91351414823bd4266b69f59ecc64f49b
 
 
-中天新闻频道,http://v.189910.xyz:8900/live.m3u8?c=8
 星空卫视频道,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-香港面包频道,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-澳视澳门频道,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
-澳视葡语频道,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
-澳门资讯频道,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
-澳门mac频道,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+
 
 
 
@@ -547,19 +542,7 @@ ACM电影,http://61.221.215.25:8800/hls/43/index.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
-澳视澳门.720,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-澳视卫星.720,http://61.244.22.5/ch3/ch3.live/index.m3u8
-澳视卫星.720,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-澳门体育.720,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
-澳门体育.720,http://61.244.22.5/ch4/sport_ch4.live/master.m3u8
-澳门资讯.720,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
-澳门资讯.720,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-澳视葡文.720,http://61.244.22.5/ch2/ch2.live/index.m3u8
-澳视葡文.720,http://61.244.22.5/ch2/ch2.live/playelist.m3u8
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-华视,http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
-亚洲旅游台,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MA8A2387916023879160&ct=19254&tsum=bd472a07b6e15f36c0540fb3becc3d6c
-亚洲旅游台,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
