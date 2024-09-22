@@ -521,8 +521,13 @@ KTSF_26台,http://185.81.28.58/🥝.php?id=f8e5cc3f6f73349b505e323e8c88025e
 Krall_TV台,http://185.81.28.58/🥝.php?id=91351414823bd4266b69f59ecc64f49b
 
 
-
-
+中天新闻频道,http://v.189910.xyz:8900/live.m3u8?c=8
+星空卫视频道,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+香港面包频道,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+澳视澳门频道,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+澳视葡语频道,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
+澳门资讯频道,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
+澳门mac频道,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 
 
 
