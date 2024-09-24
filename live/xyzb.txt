@@ -1193,11 +1193,10 @@ MAX极速汽车,http://101.229.109.76:4022/udp/239.45.3.49:5140
 6频道,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-杭州综合,http://183.135.226.196:4022/rtp/233.50.201.173:5140
-杭州明珠,http://183.135.226.196:4022/rtp/233.50.201.174:5140
-杭州生活,http://183.135.226.196:4022/rtp/233.50.201.175:5140
-杭州影视,http://183.135.226.196:4022/rtp/233.50.201.176:5140
-杭州少儿,http://183.135.226.196:4022/rtp/233.50.201.177:5140
+杭州综合,http://rihou.cc:55/lib/aikan.php?id=hzzh
+杭州明珠,http://rihou.cc:55/lib/aikan.php?id=hzmz
+杭州生活,http://rihou.cc:55/lib/aikan.php?id=hzsh
+杭州影视,http://rihou.cc:55/lib/aikan.php?id=hzys
 宁波-1,http://183.135.226.196:4022/rtp/233.50.201.168:5140
 宁波-2,http://183.135.226.196:4022/rtp/233.50.201.178:5140
 宁波-3,http://183.135.226.196:4022/rtp/233.50.201.179:5140
