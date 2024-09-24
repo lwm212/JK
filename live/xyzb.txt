@@ -1,22 +1,22 @@
 🇨🇳央视频道,#genre#
-CCTV-1,http://rihou.cc:555/cqyx.php?id=cctv1
-CCTV-2,http://rihou.cc:555/cqyx.php?id=cctv2
-CCTV-3,http://rihou.cc:555/cqyx.php?id=cctv3
-CCTV-4,http://rihou.cc:555/cqyx.php?id=cctv4
-CCTV-5,http://rihou.cc:555/cqyx.php?id=cctv5
+CCTV1,http://rihou.cc:555/cqyx.php?id=cctv1
+CCTV2,http://rihou.cc:555/cqyx.php?id=cctv2
+CCTV3,http://rihou.cc:555/cqyx.php?id=cctv3
+CCTV4,http://rihou.cc:555/cqyx.php?id=cctv4
+CCTV5,http://rihou.cc:555/cqyx.php?id=cctv5
 CCTV5+,http://rihou.cc:555/cqyx.php?id=cctv5p
-CCTV-6,http://rihou.cc:555/cqyx.php?id=cctv6
-CCTV-7,http://rihou.cc:555/cqyx.php?id=cctv7
-CCTV-8,http://rihou.cc:555/cqyx.php?id=cctv8
-CCTV-9,http://rihou.cc:555/cqyx.php?id=cctv9
-CCTV-10,http://rihou.cc:555/cqyx.php?id=cctv10
-CCTV-11,http://rihou.cc:555/cqyx.php?id=cctv11
-CCTV-12,http://rihou.cc:555/cqyx.php?id=cctv12
-CCTV-13,http://rihou.cc:555/cqyx.php?id=cctv13
-CCTV-14,http://rihou.cc:555/cqyx.php?id=cctv14
-CCTV-15,http://rihou.cc:555/cqyx.php?id=cctv15
-CCTV-16,http://rihou.cc:555/cqyx.php?id=cctv16
-CCTV-17,http://rihou.cc:555/cqyx.php?id=cctv17
+CCTV6,http://rihou.cc:555/cqyx.php?id=cctv6
+CCTV7,http://rihou.cc:555/cqyx.php?id=cctv7
+CCTV8,http://rihou.cc:555/cqyx.php?id=cctv8
+CCTV9,http://rihou.cc:555/cqyx.php?id=cctv9
+CCTV10,http://rihou.cc:555/cqyx.php?id=cctv10
+CCTV11,http://rihou.cc:555/cqyx.php?id=cctv11
+CCTV12,http://rihou.cc:555/cqyx.php?id=cctv12
+CCTV13,http://rihou.cc:555/cqyx.php?id=cctv13
+CCTV14,http://rihou.cc:555/cqyx.php?id=cctv14
+CCTV15,http://rihou.cc:555/cqyx.php?id=cctv15
+CCTV16,http://rihou.cc:555/cqyx.php?id=cctv16
+CCTV17,http://rihou.cc:555/cqyx.php?id=cctv17
 
 
 
