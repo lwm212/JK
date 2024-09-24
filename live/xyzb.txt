@@ -575,10 +575,10 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-
-
-
-
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛综合,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 IPTV,#genre#
 4K高清电影,http://218.241.192.50:8808/udp/239.3.1.249:8001
 IPTV淘电影2,http://218.241.192.50:8808/udp/239.3.1.250:8001
