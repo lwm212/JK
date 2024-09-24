@@ -571,8 +571,12 @@ IPTV淘精彩HD,http://218.241.192.50:8808/udp/239.3.1.178:8001
 IPTV淘剧场HD,http://218.241.192.50:8808/udp/239.3.1.95:8001
 IPTV淘娱乐HD,http://218.241.192.50:8808/udp/239.3.1.100:8001
 
-
-
+景区,#genre#
+武汉黄鹤楼,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+黄龙五彩池,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+古北水镇,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+西递半亭山,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+茶马古道,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 
 斗鱼轮播,#genre#
 鬼片恐怖,http://43.138.170.29:35455/douyu/2935323
