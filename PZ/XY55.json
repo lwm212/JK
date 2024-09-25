@@ -97,19 +97,18 @@
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/XBQH.jar",
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/98影院.json"
 		},
-		{
-			"key": "厂长",
-			"name": "影视┃10",
-			"type": 3,
-			"api": "csp_NewCz",
-			"timeout": 15,
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt",
-			"ext": "https://www.czys.pro/"
-		},
+        {
+            "key": "热播影视",
+            "name": "影视┃10",
+            "type": 3,
+            "api": "csp_AppRB",
+            "searchable": 1,
+            "quickSearch": 1,
+	    "jar": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+            "filterable": 1
+        },
+			
+	
 
 
 		{
