@@ -228,6 +228,7 @@
             "api": "csp_AppDaMi",
             "searchable": 1,
             "quickSearch": 1,
+		"jar": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
             "filterable": 1
         },
 		        {
@@ -247,6 +248,7 @@
             "api": "csp_Jiaozi",
             "searchable": 1,
             "quickSearch": 1,
+		"jar": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",		
             "filterable": 1
         },
         {
