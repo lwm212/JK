@@ -10,12 +10,12 @@
 			"order_num": 0,
 			"ext": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/js/金牌影院.js"
 		},
-		
-		
+
+
 		{
 			"key": "君君",
 			"name": "影视┃2",
-			"playerType":2,
+			"playerType": 2,
 			"type": 3,
 			"changeable": 0,
 			"api": "csp_AppYsV2",
@@ -77,17 +77,17 @@
 			"quickSearch": 1,
 			"changeable": 1
 		},
-        {
-            "key": "追剧影视",
-            "name": "影视┃8",
-            "type": 3,
-            "api": "csp_AppZJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-	    "jar": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-            "ext": "http://z.kzjtv.com/"
-        },
+		{
+			"key": "追剧影视",
+			"name": "影视┃8",
+			"type": 3,
+			"api": "csp_AppZJ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+			"ext": "http://z.kzjtv.com/"
+		},
 		{
 			"key": "XBPQ_98影视",
 			"name": "影视┃9",
@@ -96,18 +96,18 @@
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/XBQH.jar",
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/XBPQ/98影院.json"
 		},
-        {
-            "key": "热播影视",
-            "name": "影视┃10",
-            "type": 3,
-            "api": "csp_AppRB",
-            "searchable": 1,
-            "quickSearch": 1,
-	    "jar": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-            "filterable": 1
-        },
-			
-	
+		{
+			"key": "热播影视",
+			"name": "影视┃10",
+			"type": 3,
+			"api": "csp_AppRB",
+			"searchable": 1,
+			"quickSearch": 1,
+			"jar": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+			"filterable": 1
+		},
+
+
 
 
 		{
@@ -221,46 +221,46 @@
 				"反转爽剧"
 			]
 		},
-        {
-            "key": "大米星球",
-            "name": "大米｜APP",
-            "type": 3,
-            "api": "csp_AppDaMi",
-            "searchable": 1,
-            "quickSearch": 1,
-		"jar": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-            "filterable": 1
-        },
-		        {
-            "key": "忍者影视",
-            "name": "忍者｜APP",
-            "type": 3,
-            "api": "csp_AppRZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://rzys.xyz/"
-        },
-		        {
-            "key": "饺子影视",
-            "name": "饺子｜影视",
-            "type": 3,
-            "api": "csp_Jiaozi",
-            "searchable": 1,
-            "quickSearch": 1,
-		"jar": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",		
-            "filterable": 1
-        },
-        {
-            "key": "比特影视",
-            "name": "比特｜影视",
-            "type": 3,
-            "api": "csp_Bttwo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-		
+		{
+			"key": "大米星球",
+			"name": "大米｜APP",
+			"type": 3,
+			"api": "csp_AppDaMi",
+			"searchable": 1,
+			"quickSearch": 1,
+			"jar": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+			"filterable": 1
+		},
+		{
+			"key": "忍者影视",
+			"name": "忍者｜APP",
+			"type": 3,
+			"api": "csp_AppRZ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://rzys.xyz/"
+		},
+		{
+			"key": "饺子影视",
+			"name": "饺子｜影视",
+			"type": 3,
+			"api": "csp_Jiaozi",
+			"searchable": 1,
+			"quickSearch": 1,
+			"jar": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+			"filterable": 1
+		},
+		{
+			"key": "比特影视",
+			"name": "比特｜影视",
+			"type": 3,
+			"api": "csp_Bttwo",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+
 		{
 			"key": "csp_Dm84",
 			"name": "动漫",
