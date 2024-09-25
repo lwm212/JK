@@ -77,18 +77,17 @@
 			"quickSearch": 1,
 			"changeable": 1
 		},
-
-		{
-			"key": "Auete",
-			"name": "影视┃8",
-			"type": 3,
-			"api": "csp_Auete",
-			"timeout": 15,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "https://auete.pro/"
-		},
+        {
+            "key": "追剧影视",
+            "name": "影视┃8",
+            "type": 3,
+            "api": "csp_AppZJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	    "jar": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+            "ext": "http://z.kzjtv.com/"
+        },
 		{
 			"key": "XBPQ_98影视",
 			"name": "影视┃9",
