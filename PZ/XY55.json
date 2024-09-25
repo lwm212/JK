@@ -1,8 +1,21 @@
 {
 	"sites": [{
-			"key": "君君",
+			"key": "影视┃1",
 			"name": "影视┃1",
-			"playerType": 1,
+			"type": 3,
+			"api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/gao/master/lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/js/金牌影院.js"
+		},
+		
+		
+		{
+			"key": "君君",
+			"name": "影视┃2",
+			"playerType":2,
 			"type": 3,
 			"changeable": 0,
 			"api": "csp_AppYsV2",
@@ -11,17 +24,7 @@
 			"filterable": 1,
 			"ext": "http://122.228.85.203:1000/api.php/app/"
 		},
-		{
-			"key": "影视┃2",
-			"name": "影视┃2",
-			"type": 3,
-			"api": "csp_Jpys",
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/gao/master/jar/fan.txt"
-		},
+
 
 		{
 			"key": "csp_瓜子",
