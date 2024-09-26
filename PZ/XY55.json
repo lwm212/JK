@@ -352,7 +352,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://notabug.org/lwm212/boxx/raw/master/json/bilibili.json",
+			"ext": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/json/bilibili.json",
 			"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/Yoursmile.jar"
 		},
 		{
