@@ -147,7 +147,7 @@
 			"playerType": 2,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/spider.jar"
+			"jar": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/JAR/spider.jar"
 		},
 		{
 			"key": "天天弹幕版",
@@ -160,7 +160,7 @@
 			"ext": {
 				"danmu": true
 			},
-			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/danmu.jar",
+			"jar": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/JAR/danmu.jar",
 			"timeout": 10
 		},
 		{
@@ -175,7 +175,7 @@
 			"ext": {
 				"danmu": true
 			},
-			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/JAR/danmu.jar",
+			"jar": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/JAR/danmu.jar",
 			"timeout": 10
 		},
 
