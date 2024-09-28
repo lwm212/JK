@@ -289,48 +289,48 @@
 			"key": "hipy_js_腾云驾雾[官]",
 			"name": "腾讯",
 			"type": 3,
-			"api": "https://cloud.wujiyan.cc/f/DrXiW/drpy2.min.js",
+			"api": "https://cloud.wujiyan.cc/f/wpAh4/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0,
-			"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"
+			"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx2.js"
 		},
 		{
 			"key": "guoguo",
 			"name": "芒果",
 			"type": 3,
-			"api": "https://cloud.wujiyan.cc/f/DrXiW/drpy2.min.js",
+			"api": "https://cloud.wujiyan.cc/f/wpAh4/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"playerType": 2,
 			"order_num": 0,
 			"changeable": 0,
-			"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"
+			"ext": "https://git.acwing.com/lwm212/XYTV/-/raw/main/drpy_js/MG.js"
 		},
 		{
 			"key": "dr_奇珍异兽",
 			"name": "爱奇艺",
 			"type": 3,
 			"playerType": "2",
-			"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
+			"api": "https://cloud.wujiyan.cc/f/wpAh4/drpy2.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/奇珍异兽.js"
+			"ext": "https://git.acwing.com/lwm212/XYTV/-/raw/main/drpy_js/aiqiyi.js"
 		},
 
 		{
 			"key": "dr_优酷",
 			"name": "优酷",
 			"type": 3,
-			"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
+			"api": "https://cloud.wujiyan.cc/f/wpAh4/drpy2.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/优酷.js"
+			"ext": "https://git.acwing.com/lwm212/XYTV/-/raw/main/drpy_js/youku.js"
 		},
 
 		{
