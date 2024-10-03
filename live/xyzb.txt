@@ -197,26 +197,56 @@ CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 重庆卫视,http://113.57.109.48:1111/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://113.57.109.48:1111/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 
-广东卫视,http://bjlive.u.pthv.gitv.tv:91/live/GDWShd-8M/live.m3u8
-深圳卫视,http://bjlive.u.pthv.gitv.tv:91/live/SZWShd-8M/live.m3u8
-北京卫视,http://bjlive.u.pthv.gitv.tv:91/live/BJWShd-8M/live.m3u8
-东方卫视,http://bjlive.u.pthv.gitv.tv:91/live/DFWShd-8M/live.m3u8
-湖南卫视,http://bjlive.u.pthv.gitv.tv:91/live/HuNWShd-8M/live.m3u8
-河南卫视,http://bjlive.u.pthv.gitv.tv:91/live/HuNWShd-8M/live.m3u8
-天津卫视,http://bjlive.u.pthv.gitv.tv:91/live/TJWShd-8M/live.m3u8
-重庆卫视,http://bjlive.u.pthv.gitv.tv:91/live/CQWShd-8M/live.m3u8
-黑龙江卫视,http://bjlive.u.pthv.gitv.tv:91/live/HLJWShd-8M/live.m3u8
-吉林卫视,http://bjlive.u.pthv.gitv.tv:91/live/JLWShd-8M/live.m3u8
-辽宁卫视,http://bjlive.u.pthv.gitv.tv:91/live/LNWShd-8M/live.m3u8
-河北卫视,http://bjlive.u.pthv.gitv.tv:91/live/HeBWShd-8M/live.m3u8
-山东卫视,http://bjlive.u.pthv.gitv.tv:91/live/SDWShd-8M/live.m3u8
-湖北卫视,http://bjlive.u.pthv.gitv.tv:91/live/HuBWShd-8M/live.m3u8
-安徽卫视,http://bjlive.u.pthv.gitv.tv:91/live/AHWShd-8M/live.m3u8
-江苏卫视,http://bjlive.u.pthv.gitv.tv:91/live/JSWShd-8M/live.m3u8
-浙江卫视,http://bjlive.u.pthv.gitv.tv:91/live/ZJWShd-8M/live.m3u8
-东南卫视,http://bjlive.u.pthv.gitv.tv:91/live/DNWShd-8M/live.m3u8
-江西卫视,http://bjlive.u.pthv.gitv.tv:91/live/JXWShd-8M/live.m3u8
-贵州卫视,http://bjlive.u.pthv.gitv.tv:91/live/GZWShd-8M/live.m3u8
+浙江卫视,http://123.138.216.44:9902/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://113.57.109.48:1111/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://58.19.244.92:1111/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://113.57.109.48:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://210.22.75.86:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://222.134.245.16:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://59.173.183.242:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://58.19.244.92:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://110.189.102.15:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://58.19.244.92:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://123.138.216.44:9902/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://58.19.244.92:1111/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://113.57.109.48:1111/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://116.21.121.30:4021/udp/239.77.1.162:5146
+重庆卫视,http://123.129.70.178:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://59.173.183.242:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://113.57.109.48:1111/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://58.19.244.92:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://110.189.102.15:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://111.167.49.238:5002/rtp/225.1.2.31:5002
+深圳卫视,http://58.19.244.92:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://110.189.102.15:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://222.134.245.16:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://113.57.109.48:1111/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://113.57.109.48:1111/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://110.189.102.15:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://110.189.102.15:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://58.19.244.92:1111/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://w9394.320.io:5555/udp/239.81.0.107:4056
+贵州卫视,http://113.57.109.48:1111/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://58.19.244.92:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://123.138.216.44:9902/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://113.57.109.48:1111/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://113.57.109.48:1111/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://110.189.102.15:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://222.134.245.16:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://222.134.245.16:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://113.57.109.48:1111/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://110.189.102.15:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://222.134.245.16:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://58.19.244.92:1111/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://113.57.109.48:1111/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://113.57.109.48:1111/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://59.173.183.242:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://110.189.102.15:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://110.189.102.15:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://113.57.109.48:1111/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://110.189.102.15:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 
 
 
@@ -334,20 +364,6 @@ CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 
 体育游戏赛事,#genre#
 
-["NBA经典赛"09/27 20:00 23-24赛季经典回顾],https://api.livednow.org/tencent/100002:20251997/290353/1380760400?sign=gAAAAABm9YXvqjZ5PodGvM7jPiX1B6dv9RWshCOEcNrwXoO2zX8Dyj4w3hRi7Q4Z0ntKdgpZ4OpLlnx2E3IC6MBTrYSR3lySC_B55uZj2VD2zabMuhm4peFi222PYt24Ind--Kg33BmlBHK1Hb0Y0hm0rOns5fosyRpCojvSWHmHcV13_WIy5R3GjcArdlXy0SU1IsQ6hl0LmrmRXzlhePQS5QzfqNc_5qhQ8eZPLLpRuqAQ0FCkZdEsyIG2aAtYNtKyWkLNMcmoK9cmaRfllevlHVVfA5nh-h3RgVZXJRf1EUGXZhy8hjXCYtsOw_RGwGdT1QTkuNor5qcYSixUhDmG8SZtJcavCcfDg4rf26r4i6YPmoQfHU5d7QgsLLUqPI1uhHd0B9UY7QvMdYArZMtvy4ilAbMmLgSxE1kbivux7U0w0UP6v5A%3D
-["NBA经典赛"09/27 22:00 23-24赛季经典回顾],https://api.livednow.org/tencent/100002:20251998/290354/1380760500?sign=gAAAAABm9YXvf6XE9TQAPQ0vi8cSvn5dZOQdn8TG8XMdnobb6kWhSq2xja2YDSVmsRGz0UWyCG9EooLQ_7E5mTJz07uhUCUwMN9NH30Iv_aFs_x3-fCiF6-i9igT6gHjTbz_xgkLXBNEtDPo6UcC-pSM-8rc6cR5fDpH3t2oWXDQzLtHHPParvay4Tm3s2Yivjq73iUddI3ZEfq5bxwU-d5SQJi5kVzrz2cJogMBJuV-ZLh4KQnASRPrD7lBW2BNRftBP7KuAMD5-kTRdahfBNeHD_ISVRK93Kh7wA7z2YtvKOO3H-m-FGD_GD7S45ezJFlNwmZRy3719nKIFeW8srLGmu1Y0zcEBYTDHEYDpVBh6d6ffq-K5WGrsD5g6lStTSYGl5ptz2D9gzScXzh84havCvcWVoA0CZ_8xoNVOUTtBiLFfj2nctE%3D
-
-
-
-西甲 第8轮 巴拉多利德vs马略卡 陈扬
-https://api.livednow.org/iqiyi/live/6226912663853923?sign=gAAAAABm9Yd4GXNPBLaHtd-zuZw3y3_QWIMbs8oesI0oFjMeLZDtcrT1AzD0wBzRjoUqKrVh16nXtZBvfm2IgYdzcf88O6lQBeNqiYVg3p0Q9oIKWuVna1D_AtaE2X6VAgiXPYpQl2WCTU_HOebpYVISEAADD--_Z_J4YSZPqTw42YkEcSli85X3zjiF7Vl1EkQM7raRX0OQNNpaM4KmiaGkHk0nkbRPzUIls_i7Yi9Qx6clDHlW4xNgeVENIrxmw_SWf6nDKpcE3NSVZ9_1bjGQWPHa8Yvqef6DaCiA9e0HuBnwY6QaLw2aZGAaSxiDPNY1hWnNwTyeNKTuXxjEFDBaLetMht_NNgTqMYzgt2JxbKPhpM-IAEc%3D
-
-
-[西甲 第8轮 巴拉多利德vs马略卡 陈扬],https://api.livednow.org/iqiyi/live/6226912663853923?sign=gAAAAABm9Yd4GXNPBLaHtd-zuZw3y3_QWIMbs8oesI0oFjMeLZDtcrT1AzD0wBzRjoUqKrVh16nXtZBvfm2IgYdzcf88O6lQBeNqiYVg3p0Q9oIKWuVna1D_AtaE2X6VAgiXPYpQl2WCTU_HOebpYVISEAADD--_Z_J4YSZPqTw42YkEcSli85X3zjiF7Vl1EkQM7raRX0OQNNpaM4KmiaGkHk0nkbRPzUIls_i7Yi9Qx6clDHlW4xNgeVENIrxmw_SWf6nDKpcE3NSVZ9_1bjGQWPHa8Yvqef6DaCiA9e0HuBnwY6QaLw2aZGAaSxiDPNY1hWnNwTyeNKTuXxjEFDBaLetMht_NNgTqMYzgt2JxbKPhpM-IAEc%3D
-
-五星体育,http://117.161.12.124/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://www.17888.fun:10000/udp/239.45.3.210:5140
-
 穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 和平精英•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 梦幻西游•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
@@ -366,6 +382,18 @@ CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAu
 
 测试,#genre#
 
+凤凰中文,http://lidahai.top:8100/udp/239.93.0.162:2192
+凤凰中文,http://171.223.215.229:4000/udp/239.93.0.162:2192
+凤凰中文,http://118.112.90.117:55555/rtp/239.93.1.9:2192
+凤凰中文,http://171.213.194.196:8888/rtp/239.93.1.9:2192
+凤凰中文,http://175.3.233.173:8888/rtp/239.76.253.135:9000
+
+
+凤凰资讯,http://171.213.194.196:8888/rtp/239.93.1.4:2191
+凤凰资讯,http://175.3.233.173:8888/rtp/239.76.253.134:9000
+凤凰资讯,http://124.230.56.162:55555/rtp/239.76.253.134:9000
+凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 
 寰宇新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=7
 
