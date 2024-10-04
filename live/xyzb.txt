@@ -394,7 +394,8 @@ CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAu
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 
-翡翠台粤语,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
+翡翠台,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 无线赛马台,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
 
 
@@ -883,6 +884,7 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 湖南经视,http://iptv.bradyxu.com:18889/rtp/239.76.253.103:9000
 湖南国际,http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
 湖南爱晚,http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
+
 湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
 湖南电视剧,http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 湖南教育,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
@@ -952,17 +954,17 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 
 
 湖北,#genre#
+湖北新闻,http://58.48.37.158:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北影视,http://113.57.109.48:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北影视,http://58.48.37.158:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北生活,http://113.57.109.48:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北综合,http://183.94.191.34:888/udp/228.0.0.126:6108
-湖北公共,http://183.94.191.34:888/udp/228.0.0.124:6108
-湖北经视,http://183.94.191.34:888/udp/228.0.0.125:6108
+
+湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北生活,http://183.94.191.34:888/udp/228.0.0.204:6108
-湖北影视,http://183.94.191.34:888/udp/228.0.0.205:6108
 湖北教育,http://183.94.191.34:888/udp/228.0.0.206:6108
 垄上频道,http://183.94.191.34:888/udp/228.0.0.127:6108
-
-1,http://app.cjyun.org/video/player/stream?site_id=10091&stream_id=62
+湖北综合,http://183.94.191.34:888/udp/228.0.0.126:6108
+湖北公共,http://183.94.191.34:888/udp/228.0.0.124:6108
 
 武汉新闻综合,http://183.94.191.34:888/udp/228.0.0.162:7162
 武汉电视剧,http://183.94.191.34:888/udp/228.0.0.163:7163
