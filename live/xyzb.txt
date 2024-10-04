@@ -199,37 +199,7 @@ CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 重庆卫视,http://113.57.109.48:1111/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://113.57.109.48:1111/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 
-浙江卫视,http://ali.hlspull.yximgs.com/live/48c6492770e50faa2c6ea4ac359b2625.flv
-浙江卫视,http://ali.hlspull.yximgs.com/live/86600648a863cb96eb357dd1ab878e1c.flv
-湖南卫视,http://ali.hlspull.yximgs.com/live/14b539e5c7a33a16405a5cc41b45f52a.flv
-东南卫视,http://ali.hlspull.yximgs.com/live/5528a5cd52b911b2bffec4e0afc606da.flv
-东方卫视,http://ali.hlspull.yximgs.com/live/8c940fded3e940cfe9fdfb7f4fab0d91.flv
-北京卫视,http://ali.hlspull.yximgs.com/live/e498e8e779061319c76bd89f5608a263.flv
-重庆卫视,http://ali.hlspull.yximgs.com/live/32d189774918e396e0ecf78ca10cd70c.flv
-四川卫视,http://ali.hlspull.yximgs.com/live/627dd3cbc48e68dd10972e5f6e5cfe55.flv
-天津卫视,http://ali.hlspull.yximgs.com/live/6f0769015303ff13eb46ed3cc9659242.flv
-山东卫视,http://ali.hlspull.yximgs.com/live/4d6a8700aa8bc3e7a22f4703e4b07866.flv
-安徽卫视,http://ali.hlspull.yximgs.com/live/7583f3c06740fe736a1e0bd39c3a40ae.flv
-广东卫视,http://ali.hlspull.yximgs.com/live/06306387376924eaa6b53bcf14acf6ef.flv
-江苏卫视,http://ali.hlspull.yximgs.com/live/95e424aa6432f01abffc27a6699e5497.flv
-深圳卫视,http://ali.hlspull.yximgs.com/live/c200929addf0198d01fde8a7e0d0670c.flv
-江西卫视,http://ali.hlspull.yximgs.com/live/a9c95e75b1fbc565fd23bb85553e9cb3.flv
-河北卫视,http://ali.hlspull.yximgs.com/live/cb01002bc26d569086df1f895fd0458d.flv
-河南卫视,http://ali.hlspull.yximgs.com/live/54b787cc0986328177466bde7cd92f57.flv
-海南卫视,http://ali.hlspull.yximgs.com/live/b0d55900964a1a423ba2e0dd06b11370.flv
-湖北卫视,http://ali.hlspull.yximgs.com/live/40d82cd91556f12a63e3f9b81ca1d241.flv
-广西卫视,http://ali.hlspull.yximgs.com/live/5bfda1803aea2737b2f176f58861e9b0.flv
-贵州卫视,http://ali.hlspull.yximgs.com/live/fcc85efd5c9ae82aaa8e0b900b0a408c.flv
-黑龙江卫视,http://ali.hlspull.yximgs.com/live/4415307d80c1f8094b634f76c09a2777.flv
-辽宁卫视,http://ali.hlspull.yximgs.com/live/1a8e8d6ba572a258531b85f674e24f3d.flv
-吉林卫视,http://ali.hlspull.yximgs.com/live/c94ce7713ed0daa00dedfafdaf7be4da.flv
-山西卫视,http://ali.hlspull.yximgs.com/live/9a7a8268898c63ff666f7303039b6559.flv
-大湾区卫视,http://ali.hlspull.yximgs.com/live/8cf989860f2cce182a1ae0b6bc82a87b.flv
-内蒙古卫视,http://ali.hlspull.yximgs.com/live/fdcd9453e2a77a58a1f519a386ca7ceb.flv
-宁夏卫视,http://ali.hlspull.yximgs.com/live/20617b484740d601aaf86484baea0190.flv
-甘肃卫视,http://ali.hlspull.yximgs.com/live/d1a94f106913ede2cd3cc61451782bc7.flv
-新建卫视,http://ali.hlspull.yximgs.com/live/d5c3ccb649fcc4e06a47137a49825d67.flv
-西藏卫视,http://ali.hlspull.yximgs.com/live/dfde4bafa2f4a91c65dd7ad91af323b9.flv
+
 
 
 浙江卫视,http://123.138.216.44:9902/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -426,40 +396,9 @@ CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAu
 
 翡翠台粤语,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
 无线赛马台,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
-翡翠台粤语,http://ali.hlspull.yximgs.com/live/9cffe4a18f32ad55d9c2b83f28ff8827.flv
-翡翠台中文,http://ali.hlspull.yximgs.com/live/eb0855dcc9cb9c09fe8647c55ccacb7f.flv
-翡翠台中文,http://ali.hlspull.yximgs.com/live/618b9ba1929c4160fb6c4a682a081b3d.flv
-翡翠戏剧台,http://ali.hlspull.yximgs.com/live/2feefd6a184110f5b79fefc3410d46ee.flv
-翡翠娱乐台,http://ali.hlspull.yximgs.com/live/105a041a90ec8dc860248c11f9986aa0.flv
-TVBplus,http://ali.hlspull.yximgs.com/live/ded083ddb982d48f2c7c08c35f8cd2da.flv
-无线新闻台,http://ali.hlspull.yximgs.com/live/8eb9849531d072c1f24ce7cd13507eee.flv
-无线新闻台,http://ali.hlspull.yximgs.com/live/006b3cc8b2f4bdaf52673c88dccb9c6b.flv
-TVB明珠台,http://ali.hlspull.yximgs.com/live/f7b1d0980b51fb184a745e9721b6961e.flv
-TVB明珠台,http://ali.hlspull.yximgs.com/live/0d722155df7ed40d9707ee7b77957ebc.flv
-明珠戏剧台,http://ali.hlspull.yximgs.com/live/3d9cace574775252fe9264053e531ccd.flv
-TVB娱乐台,http://ali.hlspull.yximgs.com/live/8af7b06012d259599a1ac61dd85c142e.flv
-TVB娱乐台,http://ali.hlspull.yximgs.com/live/Kq04a41Z6wVSeYaeOXcDA10ORiQAkZ9w.flv
 
-TVB生活台,http://ali.hlspull.yximgs.com/live/5915c73acc12b54e638a79c8917a6554.flv
-星河频道,http://ali.hlspull.yximgs.com/live/cea6cd4ab6c91cfbcd494e8f8d0a8794.flv
-星河频道,http://ali.hlspull.yximgs.com/live/e8d0411ecefc60b80050c1baa6800190.flv
-TVB1,http://ali.hlspull.yximgs.com/live/752764791c12dc9123b7ccc4c807be58.flv
-POP电影台,http://ali.hlspull.yximgs.com/live/116d5b5ff2644e968725e818d078ff49.flv
-POP电影台,http://ali.hlspull.yximgs.com/live/a0edd8be3371a6a965cb35a85cf8f660.flv
-爆谷台,http://ali.hlspull.yximgs.com/live/5fc66018709ef1ede93ce9bbc0a637fa.flv
-爆谷电影台,http://ali.hlspull.yximgs.com/live/5e639e4d7aee72be440d03a8d0e5a65f.flv
-爆谷电影台,http://ali.hlspull.yximgs.com/live/5ed35056e766b2112f16942e74e61cb1.flv
-NOW新闻台,http://ali.hlspull.yximgs.com/live/e35d08b927918805ce7854e81eae490d.flv
-NOW新闻台,http://ali.hlspull.yximgs.com/live/4daba7a2642583a7663cb18ae342a1a7.flv
 
-NOW华剧台,http://ali.hlspull.yximgs.com/live/c7a48ac6b3ece119a3605da35b9ad78e.flv
-NOW华剧台,http://ali.hlspull.yximgs.com/live/18945ebc47bad85dd600b41ebab42040.flv
-NOW戏剧台,http://ali.hlspull.yximgs.com/live/9ff195517b4ede5f7adf2b993186bffd.flv
-NOW直播台,http://ali.hlspull.yximgs.com/live/54c0da5a759a9d0df41f46b9a4966edd.flv
 
-NOW财经台,http://ali.hlspull.yximgs.com/live/b0efb62c5dfb134538b5e384e35f7b1b.flv
-
-澳门莲花台,http://ali.hlspull.yximgs.com/live/229940f2843140d1ba1f46a7a011dab9.flv
 
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
