@@ -449,7 +449,7 @@ TVBS精彩台,http://litv.zapi.us.kg/?id=4gtv-4gtv067
 ACM电影,http://61.221.215.25:8800/hls/43/index.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
