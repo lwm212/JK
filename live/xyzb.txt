@@ -24,32 +24,6 @@ CCTV17,https://api.livednow.org//migu/673168256?sign=gAAAAABm5t8YbiReEja19tXEgKE
 CCTV-4欧洲,https://api.livednow.org//migu/608807419?sign=gAAAAABm5t8Y_a7WTTTiFH1-MVPTvgHx5kV722CfxkU1QeXDVBfWvNOna63lZeBQKqEuJu_LmxkFPqbEnaZ-pYx7xXItTu9_zjTsrnmHesaLY-vaGAycKAfKrp7dosljWwVDBpOhprH313eGNmVzie7_LMx7jHH7T9h9JrT436RxdcR3GRpuh7g3bdO9r9lG4kloIYrYCuaLJ1bq2h6V54Ssq5XkqELqTg%3D%3D
 CCTV-4美洲,https://api.livednow.org//migu/608807416?sign=gAAAAABm5t8YT-WfRMfcaHyS0YVKgkPvTpz9DkTomNRQ5V-R6vcNISk9WTbKaxe0Akzc4mz3G-ue4x34Wbu2CET6SFtvD28nJl0fNWbw81K5OUFWyOHQYZsvL3GJOdcxD5sYT3CiHoTNUayRxDwY8LZ8U3BRUAs59lhN3HaqLZ7rIXgSgERzCSVIQbqbDVTjsPuHuRLvm37vlFgtHaPLyW4NDaOkwact-Q%3D%3D
 
-CCTV1,http://ali.hlspull.yximgs.com/live/c3a9f9ef97263f390bef0932c7a7f2a0.flv
-CCTV1,http://ali.hlspull.yximgs.com/live/d4f9c8c5e1c78d9027b5ad9a610ba7b5.flv
-CCTV2,http://ali.hlspull.yximgs.com/live/b1754f9402d9811235a12d235040fc36.flv
-CCTV2,http://ali.hlspull.yximgs.com/live/34d37d885af7de31adf72156e813792f.flv
-CCTV3,http://ali.hlspull.yximgs.com/live/4fd4f95452aa14972c866fd3610e592f.flv
-CCTV3,http://ali.hlspull.yximgs.com/live/0146730879274abe3a24139331466439.flv
-CCTV4,http://ali.hlspull.yximgs.com/live/4e58329c1ba0280caada086e4aff0e10.flv
-CCTV4,http://ali.hlspull.yximgs.com/live/75772b1794f4c158f81232c620fe254c.flv
-CCTV5,http://ali.hlspull.yximgs.com/live/ab97a79a26a49e67964901a8677b59fe.flv
-CCTV5,http://ali.hlspull.yximgs.com/live/64dd2bc1f8b2a688dfdaec81b82f23a3.flv
-CCTV5+,http://113.57.109.48:1111/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://ali.hlspull.yximgs.com/live/149cab346aad7edb340fd0c8009d86ba.flv
-CCTV7,http://ali.hlspull.yximgs.com/live/392fc6f1f6fdb174c436dfa061cbaeb3.flv
-CCTV8,http://ali.hlspull.yximgs.com/live/9c855012e7d067457054af3908ccb959.flv
-CCTV9,http://ali.hlspull.yximgs.com/live/ba98f3856adbdb70f53ff8e66bef3758.flv
-CCTV10,http://ali.hlspull.yximgs.com/live/df75734238b6b31d97787baf0742cbc0.flv
-CCTV11,http://ali.hlspull.yximgs.com/live/687e1e1a7798200698536875ce3d7c2b.flv
-CCTV12,http://ali.hlspull.yximgs.com/live/173c6730716eb3b64573afe1e4d02b75.flv
-CCTV13,http://ali.hlspull.yximgs.com/live/c19e7db2315a09fadc05fd8ae1f81935.flv
-CCTV14,http://ali.hlspull.yximgs.com/live/fb9b2f0f76f41797b8aec4c839aab8e8.flv
-CCTV15,http://ali.hlspull.yximgs.com/live/1f691682fa387c59c2fab66ad6dfdc76.flv
-CCTV16,http://ali.hlspull.yximgs.com/live/37a024786da097ccda6aa7712f1b2e74.flv
-CCTV17,http://ali.hlspull.yximgs.com/live/f828d903e319801869069c225567a6ba.flv
-CCTV娱乐,http://ali.hlspull.yximgs.com/live/0a76cd6510899ea083873fb5811d43e1.flv
-
-
 
 CCTV1,http://113.57.109.48:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://113.57.109.48:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
