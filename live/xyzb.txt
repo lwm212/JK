@@ -175,15 +175,6 @@ CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 
 卫视频道,#genre#
 
-CCTV1,http://ali.hlspull.yximgs.com/live/c3a9f9ef97263f390bef0932c7a7f2a0.flv
-CCTV1,http://ali.hlspull.yximgs.com/live/d4f9c8c5e1c78d9027b5ad9a610ba7b5.flv
-
-CCTV2,http://ali.hlspull.yximgs.com/live/b1754f9402d9811235a12d235040fc36.flv
-CCTV2,http://ali.hlspull.yximgs.com/live/34d37d885af7de31adf72156e813792f.flv
-
-
-CCTV3,http://ali.hlspull.yximgs.com/live/4fd4f95452aa14972c866fd3610e592f.flv
-CCTV3,http://ali.hlspull.yximgs.com/live/0146730879274abe3a24139331466439.flv
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://113.57.109.48:1111/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
