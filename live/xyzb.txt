@@ -441,9 +441,15 @@ CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAu
 
 
 测试,#genre#
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://ali.hlspull.yximgs.com/live/45f850bec3ba1241d38467e9d833de24.flv
+凤凰资讯,http://171.213.194.196:8888/rtp/239.93.1.4:2191
+凤凰资讯,http://175.3.233.173:8888/rtp/239.76.253.134:9000
+凤凰资讯,http://124.230.56.162:55555/rtp/239.76.253.134:9000
+凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰卫视,http://lidahai.top:8100/udp/239.93.0.162:2192
@@ -457,8 +463,8 @@ CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAu
 翡翠台,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 无线赛马台,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
-
-纬来体育,https://edge.yescdn1.buzz/live/videoland-sports.m3u8?token=uUqMAFGr-Lhp6Mp5-cCq2w&expires=1728119399
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=2&hq
+华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 
 
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
@@ -467,10 +473,7 @@ CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAu
 
 
 
-凤凰资讯,http://171.213.194.196:8888/rtp/239.93.1.4:2191
-凤凰资讯,http://175.3.233.173:8888/rtp/239.76.253.134:9000
-凤凰资讯,http://124.230.56.162:55555/rtp/239.76.253.134:9000
-凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 天映频道,http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv
 天映经典,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv
@@ -479,7 +482,7 @@ CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAu
 中天新闻,http://ali.hlspull.yximgs.com/live/0f782e3450d93c69da4c68a2de638d32.flv
 中天新闻+,http://ali.hlspull.yximgs.com/live/115d93066d6da7192f2c0a55f25918e0.flv
 中天亚洲,http://ali.hlspull.yximgs.com/live/3619df812a7d98a787054f16ad713f75.flv
-
+东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 寰宇新闻,http://ali.hlspull.yximgs.com/live/tboxprophxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxfdqfhyxw.flv
 非凡新闻,http://ali.hlspull.yximgs.com/live/tboxprosqtnfqqoqdcbfcxvqfuuqqweqqqsqyuhhdqsqhqynffxw.flv
 三立新闻,http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv
@@ -487,7 +490,12 @@ CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAu
 壹新闻,http://ali.hlspull.yximgs.com/live/tboxpromqfoyqvqsdvbnweqtquqqxqcvfqqsqfhfqddqqlhtbchyxw.flv
 民视新闻,http://ali.hlspull.yximgs.com/live/tboxprocnbvqfhdquqqvcbnqftuqscxqfqeqyhqqvqfmsxw.flv
 台视新闻,http://ali.hlspull.yximgs.com/live/tboxproncqqtqqudtqlqcvbcvntqqqsfwetqfvcbcxvdqbqfflvcqtsxw.flv
-
+TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
+TVBS闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv073
+中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
+民视台湾,http://litv.zapi.us.kg/?id=4gtv-4gtv001
+华视新闻台,http://103.193.151.158:8500/live.m3u8?c=7
+公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
