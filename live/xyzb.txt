@@ -1692,13 +1692,11 @@ https://4grau1mtugazdoqjqgr4uqmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcd
 吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8?k=85de9a3767a10191bfcc465172b26f2e&t=1728229516
 吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8?k=00135a5340c72ca48effb89f2df743dc&t=1728229516
 吉林综艺,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8?k=6eb95f8a8904f500dac78ec0f5166a86&t=1728229516
-
-长春综合,http://p2bj.vzan.com/slowlive/802875241766623770/live.m3u8
-长影频道,http://36.49.53.3:8800/rtp/239.37.0.125:5540
-长春经济,http://p2bj.vzan.com/slowlive/640327555422230717/live.m3u8
-长春市民,http://p2bj.vzan.com/slowlive/867238310848961956/live.m3u8
-长春汽车,http://p2bj.vzan.com/slowlive/219785293160236092/live.m3u8
-长春文旅体育,http://p2bj.vzan.com/slowlive/858045244441531955/live.m3u8
+长春综合,https://p2bj.vzan.com/slowlive/662567539514013385/live.m3u8?zbid=1484002802&tpid=513375349
+长春经济,https://p2bj.vzan.com/slowlive/007128573075477410/live.m3u8?zbid=1484002802&tpid=1657855242
+长春市民,https://p2bj.vzan.com/slowlive/474639937465974818/live.m3u8?zbid=1484002802&tpid=1280250347
+长春汽车,https://p2bj.vzan.com/slowlive/685794283924609147/live.m3u8?zbid=1484002802&tpid=1699635981
+长春文旅体育,https://p2bj.vzan.com/slowlive/950305825453158091/live.m3u8?zbid=1484002802&tpid=1916430267
 延边-1,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
 
 
