@@ -1336,10 +1336,11 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 
 广西移动,https://hlscdn.liangtv.cn/live/b6cea70bfad24970aaa2256a3c340ad4/0a79a8e5f94641e583d1872ef7bed2bf-1.m3u8
 
-南宁影视,http://202.103.213.43:8888/udp/239.81.0.128:4056
-南宁新闻,http://202.103.213.43:8888/udp/239.81.0.241:4056
+南宁文旅,https://e98b8c6507d7ed33371fcfc496f394a4.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5affb4a554e84f0e84b54b224d6558bb
+南宁影视,https://e98b8c6507d7ed33371fcfc496f394a4.livehwc3.cn/hls.nntv.cn/nnlive/YSYL_244.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=
+南宁新闻,https://e98b8c6507d7ed33371fcfc496f394a4.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0a3eb3eb53fc3fb213072a60e47af463
 南宁新闻,http://202.103.213.43:8888/udp/239.81.0.126:4056
-南宁公共,http://202.103.213.43:8888/udp/239.81.0.129:4056
+南宁公共,https://e98b8c6507d7ed33371fcfc496f394a4.livehwc3.cn/hls.nntv.cn/nnlive/GGPD_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=
 南宁都市,http://202.103.213.43:8888/udp/239.81.0.127:4056
 南宁新闻综合,http://e98b8c6507d7ed33371fcfc496f394a4.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=17be0761e7e1098c264e209276fd30b6
 南宁影视娱乐,http://e98b8c6507d7ed33371fcfc496f394a4.livehwc3.cn/hls.nntv.cn/nnlive/YSYL_244.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fd9b61429984606da47a59a6252f608e
