@@ -906,13 +906,15 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 云浮文旅,http://113.74.172.130:4000/udp/239.77.0.254:5146
 云浮文旅,http://livestream.oeeee.com/slive/17807.m3u8
 江西,#genre#
-江西卫视,http://182.84.232.36:9999/udp/239.252.220.63:5140
-江西二套,http://182.84.232.36:9999/udp/239.252.220.238:5140
-江西三套,http://182.84.232.36:9999/udp/239.252.219.173:5140
-江西五套,http://182.84.232.36:9999/udp/239.252.220.102:5140
-江西六套,http://182.84.232.36:9999/udp/239.252.219.113:5140
-江西七套,http://182.84.232.36:9999/udp/239.252.220.100:5140
-江西教育,http://182.84.232.36:9999/udp/239.252.219.115:5140
+江西卫视,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=172822066117293&token=02f2d106e0e0295358fc87cbcf5c676b
+江西二套,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=172822073318821&token=d26856fecca37b000b686ea3e8bc93d4
+江西三套,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8?source=pc&t=172822075095072&token=dec3466dc016d5d6ae39d95f639f24e6
+江西四套,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?source=pc&t=172822077199699&token=bb210bcaa64b28e8e4ac5a8cf893462b
+江西五套,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8?source=pc&t=172822079882306&token=cf2d5c0833e5fdb88dbb66a62fe187be
+江西六套,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?source=pc&t=172822081547861&token=ce215c1a8e08e20d6fd80045d3b48f01
+江西七套,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?source=pc&t=172822083327142&token=4d699b356086bdcaa2ec2af43c219c94
+江西八套,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8?source=pc&t=172822085540677&token=71cebf71df38819732b2bb84269417da
+陶瓷频道,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8?source=pc&t=172822088631238&token=f053cbde96c2de814b2654f73f057d0b
 湖南,#genre#
 
 湖南卫视（超高码率）,http://iptv.bradyxu.com:18889/rtp/239.76.253.100:9000
