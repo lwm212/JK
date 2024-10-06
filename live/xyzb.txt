@@ -62,26 +62,43 @@ CCTV17,https://api.livednow.org/migu/673168256?sign=gAAAAABmwyZNAyaJ1l1qmt_7Io0D
 
 
 
-CCTV1,http://113.57.109.48:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://113.57.109.48:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://113.57.109.48:1111/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://113.57.109.48:1111/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://113.57.109.48:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://113.57.109.48:1111/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://113.57.109.48:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://113.57.109.48:1111/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://113.57.109.48:1111/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://113.57.109.48:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://113.57.109.48:1111/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://113.57.109.48:1111/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://113.57.109.48:1111/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://113.57.109.48:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://113.57.109.48:1111/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://113.57.109.48:1111/tsfile/live/1000_1.m3u8?key=txiptv
+CCTV2,http://113.57.109.48:1111/tsfile/live/1001_1.m3u8?key=txiptv
+CCTV3,http://113.57.109.48:1111/tsfile/live/1002_1.m3u8?key=txiptv
+CCTV4,http://113.57.109.48:1111/tsfile/live/1003_1.m3u8?key=txiptv
+CCTV5,http://113.57.109.48:1111/tsfile/live/1004_1.m3u8?key=txiptv
+CCTV5+,http://113.57.109.48:1111/tsfile/live/1016_1.m3u8?key=txiptv
+CCTV6,http://113.57.109.48:1111/tsfile/live/1005_1.m3u8?key=txiptv
+CCTV7,http://113.57.109.48:1111/tsfile/live/1006_1.m3u8?key=txiptv
+CCTV8,http://113.57.109.48:1111/tsfile/live/1007_1.m3u8?key=txiptv
+CCTV9,http://113.57.109.48:1111/tsfile/live/1008_1.m3u8?key=txiptv
+CCTV10,http://113.57.109.48:1111/tsfile/live/1009_1.m3u8?key=txiptv
+CCTV11,http://113.57.109.48:1111/tsfile/live/1010_1.m3u8?key=txiptv
+CCTV12,http://113.57.109.48:1111/tsfile/live/1011_1.m3u8?key=txiptv
+CCTV13,http://113.57.109.48:1111/tsfile/live/1012_1.m3u8?key=txiptv
+CCTV14,http://113.57.109.48:1111/tsfile/live/1013_1.m3u8?key=txiptv
 CCTV15,http://cg0.hunancatv.cn:9090/live/CCTV-15_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604330647&srchost=172.16.22.158:8060&gid=wVe7da5Clx2OXnh1HZiivw%3D%3D
 CCTV16,http://113.57.109.48:1111/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://113.57.109.48:1111/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 
+CCTV1,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2,http://222.134.245.16:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3,http://222.134.245.16:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV4,http://222.134.245.16:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV5,http://222.134.245.16:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV5+,http://222.134.245.16:9901/tsfile/live/0016_1.m3u8?key=txiptv
+CCTV6,http://222.134.245.16:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV7,http://222.134.245.16:9901/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV8,http://222.134.245.16:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV9,http://222.134.245.16:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10,http://222.134.245.16:9901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV11,http://222.134.245.16:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV12,http://222.134.245.16:9901/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV13,http://222.134.245.16:9901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV14,http://222.134.245.16:9901/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv
 
+CCTV17,http://222.134.245.16:9901/tsfile/live/0019_1.m3u8?key=txiptv
 
 
 
@@ -184,18 +201,7 @@ CHC家庭影院,http://113.57.109.48:1111/tsfile/live/1044_1.m3u8?key=txiptv&pla
 CHC家庭影院,https://livednow.com/migu/644368373?sign=gAAAAABml7qmeyTy29cknAK94j8hHJXWivvg2AxBVs9ixKzkevJqJfTEzTgxGBjUdjuzkq_FBiGVCTD1lPDRVrOySvlxCy_OcURylfBXckr-5tBhFu1LnTfVeuOMzQ1P8PlsbXJdWaxrJ1iy2KNZgab2VNu1gYvpcuN8RBEoG9YMf1wlUvlQCIkoq5U9bmcdDSeLh4Kcmz9wU1xNHkm8uOF17dhK0Pf5Xg%3D%3D
 CHC影迷电影,http://113.57.109.48:1111/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV女性时尚高清,http://1.70.32.177:8082/udp/239.1.1.89:8089
-CCTV电视指南高清,http://1.70.32.177:8082/udp/239.1.1.90:8090
-CCTV央视文化精品高清,http://1.70.32.177:8082/udp/239.1.1.91:8091
-CCTV风云剧场高清,http://1.70.32.177:8082/udp/239.1.1.93:8093
-CCTV第一剧场高清,http://1.70.32.177:8082/udp/239.1.1.94:8094
-CCTV怀旧剧场高请,http://1.70.32.177:8082/udp/239.1.1.95:8095
-CCTV风云音乐高请,http://1.70.32.177:8082/udp/239.1.1.96:8096
-CCTV兵器科技高清,http://1.70.32.177:8082/udp/239.1.1.97:8097
-CCTV世界地理高清,http://1.70.32.177:8082/udp/239.1.1.99:8099
-CCTV央视台球高清,http://1.70.32.177:8082/udp/239.1.1.100:8100
-CCTV风云足球高清,http://1.70.32.177:8082/udp/239.1.1.101:8101
-CCTV高尔夫网球高清,http://1.70.32.177:8082/udp/239.1.1.102:8102
+
 
 
 
