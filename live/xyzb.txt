@@ -1395,7 +1395,7 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 山东农科,https://3grau1mtugazdoqjqgr4u1mmuqt3gkampptwzc3jugy3nh4mtpfs8k.wslivehls.com/streamlive302.iqilu.com/21/9a8d90f532634034896e1e1c84cb47d8/playlist.m3u8?n=fcaff13c46fdc840ebce4a363e8e08dc&m=1728228354&wsSession=d7213ac587695ce813946976-172822835467552&wsIPSercert=5f8c735250cc156d77c7e99f9179b6e5&wsiphost=local&wsBindIP=1
 山东少儿,https://3grau1mtugazdoqjqgr4uk.wslivehls.com/clivealone302.iqilu.com/291/caffbd9c4ae445d086cfe94302442d30/playlist.m3u8?auth=0d34504d506f6ed357cdc14508d743ed&timestamp=1728228441489&wsSession=dee839c1918ea1e7d69831e6-172822844153641&wsIPSercert=5f8c735250cc156d77c7e99f9179b6e5&wsiphost=local&wsBindIP=1
 山东文旅,https://3grau1mtugazdoqjqgr4uommuqt3gkampptwzc3jugy3nh4mtpfs8k.wslivehls.com/streamlive302.iqilu.com/21/94b705acfad24ca9899a3b771cce09f4/playlist.m3u8?n=2826f29a85362d950254eb0c1e6811e4&m=1728228396&wsSession=d01febb8246da84ec6f4739d-172822839693976&wsIPSercert=5f8c735250cc156d77c7e99f9179b6e5&wsiphost=local&wsBindIP=1
-
+济南新闻,https://quehuamvc.ijntv.cn/loopvideo/03905444d565e82c4eda566afa18608e.m3u8?tk=59b7a953919bf1e99becf39fceb92db8&t=1728228745
 青岛1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 青岛2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 青岛3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
