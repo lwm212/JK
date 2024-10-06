@@ -1685,14 +1685,15 @@ https://4grau1mtugazdoqjqgr4uqmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcd
 罗甸综合,http://pili-live-rtmp.210.i2863.com/i2863-210/live_210_050252.m3u8
 湄潭综合,http://p2.weizan.cn/1635496647/663562647402642026/live.m3u8
 吉林,#genre#
-吉林卫视,http://119.54.0.212:9999/hls/18/index.m3u8
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8?k=a5c155a17d386d0b6b9011e0a8fb8e88&t=1728229516
+吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8?k=83f61f976941eb907df78ddaa76da46e&t=1728229516
 吉林新闻,http://stream13.jlntv.cn/ggpdhd/sd/live.m3u8?_upt=70e249bb1721492335
 
 吉林影视,http://stream13.jlntv.cn/yspdhd/sd/live.m3u8?_upt=bffbab981721492486
 
 吉林生活,http://stream12.jlntv.cn/shpdhd/sd/live.m3u8?_upt=8c8a0a151721492425
 
-吉林都市,http://stream12.jlntv.cn/dspdhd/sd/live.m3u8?_upt=e90a673b1721492215
+
 
 吉林乡村,http://stream13.jlntv.cn/xcpdhd/sd/live.m3u8?_upt=745dc36d1721492399
 
