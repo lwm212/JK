@@ -1660,12 +1660,12 @@ https://4grau1mtugazdoqjqgr4uqmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcd
 农林卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 
 山西,#genre#
-山西卫视高清,http://1.70.32.177:8082/udp/239.1.1.1:8001
-黄河电视台高清,http://1.70.32.177:8082/udp/239.1.1.2:8002
-山西经济与科技高清,http://1.70.32.177:8082/udp/239.1.1.3:8003
-山西影视高清,http://1.70.32.177:8082/udp/239.1.1.4:8004
-山西社会与法治高清,http://1.70.32.177:8082/udp/239.1.1.5:8005
-山西文体生活高清,http://1.70.32.177:8082/udp/239.1.1.6:8006
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/g2sqgR0.m3u8
+黄河电视台,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/f2tlge0.m3u8
+山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/7714g00.m3u8
+山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/q6iMg50.m3u8
+山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/v1dpgy0.m3u8
+山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/koagm0y.m3u8
 晋中综合高清,http://1.70.32.177:8082/udp/239.1.1.120:8120
 晋中公共高清,http://1.70.32.177:8082/udp/239.1.1.121:8121
 运城1台高清,http://1.70.32.177:8082/udp/239.1.1.123:8123
