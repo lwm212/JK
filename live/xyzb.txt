@@ -1095,6 +1095,14 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 随州广水新闻,http://guangshui-live21.cjyun.org/10146/s10146-GSXW.m3u8?auth_key=1704038399-0-0-5c0cb2e7b7e0bc9c67777330c96507ad
 石首综合,http://p8.vzan.com/slowlive/622923977748489779/live.m3u8
 江苏,#genre#
+江苏卫视,https://live-hls.jstv.com/livezhuzhan/jsws.m3u8?upt=278df0341728219410
+江苏新闻,https://live-hls.jstv.com/livezhuzhan/jsgg.m3u8?upt=428210f51728219569
+江苏城市,https://live-hls.jstv.com/livezhuzhan/jscs.m3u8?upt=87446c231728219500
+江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=246da3be1728219546
+江苏综艺,https://live-hls.jstv.com/livezhuzhan/jszy.m3u8?upt=e36391121728219516
+江苏教育,https://live-hls.jstv.com/livezhuzhan/jsjy.m3u8?upt=d44eae701728219612
+江苏体育,https://live-hls.jstv.com/livezhuzhan/jsty.m3u8?upt=5a2ce53e1728219629
+优漫卡通,https://live-hls.jstv.com/livezhuzhan/ymkt.m3u8?upt=6146137a1728219654
 南京新闻综合频道,https://api.livednow.org//migu/838109047?sign=gAAAAABmWcv_yK7X5Zm3AjK4LK1OcsmCMGJiDGXpv6ukoBO01V0A24WnTTPVL3FQQaRSFLqaAZWD9lSPLvKHMhlEFpPXQ2Rn3ktC18Qlp4sENKy7SVhjfL8bchmGX3N_h-XQbgBfewUsRm6J6TPsDVzocxfeeHuONyMbR623HhfZ1uLK3ibzNuXy_flv1ZA9sFtFubmknG7fc2qC_gr0QyJb-cMD0j5jkw%3D%3D
 南京教科频道,https://api.livednow.org//migu/838153729?sign=gAAAAABmWcv_qbHjUJ1mXy3qeOXnyDS-SX0CpKD9nTldIuUdGVbE2IOZylKFQ5ppCVPHADL1LSUl4GIJGAuIWHPblKRQSxY3MSAiAodGqBdlfuWX6QgsnfxnxuJaKiSc1qhN89zcQetUlozFlDgjjMCNrx0tNL7vk9NKh4fnauTbRFb7Otkq3aecVK3z4e3Bhn_CT6qbEIeY4iPBA1neKgjCI8sE72N5yg%3D%3D
 
