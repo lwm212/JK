@@ -97,8 +97,15 @@ CCTV12,http://222.134.245.16:9901/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV13,http://222.134.245.16:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV14,http://222.134.245.16:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv
-
 CCTV17,http://222.134.245.16:9901/tsfile/live/0019_1.m3u8?key=txiptv
+
+CCTV1,http://221.12.3.18:8980/live/cctv1/index.m3u8
+CCTV1,http://123.182.60.29:9002/hls/1/index.m3u8
+
+CCTV2,http://110.189.102.15:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3,http://111.9.163.109:9901/tsfile/live/live_3_1_18997458.ts?key=txiptv&key2=18997458
+CCTV3,http://218.3.138.25:1111/tsfile/live/live_1002_1_6670208.ts?key=txiptv&key2=6670208
+CCTV4,http://110.189.102.15:9901/tsfile/live/0004_1.m3u8?key=txiptv
 
 
 
