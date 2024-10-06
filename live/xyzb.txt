@@ -895,6 +895,10 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 江西七套,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?source=pc&t=172822083327142&token=4d699b356086bdcaa2ec2af43c219c94
 江西八套,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8?source=pc&t=172822085540677&token=71cebf71df38819732b2bb84269417da
 陶瓷频道,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8?source=pc&t=172822088631238&token=f053cbde96c2de814b2654f73f057d0b
+
+南昌新闻,https://live.nctv.net.cn/live/nctv1.flv?txSecret=69ce56c0836b56841d0139210ec21ef1&txTime=6702B5A5
+南昌都市,https://live.nctv.net.cn/live/nctv2.flv?txSecret=5dc820ca9651232334e2dad67f7eb64d&txTime=6702B5A5
+南昌咨讯,https://live.nctv.net.cn/live/nctv3.flv?txSecret=eaa1e3484fddc0591598e7d685f1d481&txTime=6702B5A5
 湖南,#genre#
 
 湖南卫视（超高码率）,http://iptv.bradyxu.com:18889/rtp/239.76.253.100:9000
