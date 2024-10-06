@@ -1775,7 +1775,7 @@ h海南少儿,ttp://live3.hnntv.cn/srs/tv/sepd.m3u8
 新疆少儿,http://lu1.cc/itv/xjtv/xjyx1.php?id=xjse
 兵团卫视,http://hz752.love:63/live_60/astv.php?id=btws
 内蒙古,#genre#
-内蒙古综合,http://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+内蒙古综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 内蒙古经济,http://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 内蒙古少儿,http://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 内蒙古娱乐,http://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
