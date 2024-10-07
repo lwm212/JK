@@ -1,9 +1,7 @@
 import { Crypto, _ } from 'assets://js/lib/cat.js'
 
 let host = '';
-let header = {
-    'User-Agent': 'okhttp/3.12.11'
-};
+
 let siteKey = '';
 let siteType = '';
 let siteJx = '';
