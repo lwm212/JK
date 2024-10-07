@@ -1512,36 +1512,14 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 隆德电视台,http://livepgc.cmc.ningxiahuangheyun.com/pgc/8d355b3d74e80a3136d96ae488d7062d.m3u8
 隆德电视台,http://livepgc.cmc.ningxiahuangheyun.com/pgc/8d355b3d74e80a3136d96ae488d7062d.flv
 四川,#genre#
-四川经济,http://115.238.155.197/live3.ngaacdn.sc96655.com/live/SCTV-2-H265_4000.m3u8
+峨眉电影,http://110.189.102.15:9901/tsfile/live/0118_1.m3u8?key=txiptv
+四川新闻,http://110.189.102.15:9901/tsfile/live/0117_1.m3u8?key=txiptv
+四川文艺,http://110.189.102.15:9901/tsfile/live/0137_1.m3u8?key=txiptv
+峨眉综合,http://110.189.102.15:9901/tsfile/live/0113_1.m3u8?key=txiptv
+乐山综合,http://110.189.102.15:9901/tsfile/live/0116_1.m3u8?key=txiptv
 
-四川新闻,http://115.238.155.197/live3.ngaacdn.sc96655.com/live/SCTV-4H265_4000.m3u8
 
-SCTV科教高清,http://115.238.155.197/live3.ngaacdn.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
 
-四川公共乡村,http://115.238.155.197/live3.ngaacdn.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
-
-四川妇女儿童,http://115.238.155.197/live3.ngaacdn.sc96655.com/live/SCTV-7-_4000.m3u8
-
-四川影视文艺,http://115.238.155.197/live3.ngaacdn.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
-
-四川文化旅游,http://115.238.155.197/live3.ngaacdn.sc96655.com/live/SCTV-3-H265_4000.m3u8
-
-峨眉电影,http://115.238.155.197/live3.ngaacdn.sc96655.com/live/emdygqH265_4000.m3u8
-
-康巴卫视,http://115.238.155.197/live3.ngaacdn.sc96655.com/live/kbwsH264_2000.m3u8
-
-CDTV1,http://119.36.89.156/cdn1.cditv.cn/cdtv1high/CDTV1High.flv/playlist.m3u8?wsSecret=82837e8578990593e506d91f57033eb4&wsTime=669bc9da&wsSession=dded47361cc988205502a15a-172148578282307&wsIPSercert=cd01785277f54f865ff027dffa398339&wsiphost=local&wsBindIP=1
-
-CDTV2,http://122.189.225.151/cdn1.cditv.cn/cdtv2high/CDTV2High.flv/playlist.m3u8?wsSecret=51e256070007d36836eb98088ca79a88&wsTime=669bca1a&wsSession=eb18a930ad9db4c449161dd8-172148585747557&wsIPSercert=cd01785277f54f865ff027dffa398339&wsiphost=local&wsBindIP=1
-
-CDTV3,http://cdn1.cditv.cn/cdtv3high/CDTV3High.flv/playlist.m3u8?wsSecret=a311af7bd838b54bf9d0dd1ac1f9cd73&wsTime=669bca65
-
-CDTV4,http://119.4.54.112:8848/udp/239.93.0.19:1250
-CDTV5高清,http://119.4.54.112:8848/udp/239.93.1.231:5140
-CDTV6,http://119.4.54.112:8848/udp/239.93.0.21:1251
-CDTV8高清,http://119.4.54.112:8848/udp/239.93.0.22:1252
-成都体育高清,http://119.4.54.112:8848/udp/239.93.0.224:1281
-睛彩四川,http://119.4.54.112:8848/udp/239.93.0.126:5140
 安徽,#genre#
 安徽经济生活,https://live4.ahtv.cn/jjsh1/hd/live.m3u8?_upt=2f97fe501728227268
 安徽影视频道,https://live4.ahtv.cn/yspd1/hd/live.m3u8?_upt=6b45492c1728227358
