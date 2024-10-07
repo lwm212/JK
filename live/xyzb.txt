@@ -811,7 +811,8 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 云浮文旅,http://113.74.172.130:4000/udp/239.77.0.254:5146
 云浮文旅,http://livestream.oeeee.com/slive/17807.m3u8
 江西,#genre#
-江西卫视,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=172822066117293&token=02f2d106e0e0295358fc87cbcf5c676b
+江西卫视,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=172830317019689&token=10d7c9f65286c94c00d7de52453369b7
+
 江西二套,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=172822073318821&token=d26856fecca37b000b686ea3e8bc93d4
 江西三套,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8?source=pc&t=172822075095072&token=dec3466dc016d5d6ae39d95f639f24e6
 江西四套,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?source=pc&t=172822077199699&token=bb210bcaa64b28e8e4ac5a8cf893462b
