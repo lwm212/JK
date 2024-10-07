@@ -1492,8 +1492,10 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 马鞍山公共频道,http://117.66.254.58:2000/rtp/238.1.78.77:6488
 安庆新闻综合,http://117.66.254.58:2000/rtp/238.1.78.117:6808
 安庆公共频道,http://117.66.254.58:2000/rtp/238.1.78.118:6816
-芜湖生活频道,http://117.66.254.58:2000/rtp/238.1.78.152:7088
-芜湖教育频道,http://117.66.254.58:2000/rtp/238.1.78.167:7208
+
+芜湖新闻频道,https://live3.wuhunews.cn/news/sd/live.m3u8
+芜湖生活频道,https://live3.wuhunews.cn/channel3/sd/live.m3u8
+
 河南,#genre#
 河南卫视,http://61.52.156.33:808/hls/16/index.m3u8
 河南新闻,https://4grau1mtugazdoqjqgr5drmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=38b35ada20299ce701fefe84f9d48934&wsTime=1728229819&wsSession=4070be435a2cb8c46b283d82-172821545532060&wsIPSercert=5f8c735250cc156d77c7e99f9179b6e5&wsiphost=local&wsBindIP=1
