@@ -1668,13 +1668,7 @@ https://4grau1mtugazdoqjqgr4uqmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcd
 罗甸综合,http://pili-live-rtmp.210.i2863.com/i2863-210/live_210_050252.m3u8
 湄潭综合,http://p2.weizan.cn/1635496647/663562647402642026/live.m3u8
 吉林,#genre#
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8?k=a5c155a17d386d0b6b9011e0a8fb8e88&t=1728229516
-吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8?k=83f61f976941eb907df78ddaa76da46e&t=1728229516
-吉林新闻,https://hls.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8?k=c3b813a3eada6d82e07e81422016e54b&t=1728229516
-吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8?k=1a88c9c6299e8ee60a5d5a985bcdde6c&t=1728229516
-吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8?k=85de9a3767a10191bfcc465172b26f2e&t=1728229516
-吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8?k=00135a5340c72ca48effb89f2df743dc&t=1728229516
-吉林综艺,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8?k=6eb95f8a8904f500dac78ec0f5166a86&t=1728229516
+
 长春综合,https://p2bj.vzan.com/slowlive/662567539514013385/live.m3u8?zbid=1484002802&tpid=513375349
 长春经济,https://p2bj.vzan.com/slowlive/007128573075477410/live.m3u8?zbid=1484002802&tpid=1657855242
 长春市民,https://p2bj.vzan.com/slowlive/474639937465974818/live.m3u8?zbid=1484002802&tpid=1280250347
@@ -1765,7 +1759,7 @@ https://4grau1mtugazdoqjqgr4uqmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcd
 鄂尔多斯新闻,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=b7f46f8c1bcd9e2db3aa285e7afd6255&txTime=771E8800
 巴彦淖尔新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=7b16e82a11c42b867ae27383922ef7f9&txTime=771E8800
 阿拉善新闻,https://livestream-bt.nmtv.cn/nmtv/2347general.m3u8?txSecret=1152410b316282d3e0c066f360e14a38&txTime=771E8800
-足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
+
 海南,#genre#
 海南新闻,http://stream3.hnntv.cn/xwpd/sd/live.m3u8?_upt=fb97ea901703585050
 海南公共,http://stream3.hnntv.cn/ggpd/sd/live.m3u8?_upt=1f41c6e41703585085
