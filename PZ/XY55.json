@@ -17,7 +17,7 @@
        
 		{
 			"key": "影视┃2",
-			"name": "影视2",
+			"name": "影视┃2",
 			"type": 3,
 			"api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/gao/master/lib/drpy2.min.js",
 			"searchable": 1,
@@ -28,18 +28,20 @@
 			"ext": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/js/瓜子.js"
 		},  
 
-		{
-			"key": "君君",
-			"name": "影视┃3",
-			"playerType": 2,
-			"type": 3,
-			"changeable": 0,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://122.228.85.203:1000/api.php/app/"
-		},
+        {
+            "key": "junjun",
+            "name": "影视┃3",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/js/junjun.js",
+            "ext": {
+                "host": "http://122.228.85.203:1000/api.php/app/",
+                "*": [
+                    "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+                ]
+            }
+        },
 
 		{
 			"key": "csp_XYQHiker_七新影视",
