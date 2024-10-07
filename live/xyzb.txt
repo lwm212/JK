@@ -872,6 +872,8 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 平乡电视台,http://hbpx.chinashadt.com:2036/live/px1.stream/playlist.m3u8
 娄底综合频道,http://118.251.69.109:4022/udp/239.76.248.18:1234
 娄底公共频道,http://118.251.69.109:4022/udp/239.76.248.19:1234
+邵阳新闻综合,https://live2.sytv.net.cn/xwzh/xwzh/live.m3u8?sign=4604c26219c8e3b949edbb9b097b7602&t=1728305186
+邵阳文旅,https://live2.sytv.net.cn/ggpd/ggpd/live.m3u8?sign=5052af771efe254f3a3e230b4030bdcd&t=1728305349
 益阳新闻综合,http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvxw221008.m3u8
 益阳新闻综合,http://121.51.249.6/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43088/index.m3u8
 益阳教育频道,http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvjy221008.m3u8
