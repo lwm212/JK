@@ -1044,37 +1044,23 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 鄂州公共,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1704038399-0-0-7387d4927e444c08f898365bb0a16e87
 随州广水新闻,http://guangshui-live21.cjyun.org/10146/s10146-GSXW.m3u8?auth_key=1704038399-0-0-5c0cb2e7b7e0bc9c67777330c96507ad
 石首综合,http://p8.vzan.com/slowlive/622923977748489779/live.m3u8
+
 江苏,#genre#
-江苏卫视,https://live-hls.jstv.com/livezhuzhan/jsws.m3u8?upt=278df0341728219410
-江苏新闻,https://live-hls.jstv.com/livezhuzhan/jsgg.m3u8?upt=428210f51728219569
-江苏城市,https://live-hls.jstv.com/livezhuzhan/jscs.m3u8?upt=87446c231728219500
-江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=246da3be1728219546
-江苏综艺,https://live-hls.jstv.com/livezhuzhan/jszy.m3u8?upt=e36391121728219516
-江苏教育,https://live-hls.jstv.com/livezhuzhan/jsjy.m3u8?upt=d44eae701728219612
-江苏体育,https://live-hls.jstv.com/livezhuzhan/jsty.m3u8?upt=5a2ce53e1728219629
-优漫卡通,https://live-hls.jstv.com/livezhuzhan/ymkt.m3u8?upt=6146137a1728219654
+江苏公共,https://api.livednow.org//migu/626064693?sign=gAAAAABmWcv_2Uua-OS49Q62HEy4oNnI5xGUo1AsRYPaN5v8LHmlHh1Uuh_-kU_QIa7thllUAYupBbJv8zLBmfMRZviEQOldP23ydD0n2GuVVxS-Jg0b4szseT5Q5W-8AXOGHMAHgPZsupbCPEKqyd-OpnoVn24ORxS0JGygez-LJUmjEiCGixafwdI-japGdQTgyew-uQ-zDg6dWU16UTWtrRERazmg%3D%3D
+江苏城市,https://api.livednow.org//migu/626064714?sign=gAAAAABmWcv_tcZns8_sBBCtoGoC7nVAWdXPFtuyqcJvQ6tyuSMF_msim3VucMlTKP2aTBCwBQKOVmvOYNmpA4Dpvl-iP-RVDuQjPj4LTgLzybU0xvbSTzXb4GNqJtMOoJdDqYs7m9RluthDytpTyAByThhh7aOxJ0f0wZlGn6gTPQVZuTlq9rYyS0bmWdJVaNi2DiZAzPtNcUaEjfLI_j5RHrgLfKBuOQ%3D%3D
+江苏影视,https://api.livednow.org//migu/626064697?sign=gAAAAABmWcv_cKkO2-7ACZDMiT0Kiizps-yKY0_72op62kOaXQSIY62wzhO0wpcUdiecs8ASOztdDcsV5gs9qEoa277n54WFAqdZKGQJ5ECGeOdLmSzRq3wA3i4xC6HIU6g1NtCxHemh5-Spc4IABk0AkXXF6EVEmpZIxapTn81VkFiGOFCg4klTzx10Cuyc38_Q4QF1bcpsIhfP17aWGl9oiHvB377Obg%3D%3D
+江苏综艺,https://api.livednow.org//migu/626065193?sign=gAAAAABmWcv_pnhgM9Ww31bzdARIJs5dxHGR9YOOWPkHAm2btPMyIH7pqZKnNYgtFsiCVIztgbWd6A32_IiOaRb-xm3_rMbz0kqkM99n-0HykGDK2BQNGkyYH2f68bXpnrpA-PfP9AVvNNo754NgR-_NjZWCs8F_2XYRR_4Pgb8G0ySkMG2sHI7IvAhmHvHxNRfBMTtZUwVRCJmRbBKSUk3cKlsaaXoK1A%3D%3D
+江苏体育,https://api.livednow.org//migu/628008321?sign=gAAAAABmWcv_M65_hGcB-qpYy_pgmFQwzmlgC1TKOIeuddM1VqbZwo7f665DvBN7RAS5LRDjIxQxhc8S7v7PwkIwOjs2omxP3gsBpdQXMnLXrEzvb0VjkXhLALTJ2EBYjcLqpJIC_Uw8h8igZ8bfiapKppFNQz395V_Tra9t2c7gHX8RiyYden7q10A-Xi8hU9-5hiwnjbgm8Imaq0unrlMOxVgjEGMvEQ%3D%3D
+江苏国际,https://api.livednow.org//migu/626064674?sign=gAAAAABmWcv_PszDQuGUVqylDyyoSuqDm1234Qt3ro4cj9jg-yNJza4_WOwepQtjHZUOsCloT0m9yfJmNuwAAaZj-SxV3NY__irA-FdigCGRPh4Xy6PCJV5aKVJRkruCZrmMJ6QLA1mHA0bsGFj1WJavTmehB9e2Jg4uP0NgvXPXY6eb2BM-WjsX_Zd82SLM8YuoDIaF9j_gPowpTvPOoSxhSkZi9yiLkA%3D%3D
+优漫卡通,https://api.livednow.org//migu/626064703?sign=gAAAAABmWcv_tcZzxvplxQp_h81QI51jD6UJVB0tPNWH8_OW9tinzAotKPh-EXH4Kg-GqWul0liaDoOHG-bpWSbO3-iCi85AefIMzagwUgItBqULhKyHvLd50VhO13NaWgQ1dojWLuGm_bCsrxWgVe5hwV9DojTUQIgYWvRi_wlvF2JnPGM4COTr5OLYnZ3AeaWfEQqPRMdbH1fHMmu94wEgcwhR05_ZVA%3D%3D
 南京新闻综合频道,https://api.livednow.org//migu/838109047?sign=gAAAAABmWcv_yK7X5Zm3AjK4LK1OcsmCMGJiDGXpv6ukoBO01V0A24WnTTPVL3FQQaRSFLqaAZWD9lSPLvKHMhlEFpPXQ2Rn3ktC18Qlp4sENKy7SVhjfL8bchmGX3N_h-XQbgBfewUsRm6J6TPsDVzocxfeeHuONyMbR623HhfZ1uLK3ibzNuXy_flv1ZA9sFtFubmknG7fc2qC_gr0QyJb-cMD0j5jkw%3D%3D
 南京教科频道,https://api.livednow.org//migu/838153729?sign=gAAAAABmWcv_qbHjUJ1mXy3qeOXnyDS-SX0CpKD9nTldIuUdGVbE2IOZylKFQ5ppCVPHADL1LSUl4GIJGAuIWHPblKRQSxY3MSAiAodGqBdlfuWX6QgsnfxnxuJaKiSc1qhN89zcQetUlozFlDgjjMCNrx0tNL7vk9NKh4fnauTbRFb7Otkq3aecVK3z4e3Bhn_CT6qbEIeY4iPBA1neKgjCI8sE72N5yg%3D%3D
 
 南京十八频道,https://api.livednow.org//migu/838151753?sign=gAAAAABmWcv_7zfzdlcOYLLRq1j8tXKNZfOpsCZYHwOCjkJRs-zGuivOyhOj5Es7lS9hBgkGLi-TaMpSsmMsPzyFn7zxHcOjCQQ0NImj6m_QrqF6zhizzLhd43QNZuQ7wdAZskzAUqaTWJEH0eUTqx4LoJHcem9WZlp95Gc6INWuNMD7A_BhASye6hUUIH_pJTjgoKuqmHmctr4aD4xwCJWX4p6wKLD0yQ%3D%3D
 
-江苏城市频道,https://api.livednow.org//migu/626064714?sign=gAAAAABmWcv_tcZns8_sBBCtoGoC7nVAWdXPFtuyqcJvQ6tyuSMF_msim3VucMlTKP2aTBCwBQKOVmvOYNmpA4Dpvl-iP-RVDuQjPj4LTgLzybU0xvbSTzXb4GNqJtMOoJdDqYs7m9RluthDytpTyAByThhh7aOxJ0f0wZlGn6gTPQVZuTlq9rYyS0bmWdJVaNi2DiZAzPtNcUaEjfLI_j5RHrgLfKBuOQ%3D%3D
-
-江苏国际频道,https://api.livednow.org//migu/626064674?sign=gAAAAABmWcv_PszDQuGUVqylDyyoSuqDm1234Qt3ro4cj9jg-yNJza4_WOwepQtjHZUOsCloT0m9yfJmNuwAAaZj-SxV3NY__irA-FdigCGRPh4Xy6PCJV5aKVJRkruCZrmMJ6QLA1mHA0bsGFj1WJavTmehB9e2Jg4uP0NgvXPXY6eb2BM-WjsX_Zd82SLM8YuoDIaF9j_gPowpTvPOoSxhSkZi9yiLkA%3D%3D
-
-江苏教育频道,https://api.livednow.org//migu/628008321?sign=gAAAAABmWcv_M65_hGcB-qpYy_pgmFQwzmlgC1TKOIeuddM1VqbZwo7f665DvBN7RAS5LRDjIxQxhc8S7v7PwkIwOjs2omxP3gsBpdQXMnLXrEzvb0VjkXhLALTJ2EBYjcLqpJIC_Uw8h8igZ8bfiapKppFNQz395V_Tra9t2c7gHX8RiyYden7q10A-Xi8hU9-5hiwnjbgm8Imaq0unrlMOxVgjEGMvEQ%3D%3D
-
-江苏影视频道,https://api.livednow.org//migu/626064697?sign=gAAAAABmWcv_cKkO2-7ACZDMiT0Kiizps-yKY0_72op62kOaXQSIY62wzhO0wpcUdiecs8ASOztdDcsV5gs9qEoa277n54WFAqdZKGQJ5ECGeOdLmSzRq3wA3i4xC6HIU6g1NtCxHemh5-Spc4IABk0AkXXF6EVEmpZIxapTn81VkFiGOFCg4klTzx10Cuyc38_Q4QF1bcpsIhfP17aWGl9oiHvB377Obg%3D%3D
-
-江苏综艺频道,https://api.livednow.org//migu/626065193?sign=gAAAAABmWcv_pnhgM9Ww31bzdARIJs5dxHGR9YOOWPkHAm2btPMyIH7pqZKnNYgtFsiCVIztgbWd6A32_IiOaRb-xm3_rMbz0kqkM99n-0HykGDK2BQNGkyYH2f68bXpnrpA-PfP9AVvNNo754NgR-_NjZWCs8F_2XYRR_4Pgb8G0ySkMG2sHI7IvAhmHvHxNRfBMTtZUwVRCJmRbBKSUk3cKlsaaXoK1A%3D%3D
 
 
 
-江苏综艺,http://iptv.skygogo.cn:18889/udp/239.49.8.108:8000
-江苏影视,http://iptv.skygogo.cn:18889/udp/239.49.8.118:8000
-江苏新闻,http://iptv.skygogo.cn:18889/udp/239.49.8.120:8000
-江苏体育休闲,http://iptv.skygogo.cn:18889/udp/239.49.8.117:8000
-江苏城市,http://iptv.skygogo.cn:18889/rtp/239.49.8.107:8000
 
 
 无锡新闻,http://stream.thmz.com/wxtv1/sd/live.m3u8
@@ -1082,8 +1068,7 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
-苏州新闻综合,http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
-苏州新闻综合,http://hz752.love:63/live_60/migu.php?id=szzh
+苏州新闻综合,https://api.livednow.org//migu/639731952?sign=gAAAAABmWcv_7ufNbSD1aSeThD6HanOS5c4y_eS3RVbka5Dfmgap2J--ulp4oe_IUoppoHe6LJGAMg7wuk88eVYenUKzMiZU3OpU9-t-CuA2AqEoxUoFDDH4AvVmsRZlUFsyX6GHQakBq_B3eVvS4R4_S7hHMrpIL7bRtnd3vlf6JJ20Yb-GYdjtJ2ICYWaJtFYQmD6hCZ9HN-0ClX6ZUacvDQNEPOTz9w%3D%3D
 苏州社会经济,http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
 苏州文化生活,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 苏州生活资讯,http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
@@ -1091,8 +1076,8 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 盐城新闻综合,http://stream.0515yc.cn/yctv1/playlist.m3u8
 盐城法制生活,http://stream.0515yc.cn/yctv2/playlist.m3u8
 盐城城市公共,http://stream.0515yc.cn/yctv3/playlist.m3u8
-徐州综合,http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
-徐州综合,http://hz752.love:63/live_60/migu.php?id=xzzh
+徐州综合,https://api.livednow.org//migu/639731747?sign=gAAAAABmWcv_xKgE2x3ct6WN2RHPLxWklAPwfFFMxKq2VUm5IvAJodxEP7batvyYsGWA6mh1KdkpobYvwChugvbAKCfYB7YqF55E1FILLESa5AyclUY8jC02xd3in5wRZlIsO7-JsKnRu_1EOxMohBJQzTTi2RNyX-fAfOBFoBIXboLZEbWLKqiilA78HsWsTaMM7xIur--mGMMSkhqutewfckv8_TuESg%3D%3D
+
 徐州生活,http://183.207.248.9/PLTV/3/224/3221225947/index.m3u8
 徐州文艺,http://183.207.248.16/PLTV/3/224/3221225949/index.m3u8
 徐州公共,http://stream3.huaihai.tv/xz4t/sd/live.m3u8
@@ -1101,17 +1086,13 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 淮安新闻综合,http://hz752.love:63/live_60/migu.php?id=hazh
 淮安公共频道,http://live1.habctv.com/ggpdsl/sd/live.m3u8
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8
-无锡新闻综合,http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8
-无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
-无锡新闻综合,http://hz752.love:63/live_60/migu.php?id=wxzh
-无锡娱乐,http://m.m3u8.wifiwx.com/live/wifiwx-243.m3u8
-无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
-无锡都市资讯,http://m.m3u8.wifiwx.com/live/wifiwx-240.m3u8
-无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
-无锡生活,http://m.m3u8.wifiwx.com/live/wifiwx-244.m3u8
-无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
-无锡经济,http://m.m3u8.wifiwx.com/live/wifiwx-245.m3u8
-无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
+连云港新闻综合,https://api.livednow.org//migu/639731715?sign=gAAAAABmWcv_q7tvr2NnRnKIwjQ-UGPCzZxYl8UEq9hUfSaPOS2Uy1aUBxqgydppgH-xYQBEEm9rr32mm5gMdlUnA0DGIA9nv9DS4v82KSyhRVkGBHttavgsXVTo87oXcgCQ1SUU38nl_hUXpymqkhPGJ3hL8sLfyBGtrCA1Y9PERoNbDHDVpgvdSoqOIrQUDy5vN3y9J6WESTkglx20txA5_WpJXuuXSA%3D%3D
+淮安新闻综合,https://api.livednow.org//migu/639731826?sign=gAAAAABmWcv_BMIRVgIJDaBnuEjxje6h84X2FjobNALyYQfKEiHtyg75vA3TlV9tSEFKNhJcbU7dVJt6VZMCIVQu5L-9litfJvB2YYxWW4KPiaQ7gnEJiEA7p9pX3LFQ9Cb2a6gpbrxaUpwP7tLcQiAi8_YCEhoqA6cEkFgS7XVLMGOOKpMmqPc3ApH46oVlyQGICO40v1T9TLywGpiazU75xTa020VAPg%3D%3D
+泰州新闻综合,https://api.livednow.org//migu/639731818?sign=gAAAAABmWcv_98Ttg0zBizqZ1kHF1YmuedvxBoVdIuyKdXCOTBPkl_ceL0qpQi7VzYJsYEBKAiqA4DXmD_6EgHkCopnQW894SEFTBf7wl_zjib-44xZWc7tBWQ9fVjqeShLHPXYbMcBl6G1dRjOrB1QZv99v2ZcLji1PoBuISnvqxeUbZCuVpEIbltlQcr68vdVesQKdiMNnSEb5HdstdqpnG0vPpWAYJg%3D%3D
+宿迁新闻综合,https://api.livednow.org//migu/639731832?sign=gAAAAABmWcv_ICjDPg4GcmIKsX3fdCx15bcO4ZbwrDRSB5zydPNxWUszaGBpCI4MhiSdkweC-X_b25p5TkH2LM-G78kpNqOF8MUSR4n5FqybXehOGum9zaZZy9favE4iHs58_gvcSsCU4pAlFgdmzURPiCFcAeD0YvHgdAIyS-0lBnelC78ueUVKntKlxzbIuuxEveSoVYvZ20ed6gH6kqyz48acmcKGWA%3D%3D
+
+
+
 北京,#genre#
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1728217385&sign=b065e5ebd3654dfed08920a7b5dd92a9
 北京科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1728217462&sign=74c13e84ec0f1e03c1e9a62d092d0c82
