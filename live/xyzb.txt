@@ -757,6 +757,8 @@ HZTV-2高清,http://jt.zorua.cn:8787/udp/239.77.1.233:5146
 深圳东部频道,http://113.100.72.95:8899/udp/239.77.1.224:5146
 深圳众创TV,http://113.74.172.130:4000/udp/239.77.1.247:5146
 深圳移动电视,http://113.100.72.95:8899/udp/239.77.1.175:5146
+湛江新闻,https://2573546248.cloudvdn.com/a.m3u8?domain=gbtv-hls.zjwtv.com&player=zI4AAAvO0bH-YPwX&secondToken=secondToken%3AvnxDTAiWIkTqbMW5hfGb_7mnBAY&sign=df3ec2f897a0d05f20182f7edaa534b7&streamid=zjtv%3Azjtv%2Fzhpd&t=6704baaf&v3=1
+湛江公共,https://2573546246.cloudvdn.com/a.m3u8?domain=gbtv-hls.zjwtv.com&player=ZXkAANmRKJskYfwX&secondToken=secondToken%3AgokognVeaE2sxK8yUpfxUGF5_pI&sign=16990b2509b2b8859bc88b91de27ab9e&streamid=zjtv%3Azjtv%2Fggpd&t=6704bb5d&v3=1
 珠海-1,http://113.74.172.130:4000/udp/239.77.0.155:5146
 珠海-2,http://113.74.172.130:4000/udp/239.77.0.154:5146
 汕头综合,http://113.74.172.130:4000/udp/239.77.1.130:5146
