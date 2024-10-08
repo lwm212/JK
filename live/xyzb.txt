@@ -1447,7 +1447,8 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 四川文艺,http://110.189.102.15:9901/tsfile/live/0137_1.m3u8?key=txiptv
 峨眉综合,http://110.189.102.15:9901/tsfile/live/0113_1.m3u8?key=txiptv
 乐山综合,http://110.189.102.15:9901/tsfile/live/0116_1.m3u8?key=txiptv
-
+广元新闻,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
+广元生活,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 
 
 安徽,#genre#
@@ -1589,6 +1590,13 @@ https://4grau1mtugazdoqjqgr4uqmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcd
 运城2台高清,http://1.70.32.177:8082/udp/239.1.1.124:8124
 盐湖频道高清,http://1.70.32.177:8082/udp/239.1.1.125:8125
 贵州,#genre#
+贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=e312992b99fd561450627e46bf4755df&txTime=6704C5AE
+贵州-2,https://9bwaz8y2.gzstv.com/live/CH02_lo.m3u8?txSecret=243835e730ddb996f869b495028d8dbf&txTime=6704C33E
+贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=afc968d72a076c6af1eb74cf98ab17c4&txTime=6704C75F
+贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=1b8189c0651a3d2b74286b6182de1f12&txTime=6704C5C4
+贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=2aa6b5697433ca6a6b9d1fe9a6907765&txTime=6704C437
+贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=6facd7739f53233fa17acd3e9f7bae7d&txTime=6704C7E7
+贵州移动电视,https://9bwaz8y2.gzstv.com/live/CH13_lo.m3u8?txSecret=a5f0969cf5440dd9ee73d4d43351a7c5&txTime=6704C58F
 六盘水综合,http://file.lpsntv.com/nmip-media/channellive/channel110181/playlist.m3u8
 六盘水公共,http://file.lpsntv.com/nmip-media/channellive/channel110983/playlist.m3u8
 安顺新闻,https://player.juyun.tv/camera/64413134.m3u8
