@@ -1,5 +1,25 @@
 
 央视频道,#genre#
+
+
+CCTV1,https://www.pendy.us.kg/ceshi8899/ceshi8899/1173
+CCTV2,https://www.pendy.us.kg/ceshi8899/ceshi8899/1174
+CCTV3,https://www.pendy.us.kg/ceshi8899/ceshi8899/1175
+CCTV4,https://www.pendy.us.kg/ceshi8899/ceshi8899/1176
+CCTV5,https://www.pendy.us.kg/ceshi8899/ceshi8899/1177
+CCTV5+,https://www.pendy.us.kg/ceshi8899/ceshi8899/1178
+CCTV6,https://www.pendy.us.kg/ceshi8899/ceshi8899/1179
+CCTV7,https://www.pendy.us.kg/ceshi8899/ceshi8899/1180
+CCTV8,https://www.pendy.us.kg/ceshi8899/ceshi8899/1181
+CCTV9,https://www.pendy.us.kg/ceshi8899/ceshi8899/1182
+CCTV10,https://www.pendy.us.kg/ceshi8899/ceshi8899/1183
+CCTV11,https://www.pendy.us.kg/ceshi8899/ceshi8899/1184
+CCTV12,https://www.pendy.us.kg/ceshi8899/ceshi8899/1185
+CCTV13,https://www.pendy.us.kg/ceshi8899/ceshi8899/1186
+CCTV14,https://www.pendy.us.kg/ceshi8899/ceshi8899/1187
+CCTV15,https://www.pendy.us.kg/ceshi8899/ceshi8899/1188
+CCTV16,http://cg1.hunancatv.cn:9090/live/CCTV16_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=7114844658870775790&srchost=172.16.22.158:8060&gid=VUdUekIjmBFSrvnJArQETQ%3D%3D
+CCTV17,https://www.pendy.us.kg/ceshi8899/ceshi8899/1190
 CCTV1,https://api.livednow.org/migu/608807420?sign=gAAAAABm5t8YAIUOA61Z7aZZnIjsRJNIvrqb_xbDTA62p-HwYqYUqWL14Pr08eSUgJuYbPs6Hgc9DN-k_l1KlZKB3NsLKZwM5kF7Bq1k6PxbXP1CNKHJgbRlSFR0TbYnN8vWBUqsvHh0TBZDraBF3Pe58-wX1r01Dqc8e0OhZYGV1gjSNzT5JBuMFEW3v8b5ABr2C8-UWy_iZL68TP5Ea0SPBnwsSSzZzg%3D%3D
 CCTV2,https://api.livednow.org//migu/631780532?sign=gAAAAABm5t8YJzFmxPV8secJka2npZ3nDyWeyhkje_LX5bNLmJOQtG_ods2iXdYaTxlfVx5SOziR705ZVwLNI22zIj_wZS5GU-XTssqNN4ndCgnfzPfev0344iqZS9TdE_9TQ5DuybAS4AeLWsFvIo2gNNQDRINswRJm4WLXUgstwWZQaz2GAus8bZH47E6K8CHAXSaFv_C6EkSnm65jUipqatshdaf7tQ%3D%3D
 CCTV3,https://api.livednow.org//migu/624878271?sign=gAAAAABm5t8YJDGmRaVzUBnnmoud8W4BBkcwpfEN5iqdtiglvxujRfbexpBXWyrXB7Zhne8jyOPjIx1uAopMUWkDkKc8kepZal0fWizmDC95gi4Q7y8E3S7WmlZ8wkCJgClfpNFl1vEIKIsqsAEu5U63dRRytLpxGWpvS4AFEWZJ9LI_s2zxd6-SkV4S2t94W2FdAHQrfY25TpytrbIjcieOiKUazrTBUQ%3D%3D
