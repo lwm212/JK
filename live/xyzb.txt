@@ -222,27 +222,24 @@ CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 
 陕西卫视,https://api.livednow.org//migu/738910838?sign=gAAAAABm5t8YgIOCGjgWUy2r4T393OOUlq4Ppbw3EfZhoF7OBlz9TTute89US5odYY5v0qAkLoADbUi2XsRxtdW8Rzx8U7h0EqMOzMaPGEZZz5k7AuxZ_Y1ODXbjlKXXRYe0Gj4GlwkYzTEhlJ9YGbLjUEXvcZpjM1aSPR6MENMw7FhAAZGoHFtR9P2VaFt_xOyN3Lnze_0IKiwZmXJ5jwt_qHU7bhIxSg%3D%3D
 
-浙江卫视,http://113.57.109.48:1111/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://113.57.109.48:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://113.57.109.48:1111/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://113.57.109.48:1111/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://113.57.109.48:1111/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://113.57.109.48:1111/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://113.57.109.48:1111/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://113.57.109.48:1111/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://113.57.109.48:1111/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://113.57.109.48:1111/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://113.57.109.48:1111/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://113.57.109.48:1111/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://113.57.109.48:1111/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://113.57.109.48:1111/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://113.57.109.48:1111/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://113.57.109.48:1111/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://113.57.109.48:1111/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://113.57.109.48:1111/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://113.57.109.48:1111/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://113.57.109.48:1111/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://113.57.109.48:1111/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.142:8048
+浙江卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.137:8036
+湖南卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.132:8012
+北京卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.241:8000
+安徽卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.211:8064
+重庆卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.122:8160
+湖北卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.138:8044
+东南卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.156:8148
+贵州卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.149:8076
+河北卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.148:8072
+辽宁卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.210:8056
+吉林卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.240:8172
+江苏卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.135:8028
+江西卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.123:8164
+黑龙江卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.133:8016
+山东卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.209:8052
+深圳卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.134:8020
+天津卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.141:1234
 
 
 
@@ -1046,15 +1043,16 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 
 
 北京,#genre#
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1728217385&sign=b065e5ebd3654dfed08920a7b5dd92a9
-北京科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1728217462&sign=74c13e84ec0f1e03c1e9a62d092d0c82
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1728217525&sign=464a27aef6a723c9f85475e69b19a00e
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1728217563&sign=8fcdba6466ae7950b9c72d44babdf7b2
-北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1728217484&sign=47d2d5c71457877b7f8395dff532dd2d
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1728217617&sign=21d2c03016d5e6d723bc481ab7d03d19
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1728217582&sign=9cf6d05962b91ce367c808e355da9074
-卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1728217670&sign=66e8cf589042c98209a76f8c97e6a5b9
-
+BTV新闻,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.159:8000
+BTV体育,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.243:8000
+BTV影视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.158:8000
+BTV文艺,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.242:8000
+BTV财经,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.116:8000
+BTV生活,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.117:8000
+BTV科教,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.115:8000
+BTV少儿,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.189:8000
+BTV纪实,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.121:8000
+BTV国际,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.235:8000
 
 休闲体育,http://218.241.192.50:8808/udp/239.3.1.243:8000
 晴彩竞技,http://218.241.192.50:8808/udp/239.3.1.125:8001
