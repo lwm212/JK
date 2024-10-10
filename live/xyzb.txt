@@ -284,6 +284,17 @@ CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 
 陕西卫视,https://api.livednow.org//migu/738910838?sign=gAAAAABm5t8YgIOCGjgWUy2r4T393OOUlq4Ppbw3EfZhoF7OBlz9TTute89US5odYY5v0qAkLoADbUi2XsRxtdW8Rzx8U7h0EqMOzMaPGEZZz5k7AuxZ_Y1ODXbjlKXXRYe0Gj4GlwkYzTEhlJ9YGbLjUEXvcZpjM1aSPR6MENMw7FhAAZGoHFtR9P2VaFt_xOyN3Lnze_0IKiwZmXJ5jwt_qHU7bhIxSg%3D%3D
 
+东方卫视,http://61.163.181.78:9901/tsfile/live/1036_1.m3u8
+东方卫视,http://113.25.208.15:9901/tsfile/live/0108_1.m3u8?key=txiptv
+广东卫视,http://113.25.208.15:9901/tsfile/live/0125_1.m3u8?key=txiptv
+广东卫视,http://59.173.183.242:9901/tsfile/live/0125_1.m3u8?key=txiptv
+浙江卫视,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.137:8036
+湖南卫视,http://101.81.238.167:4022/rtp/239.45.3.228:5140
+湖南卫视,http://116.227.48.27:58888/rtp/239.45.3.228:5140
+湖南卫视,http://183.184.170.93:8002/rtp/226.0.2.143:9056
+湖南卫视,http://123.145.42.143:58888/rtp/225.0.4.75:7980
+
+
 浙江卫视,http://222.134.245.16:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://222.134.245.16:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://222.134.245.16:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
