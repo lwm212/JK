@@ -1437,6 +1437,25 @@ BTV国际,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.235:8000
 广元新闻,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 广元生活,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 
+成都-1,https://cdn1.cditv.cn/cdtv1high/CDTV1High.flv/playlist.m3u8?wsSecret=edbff6c6a04a58f729a2ea2513b76f83&wsTime=6708ade5
+成都-2,https://cdn1.cditv.cn/cdtv2high/CDTV2High.flv/playlist.m3u8?wsSecret=6b3c87d5da73063e02c11ad2fce555df&wsTime=6708ae7a
+成都-3,https://cdn1.cditv.cn/cdtv3high/CDTV3High.flv/playlist.m3u8?wsSecret=18bf31d2b80663dafc71963be526b0b7&wsTime=6708aeb0
+成都-4,https://cdn1.cditv.cn/cdtv4high/CDTV4High.flv/playlist.m3u8?wsSecret=ea95cb66826a16a88064a43e6187dde3&wsTime=6708aef5
+成都-5,https://cdn1.cditv.cn/cdtv5high/CDTV5High.flv/playlist.m3u8?wsSecret=ee58099b84c7923660abd759b624e806&wsTime=6708af02
+成都-6,https://cdn1.cditv.cn/cdtv6high/CDTV6High.flv/playlist.m3u8?wsSecret=f1e1f8cb961046b75fef9b799a8dda42&wsTime=6708af15
+蓉城先锋,https://cdn1.cditv.cn/dangjiaohigh/dangjiaoHigh.flv/playlist.m3u8?wsSecret=96185941443935a4e245736b959577a8&wsTime=6708af41
+简阳综合,https://quxian.pull.cditv.cn/live/jianyang.flv/playlist.m3u8?wsSecret=c55713526ef69955130701c1e8e339f9&wsTime=6708af67
+彭州综合,https://quxian.pull.cditv.cn/live/pengzhou.flv/playlist.m3u8?wsSecret=66881a1bc7ea7e3f4ff6c0b5c3348453&wsTime=6708af98
+青白江综合,https://quxian.pull.cditv.cn/live/qingbaijiang.flv/playlist.m3u8?wsSecret=5e477f97c9cd41900d49a75b28cdad52&wsTime=6708afcd
+蒲江综合,https://quxian.pull.cditv.cn/live/pujiang.flv/playlist.m3u8?wsSecret=6d47aff0616a457bd5c3d8f670b5639a&wsTime=6708b079
+大邑综合,https://quxian.pull.cditv.cn/live/dayi.flv/playlist.m3u8?wsSecret=f439248257d3cfe4128c73c322c553a0&wsTime=6708b08e
+金堂综合,https://quxian.pull.cditv.cn/live/jintang.flv/playlist.m3u8?wsSecret=3f6d4949e39510efed64c39c9dd083c8&wsTime=6708b09e
+温江综合,https://quxian.pull.cditv.cn/live/wenjiang.flv/playlist.m3u8?wsSecret=dd292f458611f4109fa91e38bfde70aa&wsTime=6708b0c9
+双流综合,https://quxian.pull.cditv.cn/live/shuangliu.flv/playlist.m3u8?wsSecret=f4c3b9bd486635a4e8004ec0fcdc0699&wsTime=6708b0b2
+成华综合,https://quxian.pull.cditv.cn/live/chenghua.flv/playlist.m3u8?wsSecret=a7c78b4ade0de81ae786e79870bb63b1&wsTime=6708b122
+金牛综合,https://jntv.pull.cditv.cn/live/jntv.flv/playlist.m3u8?wsSecret=40c20d5f4aaa55ed45e3e457ea1cdc4c&wsTime=6708b13d
+武侯综合,https://quxian.pull.cditv.cn/live/wuhou.flv/playlist.m3u8?wsSecret=e2f8830c7ef2d85ccf1a4e66c5fcaae5&wsTime=6708b14a
+锦江综合,https://quxian.pull.cditv.cn/live/jinjiang.flv/playlist.m3u8?wsSecret=d481bfcf1cbcfe1e0897159e718ed338&wsTime=6708b17d
 
 安徽,#genre#
 安徽经济生活,https://live4.ahtv.cn/jjsh1/hd/live.m3u8?_upt=2f97fe501728227268
