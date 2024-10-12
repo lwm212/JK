@@ -281,7 +281,7 @@
 			"key": "hipy_js_腾云驾雾",
 			"name": "360",
 			"type": 3,
-			"api": "https://cloud.wujiyan.cc/f/DrXiW/drpy2.min.js",
+			"api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -293,26 +293,26 @@
             "key": "TX视频",
             "name": "TX视频",
             "type": 3,
-            "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+            "api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
-            "ext": "http://www.mpanso.com/小米/ttt.js"
+            "ext": "http://www.mpanso.com/小米/ttt111222.js"
         },
         {
             "key": "MGTV",
             "name": "MGTV",
             "type": 3,
-            "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+            "api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
 	    "playerType": "2",
-            "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"
+            "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo111222.js"
         },
 		{
 			"key": "dr_奇珍异兽",
