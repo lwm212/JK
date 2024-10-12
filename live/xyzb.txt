@@ -283,9 +283,9 @@ CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 湖南卫视,http://iptv.bradyxu.com:18889/rtp/239.76.253.100:9000
 
 江苏卫视,http://117.72.68.25:9930/migu.php?id=jsws
-江苏卫视,http://117.72.68.25:9930/migu.php?id=jxws
+江西卫视,http://117.72.68.25:9930/migu.php?id=jxws
 广东卫视,http://117.72.68.25:9930/migu.php?id=gdws
-
+东方卫视,http://117.72.68.25:9930/migu.php?id=dfws
 江苏卫视,https://api.livednow.org//migu/623899368?sign=gAAAAABm5t8YICCLHpT1BlEdOK_8IRiXKvexCWCqbkw1ssBUCvEbBD2r5iZWp3MWqkDH4ewI5E6y0x7RCUj6nDUi9q7qcS8wbLyGWTl5bqRHaMzc9rtYjfF_WspuADaj9ygKTDlqKu_BJa3uyCFcSK9KU7p5pz24PwhpMLoxH5lWXWN71sMNisTJ-irsBrFJa9oxv5VKIxFSE_Uq1lfzRbmOKrR5kCjwhg%3D%3D
 江苏卫视,https://api.livednow.org/migu/623899368?sign=gAAAAABmxHgU9l6540HWASMdYBP3mqMMHwsPTowWEgfBHnoJECqo8rk5EJKsrA6SPxXDzGVx86fSCYPOBRYncLoV4-6hDbpoXPbxU25oFXrgO-dkZXAWvgK3jcp7ddophCe8nstgr0ZRbMrR5q4EoD1ATYIP_vdv2JlRWNUtyUBdfcG-NY2DJMU9BpWExqi3Jg2aeGhnuRbgcj1KRdujoq_wRuoqU4M_XQ%3D%3D
 江苏卫视,https://api.livednow.org/migu/623899368?sign=gAAAAABmwyZN-bdhKYlq5yraCzQsPyj7q3-bABWH7n3XXfVtAR-RzNRfp9lhWaalWb7HTusOMx2Jqw74u94Gqvzagmkzgfm5MkEWSj1cNM6Upmg9KxPU5oX2qK-LQH0fKn9a0yUejLec2am4QUEVpd05P8w-CuEv6XTNqwQNu4dcCDWIMMlLWEZ1SAf8OPVJCrZehtulE6A1wcF8FfFEB4FBW6yDnXkKyQ%3D%3D
@@ -296,7 +296,7 @@ CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 湖北卫视,https://api.livednow.org/migu/738906825?sign=gAAAAABmwyZNNlXhtrhOhH_oYtdU3L7x4ljmPDkK_4cKrPH_7kOKehQtZ66gyEHE-3JxVGcBUw0fjS9_3yC-gG4aWFuzR3lNek1gYiHub1rMxu_Rk6xi9_z3wfnreBul2f15eBXSaJ_enhKAE6yrRYmhsXPZ8LRK-v3ouma0dVGPbUDQQKwCw3pVe9a1xDDvV2EAOLtmgXKbXI_OxFDwd1ucR_zUVlhcEA%3D%3D
 
 
-江西卫视https://livednow.com/migu/783847495?sign=gAAAAABm5t8YjJ8EclWpF_NihGBA5PD1_kP_zb1seiW5G-bAKeoyaT-4Iz7S565eziaeLmp8-5mSjdL4TgzS_ale68CQ73XTZ9A6-xERy41_GIWC0LU6Nx3lyT7PuKCjisA3irK89IWfDkzVkRXHJG-RNmOjdporJdkueP__-NI3ccPnmXR8o1GtVUxSVR-7yyQc85FYu68g90bdI-fkO5-Hyz1fcISK0A%3D%3D
+江西卫视,https://livednow.com/migu/783847495?sign=gAAAAABm5t8YjJ8EclWpF_NihGBA5PD1_kP_zb1seiW5G-bAKeoyaT-4Iz7S565eziaeLmp8-5mSjdL4TgzS_ale68CQ73XTZ9A6-xERy41_GIWC0LU6Nx3lyT7PuKCjisA3irK89IWfDkzVkRXHJG-RNmOjdporJdkueP__-NI3ccPnmXR8o1GtVUxSVR-7yyQc85FYu68g90bdI-fkO5-Hyz1fcISK0A%3D%3D
 江西卫视,https://api.livednow.org/migu/783847495?sign=gAAAAABmxHgUnswJzO0p4BXXdCSFrv8gsIc2py41IJI_V1gUvDtwIgWjSqHyjsnEOlE7YZYfCfwSYekoyTSRhH2J9etfBE7qjEP7my57CXG4fX3Nqz55jAaO6YfFPw9x2zA8XpWswHl-s4NZRtLkQ5RzCKP2OO2z0nKS4gTbyyLOFHw1--z9qFADZFE3yvWo07VMucFJLVxA9ooR3Ws9yf8O670kJTZ4Hw%3D%3D
 江西卫视,https://api.livednow.org/migu/783847495?sign=gAAAAABmwyZNC4PAtnV7ZIdvVh4Ae-2Ir5n6IkcJEdwJfisEj74w0grC2Kutx2ysQj-oUzjsYLn0bqUjnG4k7yMj0ZW-x0pwoq9yNmnpz-v4gmAuqBqqaiDyaCNJEUZePaKhivjjUMRVskZFwkSyyqjQkQPdf_-y955fXkr9392CFCBReXBhifzepZelXbxwnJSm5UQsqVcPJKUzcoiJIUVkPo3GN8kFyA%3D%3D
 
