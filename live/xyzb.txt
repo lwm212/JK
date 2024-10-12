@@ -1,54 +1,6 @@
 
 央视频道,#genre#
 
-CCTV1,https://epg.pw/stream/70ff8bd411f8b7ef64b89a9c35dfd4746acd69343bd323d1a16f8226de3cf6a5.m3u8
-CCTV1,https://epg.pw/stream/cctv1gao-qing-5.m3u8
-CCTV1,https://epg.pw/stream/e0fec6823c0afbce216ee5994710f3e31866bfde18abe7dd6879e1cf03c164f2.m3u8
-CCTV1,https://epg.pw/stream/cctv1-zong-he-15.m3u8
-
-CCTV2,https://epg.pw/stream/aee91dcd7faba8a5bca0a0c90f306c28b173f32d60dfe3bc64dc94e2426fcfd3.m3u8
-CCTV2,https://epg.pw/stream/2f21c867973571fa07858eaf0ddd1d8dfce7bbe7f2ee1e126ec644ab0a62afd7.m3u8
-CCTV3,https://epg.pw/stream/d05458b129879a220c29f242e774ed70635a7c66e30a90b3d6e651ea28100c51.m3u8
-CCTV3,https://epg.pw/stream/ccc9077d38ecf2985e8aa811340dced0f4ce1f30a0a09dcceee87be3ecce4add.m3u8
-CCTV4,https://epg.pw/stream/f69e6d2bbe8bd791ebb84eae170ee50a3dd306ad256ed70af99e80d4b56a8a08.m3u8
-CCTV4,https://epg.pw/stream/b949120da43ba2bb42c84668a405dedabe90c8260967900af35f418db5ee28f8.m3u8
-
-CCTV5,https://epg.pw/stream/d527b59f688304834700ab2dc1a41278c156887de04370e0336f5045f7475974.m3u8
-CCTV5,https://epg.pw/stream/4446505d43f34a19c0a9f4df8c842ea503a81149b875689d3304c44119a43ce6.m3u8
-
-CCTV5+,https://epg.pw/stream/0c4f859be4452111abccff710ed03a8bb6f6e3603aef446057770b53281f1db4.m3u8
-CCTV5+,https://epg.pw/stream/c3a0b7ea3b55d8e6560c5f26f4c7df82a869d071800d9a2394eda951f8095bc2.m3u8
-CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
-CCTV6,https://epg.pw/stream/b2befd780118e7fec4f898fa6b105df573a2db9ca91b1c3ab61fed20b9cbf236.m3u8
-
-CCTV7,https://epg.pw/stream/ab82a4250c3274e7d24588be5095b2bb07bd8239431414378df519b5a3cb7757.m3u8
-CCTV7,https://epg.pw/stream/3e91410832b28e67689a0e4ad1cd95993ab4673bbf1815760d8b7b6329721f85.m3u8
-
-CCTV8,https://epg.pw/stream/cf351bb255dcc1be0e1e5e4dff19c9dd47a0c39ee90185b02f5ced04fad2e57a.m3u8
-CCTV8,https://epg.pw/stream/747d6e94e61dfd70c82fc836c2fc7f5269b8365d71a7ee1c79618ccdf79e4508.m3u8
-
-CCTV9,https://epg.pw/stream/a83ebe5f078a8c343923ed91d1976e3f63a8e801003ce5a1f2b3214d1f1d6df3.m3u8
-CCTV9,https://epg.pw/stream/d3fc63dd0c529d8a5523bd42ea89ca5530feb4f24962ff9a73af02fee4370e7d.m3u8
-
-CCTV10,https://epg.pw/stream/3ba6b28149518ced77ea87a4c881c7fac467fc27b000443470dde05fb25d76e6.m3u8
-CCTV11,https://epg.pw/stream/f806f2deb846d5d9983b9b40952a4f8bb488ca9a8d2b08f5c2a9cef678e6abe6.m3u8
-CCTV11,https://epg.pw/stream/cctv11-xi-qu-8.m3u8
-
-CCTV12,https://epg.pw/stream/bf57e8ccf68acddf0d301e98c2948e14d01c90e6f3a87975431a059e9ca8b8cd.m3u8
-CCTV13,https://epg.pw/stream/0ee9f9b9bdb59712a476841b1b349f3a7f356eecf9323ea01177374f755f117b.m3u8
-CCTV14,https://epg.pw/stream/be105f0911d234105ab449566fa7c047f3009ad32e66985b00c1410a63bd4751.m3u8
-
-CCTV15,https://epg.pw/stream/0c7154f3090964b8ce7d9d3bc23aeb719e0d1cd452ba922b77b6b4e8863a0fcc.m3u8
-CCTV16,https://epg.pw/stream/cctv16-1.m3u8
-CCTV17,https://epg.pw/stream/9347ca227d92248518dc0a3b42dfaec78299003474014801007556ec0f5a3cb3.m3u8
-CCTV4美洲,http://117.72.68.25:9930/migu.php?id=cctv4a
-CCTV4欧洲,http://117.72.68.25:9930/migu.php?id=cctv4o
-
-凤凰中文,https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-9.m3u8
-凤凰中文,https://stream1.freetv.fun/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1e27f32326f3.m3u8
-
-湖南卫视,https://stream1.freetv.fun/a2deb2a7fc50c96ee0bc1b593f5f1ef341e5a86301c8e4d0848d8f3cb0d2d5b2.m3u8
 
 
 
