@@ -282,6 +282,10 @@ CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 湖南卫视,http://iptv.bradyxu.com:18889/rtp/239.76.253.100:9000
 
+江苏卫视,http://117.72.68.25:9930/migu.php?id=jsws
+江苏卫视,http://117.72.68.25:9930/migu.php?id=jxws
+广东卫视,http://117.72.68.25:9930/migu.php?id=gdws
+
 江苏卫视,https://api.livednow.org//migu/623899368?sign=gAAAAABm5t8YICCLHpT1BlEdOK_8IRiXKvexCWCqbkw1ssBUCvEbBD2r5iZWp3MWqkDH4ewI5E6y0x7RCUj6nDUi9q7qcS8wbLyGWTl5bqRHaMzc9rtYjfF_WspuADaj9ygKTDlqKu_BJa3uyCFcSK9KU7p5pz24PwhpMLoxH5lWXWN71sMNisTJ-irsBrFJa9oxv5VKIxFSE_Uq1lfzRbmOKrR5kCjwhg%3D%3D
 江苏卫视,https://api.livednow.org/migu/623899368?sign=gAAAAABmxHgU9l6540HWASMdYBP3mqMMHwsPTowWEgfBHnoJECqo8rk5EJKsrA6SPxXDzGVx86fSCYPOBRYncLoV4-6hDbpoXPbxU25oFXrgO-dkZXAWvgK3jcp7ddophCe8nstgr0ZRbMrR5q4EoD1ATYIP_vdv2JlRWNUtyUBdfcG-NY2DJMU9BpWExqi3Jg2aeGhnuRbgcj1KRdujoq_wRuoqU4M_XQ%3D%3D
 江苏卫视,https://api.livednow.org/migu/623899368?sign=gAAAAABmwyZN-bdhKYlq5yraCzQsPyj7q3-bABWH7n3XXfVtAR-RzNRfp9lhWaalWb7HTusOMx2Jqw74u94Gqvzagmkzgfm5MkEWSj1cNM6Upmg9KxPU5oX2qK-LQH0fKn9a0yUejLec2am4QUEVpd05P8w-CuEv6XTNqwQNu4dcCDWIMMlLWEZ1SAf8OPVJCrZehtulE6A1wcF8FfFEB4FBW6yDnXkKyQ%3D%3D
