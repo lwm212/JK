@@ -556,7 +556,7 @@
 		"channels": [{
 			"name": "live",
 			"urls": [
-				"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRkbC5jbi9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbHdtMjEyL0pLL21haW4vbGl2ZS94eXpiLnR4dA=="
+				"proxy://do=live&type=txt&ext=http://www.uuneed.cn/lwm212/XYTV/raw/master/live/zb.txt"
 			]
 		}]
 	}],
