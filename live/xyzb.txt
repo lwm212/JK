@@ -666,7 +666,19 @@ CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAu
 星河台,http://php.jdshipin.com/smt.php?id=Xinhe
 星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
-
+东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-1.m3u8
+东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-9.m3u8
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-10.m3u8
+翡翠,https://stream1.freetv.fun/fei-cui-8.ctv
+tvb 翡翠,https://stream1.freetv.fun/tvb-fei-cui-1.ctv
+八大綜合,https://stream1.freetv.fun/ba-da-zong-he-3.m3u8
+緯來電影,https://stream1.freetv.fun/wei-lai-dian-ying-2.m3u8
+东森美洲新闻,https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
+有线新闻,https://stream1.freetv.fun/you-xian-xin-wen-19.m3u8
+明珠,https://stream1.freetv.fun/ming-zhu-5.m3u8
+東森戲劇,https://stream1.freetv.fun/dong-sen-xi-ju-2.m3u8
 
 
 
