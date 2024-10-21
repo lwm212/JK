@@ -41,6 +41,19 @@ CCTV15,http://22725y284r.yicp.fun:9902/tsfile/live/0015_1.m3u8
 CCTV16,http://cg1.hunancatv.cn:9090/live/CCTV16_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=7114844658870775790&srchost=172.16.22.158:8060&gid=VUdUekIjmBFSrvnJArQETQ%3D%3D
 CCTV17,http://22725y284r.yicp.fun:9902/tsfile/live/0017_1.m3u8
 
+CCTV1 4M1080,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
+CCTV1 8M1080,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+CCTV2 4M1080,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
+CCTV2 8M1080,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+CCTV3 4M1080,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
+CCTV3 8M1080,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3
+CCTV4 4M1080,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
+CCTV5 4M1080,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3
+CCTV5+ 4M1080,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3
+CCTV6 4M1080,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
+CCTV6 8M1080,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
+CCTV7 4M1080,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=3
+CCTV7 8M1080,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3
 
 
 CCTV1,http://hlslive-tx-cdn.ysp.cctv.cn/8D48A69874659C666DD9945C0C257C7F9C9EC5D39246F33A57F1B3A46E5E0673266B8EEF97DDF2784CE7220E086F0AA96FBEF090E8D80A41703BDEEEAA5191D315C6348D0FD37443C633238C9197095A7287591DE4859C5D1D83E1D8800D68FE76D6675AA5136490DE5A2C02DBE9032108F782F7EC9DCB0C41D2F42486EEE277/2024078203.m3u8?from=player&svrtime=1729523963&pid=600001859&cdn=5510&revoi=DCAE65F53543A14C79778049DB597FE4C2037DD3A3440725418F403760C135C7
