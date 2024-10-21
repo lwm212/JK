@@ -1347,6 +1347,15 @@ BTV国际,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.235:8000
 
 朝阳电视台,http://218.241.192.50:8808/udp/239.3.1.163:8001
 上海,#genre#
+
+五星体育,http://dns.161015.xyz:33334/udp/239.45.3.210:5140
+上海外语ICS,http://dns.161015.xyz:33334/rtp/239.45.1.127:5140
+上海新闻综合,http://dns.161015.xyz:33334/udp/239.45.3.209:5140
+上海都市,http://dns.161015.xyz:33334/udp/239.45.3.236:5140
+纪实人文,http://ds.kiranas.top:4022/udp/232.0.0.162:9124
+纪实人文,http://pve.grayidea.com:4022/udp/239.3.1.212:8060&北京
+法治天地,http://dns.161015.xyz:33334/rtp/239.45.1.46:5140?
+第一财经,http://dns.161015.xyz:33334/rtp/239.45.3.211:5140?
 上海东方影视,https://api.livednow.org//migu/617290047?sign=gAAAAABm6B97D6FpBk9ukYx5zGMehneIKYUcincf1-Kelwn5rHSQ3UppcLVJLw30JYz6v51KC1vtg1cxDUCzSdYnLuKqbZrBA4noszg8qHpvJQFQVcF2V81idBcFtrbQF0eQTGDQw_9jidvXXuQyAPzcDoIEJclWOkIn2Jq7ltnla6bZMj5rxXeyrx7-AFLAEK0RXkfmj1F4a1tTSWm3Dv0Sa36sGGvaMQ%3D%3D
 上海纪实人文,https://api.livednow.org//migu/617289997?sign=gAAAAABm6B97BQU_YpO17454C6oVGgnJyrmAzZmvGdoMavMJmGtJTvQrIEiNCSQsgbL-p3kVi3WhH0cjXf8kbGWaMYbVbJ_AG3-iKYFU_T2X6QEuqW6Ud64sABJtPmjYTcncByQQ4xQCLYNvyC4EiGdZOt2He69feY8PhbQLYlr7I2H5XF2yiFNVIrOzny9V8ee-zRJLtWGx8Lpk37EtP45GSZ3oAqu3Hg%3D%3D
 七彩戏剧,https://api.livednow.org//migu/796071456?sign=gAAAAABm6B97FwhK5CtebEXCxHT8RRol7FNhA4BKayP5Wc9rwRyZolszYaLTpDbgujavLzmI8j1_LoD4ts28F313ca3JWCUUF6bRwYSObdtNeoAFcawj7HksAMT647OacJsW9FDGzNhAjMRBP37tCZMdGUycdC-8MFT9T8jZCbTQV9zfIayX-7dyU8pK0tGcOeDz3e1NFv0PzYrM053Ye2VY035EXEie8A%3D%3D
