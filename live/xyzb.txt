@@ -1319,6 +1319,13 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 石首综合,http://p8.vzan.com/slowlive/622923977748489779/live.m3u8
 
 江苏,#genre#
+江苏公共,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1143&tk=e347d250ab70
+江苏城市,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1144&tk=e347d250ab70
+江苏影视,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1146&tk=e347d250ab70
+江苏综艺,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1145&tk=e347d250ab70
+江苏教育,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1147&tk=e347d250ab70
+江苏国际,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1148&tk=e347d250ab70
+
 江苏公共,https://api.livednow.org//migu/626064693?sign=gAAAAABmWcv_2Uua-OS49Q62HEy4oNnI5xGUo1AsRYPaN5v8LHmlHh1Uuh_-kU_QIa7thllUAYupBbJv8zLBmfMRZviEQOldP23ydD0n2GuVVxS-Jg0b4szseT5Q5W-8AXOGHMAHgPZsupbCPEKqyd-OpnoVn24ORxS0JGygez-LJUmjEiCGixafwdI-japGdQTgyew-uQ-zDg6dWU16UTWtrRERazmg%3D%3D
 江苏城市,https://api.livednow.org//migu/626064714?sign=gAAAAABmWcv_tcZns8_sBBCtoGoC7nVAWdXPFtuyqcJvQ6tyuSMF_msim3VucMlTKP2aTBCwBQKOVmvOYNmpA4Dpvl-iP-RVDuQjPj4LTgLzybU0xvbSTzXb4GNqJtMOoJdDqYs7m9RluthDytpTyAByThhh7aOxJ0f0wZlGn6gTPQVZuTlq9rYyS0bmWdJVaNi2DiZAzPtNcUaEjfLI_j5RHrgLfKBuOQ%3D%3D
 江苏影视,https://api.livednow.org//migu/626064697?sign=gAAAAABmWcv_cKkO2-7ACZDMiT0Kiizps-yKY0_72op62kOaXQSIY62wzhO0wpcUdiecs8ASOztdDcsV5gs9qEoa277n54WFAqdZKGQJ5ECGeOdLmSzRq3wA3i4xC6HIU6g1NtCxHemh5-Spc4IABk0AkXXF6EVEmpZIxapTn81VkFiGOFCg4klTzx10Cuyc38_Q4QF1bcpsIhfP17aWGl9oiHvB377Obg%3D%3D
@@ -1707,13 +1714,10 @@ BTV国际,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.235:8000
 锦江综合,https://quxian.pull.cditv.cn/live/jinjiang.flv/playlist.m3u8?wsSecret=d481bfcf1cbcfe1e0897159e718ed338&wsTime=6708b17d
 
 安徽,#genre#
-安徽经济生活,https://live4.ahtv.cn/jjsh1/hd/live.m3u8?_upt=2f97fe501728227268
-安徽影视频道,https://live4.ahtv.cn/yspd1/hd/live.m3u8?_upt=6b45492c1728227358
-安徽公共频道,https://live1.ahtv.cn/ahgg/hd/live.m3u8?_upt=81cf826f1728227393
-安徽综艺体育,https://live5.ahtv.cn/zyty1/hd/live.m3u8?_upt=d45bd7321728227327
-安徽农业科教,https://live1.ahtv.cn/kjpd/hd/live.m3u8?_upt=96a8d5961728227435
-安徽移动,https://live5.ahtv.cn/ydds1/hd/live.m3u8?_upt=472c500b1728227516
-安徽国际频道,https://live5.ahtv.cn/ahgj1/hd/live.m3u8?_upt=f1ebfd6f1728227492
+安徽经济生活,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=0958&tk=e347d250ab70
+安徽影视频道,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=0960&tk=e347d250ab70
+安徽综艺体育,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=0959&tk=e347d250ab70
+
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
 安徽影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
@@ -1757,22 +1761,20 @@ BTV国际,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.235:8000
 芜湖生活频道,https://live3.wuhunews.cn/channel3/sd/live.m3u8
 
 河南,#genre#
-河南卫视,http://61.52.156.33:808/hls/16/index.m3u8
-河南新闻,https://4grau1mtugazdoqjqgr5drmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=38b35ada20299ce701fefe84f9d48934&wsTime=1728229819&wsSession=4070be435a2cb8c46b283d82-172821545532060&wsIPSercert=5f8c735250cc156d77c7e99f9179b6e5&wsiphost=local&wsBindIP=1
+
+河南新闻,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1269&tk=e347d250ab70
 
 河南都市,https://4grau1mtugazdoqjqgr5drmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=36d0a04a7daae319b31190c016e6abd2&wsTime=1728229819&wsSession=4070be435a2cb8c46b283d82-172821557320340&wsIPSercert=5f8c735250cc156d77c7e99f9179b6e5&wsiphost=local&wsBindIP=1
 河南民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=fb9b15b955a49f7112b4928999298f86&wsTime=1727419807
-河南电视剧,https://4grau1mtugazdoqjqgr4ucmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=d74567584dfdd8123f56615d55612b46&wsTime=1728229819&wsSession=b3b6ab52f31f7b9ea9919afd-172821576660492&wsIPSercert=5f8c735250cc156d77c7e99f9179b6e5&wsiphost=local&wsBindIP=1
+河南电视剧,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1268&tk=e347d250ab70
 河南法治,https://4grau1mtugazdoqjqgr5dnmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=f64f5c20272cf3e3a50534ca31d32e69&wsTime=1728229819&wsSession=fe316ff0a9ff07b5a0b623c0-172821563555659&wsIPSercert=5f8c735250cc156d77c7e99f9179b6e5&wsiphost=local&wsBindIP=1
-河南公共,https://4grau1mtugazdoqjqgr4ucmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=6baac7a08b62727d004cf61c86608ffb&wsTime=1728229819&wsSession=b3b6ab52f31f7b9ea9919afd-172821567309412&wsIPSercert=5f8c735250cc156d77c7e99f9179b6e5&wsiphost=local&wsBindIP=1
-
+河南公共,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1270&tk=e347d250ab70
 河南文物宝库,https://4grau1mtugazdoqjqgr4ukmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=143121e8a6bfe65de68c61de4b6af0d9&wsTime=1728229819&wsSession=dee839c1918ea1e7d69831e6-172821580326052&wsIPSercert=5f8c735250cc156d77c7e99f9179b6e5&wsiphost=local&wsBindIP=1
-河南乡村,https://4grau1mtugazdoqjqgr4ucmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=1e0a43317d8aeb04fe859942ce2698b8&wsTime=1728229819&wsSession=b3b6ab52f31f7b9ea9919afd-172821573524984&wsIPSercert=5f8c735250cc156d77c7e99f9179b6e5&wsiphost=local&wsBindIP=1
-
+河南乡村,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1271&tk=e347d250ab70
 武术世界,https://4grau1mtugazdoqjqgr4u1mmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=05bb99dd45d0aaa4c6ac964ec10f1165&wsTime=1728229819&wsSession=d7213ac587695ce813946976-172821588613793&wsIPSercert=5f8c735250cc156d77c7e99f9179b6e5&wsiphost=local&wsBindIP=1
 晴彩中原,
 https://4grau1mtugazdoqjqgr4uqmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=6e0029dfcf4a164140781321c53a7682&wsTime=1728229819&wsSession=5aa0ea4072d13a379e41a66f-172821590997130&wsIPSercert=5f8c735250cc156d77c7e99f9179b6e5&wsiphost=local&wsBindIP=1
-河南梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=69457f7727ed18116290d8e1576871be&wsTime=1727419807
+河南梨园频道,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1272&tk=e347d250ab70
 南阳综合,http://tvcdn.stream3.hndt.com/tv/65efd1cbf31347afbe964ae8b3354ac7_transios/playlist.m3u8?wsSecret=8653b2465d147d8c5fb0af99ebad0b9a&wsTime=1727420273
 焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?wsSecret=23660a9431fe22e02c72b313f1f995c5&wsTime=1727405938
 焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?wsSecret=e056b04c32cd64d59bb1d4a4643fe0f3&wsTime=1727405995
@@ -1798,6 +1800,13 @@ https://4grau1mtugazdoqjqgr4uqmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcd
 宁德-2,http://live.nddst.com/NDTV2D/M/live.m3u8?_upt=2c7b871d1727413765
 三明-1,http://stream.smntv.cn/smtv1/sd/live.m3u8
 河北,#genre#
+
+河北影视,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1450&tk=e347d250ab70
+河北都市,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1447&tk=e347d250ab70
+河北经济,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1448&tk=e347d250ab70
+河北少儿,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1451&tk=e347d250ab70
+河北公共,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1452&tk=e347d250ab70
+河北农民,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1449&tk=e347d250ab70
 
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1728223254&k=4504d87da4f5a831eaf1c8f54b7734c1
 河北影视,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1728223397&k=1f5f430eb2e4304c1dad6a2a7c55415e
@@ -1971,14 +1980,20 @@ https://4grau1mtugazdoqjqgr4uqmmwq3tse5tqqp48r3mbpw31h4dqct4y.wslivehls.com/tvcd
 海南少儿,http://stream3.hnntv.cn/sepd/sd/live.m3u8?_upt=364522851703585240
 海南公共,http://stream3.hnntv.cn/ggpd/sd/live.m3u8?_upt=1a1712d81703585253
 海南文旅,http://stream3.hnntv.cn/wlpd/sd/live.m3u8?_upt=81efe3e41703585211
+
 黑龙江,#genre#
-黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
-黑龙江新闻,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
-黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
-黑龙江农业,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
-黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
-黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
-黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+黑龙江新闻,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1489&tk=e347d250ab70
+黑龙江都市,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1491&tk=e347d250ab70
+黑龙江农业,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1492&tk=e347d250ab70
+黑龙江影视,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1488&tk=e347d250ab70
+黑龙江文体,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1490&tk=e347d250ab70
+黑龙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1493&tk=e347d250ab70
+哈尔滨综合,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1500&tk=e347d250ab70
+哈尔滨生活,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1501&tk=e347d250ab70
+哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
+哈尔滨影视,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=1499&tk=e347d250ab70
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
+
 哈尔滨综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
