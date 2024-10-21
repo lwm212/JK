@@ -85,7 +85,26 @@ CCTV15,http://cg0.hunancatv.cn:9090/live/CCTV-15_2000.m3u8?deviceid=866265039837
 CCTV16,http://cg1.hunancatv.cn:9090/live/CCTV16_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=7114844658870775790&srchost=172.16.22.158:8060&gid=VUdUekIjmBFSrvnJArQETQ%3D%3D
 CCTV17,http://cg1.hunancatv.cn:9090/live/CCTV17_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604330031&srchost=172.16.22.158:8060&gid=ZZpW6kjLlI21prSal24AuA%3D%3D
 
-
+CCTV1,http://pi.0472.org/live/cctv1.m3u8?token=240411
+CCTV2,http://pi.0472.org/live/cctv2.m3u8?token=240411
+CCTV3,http://pi.0472.org/live/cctv3.m3u8?token=240411
+CCTV4,http://pi.0472.org/live/cctv4.m3u8?token=240411
+CCTV5,http://pi.0472.org/live/cctv5.m3u8?token=240411
+CCTV5+,http://pi.0472.org/live/cctv5p.m3u8?token=240411
+CCTV6,http://pi.0472.org/live/cctv6.m3u8?token=240411
+CCTV7,http://pi.0472.org/live/cctv7.m3u8?token=240411
+CCTV8,http://pi.0472.org/live/cctv8.m3u8?token=240411
+CCTV9,http://pi.0472.org/live/cctv9.m3u8?token=240411
+CCTV10,http://pi.0472.org/live/cctv10.m3u8?token=240411
+CCTV11,http://pi.0472.org/live/cctv11.m3u8?token=240411
+CCTV12,http://pi.0472.org/live/cctv12.m3u8?token=240411
+CCTV13,http://pi.0472.org/live/cctv13.m3u8?token=240411
+CCTV14,http://pi.0472.org/live/cctv14.m3u8?token=240411
+CCTV15,http://pi.0472.org/live/cctv15.m3u8?token=240411
+CCTV16,http://pi.0472.org/live/cctv16.m3u8?token=240411
+CCTV17,http://pi.0472.org/live/cctv17.m3u8?token=240411
+CCTV4K,http://pi.0472.org/live/cctv4k.m3u8?token=240411
+CCTV8K,http://pi.0472.org/live/cctv8k.m3u8?token=240411
 
 CCTV1,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://58.19.38.162:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
