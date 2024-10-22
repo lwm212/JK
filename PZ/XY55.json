@@ -29,18 +29,15 @@
 		},  
 
         {
-            "key": "junjun",
-            "name": "影视┃3",
+            "key": "瓜子",
+            "name": "新语影视┃3",
+            "api": "csp_Gz360",
+            "jar": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/JAR/xm.jar",
             "type": 3,
             "searchable": 1,
-            "quickSearch": 1,
-            "api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/js/junjun.js",
-            "ext": {
-                "host": "http://122.228.85.203:1000/api.php/app/",
-                "*": [
-                    "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
-                ]
-            }
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0
         },
 
 		{
@@ -131,7 +128,6 @@
 			"name": "影视┃12",
 			"type": 3,
 			"changeable": 0,
-
 			"api": "csp_SaoHuo"
 		},
 
