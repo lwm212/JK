@@ -1292,14 +1292,12 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1672502399-0-0-ab2f43952f7fcf1b2da0c3372ec7e0e5
 荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1672502399-0-0-a9eb4b69fedb8e6d352f38af4867984f
 宜昌综合,http://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1735660799-0-0-152a9f6a201d7d56428feae52d4b18b8
-
 宜昌旅游生活,http://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-3232283b7b347bb21b712ea8398761d1
 恩施综合,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8?auth_key=3300396836-0-0-b26efde55dd5de7d085777c244fde235&extra_key=qn-sLLJm-Ey8AP9YENN6khwXELMx76Fr-aaW1Yo15J6dXKeIPLquCJuhiNPWua9K9sof0zea2O-BauA4RiqdgP_VMNmq5b_o8VcbOQYHAsJlzV4j8U2NR4fJhgpC-QKx2pa75snICrzq9a4KeNcmUQ
 恩施文旅,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
 
 十堰综合,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰经济,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
-襄阳综合,http://123.57.217.238/api/live/v1/sources?Pid=local-xiangyangzonghe
 黄冈新闻,http://huanggang-live21.cjyun.org/10210/s10210-xwzh.m3u8?auth_key=1735660799-0-0-d97fed8905fc6066ed8fa063e40b13c0
 黄冈公共,http://huanggang-live21.cjyun.org/10210/s10210-xwgg.m3u8?auth_key=1735660799-0-0-39c6d712b6337fbdefe84e2d22e34513
 咸宁综合,http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8?auth_key=4836074354-0-0-d3ae3e237ae5fdaa7e72d8b930ff507b&extra_key=q_KhUzRNviTQMw35AK7VUOsxUuO3fkLbRbWjHBywJErK0zgP7mqTsFvo50t7UieqiF-pvnPCIMJa5QdRQ1gLPBYWz9HOG7TAdI5vRG232V88z98QUcOS1P6iUQbACyEaoEVKLRe_Am23Ezeahvwg0pDBetjQHrLPx7P8mro2vqw15rvUQKLSF-HBByajerez
@@ -1343,14 +1341,7 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 优漫卡通,https://api.livednow.org//migu/626064703?sign=gAAAAABmWcv_tcZzxvplxQp_h81QI51jD6UJVB0tPNWH8_OW9tinzAotKPh-EXH4Kg-GqWul0liaDoOHG-bpWSbO3-iCi85AefIMzagwUgItBqULhKyHvLd50VhO13NaWgQ1dojWLuGm_bCsrxWgVe5hwV9DojTUQIgYWvRi_wlvF2JnPGM4COTr5OLYnZ3AeaWfEQqPRMdbH1fHMmu94wEgcwhR05_ZVA%3D%3D
 南京新闻综合频道,https://api.livednow.org//migu/838109047?sign=gAAAAABmWcv_yK7X5Zm3AjK4LK1OcsmCMGJiDGXpv6ukoBO01V0A24WnTTPVL3FQQaRSFLqaAZWD9lSPLvKHMhlEFpPXQ2Rn3ktC18Qlp4sENKy7SVhjfL8bchmGX3N_h-XQbgBfewUsRm6J6TPsDVzocxfeeHuONyMbR623HhfZ1uLK3ibzNuXy_flv1ZA9sFtFubmknG7fc2qC_gr0QyJb-cMD0j5jkw%3D%3D
 南京教科频道,https://api.livednow.org//migu/838153729?sign=gAAAAABmWcv_qbHjUJ1mXy3qeOXnyDS-SX0CpKD9nTldIuUdGVbE2IOZylKFQ5ppCVPHADL1LSUl4GIJGAuIWHPblKRQSxY3MSAiAodGqBdlfuWX6QgsnfxnxuJaKiSc1qhN89zcQetUlozFlDgjjMCNrx0tNL7vk9NKh4fnauTbRFb7Otkq3aecVK3z4e3Bhn_CT6qbEIeY4iPBA1neKgjCI8sE72N5yg%3D%3D
-
 南京十八频道,https://api.livednow.org//migu/838151753?sign=gAAAAABmWcv_7zfzdlcOYLLRq1j8tXKNZfOpsCZYHwOCjkJRs-zGuivOyhOj5Es7lS9hBgkGLi-TaMpSsmMsPzyFn7zxHcOjCQQ0NImj6m_QrqF6zhizzLhd43QNZuQ7wdAZskzAUqaTWJEH0eUTqx4LoJHcem9WZlp95Gc6INWuNMD7A_BhASye6hUUIH_pJTjgoKuqmHmctr4aD4xwCJWX4p6wKLD0yQ%3D%3D
-
-
-
-
-
-
 无锡新闻,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡都市,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
@@ -1360,12 +1351,10 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 苏州社会经济,http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
 苏州文化生活,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 苏州生活资讯,http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
-
 盐城新闻综合,http://stream.0515yc.cn/yctv1/playlist.m3u8
 盐城法制生活,http://stream.0515yc.cn/yctv2/playlist.m3u8
 盐城城市公共,http://stream.0515yc.cn/yctv3/playlist.m3u8
 徐州综合,https://api.livednow.org//migu/639731747?sign=gAAAAABmWcv_xKgE2x3ct6WN2RHPLxWklAPwfFFMxKq2VUm5IvAJodxEP7batvyYsGWA6mh1KdkpobYvwChugvbAKCfYB7YqF55E1FILLESa5AyclUY8jC02xd3in5wRZlIsO7-JsKnRu_1EOxMohBJQzTTi2RNyX-fAfOBFoBIXboLZEbWLKqiilA78HsWsTaMM7xIur--mGMMSkhqutewfckv8_TuESg%3D%3D
-
 徐州生活,http://183.207.248.9/PLTV/3/224/3221225947/index.m3u8
 徐州文艺,http://183.207.248.16/PLTV/3/224/3221225949/index.m3u8
 徐州公共,http://stream3.huaihai.tv/xz4t/sd/live.m3u8
@@ -1378,8 +1367,6 @@ HZTV-2高清,http://113.100.72.95:8899/udp/239.77.0.248:5146
 淮安新闻综合,https://api.livednow.org//migu/639731826?sign=gAAAAABmWcv_BMIRVgIJDaBnuEjxje6h84X2FjobNALyYQfKEiHtyg75vA3TlV9tSEFKNhJcbU7dVJt6VZMCIVQu5L-9litfJvB2YYxWW4KPiaQ7gnEJiEA7p9pX3LFQ9Cb2a6gpbrxaUpwP7tLcQiAi8_YCEhoqA6cEkFgS7XVLMGOOKpMmqPc3ApH46oVlyQGICO40v1T9TLywGpiazU75xTa020VAPg%3D%3D
 泰州新闻综合,https://api.livednow.org//migu/639731818?sign=gAAAAABmWcv_98Ttg0zBizqZ1kHF1YmuedvxBoVdIuyKdXCOTBPkl_ceL0qpQi7VzYJsYEBKAiqA4DXmD_6EgHkCopnQW894SEFTBf7wl_zjib-44xZWc7tBWQ9fVjqeShLHPXYbMcBl6G1dRjOrB1QZv99v2ZcLji1PoBuISnvqxeUbZCuVpEIbltlQcr68vdVesQKdiMNnSEb5HdstdqpnG0vPpWAYJg%3D%3D
 宿迁新闻综合,https://api.livednow.org//migu/639731832?sign=gAAAAABmWcv_ICjDPg4GcmIKsX3fdCx15bcO4ZbwrDRSB5zydPNxWUszaGBpCI4MhiSdkweC-X_b25p5TkH2LM-G78kpNqOF8MUSR4n5FqybXehOGum9zaZZy9favE4iHs58_gvcSsCU4pAlFgdmzURPiCFcAeD0YvHgdAIyS-0lBnelC78ueUVKntKlxzbIuuxEveSoVYvZ20ed6gH6kqyz48acmcKGWA%3D%3D
-
-
 
 北京,#genre#
 BTV新闻,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.159:8000
@@ -1443,7 +1430,11 @@ BTV国际,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.235:8000
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 之江纪录,http://ali-vl.cztv.com/channels/lantian/channel012/1080p.m3u8
 
-
+杭州综合,http://rihou.cc:567/33687.php?id=hzzh
+杭州明珠,http://rihou.cc:567/33687.php?id=hzmz
+杭州生活,http://rihou.cc:567/33687.php?id=hzsh
+杭州影视,http://rihou.cc:567/33687.php?id=hzys
+杭州少体,http://rihou.cc:567/33687.php?id=hzse
 杭州综合,http://live.hoolo.tv/hztv1/sd/live.m3u8?auth_key=1728751431-0-0-3d491e79c9fd2e4834ec2dec07f0d9cf
 
 杭州明珠,http://live.hoolo.tv/hztv2/sd/live.m3u8?auth_key=1728751561-0-0-3c17128b931e7d113d0dcf41c80a3fca
