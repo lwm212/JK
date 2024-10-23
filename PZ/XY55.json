@@ -2,8 +2,9 @@
 	"sites": [
 
 
-		
-		{	"key": "影视┃1",
+
+		{
+			"key": "影视┃1",
 			"name": "影视┃1",
 			"type": 3,
 			"api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/gao/master/lib/drpy2.min.js",
@@ -14,7 +15,7 @@
 			"ext": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/js/金牌影院.js"
 		},
 
-       
+
 		{
 			"key": "影视┃2",
 			"name": "影视┃2",
@@ -26,19 +27,19 @@
 			"order_num": 0,
 			"changeable": 0,
 			"ext": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/js/瓜子.js"
-		},  
+		},
 
-        {
-            "key": "瓜子",
-            "name": "新语影视┃3",
-            "api": "csp_Gz360",
-            "jar": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/JAR/xm.jar",
-            "type": 3,
-            "searchable": 1,
-            "playerType": 2,
-            "timeout": 30,
-            "changeable": 0
-        },
+		{
+			"key": "瓜子",
+			"name": "新语影视┃3",
+			"api": "csp_Gz360",
+			"jar": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/JAR/xm.jar",
+			"type": 3,
+			"searchable": 1,
+			"playerType": 2,
+			"timeout": 30,
+			"changeable": 0
+		},
 
 		{
 			"key": "csp_XYQHiker_七新影视",
@@ -288,31 +289,31 @@
 			"changeable": 0,
 			"ext": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/drpy/TX.js"
 		},
-        {
-            "key": "TX视频",
-            "name": "TX视频",
-            "type": 3,
-            "api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "http://www.mpanso.com/小米/ttt111222.js"
-        },
-        {
-            "key": "MGTV",
-            "name": "MGTV",
-            "type": 3,
-            "api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-	    "playerType": "2",
-            "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo111222.js"
-        },
+		{
+			"key": "TX视频",
+			"name": "TX视频",
+			"type": 3,
+			"api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "http://www.mpanso.com/小米/ttt111222.js"
+		},
+		{
+			"key": "MGTV",
+			"name": "MGTV",
+			"type": 3,
+			"api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"playerType": "2",
+			"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo111222.js"
+		},
 		{
 			"key": "dr_奇珍异兽",
 			"name": "爱奇艺",
