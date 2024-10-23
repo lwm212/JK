@@ -1,4 +1,22 @@
 央视频道,#genre#
+CCTV1,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv1#http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv1
+CCTV2,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv2#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv2
+CCTV3,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv3#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv3
+CCTV4,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv4#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv4
+CCTV5,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv5#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv5
+CCTV5+,http://101.200.122.188:5055/tptv/G_CCTV-5PLUS-HD-265-8M?type=origin
+CCTV6,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv6#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv6
+CCTV7,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv7#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv7
+CCTV8,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv8#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv8
+CCTV9,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv9
+CCTV10,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv10
+CCTV11,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv11
+CCTV12,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv12
+CCTV13,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv13
+CCTV14,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv14
+CCTV15,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv15
+CCTV16,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv16#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv16
+CCTV4K,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv17#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv17
 
 
 
@@ -121,24 +139,6 @@ CCTV15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV16,http://cg1.hunancatv.cn:9090/live/CCTV16_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=7114844658870775790&srchost=172.16.22.158:8060&gid=VUdUekIjmBFSrvnJArQETQ%3D%3D
 CCTV17,http://222.134.245.16:9901/tsfile/live/0019_1.m3u8?key=txiptv
 
-CCTV1,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv1#http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv1
-CCTV2,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv2#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv2
-CCTV3,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv3#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv3
-CCTV4,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv4#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv4
-CCTV5,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv5#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv5
-CCTV5+,http://101.200.122.188:5055/tptv/G_CCTV-5PLUS-HD-265-8M?type=origin
-CCTV6,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv6#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv6
-CCTV7,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv7#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv7
-CCTV8,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv8#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv8
-CCTV9,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv9
-CCTV10,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv10
-CCTV11,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv11
-CCTV12,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv12
-CCTV13,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv13
-CCTV14,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv14
-CCTV15,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv15
-CCTV16,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv16#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv16
-CCTV4K,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv17#http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv17
 
 
 
