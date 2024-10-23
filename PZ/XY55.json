@@ -262,14 +262,17 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-
 		{
-			"key": "csp_Dm84",
-			"name": "动漫",
+			"key": "新语影视┃3",
+			"name": "新语影视┃20",
 			"type": 3,
-			"playerType": "2",
-			"api": "csp_Dm84",
-			"jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar"
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/lib/drpy2.min.js",
+			"ext": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/js/瓜子.js"
 		},
 
 
