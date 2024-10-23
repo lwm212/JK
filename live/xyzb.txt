@@ -16,7 +16,7 @@ CCTV13,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv13
 CCTV14,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv14
 CCTV15,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv15
 CCTV16,ttp://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv16
-CCTV4K,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv17
+CCTV17,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv17
 
 
 
