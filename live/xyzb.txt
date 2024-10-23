@@ -15,7 +15,7 @@ CCTV12,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv12
 CCTV13,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv13
 CCTV14,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv14
 CCTV15,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv15
-CCTV16,ttp://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv16
+CCTV16,http://cg1.hunancatv.cn:9090/live/CCTV16_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=7114844658870775790&srchost=172.16.22.158:8060&gid=VUdUekIjmBFSrvnJArQETQ%3D%3D
 CCTV17,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv17
 
 
