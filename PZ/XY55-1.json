@@ -131,6 +131,38 @@
 			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar",
 			"api": "csp_SaoHuo"
 		},
+	        {
+            "key": "saohuo",
+            "name": " 👗┃骚火┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://gitee.com/zengzhiwei1/about_-tv/raw/master/feimao/lib/drpy2.min.js",
+            "ext": "https://gitee.com/zengzhiwei1/about_-tv/raw/master/feimao/lib/骚火.js"
+        },
+        {
+            "key": "爱看影视",
+            "name": "❤┃爱看┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://gitee.com/zengzhiwei1/about_-tv/raw/master/feimao/lib/drpy2.min.js",
+            "ext": "https://gitee.com/zengzhiwei1/about_-tv/raw/master/feimao/lib/爱看.js"
+        },
+        {
+            "key": "圣城影视",
+            "name": "🏰┃圣城┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://gitee.com/zengzhiwei1/about_-tv/raw/master/feimao/lib/drpy2.min.js",
+            "ext": "https://gitee.com/zengzhiwei1/about_-tv/raw/master/feimao/lib/SC1080.js"
+        },
+        {
+            "key": "云播影视",
+            "name": "☁️┃云播┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://gitee.com/zengzhiwei1/about_-tv/raw/master/feimao/lib/drpy2.min.js",
+            "ext": "https://gitee.com/zengzhiwei1/about_-tv/raw/master/feimao/lib/TVB云播.js"
+        },	
 		{
 			"key": "小米",
 			"name": "影视┃13",
