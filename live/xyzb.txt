@@ -56,28 +56,6 @@ CCTV14,http://124.112.202.94:18888/rtp/238.1.78.243:7816
 CCTV15,http://124.112.202.94:18888/rtp/238.1.78.222:7648
 CCTV17,http://124.112.202.94:18888/rtp/238.1.78.178:7296
 
-CCTV1,http://101.200.122.188:5055/tptv/G_CCTV-1-AVS-4K264?type=origin
-CCTV2,http://101.200.122.188:5055/tptv/G_CCTV-2-HD-265-8M?type=origin
-CCTV3,http://101.200.122.188:5055/tptv/G_CCTV-3-AVS-4K264?type=origin
-CCTV4,http://101.200.122.188:5055/tptv/G_CCTV-4-HD-265-8M?type=origin
-CCTV5,http://101.200.122.188:5055/tptv/G_CCTV-5-AVS-4K264?type=origin
-CCTV5+,http://101.200.122.188:5055/tptv/G_CCTV-5PLUS-HD-265-8M?type=origin
-CCTV6,http://101.200.122.188:5055/tptv/G_CCTV-6-AVS-4K264?type=origin
-CCTV7,http://101.200.122.188:5055/tptv/G_CCTV-7-HD-265-8M?type=origin
-CCTV8,http://101.200.122.188:5055/tptv/G_CCTV-8-AVS-4K264?type=origin
-CCTV9,http://101.200.122.188:5055/tptv/G_CCTV-9-HD-265-8M?type=origin
-CCTV10,http://101.200.122.188:5055/tptv/G_CCTV-10-HD-265-8M?type=origin
-CCTV11,http://101.200.122.188:5055/tptv/H265-5500k-1080P-cctv11?type=origin
-CCTV12,http://101.200.122.188:5055/tptv/G_CCTV-12-HD-265-8M?type=origin
-CCTV13,http://101.200.122.188:5055/tptv/G_CCTV-13-HQ?type=origin
-CCTV14,http://101.200.122.188:5055/tptv/G_CCTV-14-CQ?type=origin
-CCTV15,http://101.200.122.188:5055/tptv/H265-5500k-1080P-cctv15?type=origin
-CCTV16,http://101.200.122.188:5055/tptv/G_CCTV-16-CQ?type=origin
-CCTV16 4K,http://101.200.122.188:5055/tptv/G_CCTV-16-4K?type=origin
-CCTV17,http://101.200.122.188:5055/tptv/G_CCTV-17-CQ?type=origin
-CCTV4K,http://101.200.122.188:5055/tptv/G_CCTV-4K-HD?type=origin
-
-
 
 
 CCTV1,https://api.livednow.org/migu/608807420?sign=gAAAAABm5t8YAIUOA61Z7aZZnIjsRJNIvrqb_xbDTA62p-HwYqYUqWL14Pr08eSUgJuYbPs6Hgc9DN-k_l1KlZKB3NsLKZwM5kF7Bq1k6PxbXP1CNKHJgbRlSFR0TbYnN8vWBUqsvHh0TBZDraBF3Pe58-wX1r01Dqc8e0OhZYGV1gjSNzT5JBuMFEW3v8b5ABr2C8-UWy_iZL68TP5Ea0SPBnwsSSzZzg%3D%3D
@@ -281,32 +259,6 @@ CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 重庆卫视,http://124.112.202.94:18888/rtp/238.1.78.31:6176
 黑龙江卫视,http://124.112.202.94:18888/rtp/238.1.78.159:7144
 
-
-
-江苏卫视,http://101.200.122.188:5055/tptv/G_JIANGSU-HD-265-8M?type=origin
-东方卫视,http://101.200.122.188:5055/tptv/G_DONGFANG-HD-265-8M?type=origin
-北京卫视,http://101.200.122.188:5055/tptv/G_BEIJING-HD-265-8M?type=origin
-广东卫视,http://101.200.122.188:5055/tptv/G_GUANGDONG-HD-265-8M?type=origin
-山东卫视,http://101.200.122.188:5055/tptv/G_SHANDONG-HD-265-8M?type=origin
-深圳卫视,http://101.200.122.188:5055/tptv/G_SHENZHEN-HD-265-8M?type=origin
-湖北卫视,http://101.200.122.188:5055/tptv/G_HUBEI-HD-265-8M?type=origin
-湖南卫视,http://101.200.122.188:5055/tptv/G_HUNAN-HD-265-8M?type=origin
-浙江卫视,http://101.200.122.188:5055/tptv/G_ZHEJIANG-HD-265-8M?type=origin
-黑龙江卫视,http://101.200.122.188:5055/tptv/G_HEILONGJIANG-HD-265-8M?type=origin
-天津卫视,http://101.200.122.188:5055/tptv/G_TIANJIN-HD-265-8M?type=origin
-安徽卫视,http://101.200.122.188:5055/tptv/G_ANHUI-HD-265-8M?type=origin
-辽宁卫视,http://101.200.122.188:5055/tptv/G_LIAONING-HD-265-8M?type=origin
-东南卫视,http://101.200.122.188:5055/tptv/H265-5500k-1080P-dongnanstv?type=origin
-吉林卫视,http://101.200.122.188:5055/tptv/G_JILIN-CQ?type=origin
-四川卫视,http://101.200.122.188:5055/tptv/G_SICHUAN-CQ?type=origin
-江西卫视,http://101.200.122.188:5055/tptv/G_JIANGXI-CQ?type=origin
-河北卫视,http://101.200.122.188:5055/tptv/G_HEBEI-CQ?type=origin
-河南卫视,http://101.200.122.188:5055/tptv/G_HENAN-CQ?type=origin
-贵州卫视,http://101.200.122.188:5055/tptv/G_GUIZHOU-CQ?type=origin
-重庆卫视,http://101.200.122.188:5055/tptv/G_CHONGQING-CQ?type=origin
-云南卫视,http://101.200.122.188:5055/tptv/G_YUNNAN-HQ?type=origin
-三沙卫视,http://101.200.122.188:5055/tptv/G_SANSHA-HQ?type=origin
-海南卫视,http://101.200.122.188:5055/tptv/HD-8000k-1080P-lvyoustv?type=origin
 
 
 浙江卫视,http://222.134.245.16:9901/tsfile/live/0124_1.m3u8?key=txiptv
