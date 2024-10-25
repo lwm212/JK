@@ -1,5 +1,22 @@
 央视频道,#genre#
-
+CCTV1,http://111.8.224.6:8085/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://111.8.224.6:8085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://111.8.224.6:8085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://111.8.224.6:8085/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://111.8.224.6:8085/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://111.8.224.6:8085/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://111.8.224.6:8085/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://111.8.224.6:8085/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://111.8.224.6:8085/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://111.8.224.6:8085/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://111.8.224.6:8085/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://111.8.224.6:8085/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://111.8.224.6:8085/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://111.8.224.6:8085/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://111.8.224.6:8085/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://111.8.224.6:8085/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://cg1.hunancatv.cn:9090/live/CCTV16_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=7114844658870775790&srchost=172.16.22.158:8060&gid=VUdUekIjmBFSrvnJArQETQ%3D%3D
+CCTV17,http://111.8.224.6:8085/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV1,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv1
 CCTV2,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv2
@@ -17,7 +34,6 @@ CCTV12,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv12
 CCTV13,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv13
 CCTV14,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv14
 CCTV15,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv15
-CCTV16,http://cg1.hunancatv.cn:9090/live/CCTV16_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=7114844658870775790&srchost=172.16.22.158:8060&gid=VUdUekIjmBFSrvnJArQETQ%3D%3D
 CCTV17,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv17
 
 
@@ -204,6 +220,35 @@ CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 卫视频道,#genre#
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+江苏卫视,http://111.8.224.6:8085/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://111.8.224.6:8085/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://111.8.224.6:8085/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://111.8.224.6:8085/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://111.8.224.6:8085/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://111.8.224.6:8085/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://111.8.224.6:8085/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://111.8.224.6:8085/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://111.8.224.6:8085/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://111.8.224.6:8085/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://111.8.224.6:8085/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://111.8.224.6:8085/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://111.8.224.6:8085/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://111.8.224.6:8085/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://111.8.224.6:8085/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://111.8.224.6:8085/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://111.8.224.6:8085/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://111.8.224.6:8085/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://111.8.224.6:8085/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://111.8.224.6:8085/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://111.8.224.6:8085/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://111.8.224.6:8085/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://111.8.224.6:8085/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://111.8.224.6:8085/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+
+新疆卫视,http://111.8.224.6:8085/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 浙江卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0124_1.m3u8
 湖南卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0128_1.m3u8
 北京卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0122_1.m3u8
