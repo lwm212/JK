@@ -643,6 +643,11 @@ SiTV金色学堂,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000026105/1.m3u8?
 SiTV乐游,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 
 体育游戏赛事,#genre#
+劲爆体育,http://111.8.224.6:8085/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+魅力足球,http://111.8.224.6:8085/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+游戏风云,http://111.8.224.6:8085/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+快乐垂钓,http://111.8.224.6:8085/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+
 NBA 经典,https://api.livednow.org//migu/788815380?sign=gAAAAABm6B97dbIHfqukFF7pb0Hb6YY7CPB-4QSwlM1JUkJWonBSEb_LUsK2NgXexLe64Bvw2iSYEn269mITqlCnkZYIKzztlfnGGlmh13vYiSjNkCm5CKLkAVzMzTNtKd3cVCLvrkH2BQXk32sGXowwsTXxIMIQVGQm7x6b2chgSTtYlOaaBIsj9HwbdK1FICRQe3H2yyUNfWXnAH31sq0hOJJBwLhaOA%3D%3D
 大联赛经典,https://api.livednow.org//migu/780288994?sign=gAAAAABm6B97jfan4nmahy6JNqe01G_X8ZXlocPDc-C6U6_yEgoLFxLIse8bnBOg4m1xVPCCRGrSnBeLm1ZZxg0ca18P_l8VU8IP7uYuc5ToJck4CrtauHlOfIKPsupsCnAmtgUDpRQQVYcjtEFU2C79gW70qq_GRWBE5Pzdlsd6UzL6pqGUH2x9CkClV417aOYjsD5YOTSGsYO_Y5SF2IsAqk3wjyC56Q%3D%3D
 CBA 经典,https://api.livednow.org//migu/788813182?sign=gAAAAABm6B973YomU3cFcT2RoC0hDOtAiDvnKEHzyDpZWVvxpFimbA3hhv1gmtrfDQI8ruq7Ie5WlBxoXfYKHonFvG5tbXk_jbpAkejxsQpHmMRs1stwaJc6wuqzINCOi95xJbbX7TYyj3A0rsMpeNmywz-ErAe1xdQJalKXbMwtqN308U56HX4SPrLLaoqjXOxqAn_WndxhydVpLaryO9fr-EPK9df9VQ%3D%3D
@@ -1011,7 +1016,7 @@ IPTV,#genre#
 广州竞赛频道,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
 广州电视台法治频道,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
 广州南国都市频道,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=057c43946c61f665a7cbbfef9f228555&txTime=1913a1cfc6d
 
 
 
@@ -1420,7 +1425,7 @@ CQTV都市,http://14.106.80.177:6789/rtp/235.254.198.181:7980
 
 
 山东,#genre#
-
+山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 
 济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 济宁教育,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
