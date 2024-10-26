@@ -1416,7 +1416,10 @@ CQTV都市,http://14.106.80.177:6789/rtp/235.254.198.181:7980
 酋阳综合,http://qxlmlive9.cbg.cn/applive/youytv01/playlist.m3u8
 忠县综合,https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
 广西,#genre#
-
+广西影视,http://219.159.194.143:8181/tsfile/live/1009_1.m3u8
+广西新闻,http://219.159.194.143:8181/tsfile/live/1012_1.m3u8
+广西综艺,http://219.159.194.143:8181/tsfile/live/1010_1.m3u8
+广西都市,http://219.159.194.143:8181/tsfile/live/1011_1.m3u8
 南宁文旅,https://e98b8c6507d7ed33371fcfc496f394a4.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5affb4a554e84f0e84b54b224d6558bb
 南宁影视,https://e98b8c6507d7ed33371fcfc496f394a4.livehwc3.cn/hls.nntv.cn/nnlive/YSYL_244.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=
 南宁新闻,https://e98b8c6507d7ed33371fcfc496f394a4.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0a3eb3eb53fc3fb213072a60e47af463
