@@ -189,24 +189,6 @@ CCTV15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV16,http://cg1.hunancatv.cn:9090/live/CCTV16_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=7114844658870775790&srchost=172.16.22.158:8060&gid=VUdUekIjmBFSrvnJArQETQ%3D%3D
 CCTV17,http://222.134.245.16:9901/tsfile/live/0019_1.m3u8?key=txiptv
 
-CCTV1,http://22725y284r.yicp.fun:9902/tsfile/live/0001_1.m3u8
-CCTV2,http://22725y284r.yicp.fun:9902/tsfile/live/0002_1.m3u8
-CCTV3,http://22725y284r.yicp.fun:9902/tsfile/live/0003_1.m3u8
-CCTV4,http://22725y284r.yicp.fun:9902/tsfile/live/0004_1.m3u8
-CCTV5,http://22725y284r.yicp.fun:9902/tsfile/live/0005_1.m3u8
-CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
-CCTV6,http://22725y284r.yicp.fun:9902/tsfile/live/0006_1.m3u8
-CCTV7,http://22725y284r.yicp.fun:9902/tsfile/live/0007_1.m3u8
-CCTV8,http://22725y284r.yicp.fun:9902/tsfile/live/0008_1.m3u8
-CCTV9,http://22725y284r.yicp.fun:9902/tsfile/live/0009_1.m3u8
-CCTV10,http://22725y284r.yicp.fun:9902/tsfile/live/0010_1.m3u8
-CCTV11,http://22725y284r.yicp.fun:9902/tsfile/live/0011_1.m3u8
-CCTV12,http://22725y284r.yicp.fun:9902/tsfile/live/0012_1.m3u8
-CCTV13,http://22725y284r.yicp.fun:9902/tsfile/live/0013_1.m3u8
-CCTV14,http://22725y284r.yicp.fun:9902/tsfile/live/0014_1.m3u8
-CCTV15,http://22725y284r.yicp.fun:9902/tsfile/live/0015_1.m3u8
-CCTV16,http://cg1.hunancatv.cn:9090/live/CCTV16_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=7114844658870775790&srchost=172.16.22.158:8060&gid=VUdUekIjmBFSrvnJArQETQ%3D%3D
-CCTV17,http://22725y284r.yicp.fun:9902/tsfile/live/0017_1.m3u8
 
 CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 
