@@ -36,6 +36,24 @@ CCTV14,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv14
 CCTV15,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv15
 CCTV17,http://nn.7x9d.cn/地方台8563/爱看咪咕.php?id=cctv17
 
+CCTV1,http://219.159.194.143:8181/tsfile/live/0001_1.m3u8
+CCTV2,http://219.159.194.143:8181/tsfile/live/0002_1.m3u8
+CCTV3,http://219.159.194.143:8181/tsfile/live/0003_1.m3u8
+CCTV4,http://219.159.194.143:8181/tsfile/live/0004_1.m3u8
+CCTV5,http://219.159.194.143:8181/tsfile/live/0005_1.m3u8
+CCTV5+,http://219.159.194.143:8181/tsfile/live/0016_1.m3u8
+CCTV6,http://219.159.194.143:8181/tsfile/live/0006_1.m3u8
+CCTV7,http://219.159.194.143:8181/tsfile/live/0007_1.m3u8
+CCTV8,http://219.159.194.143:8181/tsfile/live/0008_1.m3u8
+CCTV9,http://219.159.194.143:8181/tsfile/live/0009_1.m3u8
+CCTV10,http://219.159.194.143:8181/tsfile/live/0010_1.m3u8
+CCTV11,http://219.159.194.143:8181/tsfile/live/0011_1.m3u8
+CCTV12,http://219.159.194.143:8181/tsfile/live/0012_1.m3u8
+CCTV13,http://219.159.194.143:8181/tsfile/live/0013_1.m3u8
+CCTV14,http://219.159.194.143:8181/tsfile/live/0014_1.m3u8
+CCTV15,http://219.159.194.143:8181/tsfile/live/0015_1.m3u8
+CCTV16,http://219.159.194.143:8181/tsfile/live/1021_1.m3u8
+CCTV17,http://219.159.194.143:8181/tsfile/live/0019_1.m3u8
 
 
 CCTV1,http://124.112.202.94:18888/rtp/238.1.78.166:7200
