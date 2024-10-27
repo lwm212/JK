@@ -265,7 +265,7 @@ CETV早期教育,http://101.200.122.188:5055/tptv/G_CETV-ZQJY-CQ?type=origin
 第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
+CCTV SPORTS,http://118.248.168.11:8088/tsfile/live/0131_2.m3u8
 
 
 卫视频道,#genre#
