@@ -625,7 +625,7 @@
 		"channels": [{
 			"name": "live",
 			"urls": [
-				"proxy://do=live&type=txt&ext=https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/live/xyzb.txt"
+				"proxy://do=live&type=txt&ext=aHR0cDovLzEwMy45Ni43Mi4zNzoxOTA3NC9hcHAvbGl2ZS50eHQ="
 			]
 		}]
 	}],
