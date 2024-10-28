@@ -5,6 +5,8 @@ CCTV2,http://kxrj.site:998/123/mg.php?id=cctv2
 CCTV3,http://kxrj.site:998/123/mg.php?id=cctv3
 CCTV4,http://kxrj.site:998/123/mg.php?id=cctv4
 CCTV5,http://kxrj.site:998/123/mg.php?id=cctv5
+CCTV5+,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265016/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=no
+
 CCTV5+,http://kxrj.site:998/123/mg.php?id=cctv5p
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV6,http://kxrj.site:998/123/mg.php?id=cctv6
