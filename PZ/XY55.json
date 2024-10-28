@@ -382,14 +382,9 @@
 			"url": "Demo"
 		},
 		{
-			"name": "Web聚合",
-			"type": 3,
-			"url": "Web"
-		},
-		{
-			"name": "4K解析",
+			"name": "1080解析1",
 			"type": 1,
-			"url": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
+			"url": "http://27.25.141.188:6688/api/?key=cc10901237ea968438714d7f0303986b&url=",
 			"ext": {
 				"flag": [
 					"qq",
@@ -416,23 +411,97 @@
 			}
 		},
 
-
 		{
-			"name": "官解0",
+			"name": "1080解析",
 			"type": 1,
-			"url": "https://json.o0a.cn/api/?key=a357ea1daacc70377c18e9ce90cb561b&url=",
+			"url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
 			"ext": {
-				"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905", "NetFilx"],
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
 				"header": {
 					"User-Agent": "okhttp/4.9.1"
 				}
 			}
 		},
-
+		{
+			"name": "1080解析3",
+			"type": 1,
+			"url": "http://122.228.85.203:7979//api//?key=e907ac9c39cd302955ff61131416a894&url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+		{
+			"name": "1080解析2",
+			"type": 1,
+			"url": "https://jxjson.icu/neibu.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
 		{
 			"name": "官解1",
 			"type": 0,
-			"url": "https://jx.xmflv.com/?url=",
+			"url": "https://jx.xmflv.cc/?url=",
 			"ext": {
 				"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "imgo", "rx", "ltnb", "bilibili", "1905", "xigua"]
 			}
