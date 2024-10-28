@@ -10,12 +10,14 @@ CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift
 CCTV6,http://kxrj.site:998/123/mg.php?id=cctv6
 CCTV7,http://kxrj.site:998/123/mg.php?id=cctv7
 CCTV8,http://kxrj.site:998/123/mg.php?id=cctv8
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000014583/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=no
+CCTV9,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000014583/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=no
 
-CCTV9,http://kxrj.site:998/123/mg.php?id=cctv9
 CCTV10,http://kxrj.site:998/123/mg.php?id=cctv10
-CCTV11,http://kxrj.site:998/123/mg.php?id=cctv11
+CCTV11,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=no
+
 CCTV12,http://kxrj.site:998/123/mg.php?id=cctv12
+CCTV13,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031108/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=no
+
 CCTV13,http://kxrj.site:998/123/mg.php?id=cctv13
 CCTV14,http://kxrj.site:998/123/mg.php?id=cctv14
 CCTV15,http://kxrj.site:998/123/mg.php?id=cctv15
