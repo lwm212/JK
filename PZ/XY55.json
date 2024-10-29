@@ -180,10 +180,23 @@
 			"jar": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/JAR/danmu.jar",
 			"timeout": 10
 		},
-
+		{
+			"key": "文才",
+			"name": "新语影视┃17",
+			"type": 3,
+			"api": "csp_Jpys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"danmu": true
+			},
+			"jar": "https://ghp.ci/https://raw.githubusercontent.com/lwm212/JK/main/JAR/ttkx.jar",
+			"timeout": 10
+		},
 		{
 			"key": "360",
-			"name": "影视┃17",
+			"name": "影视┃18",
 			"type": 1,
 			"api": "https://360zy.com/api.php/provide/vod?",
 			"searchable": 1,
