@@ -453,35 +453,7 @@
 				}
 			}
 		},
-		{
-			"name": "1080解析3",
-			"type": 1,
-			"url": "http://122.228.85.203:7979//api//?key=e907ac9c39cd302955ff61131416a894&url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
+
 		{
 			"name": "1080解析4",
 			"type": 1,
