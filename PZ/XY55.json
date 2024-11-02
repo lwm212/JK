@@ -397,37 +397,7 @@
 	{
 			"name": "1080解析1",
 			"type": 1,
-			"url": "http://122.228.85.203:7979//api//?key=5161733cdfb2796ddd6707494fc3e4fc&url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-	
-		{
-			"name": "1080解析2",
-			"type": 1,
-			"url": "http://27.25.141.188:6688/api/?key=cc10901237ea968438714d7f0303986b&url=",
+			"url": "http://122.228.85.203:7979/api/?key=f9e698e61b98c38c62a118406bf29599&url=",
 			"ext": {
 				"flag": [
 					"qq",
@@ -456,7 +426,7 @@
 
 	
 		{
-			"name": "1080解析3",
+			"name": "1080解析2",
 			"type": 1,
 			"url": "https://jxjson.icu/neibu.php?url=",
 			"ext": {
