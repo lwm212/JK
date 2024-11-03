@@ -288,20 +288,6 @@
 			"api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/lib/drpy2.min.js",
 			"ext": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/js/瓜子.js"
 		},
-
-
-		{
-			"key": "hipy_js_腾云驾雾",
-			"name": "360",
-			"type": 3,
-			"api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"changeable": 0,
-			"ext": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/drpy/TX.js"
-		},
 		{
 			"key": "TX视频",
 			"name": "TX视频",
