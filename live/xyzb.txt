@@ -1,4 +1,26 @@
 央视频道,#genre#
+CCTV1,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv1
+CCTV2,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv2
+CCTV3,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv3
+CCTV4,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv4
+CCTV5,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv5
+CCTV5+,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv5p
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
+CCTV6,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv6
+CCTV7,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv7
+CCTV8,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv8
+CCTV9,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv9
+CCTV10,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv10
+CCTV11,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv11
+CCTV12,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv12
+CCTV13,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv13
+CCTV14,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv14
+CCTV15,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv15
+CCTV-16 4K,http://www.422425.xyz:4022/udp/239.69.1.249:11136
+CCTV17,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv17
+
+
+
 CCTV1,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265001/index.m3u8?channel-id=bestlive&Contentid=1000000005000265001&livemode=1&stbId=no
 CCTV1,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265002/index.m3u8?channel-id=bestzb&Contentid=1000000005000265001&livemode=1&stbId=no
 CCTV2,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=no
@@ -23,25 +45,6 @@ CCTV15,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/10000
 CCTV16,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=no
 CCTV17,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=no
 
-CCTV1,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv1
-CCTV2,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv2
-CCTV3,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv3
-CCTV4,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv4
-CCTV5,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv5
-CCTV5+,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv5p
-CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
-CCTV6,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv6
-CCTV7,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv7
-CCTV8,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv8
-CCTV9,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv9
-CCTV10,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv10
-CCTV11,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv11
-CCTV12,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv12
-CCTV13,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv13
-CCTV14,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv14
-CCTV15,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv15
-CCTV16,http://cg1.hunancatv.cn:9090/live/CCTV16_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=7114844658870775790&srchost=172.16.22.158:8060&gid=VUdUekIjmBFSrvnJArQETQ%3D%3D
-CCTV17,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv17
 
 CCTV1,http://www.422425.xyz:4022/udp/239.254.96.96:8550
 CCTV2,http://www.422425.xyz:4022/udp/239.69.1.102:10250
