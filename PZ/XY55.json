@@ -382,7 +382,7 @@
 		},
 	{
 			"name": "1080解析1",
-			"type": 1,
+			"type": 0,
 			"url": "https://ckflv.icu/neibu.php?url=",
 			"ext": {
 				"flag": [
