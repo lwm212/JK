@@ -22,6 +22,18 @@
 			"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/XYQ.jar",
 			"ext": "https://jihulab.com/lwm212/box/-/raw/main/XYQ/七新影视.json"
 		},
+		     {
+            "key": "xiongmao2",
+            "name": "🐼猫咪┃1080P",
+            "type": 3,
+            "api": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "https://gitdl.cn/https://raw.githubusercontent.com/lwm212/JK/main/js/xiongmao.js"
+        },
                 {
                        "key": "荐片",
                        "name": "影视┃2",
