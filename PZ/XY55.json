@@ -383,7 +383,7 @@
 	{
 			"name": "1080解析1",
 			"type": 1,
-			"url": "http://122.228.85.203",
+			"url": "https://ckflv.icu/neibu.php?url=",
 			"ext": {
 				"flag": [
 					"qq",
@@ -414,7 +414,7 @@
 		{
 			"name": "1080解析2",
 			"type": 1,
-			"url": "https://jxjson.icu/neibu.php?url=",
+			"url": "http://139.224.73.238:16555/qq2.php?url=",
 			"ext": {
 				"flag": [
 					"qq",
