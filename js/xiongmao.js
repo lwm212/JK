@@ -64,13 +64,13 @@ globalThis.vodids = function (ids) {
         vod_remarks: '小米：'+ rdata.vod.vod_remarks,
         vod_actor: rdata.vod.vod_actor,
         vod_director: rdata.vod.vod_director,
-        vod_content: '小米提醒您：请勿相信任何广告谢谢'+ rdata.vod.vod_content,
+        vod_content: '新语影视提醒您：请勿相信任何广告谢谢'+ rdata.vod.vod_content,
         vod_play_from: '',
         vod_play_url: ''
     };
 
     rdata.vod_play_list.forEach((value) => {
-        data.vod_play_from += value.player_info.show + '|小米|广告勿信$$$';
+        data.vod_play_from += value.player_info.show + '|新语|广告勿信$$$';
         value.urls.forEach((v) => {
             data.vod_play_url += v.name + '$' + (value.player_info.parse || '') + v.url + '#';
         });
@@ -97,7 +97,7 @@ globalThis.ssvod = function (wd) {
 //解析
 globalThis.jxx = function (id, url) {
     /* if(""!=='104847347'){
-      return 'https://mp4.ziyuan.wang/view.php/3c120366111dde9c318be64962b5684f.mp4';
+      return 'https://mp4.ziyuan.wang/view.php/3c120366111dde9c318be64962b5684f';
      }*/
     if (id.startsWith('http')) {
         let purl = JSON.parse(request(id+url)).url;
