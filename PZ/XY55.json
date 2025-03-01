@@ -7,11 +7,23 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
+			"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/XYQ.jar",
 			"ext": "https://jihulab.com/lwm212/box/-/raw/main/XYQ/七新影视.json"
 		},
 		{
-			"key": "瓜子",
+			"key": "新语影视┃2",
 			"name": "新语影视┃2",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"playerType": "1",
+			"api": "csp_XBPQ",
+			"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/custom_spider.jar",
+			"ext": "https://cnb.cool/lwm212/box/-/git/raw/main/XBPQ/骚火.json"
+		},
+		{
+			"key": "瓜子",
+			"name": "新语影视┃3",
 			"type": 3,
 			"api": "csp_Gz360",
 			"searchable": 1,
@@ -19,23 +31,34 @@
 			"filterable": 1
 		},
 		{
+			"key": "木头",
+			"name": "新语影视┃4",
+			"type": 3,
+			"api": "csp_Shark",
+			"playerType": 1,
+			"ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g=",
+			"jar": "https://codeberg.org/lwm212/XYYS/raw/branch/main/jar/fix250217.jar"
+		},
+		{
+			"key": "剧评",
+			"name": "新语影视┃5",
+			"type": 3,
+			"api": "csp_Jpys",
+			"playerType": 1,
+			"ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ==",
+			"jar": "https://codeberg.org/lwm212/XYYS/raw/branch/main/jar/fix250217.jar"
+		},
+		{
 			"key": "蝴蝶",
-			"name": "新语影视┃3",
+			"name": "新语影视┃6",
 			"type": 3,
 			"api": "csp_Hudie",
 			"playerType": 2,
 			"ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
 		},
 		{
-			"key": "csp_Wetv",
-			"name": "新语影视┃4",
-			"type": 3,
-			"jar": "https://cloud.wujiyan.cc/f/Q4YaIz/012403.jar",
-			"api": "csp_Wetv"
-		},
-		{
 			"key": "热播弹幕",
-			"name": "新语影视┃5",
+			"name": "新语影视┃7",
 			"type": 3,
 			"api": "csp_TianTian",
 			"searchable": 1,
@@ -48,7 +71,7 @@
 		},
 		{
 			"key": "天天弹幕",
-			"name": "新语影视┃6",
+			"name": "新语影视┃8",
 			"type": 3,
 			"api": "csp_TianTian",
 			"searchable": 1,
@@ -61,7 +84,7 @@
 		},
 		{
 			"key": "浪酷弹幕",
-			"name": "新语影视┃7",
+			"name": "新语影视┃9",
 			"type": 3,
 			"api": "csp_TianTian",
 			"searchable": 1,
@@ -74,7 +97,7 @@
 		},
 		{
 			"key": "csp_Wwys",
-			"name": "新语影视┃8",
+			"name": "新语影视┃10",
 			"type": 3,
 			"playerType": 2,
 			"searchable": 1,
@@ -85,7 +108,7 @@
 		},
 		{
 			"key": "QIYIU",
-			"name": "新语影视┃9",
+			"name": "新语影视┃11",
 			"type": 3,
 			"changeable": 0,
 			"api": "csp_Qiyou",
@@ -93,7 +116,7 @@
 		},
 		{
 			"key": "热播影视",
-			"name": "新语影视┃10",
+			"name": "新语影视┃12",
 			"type": 3,
 			"api": "csp_AppRB",
 			"searchable": 1,
@@ -102,18 +125,8 @@
 			"filterable": 1
 		},
 		{
-			"key": "csp_AppDrama2",
-			"name": "新语影视┃11",
-			"type": 3,
-			"quickSearch": 1,
-			"api": "csp_AppDrama",
-			"playerType": 2,
-			"jar": "https://cloud.wujiyan.cc/f/Q4YaIz/012403.jar",
-			"ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
-		},
-		{
-			"key": "新语影视┃12",
-			"name": "新语影视┃12",
+			"key": "新语影视┃13",
+			"name": "新语影视┃13",
 			"api": "csp_Gz360",
 			"type": 3,
 			"searchable": 1,
@@ -122,17 +135,33 @@
 			"changeable": 0,
 			"jar": "https://cloud.wujiyan.cc/f/Wo1eHy/xm.jar"
 		},
-     {
-            "key": "drpy_js_88ball",
-            "name": "88看球",
-            "type": 3,
-            "api": "https://cnb.cool/lwm212/box/-/git/raw/main/js/drpy2.min.js",
-            "ext": "https://cnb.cool/lwm212/box/-/git/raw/main/js/88kanqiu.js",
-            "quickSearch": 0,
-            "searchable": 0,
-            "changeable": 0,
-            "timeout": 30
-        },
+		{
+			"key": "csp_Wetv",
+			"name": "新语影视┃14",
+			"type": 3,
+			"jar": "https://cloud.wujiyan.cc/f/Q4YaIz/012403.jar",
+			"api": "csp_Wetv"
+		},
+		{
+			"key": "现代",
+			"name": "新语影视┃15",
+			"type": 3,
+			"api": "csp_Xdai",
+			"playerType": 1,
+			"ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ=",
+			"jar": "https://codeberg.org/lwm212/XYYS/raw/branch/main/jar/fix250217.jar"
+		},
+		{
+			"key": "drpy_js_88ball",
+			"name": "88看球",
+			"type": 3,
+			"api": "https://cnb.cool/lwm212/box/-/git/raw/main/js/drpy2.min.js",
+			"ext": "https://cnb.cool/lwm212/box/-/git/raw/main/js/88kanqiu.js",
+			"quickSearch": 0,
+			"searchable": 0,
+			"changeable": 0,
+			"timeout": 30
+		},
 		{
 			"key": "虎牙直播",
 			"name": "娱乐┃虎牙直播",
@@ -153,7 +182,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://cnb.cool/lwm212/box/-/git/raw/main/json/bilibili.json",
-			"jar": "https://nl.mtl1.now61.com/api/v3/slave/download/0/dXBsb2Fkcy8yMDI1MDIvMTYvMTQyOV9Zb3Vyc21pbGUuamFyXzQxOTIxVlFKLmphcg/Yoursmile.jar?sign=2JBDufMOs5HbeZ9YPAyJe0nvMDeVfM_AvEmJiTYe0Dw=:1739764099"
+			"jar": "https://codeberg.org/lwm212/XYYS/raw/branch/main/jar/Yoursmile.jar"
 		},
 		{
 			"key": "不要选择",
@@ -320,7 +349,7 @@
 			}
 		}
 	],
-	"spider": "https://fr.mtl1.now61.com/api/v3/slave/download/0/dXBsb2Fkcy8yMDI1MDIvMTYvMTQyOV9LWC5qYXJfMm5tY0VGOUEuamFy/KX.jar?sign=HvfT4AxjSk9rfYF0IS94daMolURENOcNJ3PdDEICD74=:1739763155",
+	"spider": "https://codeberg.org/lwm212/XYYS/raw/branch/main/jar/KX.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"rules": [{
 			"name": "proxy",
