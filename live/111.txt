@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://202.168.187.208:9089/tsfile/live/1003_1.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 group-title="央视频道",CCTV1$LR•IPV4『线路24』
@@ -7,35 +6,13 @@ http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://183.184.228.183:9003//hls/1/index.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://39.77.34.83:35455/gaoma/cctv1.m3u8$LR•IPV4『线路7』
-#EXTINF:-1 group-title="央视频道",CCTV1
 http://115.159.35.169:35455/gaoma/cctv1.m3u8$LR•IPV4『线路66』
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://112.81.218.254:35455/gaoma/cctv1.m3u8$LR•IPV4『线路28』
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://1.198.30.202:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路700』
-#EXTINF:-1 group-title="央视频道",CCTV1
 http://www.douzhicloud.site:35455/gaoma/cctv1.m3u8$LR•IPV4『线路88』
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://1.itv.nctv.top:8883/gaoma/cctv1.m3u8$LR•IPV4『线路296』
-#EXTINF:-1 group-title="央视频道",CCTV1
 http://36.105.100.208:35455/gaoma/cctv1.m3u8$LR•IPV4『线路55』
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://120.76.248.139/live/bfgd/4200000484.m3u8$LR•IPV4『线路25』
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://120.76.248.139/live/bfgd/4200000488.m3u8$LR•IPV4『线路36』
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://120.76.248.139/live/bfgd/4200000489.m3u8$LR•IPV4『线路258』
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://120.76.248.139/live/bfgd/4200000201.m3u8$LR•IPV4『线路777』
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://175.16.149.197:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4『线路847』
-#EXTINF:-1 group-title="央视频道",CCTV1
-https://stream1.freetv.fun/ipv6-cctv1-28.m3u8$LR•IPV4『线路566』
-#EXTINF:-1 group-title="央视频道",CCTV1
-https://stream1.freetv.fun/cctv1-59.m3u8$LR•IPV4『线路289』
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://z.b.bkpcp.top/m.php?id=cctv1$LR•IPV4『线路288』
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://b.zgjok.com:35455/gaoma/cctv1.m3u8$LR•IPV4『线路266』
 #EXTINF:-1 group-title="央视频道",CCTV1
@@ -43,25 +20,13 @@ http://nas.suntao.online:35455/gaoma/cctv1.m3u8$LR•IPV4『线路236』
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?$LR•IPV4『线路2365』
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://119.123.178.255:8086/hls/2/index.m3u8$LR•IPV4『线路209』
-#EXTINF:-1 group-title="央视频道",CCTV1
 http://112.123.206.32:808/hls/1/index.m3u8$LR•IPV4『线路2058』
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://3501776.xyz:35455/gaoma/cctv1.m3u8$LR•IPV4『线路2754』
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://xiaoya.crccxw.top:35455/gaoma/cctv1.m3u8$LR•IPV4『线路2698』
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://tvbox6.icu/tv/migu.php?id=cctv1$咪咕直播
-#EXTINF:-1 group-title="央视频道",CCTV1
 http://58.220.219.14:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路887』
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://183.215.134.239:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路2470』
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://58.220.219.14:9901/tsfile/live/0001_1.m3u8$LR•IPV4『线路587』
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://42.48.105.224:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路547』
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://xsbc.3sbio.com:35455/gaoma/cctv1.m3u8$LR•IPV4『线路654』
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://58.213.65.146:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路542』
 #EXTINF:-1 group-title="央视频道",CCTV1
