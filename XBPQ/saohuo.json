@@ -1,1 +1,12 @@
-U2FsdGVkX19U/pJDMXKK13u4mzn5MYorLmOYh5ZBh7icWV+d6AONBFLw37sUvFAw3LSuY/An87GePFdKC0plkp1sndQkdppLjTkpfqQNfNdkZm5SsA9e1TxD9FiIR3ximPH56n0ivzjlrhBRLhkh+1BF+Iky7/d1G2Flc5FRBeWtxTnhjBqneclssaYEIcOv9q42Y3WaBOC0AhQ3rnfqITC2KeSX9dOTtV/DezdDtH2/OgK2lWMedA7voJqT1Uqvqt6d4/PNf63omNmeDfQD/M6EXda2NEnUE1PCZF7ts32dSFLVmmyJbk4tnoTcFn0Yl678t8RRoHQZTJ6TAD7UyYL0jXYOZLSK2PeiP8Hvy8Kb5vaBHOOYG/tUNID2J21Cp44Zi24KvYY9la1t4+nj+iG8w/xjC6xi40ZGq+iqzOWgWkZJ9VSs/UsScGEsb6NajQxI4L80pmcc/U7wXFWPZzLRFPCSAauGlesv4yBYD3Dibj07uJLOWcpzA8x2sgvrT2RG+3KSWeX+80ZdJu8XcW09eVbRPGjjo6bCEk1U1qdPelXGTqRJu4egwPeIpN8yA2GkrdWjUBkap1JiiY9jSnIp1PDoFxS90cXNby3kIEXFWx5iRrQ/4dCUSChBWmyOP1bBNE+iMsH7C2JCkYaF/RUZLdSuGu1l8+hUO98FwqP7ZTzmx5jnilhMnBoM3fvC/n9fL9JMMhU9mxaCscdj3UolhTibv5mNHnMVdEHTGFmex9nj/LLhMfBRjLYVvTjH9lw7EGDYZL5pVn0P8kCyB+VN0wgLF+VYmv0mGX9BEI1G0M5d9c1Ye00HwFYCbAfR3Flo76KDMV/oghICRYVl+vZBGmdHP2KM6lcd0FjRyLbx7Yiq3JNo70VdovrnktRBg/v2CLBKTr3+ye1zXjUh5IqOK5pO3f5pzXWI06prmA42iM5QHdD3uFFGeQi61UAeEYnr+DY7wJVibFyFUmUn8w==
+ {
+				"分类url": "https://shdy5.us/list/{cateId}-{catePg}.html;;ar1d",
+				"分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+				"数组二次截取": "class=\"v_list\">&&</ul>",
+				"数组": "\"v_img\"&&/div>",
+				"标题": "title=\"&&\"",
+				"副标题": "v_note\"&&</div",
+				"请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+				"跳转播放链接": "<iframe*src=\"&&\"",
+				"二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+				"三次跳转播放链接": "\"url\"*\"&&\""
+			}
