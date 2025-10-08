@@ -33,7 +33,7 @@
 			"key": "瓜子",
 			"name": "新语影视┃3",
 			"api": "csp_Gz360",
-			"jar": "https://gitdl.cn/https://raw.hgithub.xyz/lwm212/JK/main/JAR/xm.jar",
+			"jar": "https://raw.hgithub.xyz/lwm212/JK/refs/heads/main/JAR/xm.jar",
 			"type": 3,
 			"searchable": 1,
 			"playerType": 2,
@@ -89,7 +89,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://gitdl.cn/https://raw.hgithub.xyz/PizazzGY/TVBox/main/spider.jar",
+			"jar": "https://raw.hgithub.xyz/lwm212/JK/refs/heads/main/JAR/spider.jar",
 			"ext": "http://z.kzjtv.com/"
 		},
 		{
@@ -97,7 +97,7 @@
 			"name": "影视┃9",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://mirror.ghproxy.com/https://raw.hgithub.xyz/lwm212/JK/main/JAR/XBQH.jar",
+			"jar": "https://raw.hgithub.xyz/lwm212/JK/refs/heads/main/JAR/XBQH.jar",
 			"ext": "https://mirror.ghproxy.com/https://raw.hgithub.xyz/lwm212/JK/main/XBPQ/98影院.json"
 		},
 		{
@@ -107,7 +107,7 @@
 			"api": "csp_AppRB",
 			"searchable": 1,
 			"quickSearch": 1,
-			"jar": "https://gitdl.cn/https://raw.hgithub.xyz/PizazzGY/TVBox/main/spider.jar",
+			"jar": "https://raw.hgithub.xyz/lwm212/JK/refs/heads/main/JAR/spider.jar",
 			"filterable": 1
 		},
 
@@ -149,7 +149,7 @@
 			"playerType": 2,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://gitdl.cn/https://raw.hgithub.xyz/lwm212/JK/main/JAR/spider.jar"
+			"jar": "https://raw.hgithub.xyz/lwm212/JK/refs/heads/main/JAR/spider.jar"
 		},
 		{
 			"key": "天天弹幕版",
@@ -162,7 +162,7 @@
 			"ext": {
 				"danmu": true
 			},
-			"jar": "https://gitdl.cn/https://raw.hgithub.xyz/lwm212/JK/main/JAR/danmu.jar",
+			"jar": "https://raw.hgithub.xyz/lwm212/JK/refs/heads/main/JAR/danmu.jar",
 			"timeout": 10
 		},
 		{
@@ -177,7 +177,7 @@
 			"ext": {
 				"danmu": true
 			},
-			"jar": "https://gitdl.cn/https://raw.hgithub.xyz/lwm212/JK/main/JAR/danmu.jar",
+			"jar": "https://raw.hgithub.xyz/lwm212/JK/refs/heads/main/JAR/danmu.jar",
 			"timeout": 10
 		},
 		{
@@ -191,7 +191,7 @@
 			"ext": {
 				"danmu": true
 			},
-			"jar": "https://ghp.ci/https://raw.hgithub.xyz/lwm212/JK/main/JAR/ttkx.jar",
+			"jar": "https://raw.hgithub.xyz/lwm212/JK/refs/heads/main/JAR/ttkx.jar",
 			"timeout": 10
 		},
 		{
@@ -244,7 +244,7 @@
 			"api": "csp_AppDaMi",
 			"searchable": 1,
 			"quickSearch": 1,
-			"jar": "https://gitdl.cn/https://raw.hgithub.xyz/PizazzGY/TVBox/main/spider.jar",
+			"jar": "https://raw.hgithub.xyz/lwm212/JK/refs/heads/main/JAR/spider.jar",
 			"filterable": 1
 		},
 		{
