@@ -1,0 +1,283 @@
+{
+	"sites": [{
+			"key": "芒果视频",
+			"name": "芒果 TV┃4K",
+			"type": 3,
+			"playerType": 2,
+			"api": "https://cnb.cool/lwm212/box/-/git/raw/main/js/drpy2.min.js",
+			"ext": "http://101.201.69.226:3568/jk/js/芒果视频.js"
+		},
+		{
+			"key": "xyys",
+			"name": "新语影视┃4K",
+			"type": 4,
+			"playerType": 2,
+			"api": "http://101.201.69.226:3568/jk/cms10T4.php"
+		},
+		{
+			"key": "腾讯视频",
+			"name": "腾讯视频┃4K",
+			"type": 3,
+			"playerType": 2,
+			"api": "http://154.8.225.238:9991/cang/lib/drpy2.min.js",
+			"ext": "http://101.201.69.226:3568/jk/js/腾讯视频.js"
+		},
+		{
+			"key": "爱奇艺视频",
+			"name": "爱奇艺┃蓝光",
+			"type": 3,
+			"playerType": 2,
+			"api": "http://154.8.225.238:9991/cang/lib/drpy2.min.js",
+			"ext": "https://cnb.cool/lwm212/box/-/git/raw/main/js/iqy.js"
+		},
+		{
+			"key": "bilibili",
+			"name": "bilibili┃4K蓝光",
+			"type": 3,
+			"api": "https://cnb.cool/lwm212/box/-/git/raw/main/js/drpy2.min.js",
+			"ext": "https://cnb.cool/lwm212/box/-/git/raw/main/js/哔哩哔哩.js"
+		},
+		{
+			"key": "YOUK视频",
+			"name": "优酷视频┃蓝光",
+			"type": 3,
+			"playerType": 2,
+			"api": "https://cnb.cool/lwm212/box/-/git/raw/main/js/drpy2.min.js",
+			"ext": "https://cnb.cool/lwm212/box/-/git/raw/main/js/优酷视频.js"
+		},
+		{
+			"key": "瓜子",
+			"name": "新语影视┃1",
+			"type": 3,
+			"api": "csp_Gz360",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://cnb.cool/lwm212/lwm/-/files/9zUfIfOnfyOs86dtqqVw5U/66ca40d5-4d07-4f60-945b-34d2db4110b3/51428bdf-5cbe-4bc1-8b95-4c788828b2e1.jar"
+		},
+		{
+			"key": "虎牙直播",
+			"name": "娱乐┃虎牙直播",
+			"type": 3,
+			"searchable": 0,
+			"quickSearch": 0,
+			"playerType": 2,
+			"filterable": 1,
+			"api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+			"ext": "https://cnb.cool/lwm212/box/-/git/raw/main/js/huya.js"
+		},
+		{
+			"key": "drpyS_梨园行[戏]",
+			"name": "梨园行┃戏曲",
+			"type": 4,
+			"api": "http://82.158.91.105:5757/api/梨园行[戏]?pwd=dzyyds",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 0,
+			"title": "梨园行[戏]",
+			"author": "EylinSir",
+			"类型": "影视",
+			"logo": "https://img.znds.com//uploads/new/221222/9-2212221050561N.png",
+			"lang": "ds",
+			"ext": ""
+		},
+		{
+			"key": "kktd",
+			"name": "糖豆┃广场舞",
+			"type": 1,
+			"api": "https://kk.666888.club/vod/cibn_api.php/provide/vod/",
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 0,
+			"filterable": 0
+		},
+		{
+			"key": "Bili",
+			"name": "Bili┃音乐综合",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://cnb.cool/lwm212/box/-/git/raw/main/json/bilibili.json",
+			"jar": "https://jihulab.com/lwm212/box/-/raw/main/JAR/Yoursmile.jar"
+		}
+	],
+	"spider": "https://cnb.cool/lwm212/lwm/-/files/9zUfIfOnfyOs86dtqqVw5U/66ca40d5-4d07-4f60-945b-34d2db4110b3/51428bdf-5cbe-4bc1-8b95-4c788828b2e1.jar",
+	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+
+	"lives": [{
+			"name": "电视直播1",
+			"playerType": 1,
+			"type": 0,
+			"url": "http://117.72.195.242:3355/zbzh.php?url=332",
+			"epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png",
+			"ua": "okHttp/Mod-1.0.0"
+		},
+		{
+			"name": "电视直播2",
+			"type": 0,
+			"url": "http://jkou.xiaoyys.top/live20266.txt",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		}
+
+	],
+
+	"rules": [{
+			"name": "♻️量非",
+			"hosts": [
+				"lz",
+				"vip.lz",
+				"v.cdnlz",
+				"hd.lz",
+				"ffzy",
+				"vip.ffzy",
+				"hd.ffzy"
+			],
+			"regex": [
+				"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+			]
+		},
+		{
+			"name": "♻️索尼",
+			"hosts": [
+				"suonizy",
+				"qrssv.com"
+			],
+			"regex": [
+				"15.1666",
+				"15.2666"
+			]
+		},
+		{
+			"name": "♻️乐视",
+			"hosts": [
+				"leshiyun"
+			],
+			"regex": [
+				"15.92"
+			]
+		},
+		{
+			"name": "♻️优质",
+			"hosts": [
+				"yzzy",
+				"playback"
+			],
+			"regex": [
+				"16.63",
+				"18.66",
+				"17.66",
+				"19.13"
+			]
+		},
+		{
+			"name": "♻️快看",
+			"hosts": [
+				"kuaikan",
+				"vip.kuaikan"
+			],
+			"regex": [
+				"15.32",
+				"15.231",
+				"18.066"
+			]
+		},
+		{
+			"name": "♻️360",
+			"hosts": [
+				"lyhuicheng"
+			],
+			"regex": [
+				"#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
+				"#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
+			]
+		},
+		{
+			"name": "♻️开源棋牌",
+			"hosts": [
+				"askzycdn",
+				"jkunbf",
+				"bfikuncdn",
+				"bfaskcdn"
+			],
+			"regex": [
+				"#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\r*\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+			]
+		},
+		{
+			"name": "♻️暴风",
+			"hosts": [
+				"bfengbf.com",
+				"bfzy",
+				"c1"
+			],
+			"regex": [
+				"#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
+				"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+			]
+		},
+		{
+			"name": "♻️农民",
+			"hosts": [
+				"toutiaovod.com"
+			],
+			"regex": [
+				"video/tos/cn"
+			]
+		},
+		{
+			"name": "♻️火山",
+			"hosts": [
+				"huoshan.com"
+			],
+			"regex": [
+				"item_id="
+			]
+		},
+		{
+			"name": "♻️抖音",
+			"hosts": [
+				"douyin.com"
+			],
+			"regex": [
+				"is_play_url="
+			]
+		},
+		{
+			"name": "♻️磁力",
+			"hosts": [
+				"magnet"
+			],
+			"regex": [
+				"最 新",
+				"直 播",
+				"更 新"
+			]
+		},
+		{
+			"name": "♻️饭团点击",
+			"hosts": [
+				"dadagui",
+				"freeok",
+				"dadagui"
+			],
+			"script": [
+				"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
+			]
+		},
+		{
+			"name": "♻️毛驴点击",
+			"hosts": [
+				"www.maolvys.com"
+			],
+			"script": [
+				"document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+			]
+		}
+	]
+}
