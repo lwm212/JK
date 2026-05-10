@@ -4,7 +4,7 @@
 			"name": "芒果 TV┃4K",
 			"type": 3,
 			"playerType": 2,
-			"api": "https://cnb.cool/lwm212/box/-/git/raw/main/js/drpy2.min.js",
+			"api": "http://154.8.225.238:9991/cang/lib/drpy2.min.js",
 			"ext": "https://cdn.jsdelivr.net/gh/lwm212/JK@main/js/mg4k.js"
 		},
 		{
@@ -34,7 +34,7 @@
 			"key": "bilibili",
 			"name": "bilibili┃4K蓝光",
 			"type": 3,
-			"api": "https://cnb.cool/lwm212/box/-/git/raw/main/js/drpy2.min.js",
+			"api": "http://154.8.225.238:9991/cang/lib/drpy2.min.js",
 			"ext": "https://cdn.jsdelivr.net/gh/lwm212/JK@main/js/bili.js"
 		},
 		{
@@ -42,7 +42,7 @@
 			"name": "优酷视频┃蓝光",
 			"type": 3,
 			"playerType": 2,
-			"api": "https://cnb.cool/lwm212/box/-/git/raw/main/js/drpy2.min.js",
+			"api": "http://154.8.225.238:9991/cang/lib/drpy2.min.js",
 			"ext": "https://cdn.jsdelivr.net/gh/lwm212/JK@main/js/YK.js"
 		},
 		{
